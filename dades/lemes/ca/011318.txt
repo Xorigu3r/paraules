@@ -1,0 +1,853 @@
+bot
+bot	botar
+bot	botre
+bota
+bota	botar
+bota	botre
+botada
+botada	botar
+botades	botada
+botades	botar
+botador
+botadors	botador
+botafions	botafió
+botafió
+botafoc
+botafocs	botafoc
+botafora
+botafores	botafora
+botafumeiro
+botall
+botalls	botall
+botalons	botaló
+botaló
+botam
+botam	botar
+botams	botam
+botana
+botanes	botana
+botanomància
+botanomàncies	botanomància
+botant	botar
+botanòfil
+botanòfila	botanòfil
+botanòfiles	botanòfil
+botanòfils	botanòfil
+botar
+botara	botar
+botaran	botar
+botarellenc
+botarellenca	botarellenc
+botarellencs	botarellenc
+botarellenques	botarellenc
+botarem	botar
+botaren	botar
+botares	botar
+botareu	botar
+botarga
+botargues	botarga
+botaria	botar
+botarien	botar
+botaries	botar
+botarà	botar
+botaràs	botar
+botaré	botar
+botaríem	botar
+botaríeu	botar
+botassen	botar
+botasses	botar
+botasset
+botassets	botasset
+botassin	botar
+botassis	botar
+botassos	botàs
+botat	botar
+botatge
+botatges	botatge
+botats	botar
+botau	botar
+botava	botar
+botavant
+botavants	botavant
+botavara
+botavares	botavara
+botaven	botar
+botaves	botar
+bote	botar
+botedor
+botedora	botedor
+botedores	botedor
+botedors	botedor
+botege	botejar
+botegem	botejar
+botegen	botejar
+boteges	botejar
+botegessen	botejar
+botegesses	botejar
+botegessin	botejar
+botegessis	botejar
+botegeu	botejar
+botegi	botejar
+botegin	botejar
+botegis	botejar
+botegés	botejar
+botegéssem	botejar
+botegésseu	botejar
+botegéssim	botejar
+botegéssiu	botejar
+botegí	botejar
+boteig	botejar
+boteix	botir
+boteixen	botir
+boteixes	botir
+boteixi	botir
+boteixin	botir
+boteixis	botir
+boteixo	botir
+boteja	botejar
+botejada	botejar
+botejades	botejar
+botejam	botejar
+botejant	botejar
+botejar
+botejara	botejar
+botejaran	botejar
+botejarem	botejar
+botejaren	botejar
+botejares	botejar
+botejareu	botejar
+botejaria	botejar
+botejarien	botejar
+botejaries	botejar
+botejarà	botejar
+botejaràs	botejar
+botejaré	botejar
+botejaríem	botejar
+botejaríeu	botejar
+botejassen	botejar
+botejasses	botejar
+botejassin	botejar
+botejassis	botejar
+botejat	botejar
+botejats	botejar
+botejau	botejar
+botejava	botejar
+botejaven	botejar
+botejaves	botejar
+botejo	botejar
+botejà	botejar
+botejàrem	botejar
+botejàreu	botejar
+botejàs	botejar
+botejàssem	botejar
+botejàsseu	botejar
+botejàssim	botejar
+botejàssiu	botejar
+botejàvem	botejar
+botejàveu	botejar
+botell
+botella
+botellada
+botellades	botellada
+botellaire
+botellaires	botellaire
+botellam
+botellams	botellam
+boteller
+botellera	boteller
+botelleres	boteller
+botelleria
+botelleries	botelleria
+botellers	boteller
+botelles	botella
+botelleta
+botelletes	botelleta
+botells	botell
+botem	botar
+botem	botre
+boten	botar
+boten	botre
+botenc
+botenca	botenc
+botencs	botenc
+botenques	botenc
+botent	botre
+boter
+botera	boter
+botera	botre
+boterat
+boterats	boterat
+boterell
+boterells	boterell
+boteren	botre
+boteres	boter
+boteres	botre
+boteria
+boteries	boteria
+botern
+boterns	botern
+boterola
+boteroles	boterola
+boters	boter
+boteruda	boterut
+boterudes	boterut
+boterut
+boteruts	boterut
+botes	bota
+botes	botar
+botes	botre
+botesc	botir
+botesca	botir
+botesquen	botir
+botesques	botir
+botesqui	botir
+botesquin	botir
+botesquis	botir
+botessen	botar
+botessen	botre
+botesses	botar
+botesses	botre
+botessin	botar
+botessin	botre
+botessis	botar
+botessis	botre
+botet
+boteta
+botetes	boteta
+botets	botet
+boteu
+boteu	botar
+boteu	botre
+boteus	boteu
+botges	botja
+botgeta
+botgetes	botgeta
+boti	botar
+boti	botre
+botia	botir
+botia	botre
+botida	botir
+botides	botir
+botien	botir
+botien	botre
+boties	botir
+boties	botre
+botifarra
+botifarrada
+botifarrades	botifarrada
+botifarrer
+botifarrera	botifarrer
+botifarreres	botifarrer
+botifarrers	botifarrer
+botifarres	botifarra
+botifarreta
+botifarretes	botifarreta
+botifarrons	botifarró
+botifarró
+botifler
+botiflera	botifler
+botifleres	botifler
+botiflerisme
+botiflerismes	botiflerisme
+botiflers	botifler
+botiga
+botiges	botija
+botiguem	botir
+botiguer
+botiguera	botiguer
+botigueres	botiguer
+botiguers	botiguer
+botigues	botiga
+botigueta
+botiguetes	botigueta
+botigueu	botir
+botija
+botijons	botijó
+botijosa	botijós
+botijoses	botijós
+botijosos	botijós
+botijó
+botijós
+botilla
+botillege	botillejar
+botillegem	botillejar
+botillegen	botillejar
+botilleges	botillejar
+botillegessen	botillejar
+botillegesses	botillejar
+botillegessin	botillejar
+botillegessis	botillejar
+botillegeu	botillejar
+botillegi	botillejar
+botillegin	botillejar
+botillegis	botillejar
+botillegés	botillejar
+botillegéssem	botillejar
+botillegésseu	botillejar
+botillegéssim	botillejar
+botillegéssiu	botillejar
+botillegí	botillejar
+botilleig	botillejar
+botilleja	botillejar
+botillejada	botillejar
+botillejades	botillejar
+botillejam	botillejar
+botillejant	botillejar
+botillejar
+botillejara	botillejar
+botillejaran	botillejar
+botillejarem	botillejar
+botillejaren	botillejar
+botillejares	botillejar
+botillejareu	botillejar
+botillejaria	botillejar
+botillejarien	botillejar
+botillejaries	botillejar
+botillejarà	botillejar
+botillejaràs	botillejar
+botillejaré	botillejar
+botillejaríem	botillejar
+botillejaríeu	botillejar
+botillejassen	botillejar
+botillejasses	botillejar
+botillejassin	botillejar
+botillejassis	botillejar
+botillejat	botillejar
+botillejats	botillejar
+botillejau	botillejar
+botillejava	botillejar
+botillejaven	botillejar
+botillejaves	botillejar
+botillejo	botillejar
+botillejà	botillejar
+botillejàrem	botillejar
+botillejàreu	botillejar
+botillejàs	botillejar
+botillejàssem	botillejar
+botillejàsseu	botillejar
+botillejàssim	botillejar
+botillejàssiu	botillejar
+botillejàvem	botillejar
+botillejàveu	botillejar
+botiller
+botillera	botiller
+botilleres	botiller
+botillers	botiller
+botilles	botilla
+botillosa	botillós
+botilloses	botillós
+botillosos	botillós
+botillós
+botilons	botiló
+botiló
+botim	botir
+botin	botar
+botin	botre
+botina
+botiner
+botinera	botiner
+botineres	botiner
+botiners	botiner
+botines	botina
+botinfl	botinflar
+botinfla	botinflar
+botinflada	botinflar
+botinflades	botinflar
+botinflam	botinflar
+botinflament
+botinflaments	botinflament
+botinflant	botinflar
+botinflar
+botinflara	botinflar
+botinflaran	botinflar
+botinflarem	botinflar
+botinflaren	botinflar
+botinflares	botinflar
+botinflareu	botinflar
+botinflaria	botinflar
+botinflarien	botinflar
+botinflaries	botinflar
+botinflarà	botinflar
+botinflaràs	botinflar
+botinflaré	botinflar
+botinflaríem	botinflar
+botinflaríeu	botinflar
+botinflassen	botinflar
+botinflasses	botinflar
+botinflassin	botinflar
+botinflassis	botinflar
+botinflat	botinflar
+botinflats	botinflar
+botinflau	botinflar
+botinflava	botinflar
+botinflaven	botinflar
+botinflaves	botinflar
+botinfle	botinflar
+botinflem	botinflar
+botinflen	botinflar
+botinfles	botinflar
+botinflessen	botinflar
+botinflesses	botinflar
+botinflessin	botinflar
+botinflessis	botinflar
+botinfleu	botinflar
+botinfli	botinflar
+botinflin	botinflar
+botinflis	botinflar
+botinflo	botinflar
+botinflà	botinflar
+botinflàrem	botinflar
+botinflàreu	botinflar
+botinflàs	botinflar
+botinflàssem	botinflar
+botinflàsseu	botinflar
+botinflàssim	botinflar
+botinflàssiu	botinflar
+botinflàvem	botinflar
+botinflàveu	botinflar
+botinflés	botinflar
+botinfléssem	botinflar
+botinflésseu	botinflar
+botinfléssim	botinflar
+botinfléssiu	botinflar
+botinflí	botinflar
+botins	botí
+botint	botir
+botir
+botira	botir
+botiran	botir
+botirem	botir
+botiren	botir
+botires	botir
+botireu	botir
+botiria	botir
+botirien	botir
+botiries	botir
+botirons	botiró
+botirà	botir
+botiràs	botir
+botiré	botir
+botiríem	botir
+botiríeu	botir
+botiró
+botis	botar
+botis	botre
+botisc	botir
+botisca	botir
+botisquen	botir
+botisques	botir
+botissen	botir
+botisses	botir
+botissin	botir
+botissis	botir
+botit
+botit	botir
+botits	botir
+botits	botit
+botiu	botir
+botix	botir
+botixen	botir
+botixes	botir
+botja
+botjar
+botjars	botjar
+botjora
+botjores	botjora
+botjosa
+botjoses	botjosa
+boto	botar
+boto	botre
+boton	botonar
+botona	botonar
+botonada
+botonada	botonar
+botonades	botonada
+botonades	botonar
+botonador
+botonadors	botonador
+botonadura
+botonadures	botonadura
+botonam	botonar
+botonant	botonar
+botonar
+botonara	botonar
+botonaran	botonar
+botonarem	botonar
+botonaren	botonar
+botonares	botonar
+botonareu	botonar
+botonaria	botonar
+botonarien	botonar
+botonaries	botonar
+botonarà	botonar
+botonaràs	botonar
+botonaré	botonar
+botonaríem	botonar
+botonaríeu	botonar
+botonassen	botonar
+botonasses	botonar
+botonassin	botonar
+botonassis	botonar
+botonat	botonar
+botonats	botonar
+botonau	botonar
+botonava	botonar
+botonaven	botonar
+botonaves	botonar
+botone	botonar
+botonem	botonar
+botonen	botonar
+botoner
+botonera	botoner
+botoneres	botoner
+botoneria
+botoneries	botoneria
+botoners	botoner
+botones	botonar
+botonessen	botonar
+botonesses	botonar
+botonessin	botonar
+botonessis	botonar
+botonet
+botonets	botonet
+botoneu	botonar
+botoni	botonar
+botonin	botonar
+botonis	botonar
+botono	botonar
+botonosa	botonós
+botonoses	botonós
+botonosos	botonós
+botons	botó
+botonuda	botonut
+botonudes	botonut
+botonut
+botonuts	botonut
+botonà	botonar
+botonàrem	botonar
+botonàreu	botonar
+botonàs	botonar
+botonàssem	botonar
+botonàsseu	botonar
+botonàssim	botonar
+botonàssiu	botonar
+botonàvem	botonar
+botonàveu	botonar
+botonés	botonar
+botonéssem	botonar
+botonésseu	botonar
+botonéssim	botonar
+botonéssiu	botonar
+botoní	botonar
+botonós
+botorn
+botornons
+botornosa	botornós
+botornoses	botornós
+botornosos	botornós
+botorns	botorn
+botornós
+botosa	botós
+botoses	botós
+botosos	botós
+botran	botre
+botre
+botrem	botre
+botreu	botre
+botri
+botria	botre
+botridi
+botridis	botridi
+botrien	botre
+botries	botre
+botriocefalosi
+botriocefalosis	botriocefalosi
+botriocèfal
+botriocèfals	botriocèfal
+botrioide
+botrioides	botrioide
+botriolita
+botriolites	botriolita
+botriomicoma
+botriomicomes	botriomicoma
+botriomicosi
+botriomicosis	botriomicosi
+botriomicòtic
+botriomicòtica	botriomicòtic
+botriomicòtics	botriomicòtic
+botriomicòtiques	botriomicòtic
+botrioteràpia
+botrioteràpies	botrioteràpia
+botris	botri
+botrà	botre
+botràs	botre
+botré	botre
+botríem	botre
+botríeu	botre
+botrític
+botrítica	botrític
+botrítics	botrític
+botrítiques	botrític
+bots	bot
+bots	botre
+botuda	botre
+botudes	botre
+botuliforme
+botuliformes	botuliforme
+botulisme
+botulismes	botulisme
+botulínic
+botulínica	botulínic
+botulínics	botulínic
+botulíniques	botulínic
+botut	botre
+botuts	botre
+botxa
+botxeria
+botxeries	botxeria
+botxes	botxa
+botxinege	botxinejar
+botxinegem	botxinejar
+botxinegen	botxinejar
+botxineges	botxinejar
+botxinegessen	botxinejar
+botxinegesses	botxinejar
+botxinegessin	botxinejar
+botxinegessis	botxinejar
+botxinegeu	botxinejar
+botxinegi	botxinejar
+botxinegin	botxinejar
+botxinegis	botxinejar
+botxinegés	botxinejar
+botxinegéssem	botxinejar
+botxinegésseu	botxinejar
+botxinegéssim	botxinejar
+botxinegéssiu	botxinejar
+botxinegí	botxinejar
+botxineig	botxinejar
+botxineja	botxinejar
+botxinejada	botxinejar
+botxinejades	botxinejar
+botxinejam	botxinejar
+botxinejant	botxinejar
+botxinejar
+botxinejara	botxinejar
+botxinejaran	botxinejar
+botxinejarem	botxinejar
+botxinejaren	botxinejar
+botxinejares	botxinejar
+botxinejareu	botxinejar
+botxinejaria	botxinejar
+botxinejarien	botxinejar
+botxinejaries	botxinejar
+botxinejarà	botxinejar
+botxinejaràs	botxinejar
+botxinejaré	botxinejar
+botxinejaríem	botxinejar
+botxinejaríeu	botxinejar
+botxinejassen	botxinejar
+botxinejasses	botxinejar
+botxinejassin	botxinejar
+botxinejassis	botxinejar
+botxinejat	botxinejar
+botxinejats	botxinejar
+botxinejau	botxinejar
+botxinejava	botxinejar
+botxinejaven	botxinejar
+botxinejaves	botxinejar
+botxinejo	botxinejar
+botxinejà	botxinejar
+botxinejàrem	botxinejar
+botxinejàreu	botxinejar
+botxinejàs	botxinejar
+botxinejàssem	botxinejar
+botxinejàsseu	botxinejar
+botxinejàssim	botxinejar
+botxinejàssiu	botxinejar
+botxinejàvem	botxinejar
+botxinejàveu	botxinejar
+botxins	botxí
+botxí
+botzina
+botzina	botzinar
+botzinada	botzinar
+botzinades	botzinar
+botzinador
+botzinadora	botzinador
+botzinadores	botzinador
+botzinadors	botzinador
+botzinaire
+botzinaires	botzinaire
+botzinam	botzinar
+botzinant	botzinar
+botzinar
+botzinara	botzinar
+botzinaran	botzinar
+botzinarem	botzinar
+botzinaren	botzinar
+botzinares	botzinar
+botzinareu	botzinar
+botzinaria	botzinar
+botzinarien	botzinar
+botzinaries	botzinar
+botzinarà	botzinar
+botzinaràs	botzinar
+botzinaré	botzinar
+botzinaríem	botzinar
+botzinaríeu	botzinar
+botzinassen	botzinar
+botzinasses	botzinar
+botzinassin	botzinar
+botzinassis	botzinar
+botzinat	botzinar
+botzinats	botzinar
+botzinau	botzinar
+botzinava	botzinar
+botzinaven	botzinar
+botzinaves	botzinar
+botzine	botzinar
+botzinege	botzinejar
+botzinegem	botzinejar
+botzinegen	botzinejar
+botzineges	botzinejar
+botzinegessen	botzinejar
+botzinegesses	botzinejar
+botzinegessin	botzinejar
+botzinegessis	botzinejar
+botzinegeu	botzinejar
+botzinegi	botzinejar
+botzinegin	botzinejar
+botzinegis	botzinejar
+botzinegés	botzinejar
+botzinegéssem	botzinejar
+botzinegésseu	botzinejar
+botzinegéssim	botzinejar
+botzinegéssiu	botzinejar
+botzinegí	botzinejar
+botzineig	botzinejar
+botzineja	botzinejar
+botzinejada	botzinejar
+botzinejades	botzinejar
+botzinejam	botzinejar
+botzinejant	botzinejar
+botzinejar
+botzinejara	botzinejar
+botzinejaran	botzinejar
+botzinejarem	botzinejar
+botzinejaren	botzinejar
+botzinejares	botzinejar
+botzinejareu	botzinejar
+botzinejaria	botzinejar
+botzinejarien	botzinejar
+botzinejaries	botzinejar
+botzinejarà	botzinejar
+botzinejaràs	botzinejar
+botzinejaré	botzinejar
+botzinejaríem	botzinejar
+botzinejaríeu	botzinejar
+botzinejassen	botzinejar
+botzinejasses	botzinejar
+botzinejassin	botzinejar
+botzinejassis	botzinejar
+botzinejat	botzinejar
+botzinejats	botzinejar
+botzinejau	botzinejar
+botzinejava	botzinejar
+botzinejaven	botzinejar
+botzinejaves	botzinejar
+botzinejo	botzinejar
+botzinejà	botzinejar
+botzinejàrem	botzinejar
+botzinejàreu	botzinejar
+botzinejàs	botzinejar
+botzinejàssem	botzinejar
+botzinejàsseu	botzinejar
+botzinejàssim	botzinejar
+botzinejàssiu	botzinejar
+botzinejàvem	botzinejar
+botzinejàveu	botzinejar
+botzinem	botzinar
+botzinen	botzinar
+botzines	botzina
+botzines	botzinar
+botzinessen	botzinar
+botzinesses	botzinar
+botzinessin	botzinar
+botzinessis	botzinar
+botzineu	botzinar
+botzini	botzinar
+botzinin	botzinar
+botzinis	botzinar
+botzino	botzinar
+botzinà	botzinar
+botzinàrem	botzinar
+botzinàreu	botzinar
+botzinàs	botzinar
+botzinàssem	botzinar
+botzinàsseu	botzinar
+botzinàssim	botzinar
+botzinàssiu	botzinar
+botzinàvem	botzinar
+botzinàveu	botzinar
+botzinés	botzinar
+botzinéssem	botzinar
+botzinésseu	botzinar
+botzinéssim	botzinar
+botzinéssiu	botzinar
+botziní	botzinar
+botzín	botzinar
+botà	botar
+botànic
+botànica	botànic
+botànicament
+botànics	botànic
+botàniques	botànic
+botàrem	botar
+botàreu	botar
+botàriga
+botàrigues	botàriga
+botàs
+botàs	botar
+botàssem	botar
+botàsseu	botar
+botàssim	botar
+botàssiu	botar
+botàvem	botar
+botàveu	botar
+boté	botre
+botérem	botre
+botéreu	botre
+botés	botar
+botés	botre
+botéssem	botar
+botéssem	botre
+botésseu	botar
+botésseu	botre
+botéssim	botar
+botéssim	botre
+botéssiu	botar
+botéssiu	botre
+botí
+botí	botar
+botí	botir
+botí	botre
+botíem	botir
+botíem	botre
+botíeu	botir
+botíeu	botre
+botírem	botir
+botíreu	botir
+botís	botir
+botíssem	botir
+botísseu	botir
+botíssim	botir
+botíssiu	botir
+botó
+botós
+bòtid
+bòtids	bòtid
+bòtil
+bòtils	bòtil
+bòtox
+bóta
+bótes	bóta

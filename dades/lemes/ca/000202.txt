@@ -1,0 +1,519 @@
+accadi
+accadis	accadi
+accedeix	accedir
+accedeixen	accedir
+accedeixes	accedir
+accedeixi	accedir
+accedeixin	accedir
+accedeixis	accedir
+accedeixo	accedir
+accedent
+accedents	accedent
+accedesc	accedir
+accedesca	accedir
+accedesquen	accedir
+accedesques	accedir
+accedesqui	accedir
+accedesquin	accedir
+accedesquis	accedir
+accedia	accedir
+accedida	accedir
+accedides	accedir
+accedien	accedir
+accedies	accedir
+accediguem	accedir
+accedigueu	accedir
+accedim	accedir
+accedint	accedir
+accedir
+accedira	accedir
+accediran	accedir
+accedirem	accedir
+accediren	accedir
+accedires	accedir
+accedireu	accedir
+accediria	accedir
+accedirien	accedir
+accediries	accedir
+accedirà	accedir
+accediràs	accedir
+accediré	accedir
+accediríem	accedir
+accediríeu	accedir
+accedisc	accedir
+accedisca	accedir
+accedisquen	accedir
+accedisques	accedir
+accedissen	accedir
+accedisses	accedir
+accedissin	accedir
+accedissis	accedir
+accedit	accedir
+accedits	accedir
+accediu	accedir
+accedix	accedir
+accedixen	accedir
+accedixes	accedir
+accedí	accedir
+accedíem	accedir
+accedíeu	accedir
+accedírem	accedir
+accedíreu	accedir
+accedís	accedir
+accedíssem	accedir
+accedísseu	accedir
+accedíssim	accedir
+accedíssiu	accedir
+acceler	accelerar
+accelera	accelerar
+acceleracions	acceleració
+acceleració
+accelerada	accelerar
+accelerada	accelerat
+acceleradament
+accelerades	accelerar
+accelerades	accelerat
+accelerador
+acceleradora	accelerador
+acceleradores	accelerador
+acceleradors	accelerador
+acceleradíssim
+acceleradíssima	acceleradíssim
+acceleradíssims	acceleradíssim
+acceleram	accelerar
+accelerament
+acceleraments	accelerament
+accelerant
+accelerant	accelerar
+accelerants	accelerant
+accelerar
+accelerara	accelerar
+acceleraran	accelerar
+accelerarem	accelerar
+acceleraren	accelerar
+accelerares	accelerar
+accelerareu	accelerar
+acceleraria	accelerar
+accelerarien	accelerar
+acceleraries	accelerar
+accelerarà	accelerar
+acceleraràs	accelerar
+acceleraré	accelerar
+acceleraríem	accelerar
+acceleraríeu	accelerar
+accelerassen	accelerar
+accelerasses	accelerar
+accelerassin	accelerar
+accelerassis	accelerar
+accelerat
+accelerat	accelerar
+acceleratriu	accelerador
+acceleratrius	accelerador
+accelerats	accelerar
+accelerats	accelerat
+accelerau	accelerar
+accelerava	accelerar
+acceleraven	accelerar
+acceleraves	accelerar
+accelere	accelerar
+accelerem	accelerar
+acceleren	accelerar
+acceleres	accelerar
+acceleressen	accelerar
+acceleresses	accelerar
+acceleressin	accelerar
+acceleressis	accelerar
+accelereu	accelerar
+acceleri	accelerar
+accelerin	accelerar
+accelerina
+accelerines	accelerina
+acceleris	accelerar
+accelero	accelerar
+accelerà	accelerar
+acceleràrem	accelerar
+acceleràreu	accelerar
+acceleràs	accelerar
+acceleràssem	accelerar
+acceleràsseu	accelerar
+acceleràssim	accelerar
+acceleràssiu	accelerar
+acceleràvem	accelerar
+acceleràveu	accelerar
+accelerés	accelerar
+acceleréssem	accelerar
+accelerésseu	accelerar
+acceleréssim	accelerar
+acceleréssiu	accelerar
+accelerí	accelerar
+accelerògraf
+accelerògrafs	accelerògraf
+acceleròmetre
+acceleròmetres	acceleròmetre
+accent
+accentisme
+accentismes	accentisme
+accentogen
+accents	accent
+accentua	accentuar
+accentuable
+accentuables	accentuable
+accentuacions	accentuació
+accentuació
+accentuada	accentuar
+accentuada	accentuat
+accentuadament
+accentuades	accentuar
+accentuades	accentuat
+accentuadíssim
+accentuadíssima	accentuadíssim
+accentuadíssims	accentuadíssim
+accentual
+accentuals	accentual
+accentuam	accentuar
+accentuant	accentuar
+accentuar
+accentuara	accentuar
+accentuaran	accentuar
+accentuarem	accentuar
+accentuaren	accentuar
+accentuares	accentuar
+accentuareu	accentuar
+accentuaria	accentuar
+accentuarien	accentuar
+accentuaries	accentuar
+accentuarà	accentuar
+accentuaràs	accentuar
+accentuaré	accentuar
+accentuaríem	accentuar
+accentuaríeu	accentuar
+accentuassen	accentuar
+accentuasses	accentuar
+accentuassin	accentuar
+accentuassis	accentuar
+accentuat
+accentuat	accentuar
+accentuats	accentuar
+accentuats	accentuat
+accentuau	accentuar
+accentuava	accentuar
+accentuaven	accentuar
+accentuaves	accentuar
+accentue	accentuar
+accentuem	accentuar
+accentuen	accentuar
+accentues	accentuar
+accentuessen	accentuar
+accentuesses	accentuar
+accentuessin	accentuar
+accentuessis	accentuar
+accentueu	accentuar
+accentuo	accentuar
+accentuu	accentuar
+accentuà	accentuar
+accentuàrem	accentuar
+accentuàreu	accentuar
+accentuàs	accentuar
+accentuàssem	accentuar
+accentuàsseu	accentuar
+accentuàssim	accentuar
+accentuàssiu	accentuar
+accentuàvem	accentuar
+accentuàveu	accentuar
+accentués	accentuar
+accentuéssem	accentuar
+accentuésseu	accentuar
+accentuéssim	accentuar
+accentuéssiu	accentuar
+accentuí	accentuar
+accentuï	accentuar
+accentuïn	accentuar
+accentuïs	accentuar
+accentògena	accentogen
+accentògenes	accentogen
+accentògens	accentogen
+accepcions	accepció
+accepció
+accept	acceptar
+accepta	acceptar
+accepta	accepte
+acceptabilitat
+acceptabilitats	acceptabilitat
+acceptable
+acceptablement
+acceptables	acceptable
+acceptacions	acceptació
+acceptació
+acceptada	acceptar
+acceptades	acceptar
+acceptador
+acceptadora	acceptador
+acceptadores	acceptador
+acceptadors	acceptador
+acceptam	acceptar
+acceptant
+acceptant	acceptar
+acceptants	acceptant
+acceptar
+acceptara	acceptar
+acceptaran	acceptar
+acceptarem	acceptar
+acceptaren	acceptar
+acceptares	acceptar
+acceptareu	acceptar
+acceptaria	acceptar
+acceptarien	acceptar
+acceptaries	acceptar
+acceptarà	acceptar
+acceptaràs	acceptar
+acceptaré	acceptar
+acceptaríem	acceptar
+acceptaríeu	acceptar
+acceptassen	acceptar
+acceptasses	acceptar
+acceptassin	acceptar
+acceptassis	acceptar
+acceptat	acceptar
+acceptats	acceptar
+acceptau	acceptar
+acceptava	acceptar
+acceptaven	acceptar
+acceptaves	acceptar
+accepte
+accepte	acceptar
+acceptem	acceptar
+accepten	acceptar
+acceptes	acceptar
+acceptes	accepte
+acceptessen	acceptar
+acceptesses	acceptar
+acceptessin	acceptar
+acceptessis	acceptar
+accepteu	acceptar
+accepti	acceptar
+acceptilacions	acceptilació
+acceptilació
+acceptin	acceptar
+acceptis	acceptar
+accepto	acceptar
+acceptor
+acceptors	acceptor
+acceptà	acceptar
+acceptàrem	acceptar
+acceptàreu	acceptar
+acceptàs	acceptar
+acceptàssem	acceptar
+acceptàsseu	acceptar
+acceptàssim	acceptar
+acceptàssiu	acceptar
+acceptàvem	acceptar
+acceptàveu	acceptar
+acceptés	acceptar
+acceptéssem	acceptar
+acceptésseu	acceptar
+acceptéssim	acceptar
+acceptéssiu	acceptar
+acceptí	acceptar
+accessibilitat
+accessibilitats	accessibilitat
+accessible
+accessibles	accessible
+accessions	accessió
+accessió
+accessori
+accessoris	accessori
+accessos	accés
+accessòria	accessori
+accessòriament
+accessòries	accessori
+acci
+accident
+accident	accidentar
+accidenta	accidentar
+accidentada	accidentar
+accidentada	accidentat
+accidentades	accidentar
+accidentades	accidentat
+accidentadíssim
+accidental
+accidentalisme
+accidentalismes	accidentalisme
+accidentalista
+accidentalistes	accidentalista
+accidentalitat
+accidentalitats	accidentalitat
+accidentalment
+accidentals	accidental
+accidentam	accidentar
+accidentant	accidentar
+accidentar
+accidentara	accidentar
+accidentaran	accidentar
+accidentarem	accidentar
+accidentaren	accidentar
+accidentares	accidentar
+accidentareu	accidentar
+accidentaria	accidentar
+accidentarien	accidentar
+accidentaries	accidentar
+accidentarà	accidentar
+accidentaràs	accidentar
+accidentaré	accidentar
+accidentaríem	accidentar
+accidentaríeu	accidentar
+accidentassen	accidentar
+accidentasses	accidentar
+accidentassin	accidentar
+accidentassis	accidentar
+accidentat
+accidentat	accidentar
+accidentats	accidentar
+accidentats	accidentat
+accidentau	accidentar
+accidentava	accidentar
+accidentaven	accidentar
+accidentaves	accidentar
+accidente	accidentar
+accidentem	accidentar
+accidenten	accidentar
+accidentes	accidentar
+accidentessen	accidentar
+accidentesses	accidentar
+accidentessin	accidentar
+accidentessis	accidentar
+accidenteu	accidentar
+accidenti	accidentar
+accidentin	accidentar
+accidentis	accidentar
+accidento	accidentar
+accidentogen
+accidents	accident
+accidentà	accidentar
+accidentàrem	accidentar
+accidentàreu	accidentar
+accidentàs	accidentar
+accidentàssem	accidentar
+accidentàsseu	accidentar
+accidentàssim	accidentar
+accidentàssiu	accidentar
+accidentàvem	accidentar
+accidentàveu	accidentar
+accidentés	accidentar
+accidentéssem	accidentar
+accidentésseu	accidentar
+accidentéssim	accidentar
+accidentéssiu	accidentar
+accidentí	accidentar
+accidentògena	accidentogen
+accidentògenes	accidentogen
+accidentògens	accidentogen
+accidiosa	accidiós
+accidiosament
+accidioses	accidiós
+accidiosos	accidiós
+accidiós
+accidència
+accidències	accidència
+accion	accionar
+acciona	accionar
+accionable
+accionables	accionable
+accionada	accionar
+accionades	accionar
+accionalisme
+accionalismes	accionalisme
+accionalista
+accionalistes	accionalista
+accionam	accionar
+accionament
+accionaments	accionament
+accionant	accionar
+accionar
+accionara	accionar
+accionaran	accionar
+accionarem	accionar
+accionaren	accionar
+accionares	accionar
+accionareu	accionar
+accionari
+accionaria	accionar
+accionarial
+accionarialment
+accionarials	accionarial
+accionariat
+accionariats	accionariat
+accionarien	accionar
+accionaries	accionar
+accionaris	accionari
+accionarà	accionar
+accionaràs	accionar
+accionaré	accionar
+accionaríem	accionar
+accionaríeu	accionar
+accionassen	accionar
+accionasses	accionar
+accionassin	accionar
+accionassis	accionar
+accionat
+accionat	accionar
+accionats	accionar
+accionats	accionat
+accionau	accionar
+accionava	accionar
+accionaven	accionar
+accionaves	accionar
+accione	accionar
+accionem	accionar
+accionen	accionar
+acciones	accionar
+accionessen	accionar
+accionesses	accionar
+accionessin	accionar
+accionessis	accionar
+accioneu	accionar
+accioni	accionar
+accionin	accionar
+accionis	accionar
+accionista
+accionistes	accionista
+acciono	accionar
+accions	acció
+accionà	accionar
+accionàrem	accionar
+accionàreu	accionar
+accionària	accionari
+accionàries	accionari
+accionàs	accionar
+accionàssem	accionar
+accionàsseu	accionar
+accionàssim	accionar
+accionàssiu	accionar
+accionàvem	accionar
+accionàveu	accionar
+accionés	accionar
+accionéssem	accionar
+accionésseu	accionar
+accionéssim	accionar
+accionéssiu	accionar
+accioní	accionar
+accipitriforme
+accipitriformes	accipitriforme
+accipítrid
+accipítrids	accipítrid
+accis	acci
+accisa
+accises	accisa
+acció
+accàdia
+accàdia	accadi
+accàdies	accadi
+accàdies	accàdia
+accèssit
+accèssits	accèssit
+accés
+accídia
+accídies	accídia
+accípitre
+accípitres	accípitre
+àccia	acci
+àccies	acci

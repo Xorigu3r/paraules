@@ -1,0 +1,4 @@
+nyic
+nyiclis
+nyicris
+nyics	nyic

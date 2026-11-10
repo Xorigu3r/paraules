@@ -1,0 +1,12 @@
+buda
+budas	buda
+budines	budín
+budiones	budión
+budismo
+budismo	buda
+budismos	buda
+budismos	budismo
+budista
+budistas	budista
+budión
+budín

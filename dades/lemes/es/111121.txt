@@ -1,0 +1,17 @@
+llubina
+llubinas	llubina
+llueca
+lluecas	llueca
+llueva	llover
+lluevan	llover
+lluevas	llover
+llueve	llover
+llueven	llover
+llueves	llover
+lluevo	llover
+lluvia
+lluvias	lluvia
+lluviosa	lluvioso
+lluviosas	lluvioso
+lluvioso
+lluviosos	lluvioso

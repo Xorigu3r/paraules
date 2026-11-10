@@ -1,0 +1,75 @@
+opa
+opaca	opaco
+opacamente
+opacas	opaco
+opacidad
+opacidades	opacidad
+opaco
+opacos	opaco
+opalescencia
+opalescencias	opalescencia
+opalescente
+opalescentes	opalescente
+opalice	opalizar
+opalicemos	opalizar
+opalicen	opalizar
+opalices	opalizar
+opalicé	opalizar
+opalicéis	opalizar
+opalina	opalino
+opalinas	opalino
+opalino
+opalinos	opalino
+opaliza	opalizar
+opalizaba	opalizar
+opalizabais	opalizar
+opalizaban	opalizar
+opalizabas	opalizar
+opalizad	opalizar
+opalizada	opalizar
+opalizadas	opalizar
+opalizado	opalizar
+opalizados	opalizar
+opalizamos	opalizar
+opalizan	opalizar
+opalizando	opalizar
+opalizar
+opalizara	opalizar
+opalizarais	opalizar
+opalizaran	opalizar
+opalizaras	opalizar
+opalizare	opalizar
+opalizareis	opalizar
+opalizaremos	opalizar
+opalizaren	opalizar
+opalizares	opalizar
+opalizaron	opalizar
+opalizarse	opalizar
+opalizará	opalizar
+opalizarán	opalizar
+opalizarás	opalizar
+opalizaré	opalizar
+opalizaréis	opalizar
+opalizaría	opalizar
+opalizaríais	opalizar
+opalizaríamos	opalizar
+opalizarían	opalizar
+opalizarías	opalizar
+opalizas	opalizar
+opalizase	opalizar
+opalizaseis	opalizar
+opalizasen	opalizar
+opalizases	opalizar
+opalizaste	opalizar
+opalizasteis	opalizar
+opalizo	opalizar
+opalizábamos	opalizar
+opalizáis	opalizar
+opalizándose	opalizar
+opalizáramos	opalizar
+opalizáremos	opalizar
+opalizásemos	opalizar
+opalizó	opalizar
+opas	opa
+ópalo
+ópalos	ópalo

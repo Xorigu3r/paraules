@@ -1,0 +1,4 @@
+ogre
+ogres	ogre
+ogressa
+ogresses	ogressa

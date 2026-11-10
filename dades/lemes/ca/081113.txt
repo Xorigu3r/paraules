@@ -1,0 +1,4 @@
+imode
+imodes	imode
+imoscap
+imoscaps	imoscap

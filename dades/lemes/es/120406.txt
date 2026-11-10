@@ -1,0 +1,72 @@
+mega	mego
+megaamperio	amperio
+megaamperios	amperio
+megabar	bar
+megabares	bar
+megabecquerel	becquerel
+megabecquereles	becquerel
+megaculombio	culombio
+megaculombios	culombio
+megafaradio	faradio
+megafaradios	faradio
+megafonía
+megafonías	megafonía
+megagrais	grais
+megagramo	gramo
+megagramos	gramo
+megagray	gray
+megahenrio	henrio
+megahenrios	henrio
+megahenry	henry
+megajoule	joule
+megajoules	joule
+megajulio	julio
+megajulios	julio
+megalitismo
+megalitismos	megalitismo
+megalito
+megalitos	megalito
+megalitro	litro
+megalitros	litro
+megalux	lux
+megaluxes	lux
+megalítica	megalítico
+megalíticas	megalítico
+megalítico
+megalíticos	megalítico
+megalómana	megalómano
+megalómanas	megalómano
+megalómano
+megalómanos	megalómano
+meganewton	newton
+meganewtons	newtons
+megaohm	ohm
+megaohmio	ohmio
+megaohmios	ohmio
+megapascal	pascal
+megapascales	pascal
+megarense
+megarenses	megarense
+megas	mego
+megasegundo	segundo
+megasegundos	segundo
+megaterio
+megaterios	megaterio
+megatesla	tesla
+megateslas	tesla
+megavatio
+megavatios	megavatio
+megavolt	volt
+megavoltio	voltio
+megavoltios	voltio
+megavolts	volt
+megawatt	watt
+megawatts	watt
+megaweber	weber
+megawebers	webers
+mego
+megos	mego
+megueces	meguez
+meguez
+megáfono
+megáfonos	megáfono

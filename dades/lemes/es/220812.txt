@@ -1,0 +1,3 @@
+vimbre
+vimbres	vimbre
+vimos	ver

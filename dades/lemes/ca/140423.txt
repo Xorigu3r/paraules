@@ -1,0 +1,5 @@
+peça
+peçol
+peçols	peçol
+peçons	peçó
+peçó

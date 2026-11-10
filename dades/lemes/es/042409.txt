@@ -1,0 +1,8 @@
+exjugador
+exjugador	jugador
+exjugadora	exjugador
+exjugadora	jugador
+exjugadoras	exjugador
+exjugadoras	jugador
+exjugadores	exjugador
+exjugadores	jugador

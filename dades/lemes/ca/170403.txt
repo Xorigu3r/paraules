@@ -1,0 +1,593 @@
+sed	sedar
+seda
+seda	sedar
+sedacions	sedació
+sedació
+sedada	sedar
+sedades	sedar
+sedaire
+sedaires	sedaire
+sedal
+sedalina
+sedalines	sedalina
+sedals	sedal
+sedam	sedar
+sedan
+sedans	sedan
+sedant
+sedant	sedar
+sedants	sedant
+sedar
+sedara	sedar
+sedaran	sedar
+sedarem	sedar
+sedaren	sedar
+sedares	sedar
+sedareu	sedar
+sedaria	sedar
+sedarien	sedar
+sedaries	sedar
+sedarà	sedar
+sedaràs	sedar
+sedaré	sedar
+sedaríem	sedar
+sedaríeu	sedar
+sedassa	sedassar
+sedassada	sedassar
+sedassades	sedassar
+sedassaire
+sedassaires	sedassaire
+sedassam	sedassar
+sedassant	sedassar
+sedassar
+sedassara	sedassar
+sedassaran	sedassar
+sedassarem	sedassar
+sedassaren	sedassar
+sedassares	sedassar
+sedassareu	sedassar
+sedassaria	sedassar
+sedassarien	sedassar
+sedassaries	sedassar
+sedassarà	sedassar
+sedassaràs	sedassar
+sedassaré	sedassar
+sedassaríem	sedassar
+sedassaríeu	sedassar
+sedassassen	sedassar
+sedassasses	sedassar
+sedassassin	sedassar
+sedassassis	sedassar
+sedassat	sedassar
+sedassats	sedassar
+sedassau	sedassar
+sedassava	sedassar
+sedassaven	sedassar
+sedassaves	sedassar
+sedasse	sedassar
+sedassege	sedassejar
+sedassegem	sedassejar
+sedassegen	sedassejar
+sedasseges	sedassejar
+sedassegessen	sedassejar
+sedassegesses	sedassejar
+sedassegessin	sedassejar
+sedassegessis	sedassejar
+sedassegeu	sedassejar
+sedassegi	sedassejar
+sedassegin	sedassejar
+sedassegis	sedassejar
+sedassegés	sedassejar
+sedassegéssem	sedassejar
+sedassegésseu	sedassejar
+sedassegéssim	sedassejar
+sedassegéssiu	sedassejar
+sedassegí	sedassejar
+sedasseig	sedassejar
+sedasseja	sedassejar
+sedassejada	sedassejar
+sedassejades	sedassejar
+sedassejam	sedassejar
+sedassejant	sedassejar
+sedassejar
+sedassejara	sedassejar
+sedassejaran	sedassejar
+sedassejarem	sedassejar
+sedassejaren	sedassejar
+sedassejares	sedassejar
+sedassejareu	sedassejar
+sedassejaria	sedassejar
+sedassejarien	sedassejar
+sedassejaries	sedassejar
+sedassejarà	sedassejar
+sedassejaràs	sedassejar
+sedassejaré	sedassejar
+sedassejaríem	sedassejar
+sedassejaríeu	sedassejar
+sedassejassen	sedassejar
+sedassejasses	sedassejar
+sedassejassin	sedassejar
+sedassejassis	sedassejar
+sedassejat	sedassejar
+sedassejats	sedassejar
+sedassejau	sedassejar
+sedassejava	sedassejar
+sedassejaven	sedassejar
+sedassejaves	sedassejar
+sedassejo	sedassejar
+sedassejà	sedassejar
+sedassejàrem	sedassejar
+sedassejàreu	sedassejar
+sedassejàs	sedassejar
+sedassejàssem	sedassejar
+sedassejàsseu	sedassejar
+sedassejàssim	sedassejar
+sedassejàssiu	sedassejar
+sedassejàvem	sedassejar
+sedassejàveu	sedassejar
+sedassem	sedassar
+sedassen	sedar
+sedassen	sedassar
+sedasser
+sedassera	sedasser
+sedasseres	sedasser
+sedasseria
+sedasseries	sedasseria
+sedassers	sedasser
+sedasses	sedar
+sedasses	sedassar
+sedassessen	sedassar
+sedassesses	sedassar
+sedassessin	sedassar
+sedassessis	sedassar
+sedasset
+sedassets	sedasset
+sedasseu	sedassar
+sedassi	sedassar
+sedassin	sedar
+sedassin	sedassar
+sedassis	sedar
+sedassis	sedassar
+sedasso	sedassar
+sedassos	sedàs
+sedassà	sedassar
+sedassàrem	sedassar
+sedassàreu	sedassar
+sedassàs	sedassar
+sedassàssem	sedassar
+sedassàsseu	sedassar
+sedassàssim	sedassar
+sedassàssiu	sedassar
+sedassàvem	sedassar
+sedassàveu	sedassar
+sedassés	sedassar
+sedasséssem	sedassar
+sedassésseu	sedassar
+sedasséssim	sedassar
+sedasséssiu	sedassar
+sedassí	sedassar
+sedat	sedar
+sedatiu
+sedatius	sedatiu
+sedativa	sedatiu
+sedatives	sedatiu
+sedats	sedar
+sedau	sedar
+sedava	sedar
+sedaven	sedar
+sedaves	sedar
+sedavienc
+sedavienca	sedavienc
+sedaviencs	sedavienc
+sedavienques	sedavienc
+sede	sedar
+sedec
+sedecs	sedec
+sedeg	sedegar
+sedega
+sedega	sedec
+sedega	sedegar
+sedegada	sedegar
+sedegades	sedegar
+sedegam	sedegar
+sedegant	sedegar
+sedegar
+sedegara	sedegar
+sedegaran	sedegar
+sedegarem	sedegar
+sedegaren	sedegar
+sedegares	sedegar
+sedegareu	sedegar
+sedegaria	sedegar
+sedegarien	sedegar
+sedegaries	sedegar
+sedegarà	sedegar
+sedegaràs	sedegar
+sedegaré	sedegar
+sedegaríem	sedegar
+sedegaríeu	sedegar
+sedegassen	sedegar
+sedegasses	sedegar
+sedegassin	sedegar
+sedegassis	sedegar
+sedegat	sedegar
+sedegats	sedegar
+sedegau	sedegar
+sedegava	sedegar
+sedegaven	sedegar
+sedegaves	sedegar
+sedege	sedejar
+sedegem	sedejar
+sedegen	sedejar
+sedeges	sedejar
+sedegessen	sedejar
+sedegesses	sedejar
+sedegessin	sedejar
+sedegessis	sedejar
+sedegeu	sedejar
+sedegi	sedejar
+sedegin	sedejar
+sedegis	sedejar
+sedego	sedegar
+sedegosa	sedegós
+sedegoses	sedegós
+sedegosos	sedegós
+sedegue	sedegar
+sedeguem	sedegar
+sedeguen	sedegar
+sedegues	sedec
+sedegues	sedega
+sedegues	sedegar
+sedeguessen	sedegar
+sedeguesses	sedegar
+sedeguessin	sedegar
+sedeguessis	sedegar
+sedegueu	sedegar
+sedegui	sedegar
+sedeguin	sedegar
+sedeguis	sedegar
+sedegués	sedegar
+sedeguéssem	sedegar
+sedeguésseu	sedegar
+sedeguéssim	sedegar
+sedeguéssiu	sedegar
+sedeguí	sedegar
+sedegà	sedegar
+sedegàrem	sedegar
+sedegàreu	sedegar
+sedegàs	sedegar
+sedegàssem	sedegar
+sedegàsseu	sedegar
+sedegàssim	sedegar
+sedegàssiu	sedegar
+sedegàvem	sedegar
+sedegàveu	sedegar
+sedegés	sedejar
+sedegéssem	sedejar
+sedegésseu	sedejar
+sedegéssim	sedejar
+sedegéssiu	sedejar
+sedegí	sedejar
+sedegós
+sedeig	sedejar
+sedeja	sedejar
+sedejada	sedejar
+sedejades	sedejar
+sedejam	sedejar
+sedejant
+sedejant	sedejar
+sedejants	sedejant
+sedejar
+sedejara	sedejar
+sedejaran	sedejar
+sedejarem	sedejar
+sedejaren	sedejar
+sedejares	sedejar
+sedejareu	sedejar
+sedejaria	sedejar
+sedejarien	sedejar
+sedejaries	sedejar
+sedejarà	sedejar
+sedejaràs	sedejar
+sedejaré	sedejar
+sedejaríem	sedejar
+sedejaríeu	sedejar
+sedejassen	sedejar
+sedejasses	sedejar
+sedejassin	sedejar
+sedejassis	sedejar
+sedejat	sedejar
+sedejats	sedejar
+sedejau	sedejar
+sedejava	sedejar
+sedejaven	sedejar
+sedejaves	sedejar
+sedejo	sedejar
+sedejà	sedejar
+sedejàrem	sedejar
+sedejàreu	sedejar
+sedejàs	sedejar
+sedejàssem	sedejar
+sedejàsseu	sedejar
+sedejàssim	sedejar
+sedejàssiu	sedejar
+sedejàvem	sedejar
+sedejàveu	sedejar
+sedem	sedar
+seden	sedar
+sedenc
+sedenca	sedenc
+sedencs	sedenc
+sedenques	sedenc
+sedent
+sedentari
+sedentarietat
+sedentarietats	sedentarietat
+sedentaris	sedentari
+sedentarisme
+sedentarismes	sedentarisme
+sedentaritz	sedentaritzar
+sedentaritza	sedentaritzar
+sedentarització
+sedentaritzada	sedentaritzar
+sedentaritzades	sedentaritzar
+sedentaritzam	sedentaritzar
+sedentaritzant	sedentaritzar
+sedentaritzar
+sedentaritzara	sedentaritzar
+sedentaritzaran	sedentaritzar
+sedentaritzarem	sedentaritzar
+sedentaritzaren	sedentaritzar
+sedentaritzares	sedentaritzar
+sedentaritzareu	sedentaritzar
+sedentaritzaria	sedentaritzar
+sedentaritzarà	sedentaritzar
+sedentaritzaràs	sedentaritzar
+sedentaritzaré	sedentaritzar
+sedentaritzat	sedentaritzar
+sedentaritzats	sedentaritzar
+sedentaritzau	sedentaritzar
+sedentaritzava	sedentaritzar
+sedentaritzaven	sedentaritzar
+sedentaritzaves	sedentaritzar
+sedentaritze	sedentaritzar
+sedentaritzem	sedentaritzar
+sedentaritzen	sedentaritzar
+sedentaritzes	sedentaritzar
+sedentaritzeu	sedentaritzar
+sedentaritzi	sedentaritzar
+sedentaritzin	sedentaritzar
+sedentaritzis	sedentaritzar
+sedentaritzo	sedentaritzar
+sedentaritzà	sedentaritzar
+sedentaritzàrem	sedentaritzar
+sedentaritzàreu	sedentaritzar
+sedentaritzàs	sedentaritzar
+sedentaritzàvem	sedentaritzar
+sedentaritzàveu	sedentaritzar
+sedentaritzés	sedentaritzar
+sedentaritzí	sedentaritzar
+sedents	sedent
+sedentària	sedentari
+sedentàriament
+sedentàries	sedentari
+sedeny
+sedenys	sedeny
+seder
+sedera	seder
+sederes	seder
+sederia
+sederies	sederia
+seders	seder
+sedes	seda
+sedes	sedar
+sedessen	sedar
+sedesses	sedar
+sedessin	sedar
+sedessis	sedar
+sedestacions	sedestació
+sedestació
+sedeu	sedar
+sedi	sedar
+sedicions	sedició
+sediciosa	sediciós
+sediciosament
+sedicioses	sediciós
+sediciosos	sediciós
+sedició
+sediciós
+sediment
+sediment	sedimentar
+sedimenta	sedimentar
+sedimentable
+sedimentables	sedimentable
+sedimentacions	sedimentació
+sedimentació
+sedimentada	sedimentar
+sedimentades	sedimentar
+sedimentador
+sedimentadors	sedimentador
+sedimentalògic
+sedimentalògica	sedimentalògic
+sedimentalògics	sedimentalògic
+sedimentam	sedimentar
+sedimentant	sedimentar
+sedimentar
+sedimentara	sedimentar
+sedimentaran	sedimentar
+sedimentarem	sedimentar
+sedimentaren	sedimentar
+sedimentares	sedimentar
+sedimentareu	sedimentar
+sedimentari
+sedimentaria	sedimentar
+sedimentarien	sedimentar
+sedimentaries	sedimentar
+sedimentaris	sedimentari
+sedimentarà	sedimentar
+sedimentaràs	sedimentar
+sedimentaré	sedimentar
+sedimentaríem	sedimentar
+sedimentaríeu	sedimentar
+sedimentassen	sedimentar
+sedimentasses	sedimentar
+sedimentassin	sedimentar
+sedimentassis	sedimentar
+sedimentat	sedimentar
+sedimentats	sedimentar
+sedimentau	sedimentar
+sedimentava	sedimentar
+sedimentaven	sedimentar
+sedimentaves	sedimentar
+sedimente	sedimentar
+sedimentem	sedimentar
+sedimenten	sedimentar
+sedimentes	sedimentar
+sedimentessen	sedimentar
+sedimentesses	sedimentar
+sedimentessin	sedimentar
+sedimentessis	sedimentar
+sedimenteu	sedimentar
+sedimenti	sedimentar
+sedimentin	sedimentar
+sedimentis	sedimentar
+sedimento	sedimentar
+sedimentologia
+sedimentologies	sedimentologia
+sedimentològic
+sedimentològica	sedimentològic
+sedimentològics	sedimentològic
+sedimentosa	sedimentós
+sedimentoses	sedimentós
+sedimentosos	sedimentós
+sediments	sediment
+sedimentà	sedimentar
+sedimentàrem	sedimentar
+sedimentàreu	sedimentar
+sedimentària	sedimentari
+sedimentàries	sedimentari
+sedimentàs	sedimentar
+sedimentàssem	sedimentar
+sedimentàsseu	sedimentar
+sedimentàssim	sedimentar
+sedimentàssiu	sedimentar
+sedimentàvem	sedimentar
+sedimentàveu	sedimentar
+sedimentés	sedimentar
+sedimentéssem	sedimentar
+sedimentésseu	sedimentar
+sedimentéssim	sedimentar
+sedimentéssiu	sedimentar
+sedimentí	sedimentar
+sedimentívor
+sedimentívora	sedimentívor
+sedimentívores	sedimentívor
+sedimentívors	sedimentívor
+sedimentòleg
+sedimentòlegs	sedimentòleg
+sedimentòloga	sedimentòleg
+sedimentòlogues	sedimentòleg
+sedimentós
+sedin	sedar
+sedis	sedar
+sedo	sedar
+sedosa	sedós
+sedosament
+sedoses	sedós
+sedositat
+sedositats	sedositat
+sedosos	sedós
+sedosíssim
+sedosíssima	sedosíssim
+sedosíssimes	sedosíssim
+sedosíssims	sedosíssim
+seduccions	seducció
+seducció
+seductor
+seductora	seductor
+seductorament
+seductores	seductor
+seductors	seductor
+sedueix	seduir
+sedueixen	seduir
+sedueixes	seduir
+sedueixi	seduir
+sedueixin	seduir
+sedueixis	seduir
+sedueixo	seduir
+seduesc	seduir
+seduesca	seduir
+seduesquen	seduir
+seduesques	seduir
+seduesqui	seduir
+seduesquin	seduir
+seduesquis	seduir
+seduint	seduir
+seduir
+seduiran	seduir
+seduirem	seduir
+seduireu	seduir
+seduiria	seduir
+seduirien	seduir
+seduiries	seduir
+seduirà	seduir
+seduiràs	seduir
+seduiré	seduir
+seduiríem	seduir
+seduiríeu	seduir
+seduí	seduir
+seduíem	seduir
+seduíeu	seduir
+seduírem	seduir
+seduíreu	seduir
+seduís	seduir
+seduíssem	seduir
+seduísseu	seduir
+seduíssim	seduir
+seduíssiu	seduir
+seduïa	seduir
+seduïble
+seduïbles	seduïble
+seduïda	seduir
+seduïdes	seduir
+seduïen	seduir
+seduïes	seduir
+seduïguem	seduir
+seduïgueu	seduir
+seduïm	seduir
+seduïra	seduir
+seduïren	seduir
+seduïres	seduir
+seduïsc	seduir
+seduïsca	seduir
+seduïsquen	seduir
+seduïsques	seduir
+seduïssen	seduir
+seduïsses	seduir
+seduïssin	seduir
+seduïssis	seduir
+seduït	seduir
+seduïts	seduir
+seduïu	seduir
+seduïx	seduir
+seduïxen	seduir
+seduïxes	seduir
+sedà	sedar
+sedàrem	sedar
+sedàreu	sedar
+sedàs
+sedàs	sedar
+sedàs	sedassar
+sedàssem	sedar
+sedàsseu	sedar
+sedàssim	sedar
+sedàssiu	sedar
+sedàvem	sedar
+sedàveu	sedar
+sedés	sedar
+sedéssem	sedar
+sedésseu	sedar
+sedéssim	sedar
+sedéssiu	sedar
+sedí	sedar
+sedós

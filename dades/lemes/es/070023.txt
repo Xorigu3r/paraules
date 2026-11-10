@@ -1,0 +1,4 @@
+hawaiana	hawaiano
+hawaianas	hawaiano
+hawaiano
+hawaianos	hawaiano

@@ -1,0 +1,270 @@
+cueca
+cuecas	cueca
+cuece	cocer
+cuecen	cocer
+cueces	cocer
+cuela	colar
+cuelan	colar
+cuelas	colar
+cuele	colar
+cuelen	colar
+cueles	colar
+cuelga
+cuelga	colgar
+cuelgacapas
+cuelgan	colgar
+cuelgas	colgar
+cuelgas	cuelga
+cuelgo	colgar
+cuelgue
+cuelgue	colgar
+cuelguen	colgar
+cuelgues	colgar
+cuelgues	cuelgue
+cuellicorta	cuellicorto
+cuellicortas	cuellicorto
+cuellicorto
+cuellicortos	cuellicorto
+cuello
+cuellos	cuello
+cuelo	colar
+cuenca
+cuencas	cuenca
+cuenco
+cuencos	cuenco
+cuenda
+cuendas	cuenda
+cuenta
+cuenta	contar
+cuentacuentos
+cuentagotas
+cuentan	contar
+cuentapasos
+cuentas	contar
+cuentas	cuenta
+cuente	contar
+cuenten	contar
+cuentera	cuentero
+cuenteras	cuentero
+cuentero
+cuenteros	cuentero
+cuentes	contar
+cuentista
+cuentistas	cuentista
+cuento
+cuento	contar
+cuentos	cuento
+cuera
+cueras	cuera
+cuerda
+cuerda	cuerdo
+cuerdamente
+cuerdas	cuerda
+cuerdas	cuerdo
+cuerdo
+cuerdos	cuerdo
+cuerezuelo
+cuerezuelos	cuerezuelo
+cuerna
+cuernas	cuerna
+cuerno
+cuernos	cuerno
+cuero
+cueros	cuero
+cuerpo
+cuerpos	cuerpo
+cuerva
+cuervas	cuerva
+cuervera
+cuerveras	cuervera
+cuervo
+cuervos	cuervo
+cuesco
+cuescos	cuesco
+cuesta
+cuesta	costar
+cuestan	costar
+cuestas	costar
+cuestas	cuesta
+cueste	costar
+cuesten	costar
+cuestes	costar
+cuestiona	cuestionar
+cuestionaba	cuestionar
+cuestionabais	cuestionar
+cuestionaban	cuestionar
+cuestionabas	cuestionar
+cuestionable
+cuestionables	cuestionable
+cuestionad	cuestionar
+cuestionada	cuestionar
+cuestionadas	cuestionar
+cuestionado	cuestionar
+cuestionados	cuestionar
+cuestionamiento
+cuestionamos	cuestionar
+cuestionan	cuestionar
+cuestionando	cuestionar
+cuestionar
+cuestionara	cuestionar
+cuestionarais	cuestionar
+cuestionaran	cuestionar
+cuestionaras	cuestionar
+cuestionare	cuestionar
+cuestionareis	cuestionar
+cuestionaremos	cuestionar
+cuestionaren	cuestionar
+cuestionares	cuestionar
+cuestionario
+cuestionarios	cuestionario
+cuestionarla	cuestionar
+cuestionarlas	cuestionar
+cuestionarle	cuestionar
+cuestionarles	cuestionar
+cuestionarlo	cuestionar
+cuestionarlos	cuestionar
+cuestionarme	cuestionar
+cuestionarnos	cuestionar
+cuestionaron	cuestionar
+cuestionaros	cuestionar
+cuestionarse	cuestionar
+cuestionarte	cuestionar
+cuestionará	cuestionar
+cuestionarán	cuestionar
+cuestionarás	cuestionar
+cuestionaré	cuestionar
+cuestionaréis	cuestionar
+cuestionaría	cuestionar
+cuestionaríais	cuestionar
+cuestionaríamos	cuestionar
+cuestionarían	cuestionar
+cuestionarías	cuestionar
+cuestionas	cuestionar
+cuestionase	cuestionar
+cuestionaseis	cuestionar
+cuestionasen	cuestionar
+cuestionases	cuestionar
+cuestionaste	cuestionar
+cuestionasteis	cuestionar
+cuestione	cuestionar
+cuestionemos	cuestionar
+cuestionen	cuestionar
+cuestiones	cuestionar
+cuestiones	cuestión
+cuestiono	cuestionar
+cuestionábamos	cuestionar
+cuestionáis	cuestionar
+cuestionándome	cuestionar
+cuestionándonos	cuestionar
+cuestionándoos	cuestionar
+cuestionándose	cuestionar
+cuestionándote	cuestionar
+cuestionáramos	cuestionar
+cuestionáremos	cuestionar
+cuestionásemos	cuestionar
+cuestioné	cuestionar
+cuestionéis	cuestionar
+cuestionó	cuestionar
+cuestión
+cuesto	costar
+cuestor
+cuestores	cuestor
+cueva
+cuevas	cueva
+cuevero
+cueveros	cuevero
+cueza
+cueza	cocer
+cuezan	cocer
+cuezas	cocer
+cuezas	cueza
+cuezo
+cuezo	cocer
+cuezos	cuezo
+cuécela	cocer
+cuécelas	cocer
+cuécelo	cocer
+cuécelos	cocer
+cuélela	colar
+cuélelas	colar
+cuélelo	colar
+cuélelos	colar
+cuélenla	colar
+cuélenlas	colar
+cuélenlo	colar
+cuélenlos	colar
+cuélgate	colgar
+cuéntala	contar
+cuéntalas	contar
+cuéntale	contar
+cuéntales	contar
+cuéntalo	contar
+cuéntalos	contar
+cuéntame	contar
+cuéntamela	contar
+cuéntamelas	contar
+cuéntamelo	contar
+cuéntamelos	contar
+cuéntanos	contar
+cuéntanosla	contar
+cuéntanoslas	contar
+cuéntanoslo	contar
+cuéntanoslos	contar
+cuéntasela	contar
+cuéntaselas	contar
+cuéntaselo	contar
+cuéntaselos	contar
+cuéntate	contar
+cuéntela	contar
+cuéntelas	contar
+cuéntele	contar
+cuénteles	contar
+cuéntelo	contar
+cuéntelos	contar
+cuénteme	contar
+cuéntemela	contar
+cuéntemelas	contar
+cuéntemelo	contar
+cuéntemelos	contar
+cuéntenla	contar
+cuéntenlas	contar
+cuéntenle	contar
+cuéntenles	contar
+cuéntenlo	contar
+cuéntenlos	contar
+cuéntenme	contar
+cuéntenmela	contar
+cuéntenmelas	contar
+cuéntenmelo	contar
+cuéntenmelos	contar
+cuéntennos	contar
+cuéntennosla	contar
+cuéntennoslas	contar
+cuéntennoslo	contar
+cuéntennoslos	contar
+cuéntenos	contar
+cuéntenosla	contar
+cuéntenoslas	contar
+cuéntenoslo	contar
+cuéntenoslos	contar
+cuéntense	contar
+cuéntensela	contar
+cuéntenselas	contar
+cuéntenselo	contar
+cuéntenselos	contar
+cuéntese	contar
+cuéntesela	contar
+cuénteselas	contar
+cuénteselo	contar
+cuénteselos	contar
+cuévano
+cuévanos	cuévano
+cuézala	cocer
+cuézalas	cocer
+cuézalo	cocer
+cuézalos	cocer
+cuézanla	cocer
+cuézanlas	cocer
+cuézanlo	cocer
+cuézanlos	cocer
+cúes

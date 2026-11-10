@@ -1,0 +1,343 @@
+pag	pagar
+paga
+paga	pagar
+pagable
+pagables	pagable
+pagada	pagar
+pagades	pagar
+pagador
+pagadora	pagador
+pagadores	pagador
+pagadoria
+pagadories	pagadoria
+pagadors	pagador
+pagaia
+pagaies	pagaia
+pagam	pagar
+pagament
+pagaments	pagament
+pagana	pagà
+paganes	pagà
+paganisme
+paganismes	paganisme
+paganitz	paganitzar
+paganitza	paganitzar
+paganitzacions	paganització
+paganització
+paganitzada	paganitzar
+paganitzades	paganitzar
+paganitzam	paganitzar
+paganitzant	paganitzar
+paganitzar
+paganitzara	paganitzar
+paganitzaran	paganitzar
+paganitzarem	paganitzar
+paganitzaren	paganitzar
+paganitzares	paganitzar
+paganitzareu	paganitzar
+paganitzaria	paganitzar
+paganitzarien	paganitzar
+paganitzaries	paganitzar
+paganitzarà	paganitzar
+paganitzaràs	paganitzar
+paganitzaré	paganitzar
+paganitzaríem	paganitzar
+paganitzaríeu	paganitzar
+paganitzassen	paganitzar
+paganitzasses	paganitzar
+paganitzassin	paganitzar
+paganitzassis	paganitzar
+paganitzat	paganitzar
+paganitzats	paganitzar
+paganitzau	paganitzar
+paganitzava	paganitzar
+paganitzaven	paganitzar
+paganitzaves	paganitzar
+paganitze	paganitzar
+paganitzem	paganitzar
+paganitzen	paganitzar
+paganitzes	paganitzar
+paganitzessen	paganitzar
+paganitzesses	paganitzar
+paganitzessin	paganitzar
+paganitzessis	paganitzar
+paganitzeu	paganitzar
+paganitzi	paganitzar
+paganitzin	paganitzar
+paganitzis	paganitzar
+paganitzo	paganitzar
+paganitzà	paganitzar
+paganitzàrem	paganitzar
+paganitzàreu	paganitzar
+paganitzàs	paganitzar
+paganitzàssem	paganitzar
+paganitzàsseu	paganitzar
+paganitzàssim	paganitzar
+paganitzàssiu	paganitzar
+paganitzàvem	paganitzar
+paganitzàveu	paganitzar
+paganitzés	paganitzar
+paganitzéssem	paganitzar
+paganitzésseu	paganitzar
+paganitzéssim	paganitzar
+paganitzéssiu	paganitzar
+paganitzí	paganitzar
+pagans	pagà
+pagant	pagar
+paganíssim
+paganíssima	paganíssim
+paganíssimes	paganíssim
+paganíssims	paganíssim
+pagar
+pagara	pagar
+pagaran	pagar
+pagarem	pagar
+pagaren	pagar
+pagares	pagar
+pagareu	pagar
+pagaria	pagar
+pagarien	pagar
+pagaries	pagar
+pagarà	pagar
+pagaràs	pagar
+pagaré
+pagaré	pagar
+pagarés	pagaré
+pagaríem	pagar
+pagaríeu	pagar
+pagassen	pagar
+pagasses	pagar
+pagassin	pagar
+pagassis	pagar
+pagat	pagar
+pagats	pagar
+pagau	pagar
+pagava	pagar
+pagaven	pagar
+pagaves	pagar
+pagell
+pagellera
+pagelleres	pagellera
+pagellida
+pagellides	pagellida
+pagells	pagell
+pageresa
+pagereses	pageresa
+pageresos	pagerès
+pagerol
+pagerola	pagerol
+pageroles	pagerol
+pagerols	pagerol
+pagerès
+pagerés	pagerès
+pagesa	pagès
+pagesada
+pagesades	pagesada
+pagesalla
+pagesalles	pagesalla
+pagesam
+pagesams	pagesam
+pagesege	pagesejar
+pagesegem	pagesejar
+pagesegen	pagesejar
+pageseges	pagesejar
+pagesegessen	pagesejar
+pagesegesses	pagesejar
+pagesegessin	pagesejar
+pagesegessis	pagesejar
+pagesegeu	pagesejar
+pagesegi	pagesejar
+pagesegin	pagesejar
+pagesegis	pagesejar
+pagesegés	pagesejar
+pagesegéssem	pagesejar
+pagesegésseu	pagesejar
+pagesegéssim	pagesejar
+pagesegéssiu	pagesejar
+pagesegí	pagesejar
+pageseig	pagesejar
+pageseja	pagesejar
+pagesejada	pagesejar
+pagesejades	pagesejar
+pagesejam	pagesejar
+pagesejant	pagesejar
+pagesejar
+pagesejara	pagesejar
+pagesejaran	pagesejar
+pagesejarem	pagesejar
+pagesejaren	pagesejar
+pagesejares	pagesejar
+pagesejareu	pagesejar
+pagesejaria	pagesejar
+pagesejarien	pagesejar
+pagesejaries	pagesejar
+pagesejarà	pagesejar
+pagesejaràs	pagesejar
+pagesejaré	pagesejar
+pagesejaríem	pagesejar
+pagesejaríeu	pagesejar
+pagesejassen	pagesejar
+pagesejasses	pagesejar
+pagesejassin	pagesejar
+pagesejassis	pagesejar
+pagesejat	pagesejar
+pagesejats	pagesejar
+pagesejau	pagesejar
+pagesejava	pagesejar
+pagesejaven	pagesejar
+pagesejaves	pagesejar
+pagesejo	pagesejar
+pagesejà	pagesejar
+pagesejàrem	pagesejar
+pagesejàreu	pagesejar
+pagesejàs	pagesejar
+pagesejàssem	pagesejar
+pagesejàsseu	pagesejar
+pagesejàssim	pagesejar
+pagesejàssiu	pagesejar
+pagesejàvem	pagesejar
+pagesejàveu	pagesejar
+pageses	pagès
+pageset
+pageseta	pageset
+pagesetes	pageset
+pagesets	pageset
+pagesia
+pagesies	pagesia
+pagesos	pagès
+pagesot
+pagesota	pagesot
+pagesotes	pagesot
+pagesots	pagesot
+pagesívol
+pagesívola	pagesívol
+pagesívolament
+pagesívoles	pagesívol
+pagesívols	pagesívol
+pagetoide
+pagetoides	pagetoide
+pagina	paginar
+paginacions	paginació
+paginació
+paginada	paginar
+paginades	paginar
+paginador
+paginadors	paginador
+paginam	paginar
+paginant	paginar
+paginar
+paginara	paginar
+paginaran	paginar
+paginarem	paginar
+paginaren	paginar
+paginares	paginar
+paginareu	paginar
+paginaria	paginar
+paginarien	paginar
+paginaries	paginar
+paginarà	paginar
+paginaràs	paginar
+paginaré	paginar
+paginaríem	paginar
+paginaríeu	paginar
+paginassen	paginar
+paginasses	paginar
+paginassin	paginar
+paginassis	paginar
+paginat	paginar
+paginats	paginar
+paginau	paginar
+paginava	paginar
+paginaven	paginar
+paginaves	paginar
+pagine	paginar
+paginem	paginar
+paginen	paginar
+pagines	paginar
+paginessen	paginar
+paginesses	paginar
+paginessin	paginar
+paginessis	paginar
+pagineta
+paginetes	pagineta
+pagineu	paginar
+pagini	paginar
+paginin	paginar
+paginis	paginar
+pagino	paginar
+paginà	paginar
+paginàrem	paginar
+paginàreu	paginar
+paginàs	paginar
+paginàssem	paginar
+paginàsseu	paginar
+paginàssim	paginar
+paginàssiu	paginar
+paginàvem	paginar
+paginàveu	paginar
+paginés	paginar
+paginéssem	paginar
+paginésseu	paginar
+paginéssim	paginar
+paginéssiu	paginar
+paginí	paginar
+pago
+pago	pagar
+pagoda
+pagodes	pagoda
+pagodita
+pagodites	pagodita
+pagofigo
+pagofigos	pagofigo
+pagofàgia
+pagofàgies	pagofàgia
+pagoplegia
+pagoplegies	pagoplegia
+pagos	pago
+pagre
+pagres	pagre
+pague	pagar
+paguem	pagar
+paguen	pagar
+pagues	paga
+pagues	pagar
+paguessen	pagar
+paguesses	pagar
+paguessin	pagar
+paguessis	pagar
+pagueta
+paguetes	pagueta
+pagueu	pagar
+pagui	pagar
+paguin	pagar
+paguis	pagar
+pagués	pagar
+paguéssem	pagar
+paguésseu	pagar
+paguéssim	pagar
+paguéssiu	pagar
+paguí	pagar
+pagà
+pagà	pagar
+pagàrem	pagar
+pagàreu	pagar
+pagàs	pagar
+pagàssem	pagar
+pagàsseu	pagar
+pagàssim	pagar
+pagàssiu	pagar
+pagàvem	pagar
+pagàveu	pagar
+pagès
+pagètic
+pagètica	pagètic
+pagètics	pagètic
+pagètiques	pagètic
+pagés	pagès
+pagín	paginar
+pagúrid
+pagúrids	pagúrid
+pàgina
+pàgines	pàgina
+pàguera
+pàgueres	pàguera

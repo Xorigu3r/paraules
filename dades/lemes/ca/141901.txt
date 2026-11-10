@@ -1,0 +1,288 @@
+pub
+pubarquia
+pubarquies	pubarquia
+puberal
+puberals	puberal
+puberfonia
+puberfonies	puberfonia
+pubertat
+pubertats	pubertat
+puberulent
+puberulenta	puberulent
+puberulentes	puberulent
+puberulents	puberulent
+pubescent
+pubescents	pubescent
+pubescència
+pubescències	pubescència
+pubiana	pubià
+pubianes	pubià
+pubians	pubià
+pubil
+pubila	pubil
+pubiles	pubil
+pubill
+pubilla	pubill
+pubillatge
+pubillatges	pubillatge
+pubilles	pubill
+pubills	pubill
+pubils	pubil
+pubiotomia
+pubiotomies	pubiotomia
+pubis
+pubià
+public	publicar
+publica	publicar
+publicable
+publicables	publicable
+publicacions	publicació
+publicació
+publicada	publicar
+publicades	publicar
+publicador
+publicadora	publicador
+publicadores	publicador
+publicadors	publicador
+publicam	publicar
+publicans	publicà
+publicant	publicar
+publicar
+publicara	publicar
+publicaran	publicar
+publicarem	publicar
+publicaren	publicar
+publicares	publicar
+publicareu	publicar
+publicaria	publicar
+publicarien	publicar
+publicaries	publicar
+publicarà	publicar
+publicaràs	publicar
+publicaré	publicar
+publicaríem	publicar
+publicaríeu	publicar
+publicassen	publicar
+publicasses	publicar
+publicassin	publicar
+publicassis	publicar
+publicat	publicar
+publicata
+publicates	publicata
+publicats	publicar
+publicau	publicar
+publicava	publicar
+publicaven	publicar
+publicaves	publicar
+publicista
+publicistes	publicista
+publicit	publicitar
+publicita	publicitar
+publicitada	publicitar
+publicitades	publicitar
+publicitam	publicitar
+publicitant	publicitar
+publicitar
+publicitara	publicitar
+publicitaran	publicitar
+publicitarem	publicitar
+publicitaren	publicitar
+publicitares	publicitar
+publicitareu	publicitar
+publicitari
+publicitaria	publicitar
+publicitarien	publicitar
+publicitaries	publicitar
+publicitaris	publicitari
+publicitarà	publicitar
+publicitaràs	publicitar
+publicitaré	publicitar
+publicitaríem	publicitar
+publicitaríeu	publicitar
+publicitassen	publicitar
+publicitasses	publicitar
+publicitassin	publicitar
+publicitassis	publicitar
+publicitat
+publicitat	publicitar
+publicitats	publicitar
+publicitats	publicitat
+publicitau	publicitar
+publicitava	publicitar
+publicitaven	publicitar
+publicitaves	publicitar
+publicite	publicitar
+publicitem	publicitar
+publiciten	publicitar
+publicites	publicitar
+publicitessen	publicitar
+publicitesses	publicitar
+publicitessin	publicitar
+publicitessis	publicitar
+publiciteu	publicitar
+publiciti	publicitar
+publicitin	publicitar
+publicitis	publicitar
+publicito	publicitar
+publicità	publicitar
+publicitàrem	publicitar
+publicitàreu	publicitar
+publicitària	publicitari
+publicitàries	publicitari
+publicitàs	publicitar
+publicitàssem	publicitar
+publicitàsseu	publicitar
+publicitàssim	publicitar
+publicitàssiu	publicitar
+publicitàvem	publicitar
+publicitàveu	publicitar
+publicités	publicitar
+publicitéssem	publicitar
+publicitésseu	publicitar
+publicitéssim	publicitar
+publicitéssiu	publicitar
+publicití	publicitar
+publico	publicar
+publicoprivada	publicoprivat
+publicoprivades	publicoprivat
+publicoprivat
+publicoprivats	publicoprivat
+publicà
+publicà	publicar
+publicàrem	publicar
+publicàreu	publicar
+publicàs	publicar
+publicàssem	publicar
+publicàsseu	publicar
+publicàssim	publicar
+publicàssiu	publicar
+publicàvem	publicar
+publicàveu	publicar
+publicístic
+publicística	publicístic
+publicístics	publicístic
+publicístiques	publicístic
+publific	publificar
+publifica	publificar
+publificacions	publificació
+publificació
+publificada	publificar
+publificades	publificar
+publificam	publificar
+publificant	publificar
+publificar
+publificara	publificar
+publificaran	publificar
+publificarem	publificar
+publificaren	publificar
+publificares	publificar
+publificareu	publificar
+publificaria	publificar
+publificarien	publificar
+publificaries	publificar
+publificarà	publificar
+publificaràs	publificar
+publificaré	publificar
+publificaríem	publificar
+publificaríeu	publificar
+publificassen	publificar
+publificasses	publificar
+publificassin	publificar
+publificassis	publificar
+publificat	publificar
+publificats	publificar
+publificau	publificar
+publificava	publificar
+publificaven	publificar
+publificaves	publificar
+publifico	publificar
+publificà	publificar
+publificàrem	publificar
+publificàreu	publificar
+publificàs	publificar
+publificàssem	publificar
+publificàsseu	publificar
+publificàssim	publificar
+publificàssiu	publificar
+publificàvem	publificar
+publificàveu	publificar
+publifique	publificar
+publifiquem	publificar
+publifiquen	publificar
+publifiques	publificar
+publifiquessen	publificar
+publifiquesses	publificar
+publifiquessin	publificar
+publifiquessis	publificar
+publifiqueu	publificar
+publifiqui	publificar
+publifiquin	publificar
+publifiquis	publificar
+publifiqués	publificar
+publifiquéssem	publificar
+publifiquésseu	publificar
+publifiquéssim	publificar
+publifiquéssiu	publificar
+publifiquí	publificar
+publiinformació
+publique	publicar
+publiquem	publicar
+publiquen	publicar
+publiques	publicar
+publiquessen	publicar
+publiquesses	publicar
+publiquessin	publicar
+publiquessis	publicar
+publiqueu	publicar
+publiqui	publicar
+publiquin	publicar
+publiquis	publicar
+publiqués	publicar
+publiquéssem	publicar
+publiquésseu	publicar
+publiquéssim	publicar
+publiquéssiu	publicar
+publiquí	publicar
+publireportatge
+publitramesa
+publitrameses	publitramesa
+pubocervical
+pubocervicals	pubocervical
+pubococcigeal
+pubococcigeals	pubococcigeal
+puboesternal
+puboesternals	puboesternal
+pubofemoral
+pubofemorals	pubofemoral
+puboplàstia
+puboplàsties	puboplàstia
+puboprostàtic
+puboprostàtica	puboprostàtic
+puboprostàtics	puboprostàtic
+puboprostàtiques	puboprostàtic
+puborectal
+puborectals	puborectal
+pubotomia
+pubotomies	pubotomia
+puboumbilical
+puboumbilicals	puboumbilical
+pubovesical
+pubovesicals	pubovesical
+pubs	pub
+pubàlgia
+pubàlgies	pubàlgia
+pubèrul
+pubèrula	pubèrul
+pubèrules	pubèrul
+pubèruls	pubèrul
+púber
+púbers	púber
+púbic
+púbica	púbic
+púbics	púbic
+púbiques	púbic
+públic
+pública	públic
+públicament
+públics	públic
+públiques	públic

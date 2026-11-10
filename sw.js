@@ -1,10 +1,10 @@
 // Paraules · Xoriguer · funcionament sense connexió (el solitari funciona sense internet)
 // IMPORTANT: totes les apps Xoriguer comparteixen l'origen xorigu3r.github.io.
 // Aquest fitxer NOMÉS toca les memòries cau que comencen per "paraules-".
-const VERSION = "paraules-v1.0";
+const VERSION = "paraules-v1.1";
 const APP = [
   "./", "index.html", "motor.js", "firebase-config.js", "manifest.webmanifest",
-  "img/logo.jpg", "img/icona.png", "img/icona-512.png", "img/apple-touch-icon.png", "img/deco.png",
+  "img/logo.jpg", "img/icona.png", "img/icona-512.png", "img/apple-touch-icon.png", "img/deco.png", "img/fusta.jpg",
   "dades/ca.dawg", "dades/es.dawg",
 ];
 
@@ -31,6 +31,7 @@ self.addEventListener("fetch", e => {
     );
     return;
   }
+  if (url.pathname.includes("/dades/lemes/")) return;     // índex de definicions: només amb connexió, no ocupa la memòria cau
   // Imatges i diccionaris: primer la còpia guardada
   e.respondWith(caches.match(req).then(hit => hit || fetch(req).then(res => {
     if (res && res.ok) { const cp = res.clone(); caches.open(VERSION).then(c => c.put(req, cp)); }

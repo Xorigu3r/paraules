@@ -1,0 +1,170 @@
+jug	jugar
+juga	jugar
+jugabilitat
+jugabilitats	jugabilitat
+jugable
+jugables	jugable
+jugada
+jugada	jugar
+jugades	jugada
+jugades	jugar
+jugador
+jugadora	jugador
+jugadores	jugador
+jugadors	jugador
+jugaire
+jugaires	jugaire
+jugal
+jugals	jugal
+jugam	jugar
+jugament
+jugaments	jugament
+juganer
+juganera	juganer
+juganerament
+juganeres	juganer
+juganers	juganer
+jugant	jugar
+jugar
+jugara	jugar
+jugaran	jugar
+jugarem	jugar
+jugaren	jugar
+jugares	jugar
+jugareu	jugar
+jugaria	jugar
+jugarien	jugar
+jugaries	jugar
+jugarrina	jugarrí
+jugarrines	jugarrí
+jugarrins	jugarrí
+jugarrí
+jugarà	jugar
+jugaràs	jugar
+jugaré	jugar
+jugaríem	jugar
+jugaríeu	jugar
+jugascona	jugascó
+jugascones	jugascó
+jugascons	jugascó
+jugascó
+jugassen	jugar
+jugasses	jugar
+jugassin	jugar
+jugassis	jugar
+jugat
+jugat	jugar
+jugats	jugar
+jugats	jugat
+jugau	jugar
+jugava	jugar
+jugaven	jugar
+jugaves	jugar
+juglandal
+juglandals	juglandal
+juglandàcia
+juglandàcies	juglandàcia
+juglona
+juglones	juglona
+jugo	jugar
+jugogeniana	jugogenià
+jugogenianes	jugogenià
+jugogenians	jugogenià
+jugogenià
+jugomaxil·lar
+jugomaxil·lars	jugomaxil·lar
+jugue	jugar
+juguem	jugar
+juguen	jugar
+juguera
+jugueres	juguera
+jugues	jugar
+juguesca
+juguesques	juguesca
+juguessen	jugar
+juguesses	jugar
+juguessin	jugar
+juguessis	jugar
+jugueta
+juguetes	jugueta
+jugueu	jugar
+jugui	jugar
+juguin	jugar
+juguis	jugar
+jugul	jugular
+jugula	jugular
+jugulada	jugular
+jugulades	jugular
+jugulam	jugular
+jugulant	jugular
+jugular
+jugulara	jugular
+jugularan	jugular
+jugularem	jugular
+jugularen	jugular
+jugulares	jugular
+jugulareu	jugular
+jugularia	jugular
+jugularien	jugular
+jugularies	jugular
+jugulars	jugular
+jugularà	jugular
+jugularàs	jugular
+jugularé	jugular
+jugularíem	jugular
+jugularíeu	jugular
+jugulassen	jugular
+jugulasses	jugular
+jugulassin	jugular
+jugulassis	jugular
+jugulat	jugular
+jugulats	jugular
+jugulau	jugular
+jugulava	jugular
+jugulaven	jugular
+jugulaves	jugular
+jugule	jugular
+jugulem	jugular
+jugulen	jugular
+jugules	jugular
+jugulessen	jugular
+jugulesses	jugular
+jugulessin	jugular
+jugulessis	jugular
+juguleu	jugular
+juguli	jugular
+jugulin	jugular
+jugulis	jugular
+jugulo	jugular
+jugulà	jugular
+jugulàrem	jugular
+jugulàreu	jugular
+jugulàs	jugular
+jugulàssem	jugular
+jugulàsseu	jugular
+jugulàssim	jugular
+jugulàssiu	jugular
+jugulàvem	jugular
+jugulàveu	jugular
+jugulés	jugular
+juguléssem	jugular
+jugulésseu	jugular
+juguléssim	jugular
+juguléssiu	jugular
+jugulí	jugular
+jugués	jugar
+juguéssem	jugar
+juguésseu	jugar
+juguéssim	jugar
+juguéssiu	jugar
+juguí	jugar
+jugà	jugar
+jugàrem	jugar
+jugàreu	jugar
+jugàs	jugar
+jugàssem	jugar
+jugàsseu	jugar
+jugàssim	jugar
+jugàssiu	jugar
+jugàvem	jugar
+jugàveu	jugar

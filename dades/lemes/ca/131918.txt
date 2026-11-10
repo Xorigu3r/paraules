@@ -1,0 +1,8 @@
+outlet
+outlets	outlet
+output
+outputs	output
+outrigger
+outriggers	outrigger
+outsider
+outsiders	outsider

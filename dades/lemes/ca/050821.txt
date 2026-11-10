@@ -1,0 +1,92 @@
+fix
+fix	fixar
+fixa	fix
+fixa	fixar
+fixable
+fixables	fixable
+fixacions	fixació
+fixació
+fixada	fixar
+fixades	fixar
+fixador
+fixadora	fixador
+fixadores	fixador
+fixadors	fixador
+fixam	fixar
+fixament
+fixaments	fixament
+fixant	fixar
+fixar
+fixara	fixar
+fixaran	fixar
+fixarem	fixar
+fixaren	fixar
+fixares	fixar
+fixareu	fixar
+fixaria	fixar
+fixarien	fixar
+fixaries	fixar
+fixarà	fixar
+fixaràs	fixar
+fixaré	fixar
+fixaríem	fixar
+fixaríeu	fixar
+fixassen	fixar
+fixasses	fixar
+fixassin	fixar
+fixassis	fixar
+fixat	fixar
+fixatge
+fixatges	fixatge
+fixatiu
+fixatius	fixatiu
+fixativa	fixatiu
+fixatives	fixatiu
+fixats	fixar
+fixau	fixar
+fixava	fixar
+fixaven	fixar
+fixaves	fixar
+fixe	fixar
+fixedat
+fixedats	fixedat
+fixem	fixar
+fixen	fixar
+fixes	fix
+fixes	fixar
+fixesa
+fixeses	fixesa
+fixessen	fixar
+fixesses	fixar
+fixessin	fixar
+fixessis	fixar
+fixeu	fixar
+fixi	fixar
+fixin	fixar
+fixis	fixar
+fixisme
+fixismes	fixisme
+fixista
+fixistes	fixista
+fixo	fixar
+fixos	fix
+fixà	fixar
+fixàrem	fixar
+fixàreu	fixar
+fixàs	fixar
+fixàssem	fixar
+fixàsseu	fixar
+fixàssim	fixar
+fixàssiu	fixar
+fixàvem	fixar
+fixàveu	fixar
+fixés	fixar
+fixéssem	fixar
+fixésseu	fixar
+fixéssim	fixar
+fixéssiu	fixar
+fixí	fixar
+fixíssim
+fixíssima	fixíssim
+fixíssimes	fixíssim
+fixíssims	fixíssim

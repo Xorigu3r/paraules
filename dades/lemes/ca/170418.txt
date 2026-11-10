@@ -1,0 +1,316 @@
+set
+set	set_1
+set	set_2
+seta
+setaci
+setacis	setaci
+setaigüer
+setaigüera	setaigüer
+setaigüeres	setaigüer
+setaigüers	setaigüer
+setanta
+setantege	setantejar
+setantegem	setantejar
+setantegen	setantejar
+setanteges	setantejar
+setantegessen	setantejar
+setantegesses	setantejar
+setantegessin	setantejar
+setantegessis	setantejar
+setantegeu	setantejar
+setantegi	setantejar
+setantegin	setantejar
+setantegis	setantejar
+setantegés	setantejar
+setantegéssem	setantejar
+setantegésseu	setantejar
+setantegéssim	setantejar
+setantegéssiu	setantejar
+setantegí	setantejar
+setanteig	setantejar
+setanteja	setantejar
+setantejada	setantejar
+setantejades	setantejar
+setantejam	setantejar
+setantejant	setantejar
+setantejar
+setantejara	setantejar
+setantejaran	setantejar
+setantejarem	setantejar
+setantejaren	setantejar
+setantejares	setantejar
+setantejareu	setantejar
+setantejaria	setantejar
+setantejarien	setantejar
+setantejaries	setantejar
+setantejarà	setantejar
+setantejaràs	setantejar
+setantejaré	setantejar
+setantejaríem	setantejar
+setantejaríeu	setantejar
+setantejassen	setantejar
+setantejasses	setantejar
+setantejassin	setantejar
+setantejassis	setantejar
+setantejat	setantejar
+setantejats	setantejar
+setantejau	setantejar
+setantejava	setantejar
+setantejaven	setantejar
+setantejaves	setantejar
+setantejo	setantejar
+setantejà	setantejar
+setantejàrem	setantejar
+setantejàreu	setantejar
+setantejàs	setantejar
+setantejàssem	setantejar
+setantejàsseu	setantejar
+setantejàssim	setantejar
+setantejàssiu	setantejar
+setantejàvem	setantejar
+setantejàveu	setantejar
+setantena
+setantena	setantè
+setantenes	setantena
+setantenes	setantè
+setantenni
+setantennis	setantenni
+setantens	setantè
+setantina
+setantina	setantí
+setantines	setantina
+setantines	setantí
+setantins	setantí
+setantè
+setanté	setantè
+setantí
+setastina
+setastines	setastina
+setcasenc
+setcasenca	setcasenc
+setcasencs	setcasenc
+setcasenques	setcasenc
+setcentista
+setcentistes	setcentista
+setciències
+setembral
+setembrals	setembral
+setembre
+setembres	setembre
+setembrina	setembrí
+setembrines	setembrí
+setembrins	setembrí
+setembrí
+setena	setè
+setenes	setè
+setens	setè
+setes	seta
+setet
+setets	setet
+setge
+setges	setge
+seti
+setia	setiar
+setiada	setiar
+setiades	setiar
+setial
+setials	setial
+setiam	setiar
+setiant	setiar
+setiar
+setiara	setiar
+setiaran	setiar
+setiarem	setiar
+setiaren	setiar
+setiares	setiar
+setiareu	setiar
+setiaria	setiar
+setiarien	setiar
+setiaries	setiar
+setiarà	setiar
+setiaràs	setiar
+setiaré	setiar
+setiaríem	setiar
+setiaríeu	setiar
+setiassen	setiar
+setiasses	setiar
+setiassin	setiar
+setiassis	setiar
+setiat	setiar
+setiats	setiar
+setiau	setiar
+setiava	setiar
+setiaven	setiar
+setiaves	setiar
+setie	setiar
+setiem	setiar
+setien	setiar
+seties	setiar
+setiessen	setiar
+setiesses	setiar
+setiessin	setiar
+setiessis	setiar
+setiet
+setiets	setiet
+setieu	setiar
+setiforme
+setiformes	setiforme
+setii	setiar
+setina
+setina	setinar
+setinada	setinar
+setinades	setinar
+setinador
+setinadora
+setinadora	setinador
+setinadores	setinador
+setinadores	setinadora
+setinadors	setinador
+setinam	setinar
+setinant	setinar
+setinar
+setinara	setinar
+setinaran	setinar
+setinarem	setinar
+setinaren	setinar
+setinares	setinar
+setinareu	setinar
+setinaria	setinar
+setinarien	setinar
+setinaries	setinar
+setinarà	setinar
+setinaràs	setinar
+setinaré	setinar
+setinaríem	setinar
+setinaríeu	setinar
+setinassen	setinar
+setinasses	setinar
+setinassin	setinar
+setinassis	setinar
+setinat	setinar
+setinatge
+setinatges	setinatge
+setinats	setinar
+setinau	setinar
+setinava	setinar
+setinaven	setinar
+setinaves	setinar
+setine	setinar
+setinem	setinar
+setinen	setinar
+setines	setina
+setines	setinar
+setinessen	setinar
+setinesses	setinar
+setinessin	setinar
+setinessis	setinar
+setineu	setinar
+setini	setinar
+setinin	setinar
+setinis	setinar
+setino	setinar
+setins	setí
+setinà	setinar
+setinàrem	setinar
+setinàreu	setinar
+setinàs	setinar
+setinàssem	setinar
+setinàsseu	setinar
+setinàssim	setinar
+setinàssiu	setinar
+setinàvem	setinar
+setinàveu	setinar
+setinés	setinar
+setinéssem	setinar
+setinésseu	setinar
+setinéssim	setinar
+setinéssiu	setinar
+setiní	setinar
+setio	setiar
+setis	seti
+setià	setiar
+setiàrem	setiar
+setiàreu	setiar
+setiàs	setiar
+setiàssem	setiar
+setiàsseu	setiar
+setiàssim	setiar
+setiàssiu	setiar
+setiàvem	setiar
+setiàveu	setiar
+setiés	setiar
+setiéssem	setiar
+setiésseu	setiar
+setiéssim	setiar
+setiéssiu	setiar
+setií	setiar
+setiï	setiar
+setiïn	setiar
+setiïs	setiar
+setmana
+setmanada
+setmanades	setmanada
+setmanal
+setmanalment
+setmanals	setmanal
+setmanari
+setmanaris	setmanari
+setmaner
+setmanera	setmaner
+setmaneres	setmaner
+setmaners	setmaner
+setmanes	setmana
+setmaneta
+setmanetes	setmaneta
+setmania
+setmanies	setmania
+setmesina	setmesí
+setmesines	setmesí
+setmesins	setmesí
+setmesona	setmesó
+setmesones	setmesó
+setmesons	setmesó
+setmesí
+setmesó
+setoperona
+setosa	setós
+setoses	setós
+setosos	setós
+setra
+setres	setra
+setrill
+setrilla
+setrillada
+setrillades	setrillada
+setrillera
+setrilleres	setrillera
+setrilles	setrilla
+setrills	setrill
+sets	set_1
+sets	set_2
+setsabers
+setter
+setters	setter
+setze
+setze	setze_1
+setzena
+setzena	setzè
+setzenes	setzena
+setzenes	setzè
+setzens	setzè
+setzes	setze_1
+setzè
+setzé	setzè
+setàcia	setaci
+setàcies	setaci
+setària
+setàries	setària
+setè
+seté	setè
+setí
+setífer
+setífera	setífer
+setíferes	setífer
+setífers	setífer
+setín	setinar
+setós

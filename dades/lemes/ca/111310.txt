@@ -1,0 +1,740 @@
+mol
+mol	molar
+mol	moldre
+mola
+mola	molar
+molada
+molada	molar
+molades	molada
+molades	molar
+molador
+moladora	molador
+moladores	molador
+moladors	molador
+molal
+molalitat
+molalitats	molalitat
+molals	molal
+molam	molar
+molant	molar
+molantenc
+molantenca	molantenc
+molantencs	molantenc
+molantenques	molantenc
+molar
+molara	molar
+molaran	molar
+molarem	molar
+molaren	molar
+molarenc
+molarenca	molarenc
+molarencs	molarenc
+molarenques	molarenc
+molares	molar
+molareu	molar
+molaria	molar
+molarien	molar
+molaries	molar
+molariforme
+molariformes	molariforme
+molarisme
+molarismes	molarisme
+molaritat
+molaritats	molaritat
+molaritzacions	molarització
+molarització
+molars	molar
+molarà	molar
+molaràs	molar
+molaré	molar
+molaríem	molar
+molaríeu	molar
+molassa
+molassen	molar
+molasses	molar
+molasses	molassa
+molassin	molar
+molassis	molar
+molat	molar
+molats	molar
+molau	molar
+molava	molar
+molaven	molar
+molaves	molar
+molc	moldre
+moldau
+moldaus	moldau
+moldava
+moldava	moldau
+moldaves	moldau
+moldaves	moldava
+moldavita
+moldavites	moldavita
+moldran	moldre
+moldre
+moldrem	moldre
+moldreu	moldre
+moldria	moldre
+moldrien	moldre
+moldries	moldre
+moldrà	moldre
+moldràs	moldre
+moldré	moldre
+moldríem	moldre
+moldríeu	moldre
+mole	molar
+molecular
+molecularitat
+molecularitats	molecularitat
+molecularment
+moleculars	molecular
+moledissa	moledís
+moledisses	moledís
+moledissos	moledís
+moledor
+moledora	moledor
+moledores	moledor
+moledors	moledor
+moledís
+molem	molar
+molem	moldre
+molen	molar
+molen	moldre
+molent	moldre
+moler
+molera	moler
+moleres	moler
+molers	moler
+moles	mola
+moles	molar
+molesquins	molesquí
+molesquí
+molessen	molar
+molesses	molar
+molessin	molar
+molessis	molar
+molest
+molest	molestar
+molesta	molest
+molesta	molestar
+molestada	molestar
+molestades	molestar
+molestador
+molestadora	molestador
+molestadores	molestador
+molestadors	molestador
+molestam	molestar
+molestament
+molestant	molestar
+molestar
+molestara	molestar
+molestaran	molestar
+molestarem	molestar
+molestaren	molestar
+molestares	molestar
+molestareu	molestar
+molestaria	molestar
+molestarien	molestar
+molestaries	molestar
+molestarà	molestar
+molestaràs	molestar
+molestaré	molestar
+molestaríem	molestar
+molestaríeu	molestar
+molestassen	molestar
+molestasses	molestar
+molestassin	molestar
+molestassis	molestar
+molestat	molestar
+molestats	molestar
+molestau	molestar
+molestava	molestar
+molestaven	molestar
+molestaves	molestar
+moleste	molestar
+molestem	molestar
+molesten	molestar
+molestes	molest
+molestes	molestar
+molestessen	molestar
+molestesses	molestar
+molestessin	molestar
+molestessis	molestar
+molesteu	molestar
+molesti	molestar
+molestin	molestar
+molestis	molestar
+molesto	molestar
+molestos	molest
+molestosa	molestós
+molestosament
+molestoses	molestós
+molestosos	molestós
+molests	molest
+molestà	molestar
+molestàrem	molestar
+molestàreu	molestar
+molestàs	molestar
+molestàssem	molestar
+molestàsseu	molestar
+molestàssim	molestar
+molestàssiu	molestar
+molestàvem	molestar
+molestàveu	molestar
+molestés	molestar
+molestéssem	molestar
+molestésseu	molestar
+molestéssim	molestar
+molestéssiu	molestar
+molestí	molestar
+molestíssim
+molestíssima	molestíssim
+molestíssimes	molestíssim
+molestíssims	molestíssim
+molestós
+moleta
+moletege	moletejar
+moletegem	moletejar
+moletegen	moletejar
+moleteges	moletejar
+moletegessen	moletejar
+moletegesses	moletejar
+moletegessin	moletejar
+moletegessis	moletejar
+moletegeu	moletejar
+moletegi	moletejar
+moletegin	moletejar
+moletegis	moletejar
+moletegés	moletejar
+moletegéssem	moletejar
+moletegésseu	moletejar
+moletegéssim	moletejar
+moletegéssiu	moletejar
+moletegí	moletejar
+moleteig	moletejar
+moleteja	moletejar
+moletejada	moletejar
+moletejades	moletejar
+moletejador
+moletejadora	moletejador
+moletejadores	moletejador
+moletejadors	moletejador
+moletejam	moletejar
+moletejant	moletejar
+moletejar
+moletejara	moletejar
+moletejaran	moletejar
+moletejarem	moletejar
+moletejaren	moletejar
+moletejares	moletejar
+moletejareu	moletejar
+moletejaria	moletejar
+moletejarien	moletejar
+moletejaries	moletejar
+moletejarà	moletejar
+moletejaràs	moletejar
+moletejaré	moletejar
+moletejaríem	moletejar
+moletejaríeu	moletejar
+moletejassen	moletejar
+moletejasses	moletejar
+moletejassin	moletejar
+moletejassis	moletejar
+moletejat	moletejar
+moletejats	moletejar
+moletejau	moletejar
+moletejava	moletejar
+moletejaven	moletejar
+moletejaves	moletejar
+moletejo	moletejar
+moletejà	moletejar
+moletejàrem	moletejar
+moletejàreu	moletejar
+moletejàs	moletejar
+moletejàssem	moletejar
+moletejàsseu	moletejar
+moletejàssim	moletejar
+moletejàssiu	moletejar
+moletejàvem	moletejar
+moletejàveu	moletejar
+moletes	moleta
+moletons	moletó
+moletó
+moleu	molar
+moleu	moldre
+molga	moldre
+molgramostim
+molgramostims	molgramostim
+molguem	moldre
+molguen	moldre
+molguera	moldre
+molgueren	moldre
+molgueres	moldre
+molgues	moldre
+molguessen	moldre
+molguesses	moldre
+molguessin	moldre
+molguessis	moldre
+molgueu	moldre
+molgui	moldre
+molguin	moldre
+molguis	moldre
+molgué	moldre
+molguérem	moldre
+molguéreu	moldre
+molgués	moldre
+molguéssem	moldre
+molguésseu	moldre
+molguéssim	moldre
+molguéssiu	moldre
+molguí	moldre
+moli	molar
+molia	moldre
+molibdat
+molibdats	molibdat
+molibdenita
+molibdenites	molibdenita
+molibdenosi
+molibdenosis	molibdenosi
+molibdens	molibdè
+molibdosa	molibdós
+molibdoses	molibdós
+molibdosos	molibdós
+molibdè
+molibdé	molibdè
+molibdós
+molien	moldre
+molies	moldre
+molimen
+molin	molar
+molina
+molina	molinar
+molinada
+molinada	molinar
+molinades	molinada
+molinades	molinar
+molinam	molinar
+molinant	molinar
+molinar
+molinara	molinar
+molinaran	molinar
+molinarem	molinar
+molinaren	molinar
+molinares	molinar
+molinareu	molinar
+molinaria	molinar
+molinarien	molinar
+molinaries	molinar
+molinars	molinar
+molinarà	molinar
+molinaràs	molinar
+molinaré	molinar
+molinaríem	molinar
+molinaríeu	molinar
+molinassen	molinar
+molinasses	molinar
+molinassin	molinar
+molinassis	molinar
+molinat	molinar
+molinatge
+molinatges	molinatge
+molinats	molinar
+molinau	molinar
+molinava	molinar
+molinaven	molinar
+molinaves	molinar
+molindona
+molindones	molindona
+moline	molinar
+molinem	molinar
+molinen	molinar
+molinenc
+molinenca	molinenc
+molinencs	molinenc
+molinenques	molinenc
+moliner
+molinera	moliner
+molineres	moliner
+molineria
+molineries	molineria
+moliners	moliner
+molines	molina
+molines	molinar
+molinessen	molinar
+molinesses	molinar
+molinessin	molinar
+molinessis	molinar
+molinet
+molineta
+molinetes	molineta
+molinets	molinet
+molineu	molinar
+molini	molinar
+molinin	molinar
+molinis	molinar
+molinisme
+molinismes	molinisme
+molinista
+molinistes	molinista
+molino	molinar
+molins	molí
+molinà	molinar
+molinàrem	molinar
+molinàreu	molinar
+molinàs	molinar
+molinàssem	molinar
+molinàsseu	molinar
+molinàssim	molinar
+molinàssiu	molinar
+molinàvem	molinar
+molinàveu	molinar
+molinés	molinar
+molinéssem	molinar
+molinésseu	molinar
+molinéssim	molinar
+molinéssiu	molinar
+moliní	molinar
+molis	molar
+molismofòbia
+molismofòbies	molismofòbia
+molitges	molitja
+molitja
+molitjaira	molitjaire
+molitjaire
+molitjaires	molitjaire
+moll
+molla
+molla	moll
+mollal
+mollals	mollal
+mollament
+mollar
+mollars	mollar
+mollatge
+mollatges	mollatge
+mollege	mollejar
+mollegem	mollejar
+mollegen	mollejar
+molleges	mollejar
+mollegessen	mollejar
+mollegesses	mollejar
+mollegessin	mollejar
+mollegessis	mollejar
+mollegeu	mollejar
+mollegi	mollejar
+mollegin	mollejar
+mollegis	mollejar
+mollegés	mollejar
+mollegéssem	mollejar
+mollegésseu	mollejar
+mollegéssim	mollejar
+mollegéssiu	mollejar
+mollegí	mollejar
+molleig	mollejar
+molleja	mollejar
+mollejada	mollejar
+mollejades	mollejar
+mollejam	mollejar
+mollejant	mollejar
+mollejar
+mollejara	mollejar
+mollejaran	mollejar
+mollejarem	mollejar
+mollejaren	mollejar
+mollejares	mollejar
+mollejareu	mollejar
+mollejaria	mollejar
+mollejarien	mollejar
+mollejaries	mollejar
+mollejarà	mollejar
+mollejaràs	mollejar
+mollejaré	mollejar
+mollejaríem	mollejar
+mollejaríeu	mollejar
+mollejassen	mollejar
+mollejasses	mollejar
+mollejassin	mollejar
+mollejassis	mollejar
+mollejat	mollejar
+mollejats	mollejar
+mollejau	mollejar
+mollejava	mollejar
+mollejaven	mollejar
+mollejaves	mollejar
+mollejo	mollejar
+mollejà	mollejar
+mollejàrem	mollejar
+mollejàreu	mollejar
+mollejàs	mollejar
+mollejàssem	mollejar
+mollejàsseu	mollejar
+mollejàssim	mollejar
+mollejàssiu	mollejar
+mollejàvem	mollejar
+mollejàveu	mollejar
+mollenc
+mollenca	mollenc
+mollencs	mollenc
+mollenques	mollenc
+mollera
+molleres	mollera
+molleric
+mollerica
+mollerics	molleric
+molleriques	mollerica
+mollerol
+mollerols	mollerol
+mollerons	molleró
+mollerosa
+molleroses	mollerosa
+mollerussenc
+mollerussenca	mollerussenc
+mollerussencs	mollerussenc
+mollerussenques	mollerussenc
+molleró
+molles	moll
+molles	molla
+mollesa
+molleses	mollesa
+molleta
+molletana	molletà
+molletanes	molletà
+molletans	molletà
+molletenc
+molletenca	molletenc
+molletencs	molletenc
+molletenques	molletenc
+molletes	molleta
+molletà
+mollic
+mollics	mollic
+mollonenc
+mollonenca	mollonenc
+mollonencs	mollonenc
+mollonenques	mollonenc
+mollons	molló
+mollor
+mollors	mollor
+molls
+molls	moll
+molló
+molnupiravir
+molo	molar
+molons	moló
+molossos	molós
+mols	mol
+mols	moldre
+molsa
+molses	molsa
+molsidomina
+molsidomines	molsidomina
+molsora
+molsores	molsora
+molsosa	molsós
+molsosenc
+molsosenca	molsosenc
+molsosencs	molsosenc
+molsosenques	molsosenc
+molsoses	molsós
+molsosos	molsós
+molsosíssim
+molsosíssima	molsosíssim
+molsosíssimes	molsosíssim
+molsosíssims	molsosíssim
+molsuda	molsut
+molsudament
+molsudes	molsut
+molsudet
+molsudeta	molsudet
+molsudetes	molsudet
+molsudets	molsudet
+molsut
+molsuts	molsut
+molsós
+molt
+molt	moldre
+molta	moldre
+molta	molt
+moltes	moldre
+moltes	molt
+moltonada
+moltonades	moltonada
+moltonege	moltonejar
+moltonegem	moltonejar
+moltonegen	moltonejar
+moltoneges	moltonejar
+moltonegessen	moltonejar
+moltonegesses	moltonejar
+moltonegessin	moltonejar
+moltonegessis	moltonejar
+moltonegeu	moltonejar
+moltonegi	moltonejar
+moltonegin	moltonejar
+moltonegis	moltonejar
+moltonegés	moltonejar
+moltonegéssem	moltonejar
+moltonegésseu	moltonejar
+moltonegéssim	moltonejar
+moltonegéssiu	moltonejar
+moltonegí	moltonejar
+moltoneig	moltonejar
+moltoneja	moltonejar
+moltonejada	moltonejar
+moltonejades	moltonejar
+moltonejam	moltonejar
+moltonejant	moltonejar
+moltonejar
+moltonejara	moltonejar
+moltonejaran	moltonejar
+moltonejarem	moltonejar
+moltonejaren	moltonejar
+moltonejares	moltonejar
+moltonejareu	moltonejar
+moltonejaria	moltonejar
+moltonejarien	moltonejar
+moltonejaries	moltonejar
+moltonejarà	moltonejar
+moltonejaràs	moltonejar
+moltonejaré	moltonejar
+moltonejaríem	moltonejar
+moltonejaríeu	moltonejar
+moltonejassen	moltonejar
+moltonejasses	moltonejar
+moltonejassin	moltonejar
+moltonejassis	moltonejar
+moltonejat	moltonejar
+moltonejats	moltonejar
+moltonejau	moltonejar
+moltonejava	moltonejar
+moltonejaven	moltonejar
+moltonejaves	moltonejar
+moltonejo	moltonejar
+moltonejà	moltonejar
+moltonejàrem	moltonejar
+moltonejàreu	moltonejar
+moltonejàs	moltonejar
+moltonejàssem	moltonejar
+moltonejàsseu	moltonejar
+moltonejàssim	moltonejar
+moltonejàssiu	moltonejar
+moltonejàvem	moltonejar
+moltonejàveu	moltonejar
+moltonina
+moltonines	moltonina
+moltons	moltó
+molts	moldre
+molts	molt
+moltur	molturar
+moltura
+moltura	molturar
+molturada	molturar
+molturades	molturar
+molturam	molturar
+molturant	molturar
+molturar
+molturara	molturar
+molturaran	molturar
+molturarem	molturar
+molturaren	molturar
+molturares	molturar
+molturareu	molturar
+molturaria	molturar
+molturarien	molturar
+molturaries	molturar
+molturarà	molturar
+molturaràs	molturar
+molturaré	molturar
+molturaríem	molturar
+molturaríeu	molturar
+molturassen	molturar
+molturasses	molturar
+molturassin	molturar
+molturassis	molturar
+molturat	molturar
+molturats	molturar
+molturau	molturar
+molturava	molturar
+molturaven	molturar
+molturaves	molturar
+molture	molturar
+molturem	molturar
+molturen	molturar
+moltures	moltura
+moltures	molturar
+molturessen	molturar
+molturesses	molturar
+molturessin	molturar
+molturessis	molturar
+moltureu	molturar
+molturi	molturar
+molturin	molturar
+molturis	molturar
+molturo	molturar
+molturà	molturar
+molturàrem	molturar
+molturàreu	molturar
+molturàs	molturar
+molturàssem	molturar
+molturàsseu	molturar
+molturàssim	molturar
+molturàssiu	molturar
+molturàvem	molturar
+molturàveu	molturar
+molturés	molturar
+molturéssem	molturar
+molturésseu	molturar
+molturéssim	molturar
+molturéssiu	molturar
+molturí	molturar
+moltíssim
+moltíssima	moltíssim
+moltíssimes	moltíssim
+moltíssims	moltíssim
+moltó
+molva
+molves	molva
+molà	molar
+molàrem	molar
+molàreu	molar
+molàs	molar
+molàssem	molar
+molàsseu	molar
+molàssim	molar
+molàssiu	molar
+molàvem	molar
+molàveu	molar
+molècula
+molècules	molècula
+molèstia
+molèsties	molèstia
+molés	molar
+moléssem	molar
+molésseu	molar
+moléssim	molar
+moléssiu	molar
+molí
+molí	molar
+molíbdic
+molíbdica	molíbdic
+molíbdics	molíbdic
+molíbdiques	molíbdic
+molíem	moldre
+molíeu	moldre
+molímens	molimen
+molín	molinar
+molínia
+molínies	molínia
+molòssid
+molòssids	molòssid
+moló
+molós
+mòlid
+mòlids	mòlid
+mòllera
+mòlleres	mòllera
+mòlt	moldre
+mòlta
+mòlta	moldre
+mòltes	moldre
+mòltes	mòlta
+mòlts	moldre

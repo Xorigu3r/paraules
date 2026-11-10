@@ -1,0 +1,115 @@
+noc
+noc	nocar
+noc	noure
+noca	nocar
+nocada	nocar
+nocades	nocar
+nocam	nocar
+nocant	nocar
+nocar
+nocara	nocar
+nocaran	nocar
+nocardial
+nocardials	nocardial
+nocardioforme
+nocardioformes	nocardioforme
+nocardiosi
+nocardiosis	nocardiosi
+nocarem	nocar
+nocaren	nocar
+nocares	nocar
+nocareu	nocar
+nocaria	nocar
+nocarien	nocar
+nocaries	nocar
+nocarà	nocar
+nocaràs	nocar
+nocaré	nocar
+nocaríem	nocar
+nocaríeu	nocar
+nocassen	nocar
+nocasses	nocar
+nocassin	nocar
+nocassis	nocar
+nocat	nocar
+nocats	nocar
+nocau	nocar
+nocava	nocar
+nocaven	nocar
+nocaves	nocar
+nocebo
+nocer
+nocera	nocer
+noceres	nocer
+nocers	nocer
+noces
+nocicepcions	nocicepció
+nocicepció
+nociceptiu
+nociceptius	nociceptiu
+nociceptiva	nociceptiu
+nociceptives	nociceptiu
+nociceptor
+nociceptors	nociceptor
+nocional
+nocionalment
+nocionals	nocional
+nocions	noció
+nocipercepcions	nocipercepció
+nocipercepció
+nocireceptor
+nocireceptors	nocireceptor
+nociu
+nocius	nociu
+nociva	nociu
+nocivament
+nocives	nociu
+nocivitat
+nocivitats	nocivitat
+noció
+nocloprost
+nocloprostos	nocloprost
+nocloprosts	nocloprost
+noco	nocar
+nocs	noc
+noctambulisme
+noctambulismes	noctambulisme
+noctifòbia
+noctifòbies	noctifòbia
+noctiliònid
+noctiliònids	noctiliònid
+noctiluca
+noctiluques	noctiluca
+noctimelàlgia
+noctimelàlgies	noctimelàlgia
+noctuid
+noctuids	noctuid
+nocturn
+nocturna	nocturn
+nocturnal
+nocturnals	nocturnal
+nocturnament
+nocturnes	nocturn
+nocturnitat
+nocturnitats	nocturnitat
+nocturns	nocturn
+noctàmbul
+noctàmbula	noctàmbul
+noctàmbules	noctàmbul
+noctàmbuls	noctàmbul
+noctúria
+noctúries	noctúria
+nocà	nocar
+nocàrdia
+nocàrdies	nocàrdia
+nocàrem	nocar
+nocàreu	nocar
+nocàs	nocar
+nocàssem	nocar
+nocàsseu	nocar
+nocàssim	nocar
+nocàssiu	nocar
+nocàvem	nocar
+nocàveu	nocar
+nòctul
+nòctuls	nòctul

@@ -1,0 +1,842 @@
+pet
+pet	petar
+peta	petar
+petaca
+petada
+petada	petar
+petades	petada
+petades	petar
+petador
+petadora	petador
+petadores	petador
+petadors	petador
+petaflop
+petaflops	petaflop
+petaire
+petaires	petaire
+petalada	petalat
+petalades	petalat
+petalat
+petalats	petalat
+petalina	petalí
+petalines	petalí
+petalins	petalí
+petalisme
+petalismes	petalisme
+petalita
+petalites	petalita
+petaloide
+petaloides	petaloide
+petalí
+petalòdia
+petalòdies	petalòdia
+petam	petar
+petament
+petaments	petament
+petanca
+petaner
+petanera	petaner
+petaneres	petaner
+petaners	petaner
+petanques	petanca
+petant	petar
+petaques	petaca
+petar
+petara	petar
+petaran	petar
+petarc
+petarcs	petarc
+petard
+petardege	petardejar
+petardegem	petardejar
+petardegen	petardejar
+petardeges	petardejar
+petardegessen	petardejar
+petardegesses	petardejar
+petardegessin	petardejar
+petardegessis	petardejar
+petardegeu	petardejar
+petardegi	petardejar
+petardegin	petardejar
+petardegis	petardejar
+petardegés	petardejar
+petardegéssem	petardejar
+petardegésseu	petardejar
+petardegéssim	petardejar
+petardegéssiu	petardejar
+petardegí	petardejar
+petardeig	petardejar
+petardeja	petardejar
+petardejada	petardejar
+petardejades	petardejar
+petardejam	petardejar
+petardejant	petardejar
+petardejar
+petardejara	petardejar
+petardejaran	petardejar
+petardejarem	petardejar
+petardejaren	petardejar
+petardejares	petardejar
+petardejareu	petardejar
+petardejaria	petardejar
+petardejarien	petardejar
+petardejaries	petardejar
+petardejarà	petardejar
+petardejaràs	petardejar
+petardejaré	petardejar
+petardejaríem	petardejar
+petardejaríeu	petardejar
+petardejassen	petardejar
+petardejasses	petardejar
+petardejassin	petardejar
+petardejassis	petardejar
+petardejat	petardejar
+petardejats	petardejar
+petardejau	petardejar
+petardejava	petardejar
+petardejaven	petardejar
+petardejaves	petardejar
+petardejo	petardejar
+petardejà	petardejar
+petardejàrem	petardejar
+petardejàreu	petardejar
+petardejàs	petardejar
+petardejàssem	petardejar
+petardejàsseu	petardejar
+petardejàssim	petardejar
+petardejàssiu	petardejar
+petardejàvem	petardejar
+petardejàveu	petardejar
+petarder
+petardera	petarder
+petarderes	petarder
+petarders	petarder
+petardista
+petardistes	petardista
+petards	petard
+petarem	petar
+petaren	petar
+petares	petar
+petareu	petar
+petaria	petar
+petarien	petar
+petaries	petar
+petarquera
+petarqueres	petarquera
+petarrell
+petarrella	petarrell
+petarrellada
+petarrellades	petarrellada
+petarrellege	petarrellejar
+petarrellegem	petarrellejar
+petarrellegen	petarrellejar
+petarrelleges	petarrellejar
+petarrellegeu	petarrellejar
+petarrellegi	petarrellejar
+petarrellegin	petarrellejar
+petarrellegis	petarrellejar
+petarrellegés	petarrellejar
+petarrellegí	petarrellejar
+petarrelleig
+petarrelleig	petarrellejar
+petarrelleigs	petarrelleig
+petarrelleja	petarrellejar
+petarrellejada	petarrellejar
+petarrellejades	petarrellejar
+petarrellejam	petarrellejar
+petarrellejant	petarrellejar
+petarrellejar
+petarrellejara	petarrellejar
+petarrellejaran	petarrellejar
+petarrellejarem	petarrellejar
+petarrellejaren	petarrellejar
+petarrellejares	petarrellejar
+petarrellejareu	petarrellejar
+petarrellejaria	petarrellejar
+petarrellejarà	petarrellejar
+petarrellejaràs	petarrellejar
+petarrellejaré	petarrellejar
+petarrellejat	petarrellejar
+petarrellejats	petarrellejar
+petarrellejau	petarrellejar
+petarrellejava	petarrellejar
+petarrellejaven	petarrellejar
+petarrellejaves	petarrellejar
+petarrellejo	petarrellejar
+petarrellejos	petarrelleig
+petarrellejà	petarrellejar
+petarrellejàrem	petarrellejar
+petarrellejàreu	petarrellejar
+petarrellejàs	petarrellejar
+petarrellejàvem	petarrellejar
+petarrellejàveu	petarrellejar
+petarrelles	petarrell
+petarrells	petarrell
+petarà	petar
+petaràs	petar
+petaré	petar
+petaríem	petar
+petaríeu	petar
+petassen	petar
+petasses	petar
+petassin	petar
+petassis	petar
+petat	petar
+petats	petar
+petau	petar
+petava	petar
+petaven	petar
+petaves	petar
+pete	petar
+petege	petejar
+petegem	petejar
+petegen	petejar
+peteges	petejar
+petegessen	petejar
+petegesses	petejar
+petegessin	petejar
+petegessis	petejar
+petegeu	petejar
+petegi	petejar
+petegin	petejar
+petegis	petejar
+petegés	petejar
+petegéssem	petejar
+petegésseu	petejar
+petegéssim	petejar
+petegéssiu	petejar
+petegí	petejar
+peteig	petejar
+peteja	petejar
+petejada	petejar
+petejades	petejar
+petejador
+petejadora	petejador
+petejadores	petejador
+petejadors	petejador
+petejam	petejar
+petejant	petejar
+petejar
+petejara	petejar
+petejaran	petejar
+petejarem	petejar
+petejaren	petejar
+petejares	petejar
+petejareu	petejar
+petejaria	petejar
+petejarien	petejar
+petejaries	petejar
+petejarà	petejar
+petejaràs	petejar
+petejaré	petejar
+petejaríem	petejar
+petejaríeu	petejar
+petejassen	petejar
+petejasses	petejar
+petejassin	petejar
+petejassis	petejar
+petejat	petejar
+petejats	petejar
+petejau	petejar
+petejava	petejar
+petejaven	petejar
+petejaves	petejar
+petejo	petejar
+petejà	petejar
+petejàrem	petejar
+petejàreu	petejar
+petejàs	petejar
+petejàssem	petejar
+petejàsseu	petejar
+petejàssim	petejar
+petejàssiu	petejar
+petejàvem	petejar
+petejàveu	petejar
+petem	petar
+peten	petar
+petenera
+peteneres	petenera
+petequial
+petequials	petequial
+petequiasi
+petequiasis	petequiasi
+peter
+petera	peter
+peteres	peter
+peters	peter
+petes	petar
+petessen	petar
+petesses	petar
+petessin	petar
+petessis	petar
+peteu	petar
+petge
+petge	petjar
+petgem	petjar
+petgen	petjar
+petges	petge
+petges	petja
+petges	petjar
+petgessen	petjar
+petgesses	petjar
+petgessin	petjar
+petgessis	petjar
+petgeu	petjar
+petgi	petjar
+petgin	petjar
+petgis	petjar
+petgés	petjar
+petgéssem	petjar
+petgésseu	petjar
+petgéssim	petjar
+petgéssiu	petjar
+petgí	petjar
+peti	petar
+peticion	peticionar
+peticiona	peticionar
+peticionada	peticionar
+peticionades	peticionar
+peticionam	peticionar
+peticionant	peticionar
+peticionar
+peticionara	peticionar
+peticionaran	peticionar
+peticionarem	peticionar
+peticionaren	peticionar
+peticionares	peticionar
+peticionareu	peticionar
+peticionari
+peticionaria	peticionar
+peticionarien	peticionar
+peticionaries	peticionar
+peticionaris	peticionari
+peticionarà	peticionar
+peticionaràs	peticionar
+peticionaré	peticionar
+peticionaríem	peticionar
+peticionaríeu	peticionar
+peticionassen	peticionar
+peticionasses	peticionar
+peticionassin	peticionar
+peticionassis	peticionar
+peticionat	peticionar
+peticionats	peticionar
+peticionau	peticionar
+peticionava	peticionar
+peticionaven	peticionar
+peticionaves	peticionar
+peticione	peticionar
+peticionem	peticionar
+peticionen	peticionar
+peticioner
+peticionera	peticioner
+peticioneres	peticioner
+peticioners	peticioner
+peticiones	peticionar
+peticionessen	peticionar
+peticionesses	peticionar
+peticionessin	peticionar
+peticionessis	peticionar
+peticioneu	peticionar
+peticioni	peticionar
+peticionin	peticionar
+peticionis	peticionar
+peticiono	peticionar
+peticions	petició
+peticionà	peticionar
+peticionàrem	peticionar
+peticionàreu	peticionar
+peticionària	peticionari
+peticionàries	peticionari
+peticionàs	peticionar
+peticionàssem	peticionar
+peticionàsseu	peticionar
+peticionàssim	peticionar
+peticionàssiu	peticionar
+peticionàvem	peticionar
+peticionàveu	peticionar
+peticionés	peticionar
+peticionéssem	peticionar
+peticionésseu	peticionar
+peticionéssim	peticionar
+peticionéssiu	peticionar
+peticioní	peticionar
+petició
+peticànon
+peticànons	peticànon
+petidina
+petidines	petidina
+petifloc
+petiflocs	petifloc
+petimetre
+petimetres	petimetre
+petin	petar
+petis	petar
+petit
+petita	petit
+petitament
+petitburgesa	petitburgès
+petitburgeses	petitburgès
+petitburgesos	petitburgès
+petitburgès
+petitburgés	petitburgès
+petites	petit
+petitesa
+petiteses	petitesa
+petitet
+petiteta	petitet
+petitetes	petitet
+petitets	petitet
+petitona	petitó
+petitones	petitó
+petitonet
+petitoneta	petitonet
+petitonetes	petitonet
+petitonets	petitonet
+petitons	petitó
+petitori
+petitoris	petitori
+petits	petit
+petitíssim
+petitíssima	petitíssim
+petitíssimes	petitíssim
+petitíssims	petitíssim
+petitòria	petitori
+petitòries	petitori
+petitó
+petj	petjar
+petja
+petja	petjar
+petjada
+petjada	petjar
+petjades	petjada
+petjades	petjar
+petjam	petjar
+petjant	petjar
+petjapapers
+petjar
+petjara	petjar
+petjaran	petjar
+petjarem	petjar
+petjaren	petjar
+petjares	petjar
+petjareu	petjar
+petjaria	petjar
+petjarien	petjar
+petjaries	petjar
+petjarà	petjar
+petjaràs	petjar
+petjaré	petjar
+petjaríem	petjar
+petjaríeu	petjar
+petjassen	petjar
+petjasses	petjar
+petjassin	petjar
+petjassis	petjar
+petjat	petjar
+petjats	petjar
+petjau	petjar
+petjava	petjar
+petjaven	petjar
+petjaves	petjar
+petjo	petjar
+petjà	petjar
+petjàrem	petjar
+petjàreu	petjar
+petjàs	petjar
+petjàssem	petjar
+petjàsseu	petjar
+petjàssim	petjar
+petjàssiu	petjar
+petjàvem	petjar
+petjàveu	petjar
+peto
+peto	petar
+petonassos	petonàs
+petonege	petonejar
+petonegem	petonejar
+petonegen	petonejar
+petoneges	petonejar
+petonegessen	petonejar
+petonegesses	petonejar
+petonegessin	petonejar
+petonegessis	petonejar
+petonegeu	petonejar
+petonegi	petonejar
+petonegin	petonejar
+petonegis	petonejar
+petonegés	petonejar
+petonegéssem	petonejar
+petonegésseu	petonejar
+petonegéssim	petonejar
+petonegéssiu	petonejar
+petonegí	petonejar
+petoneig
+petoneig	petonejar
+petoneigs	petoneig
+petoneja	petonejar
+petonejada	petonejar
+petonejades	petonejar
+petonejam	petonejar
+petonejant	petonejar
+petonejar
+petonejara	petonejar
+petonejaran	petonejar
+petonejarem	petonejar
+petonejaren	petonejar
+petonejares	petonejar
+petonejareu	petonejar
+petonejaria	petonejar
+petonejarien	petonejar
+petonejaries	petonejar
+petonejarà	petonejar
+petonejaràs	petonejar
+petonejaré	petonejar
+petonejaríem	petonejar
+petonejaríeu	petonejar
+petonejassen	petonejar
+petonejasses	petonejar
+petonejassin	petonejar
+petonejassis	petonejar
+petonejat	petonejar
+petonejats	petonejar
+petonejau	petonejar
+petonejava	petonejar
+petonejaven	petonejar
+petonejaves	petonejar
+petonejo	petonejar
+petonejos	petoneig
+petonejà	petonejar
+petonejàrem	petonejar
+petonejàreu	petonejar
+petonejàs	petonejar
+petonejàssem	petonejar
+petonejàsseu	petonejar
+petonejàssim	petonejar
+petonejàssiu	petonejar
+petonejàvem	petonejar
+petonejàveu	petonejar
+petoner
+petonera	petoner
+petoneres	petoner
+petoners	petoner
+petonet
+petonets	petonet
+petons	petó
+petonàs
+petorra
+petorrege	petorrejar
+petorregem	petorrejar
+petorregen	petorrejar
+petorreges	petorrejar
+petorregessen	petorrejar
+petorregesses	petorrejar
+petorregessin	petorrejar
+petorregessis	petorrejar
+petorregeu	petorrejar
+petorregi	petorrejar
+petorregin	petorrejar
+petorregis	petorrejar
+petorregés	petorrejar
+petorregéssem	petorrejar
+petorregésseu	petorrejar
+petorregéssim	petorrejar
+petorregéssiu	petorrejar
+petorregí	petorrejar
+petorreig	petorrejar
+petorreja	petorrejar
+petorrejada	petorrejar
+petorrejades	petorrejar
+petorrejam	petorrejar
+petorrejant	petorrejar
+petorrejar
+petorrejara	petorrejar
+petorrejaran	petorrejar
+petorrejarem	petorrejar
+petorrejaren	petorrejar
+petorrejares	petorrejar
+petorrejareu	petorrejar
+petorrejaria	petorrejar
+petorrejarien	petorrejar
+petorrejaries	petorrejar
+petorrejarà	petorrejar
+petorrejaràs	petorrejar
+petorrejaré	petorrejar
+petorrejaríem	petorrejar
+petorrejaríeu	petorrejar
+petorrejassen	petorrejar
+petorrejasses	petorrejar
+petorrejassin	petorrejar
+petorrejassis	petorrejar
+petorrejat	petorrejar
+petorrejats	petorrejar
+petorrejau	petorrejar
+petorrejava	petorrejar
+petorrejaven	petorrejar
+petorrejaves	petorrejar
+petorrejo	petorrejar
+petorrejà	petorrejar
+petorrejàrem	petorrejar
+petorrejàreu	petorrejar
+petorrejàs	petorrejar
+petorrejàssem	petorrejar
+petorrejàsseu	petorrejar
+petorrejàssim	petorrejar
+petorrejàssiu	petorrejar
+petorrejàvem	petorrejar
+petorrejàveu	petorrejar
+petorrer
+petorrera
+petorrera	petorrer
+petorreres	petorrer
+petorreres	petorrera
+petorrers	petorrer
+petorres	petorra
+petorrins	petorrí
+petorro
+petorros	petorro
+petorrí
+petos	peto
+petrarquesc
+petrarquesca	petrarquesc
+petrarquescos	petrarquesc
+petrarquescs	petrarquesc
+petrarquesques	petrarquesc
+petrarquiana	petrarquià
+petrarquianes	petrarquià
+petrarquians	petrarquià
+petrarquisme
+petrarquismes	petrarquisme
+petrarquista
+petrarquistes	petrarquista
+petrarquià
+petrell
+petrells	petrell
+petrenc
+petrenca	petrenc
+petrencs	petrenc
+petrenques	petrenc
+petrer
+petrera	petrer
+petreres	petrer
+petrerina	petrerí
+petrerines	petrerí
+petrerins	petrerí
+petrers	petrer
+petrerí
+petresana	petresà
+petresanes	petresà
+petresans	petresà
+petresà
+petri
+petricloral
+petriclorals	petricloral
+petricons	petricó
+petricor
+petricors	petricor
+petricó
+petriel·lidosi
+petriel·lidosis	petriel·lidosi
+petrific	petrificar
+petrifica	petrificar
+petrificable
+petrificables	petrificable
+petrificacions	petrificació
+petrificació
+petrificada	petrificar
+petrificades	petrificar
+petrificam	petrificar
+petrificant	petrificar
+petrificar
+petrificara	petrificar
+petrificaran	petrificar
+petrificarem	petrificar
+petrificaren	petrificar
+petrificares	petrificar
+petrificareu	petrificar
+petrificaria	petrificar
+petrificarien	petrificar
+petrificaries	petrificar
+petrificarà	petrificar
+petrificaràs	petrificar
+petrificaré	petrificar
+petrificaríem	petrificar
+petrificaríeu	petrificar
+petrificassen	petrificar
+petrificasses	petrificar
+petrificassin	petrificar
+petrificassis	petrificar
+petrificat	petrificar
+petrificats	petrificar
+petrificau	petrificar
+petrificava	petrificar
+petrificaven	petrificar
+petrificaves	petrificar
+petrifico	petrificar
+petrificà	petrificar
+petrificàrem	petrificar
+petrificàreu	petrificar
+petrificàs	petrificar
+petrificàssem	petrificar
+petrificàsseu	petrificar
+petrificàssim	petrificar
+petrificàssiu	petrificar
+petrificàvem	petrificar
+petrificàveu	petrificar
+petrifique	petrificar
+petrifiquem	petrificar
+petrifiquen	petrificar
+petrifiques	petrificar
+petrifiquessen	petrificar
+petrifiquesses	petrificar
+petrifiquessin	petrificar
+petrifiquessis	petrificar
+petrifiqueu	petrificar
+petrifiqui	petrificar
+petrifiquin	petrificar
+petrifiquis	petrificar
+petrifiqués	petrificar
+petrifiquéssem	petrificar
+petrifiquésseu	petrificar
+petrifiquéssim	petrificar
+petrifiquéssiu	petrificar
+petrifiquí	petrificar
+petris	petri
+petrodòlar
+petrodòlars	petrodòlar
+petroescatosa	petroescatós
+petroescatoses	petroescatós
+petroescatosos	petroescatós
+petroescatós
+petroesfenoidal
+petroestafilina	petroestafilí
+petroestafilins	petroestafilí
+petroestafilí
+petroestat
+petroestats	petroestat
+petrofaringi
+petrofaringis	petrofaringi
+petrofaríngia	petrofaringi
+petrofaríngies	petrofaringi
+petrografia
+petrografies	petrografia
+petrogràfic
+petrogràfica	petrogràfic
+petrogràfics	petrogràfic
+petrogràfiques	petrogràfic
+petrogènesi
+petrogènesis	petrogènesi
+petrogènia
+petrogènies	petrogènia
+petrolanca	petrolanco
+petrolanco
+petrolancos	petrolanco
+petrolanques	petrolanco
+petrolat
+petrolats	petrolat
+petroler
+petrolera	petroler
+petroleres	petroler
+petrolers	petroler
+petroli
+petrolier
+petroliera	petrolier
+petrolieres	petrolier
+petrolieria
+petrolieries	petrolieria
+petroliers	petrolier
+petrolina
+petrolines	petrolina
+petrolis	petroli
+petrologia
+petrologies	petrologia
+petrolàtum
+petrolàtums	petrolàtum
+petrolífer
+petrolífera	petrolífer
+petrolíferes	petrolífer
+petrolífers	petrolífer
+petrològic
+petrològica	petrològic
+petrològics	petrològic
+petrològiques	petrològic
+petromastoidal
+petromastoidals	petromastoidal
+petromax
+petromaxos	petromax
+petromizòntid
+petromizòntids	petromizòntid
+petromonarquia
+petromonarquies	petromonarquia
+petromúrid
+petromúrids	petromúrid
+petrooccipital
+petrooccipitals	petrooccipital
+petroquímic
+petroquímica
+petroquímica	petroquímic
+petroquímics	petroquímic
+petroquímiques	petroquímic
+petroquímiques	petroquímica
+petrosa	petrós
+petrosectomia
+petrosectomies	petrosectomia
+petroses	petrós
+petrosilici
+petrosilicis	petrosilici
+petrosilícia	petrosilici
+petrosilícies	petrosilici
+petrositis
+petrosos	petrós
+petrosílex
+petrosílexs	petrosílex
+petròglif
+petròglifs	petròglif
+petròleg
+petròlegs	petròleg
+petròloga	petròleg
+petròlogues	petròleg
+petrós
+pets	pet
+petulant
+petulantment
+petulants	petulant
+petulància
+petulàncies	petulància
+petxeneg
+petxenega	petxeneg
+petxenegs	petxeneg
+petxenegues	petxeneg
+petxina
+petxinar
+petxinars	petxinar
+petxines	petxina
+petxinot
+petxinots	petxinot
+petà	petar
+petàrem	petar
+petàreu	petar
+petàs	petar
+petàssem	petar
+petàsseu	petar
+petàssim	petar
+petàssiu	petar
+petàvem	petar
+petàveu	petar
+petèquia
+petèquies	petèquia
+petés	petar
+petéssem	petar
+petésseu	petar
+petéssim	petar
+petéssiu	petar
+petí	petar
+petó
+petúnia
+petúnies	petúnia
+pètal
+pètals	pètal
+pètita
+pètites	pètita
+pètria	petri
+pètries	petri

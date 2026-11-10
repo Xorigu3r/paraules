@@ -1,0 +1,399 @@
+tos	ton
+tos	tondre
+tos	tos_1
+tos	tos_2
+tos	tossar
+tosa
+tosa	tondre
+tosana	tosà
+tosanes	tosà
+tosans	tosà
+tosc
+tosc	toscar
+tosca
+tosca	tosc
+tosca	toscar
+toscada	toscar
+toscades	toscar
+toscador
+toscadora	toscador
+toscadores	toscador
+toscadors	toscador
+toscam	toscar
+toscament
+toscana	toscà
+toscanes	toscà
+toscans	toscà
+toscant	toscar
+toscar
+toscara	toscar
+toscaran	toscar
+toscarem	toscar
+toscaren	toscar
+toscares	toscar
+toscareu	toscar
+toscaria	toscar
+toscarien	toscar
+toscaries	toscar
+toscars	toscar
+toscarà	toscar
+toscaràs	toscar
+toscaré	toscar
+toscaríem	toscar
+toscaríeu	toscar
+toscassen	toscar
+toscasses	toscar
+toscassin	toscar
+toscassis	toscar
+toscat	toscar
+toscatge
+toscatges	toscatge
+toscats	toscar
+toscau	toscar
+toscava	toscar
+toscaven	toscar
+toscaves	toscar
+tosco	toscar
+toscos	tosc
+toscosa	toscós
+toscoses	toscós
+toscosos	toscós
+toscs	tosc
+toscà
+toscà	toscar
+toscàrem	toscar
+toscàreu	toscar
+toscàs	toscar
+toscàssem	toscar
+toscàsseu	toscar
+toscàssim	toscar
+toscàssiu	toscar
+toscàvem	toscar
+toscàveu	toscar
+toscós
+tosell
+tosella
+tosella	tosell
+toselles	tosell
+toselles	tosella
+tosells	tosell
+toses	tondre
+toses	tosa
+tosilat
+tosilats	tosilat
+tosilcloramida
+tosilcloramides	tosilcloramida
+tositumomab
+tositumomabs	tositumomab
+tosos	tondre
+tosque	toscar
+tosquedat
+tosquedats	tosquedat
+tosquege	tosquejar
+tosquegem	tosquejar
+tosquegen	tosquejar
+tosqueges	tosquejar
+tosquegessen	tosquejar
+tosquegesses	tosquejar
+tosquegessin	tosquejar
+tosquegessis	tosquejar
+tosquegeu	tosquejar
+tosquegi	tosquejar
+tosquegin	tosquejar
+tosquegis	tosquejar
+tosquegés	tosquejar
+tosquegéssem	tosquejar
+tosquegésseu	tosquejar
+tosquegéssim	tosquejar
+tosquegéssiu	tosquejar
+tosquegí	tosquejar
+tosqueig	tosquejar
+tosqueja	tosquejar
+tosquejada	tosquejar
+tosquejades	tosquejar
+tosquejam	tosquejar
+tosquejant	tosquejar
+tosquejar
+tosquejara	tosquejar
+tosquejaran	tosquejar
+tosquejarem	tosquejar
+tosquejaren	tosquejar
+tosquejares	tosquejar
+tosquejareu	tosquejar
+tosquejaria	tosquejar
+tosquejarien	tosquejar
+tosquejaries	tosquejar
+tosquejarà	tosquejar
+tosquejaràs	tosquejar
+tosquejaré	tosquejar
+tosquejaríem	tosquejar
+tosquejaríeu	tosquejar
+tosquejassen	tosquejar
+tosquejasses	tosquejar
+tosquejassin	tosquejar
+tosquejassis	tosquejar
+tosquejat	tosquejar
+tosquejats	tosquejar
+tosquejau	tosquejar
+tosquejava	tosquejar
+tosquejaven	tosquejar
+tosquejaves	tosquejar
+tosquejo	tosquejar
+tosquejà	tosquejar
+tosquejàrem	tosquejar
+tosquejàreu	tosquejar
+tosquejàs	tosquejar
+tosquejàssem	tosquejar
+tosquejàsseu	tosquejar
+tosquejàssim	tosquejar
+tosquejàssiu	tosquejar
+tosquejàvem	tosquejar
+tosquejàveu	tosquejar
+tosquem	toscar
+tosquen	toscar
+tosquera
+tosqueres	tosquera
+tosques	tosc
+tosques	tosca
+tosques	toscar
+tosquesa
+tosqueses	tosquesa
+tosquessen	toscar
+tosquesses	toscar
+tosquessin	toscar
+tosquessis	toscar
+tosqueu	toscar
+tosqui	toscar
+tosquin	toscar
+tosquir	tosquirar
+tosquira	tosquirar
+tosquirada	tosquirar
+tosquirades	tosquirar
+tosquiram	tosquirar
+tosquirant	tosquirar
+tosquirar
+tosquirara	tosquirar
+tosquiraran	tosquirar
+tosquirarem	tosquirar
+tosquiraren	tosquirar
+tosquirares	tosquirar
+tosquirareu	tosquirar
+tosquiraria	tosquirar
+tosquirarien	tosquirar
+tosquiraries	tosquirar
+tosquirarà	tosquirar
+tosquiraràs	tosquirar
+tosquiraré	tosquirar
+tosquiraríem	tosquirar
+tosquiraríeu	tosquirar
+tosquirassen	tosquirar
+tosquirasses	tosquirar
+tosquirassin	tosquirar
+tosquirassis	tosquirar
+tosquirat	tosquirar
+tosquirats	tosquirar
+tosquirau	tosquirar
+tosquirava	tosquirar
+tosquiraven	tosquirar
+tosquiraves	tosquirar
+tosquire	tosquirar
+tosquirem	tosquirar
+tosquiren	tosquirar
+tosquires	tosquirar
+tosquiressen	tosquirar
+tosquiresses	tosquirar
+tosquiressin	tosquirar
+tosquiressis	tosquirar
+tosquireu	tosquirar
+tosquiri	tosquirar
+tosquirin	tosquirar
+tosquiris	tosquirar
+tosquiro	tosquirar
+tosquirà	tosquirar
+tosquiràrem	tosquirar
+tosquiràreu	tosquirar
+tosquiràs	tosquirar
+tosquiràssem	tosquirar
+tosquiràsseu	tosquirar
+tosquiràssim	tosquirar
+tosquiràssiu	tosquirar
+tosquiràvem	tosquirar
+tosquiràveu	tosquirar
+tosquirés	tosquirar
+tosquiréssem	tosquirar
+tosquirésseu	tosquirar
+tosquiréssim	tosquirar
+tosquiréssiu	tosquirar
+tosquirí	tosquirar
+tosquis	toscar
+tosqués	toscar
+tosquéssem	toscar
+tosquésseu	toscar
+tosquéssim	toscar
+tosquéssiu	toscar
+tosquí	toscar
+tossa
+tossa	tossar
+tossada
+tossada	tossar
+tossades	tossada
+tossades	tossar
+tossador
+tossadora	tossador
+tossadores	tossador
+tossadors	tossador
+tossal
+tossalet
+tossalets	tossalet
+tossals	tossal
+tossam	tossar
+tossant	tossar
+tossar
+tossara	tossar
+tossaran	tossar
+tossarem	tossar
+tossaren	tossar
+tossares	tossar
+tossareu	tossar
+tossaria	tossar
+tossarien	tossar
+tossaries	tossar
+tossarrons	tossarró
+tossarró
+tossarà	tossar
+tossaràs	tossar
+tossaré	tossar
+tossaríem	tossar
+tossaríeu	tossar
+tossassen	tossar
+tossasses	tossar
+tossassin	tossar
+tossassis	tossar
+tossat	tossar
+tossats	tossar
+tossau	tossar
+tossava	tossar
+tossaven	tossar
+tossaves	tossar
+tosse	tossar
+tossegosa	tossegós
+tossegoses	tossegós
+tossegosos	tossegós
+tosseguera
+tossegueres	tosseguera
+tossegós
+tossem	tossar
+tossen	tossar
+tossenc
+tossenca	tossenc
+tossencs	tossenc
+tossenques	tossenc
+tossera
+tosseres	tossera
+tosses	tossa
+tosses	tossar
+tossessen	tossar
+tossesses	tossar
+tossessin	tossar
+tossessis	tossar
+tosseta
+tossetes	tosseta
+tosseu	tossar
+tossi	tossar
+tossia	tossir
+tossida
+tossida	tossir
+tossides	tossida
+tossides	tossir
+tossidor
+tossidora	tossidor
+tossidores	tossidor
+tossidors	tossidor
+tossien	tossir
+tossies	tossir
+tossiguem	tossir
+tossiguera
+tossigueres	tossiguera
+tossigueu	tossir
+tossim	tossir
+tossin	tossar
+tossina
+tossines	tossina
+tossint	tossir
+tossir
+tossira	tossir
+tossiran	tossir
+tossirem	tossir
+tossiren	tossir
+tossires	tossir
+tossireu	tossir
+tossiria	tossir
+tossirien	tossir
+tossiries	tossir
+tossirà	tossir
+tossiràs	tossir
+tossiré	tossir
+tossiríem	tossir
+tossiríeu	tossir
+tossis	tossar
+tossissen	tossir
+tossisses	tossir
+tossissin	tossir
+tossissis	tossir
+tossit	tossir
+tossits	tossir
+tossiu	tossir
+tosso	tossar
+tossol
+tossolons	tossoló
+tossols	tossol
+tossoló
+tossos	tos_1
+tossos	tòs
+tossuda	tossut
+tossudament
+tossuderia
+tossuderies	tossuderia
+tossudes	tossut
+tossudesa
+tossudeses	tossudesa
+tossudíssim
+tossudíssima	tossudíssim
+tossudíssimes	tossudíssim
+tossudíssims	tossudíssim
+tossut
+tossuts	tossut
+tossà	tossar
+tossàrem	tossar
+tossàreu	tossar
+tossàs	tossar
+tossàssem	tossar
+tossàsseu	tossar
+tossàssim	tossar
+tossàssiu	tossar
+tossàvem	tossar
+tossàveu	tossar
+tossés	tossar
+tosséssem	tossar
+tossésseu	tossar
+tosséssim	tossar
+tosséssiu	tossar
+tossí	tossar
+tossí	tossir
+tossíem	tossir
+tossíeu	tossir
+tossírem	tossir
+tossíreu	tossir
+tossís	tossir
+tossíssem	tossir
+tossísseu	tossir
+tossíssim	tossir
+tossíssiu	tossir
+tost
+tostemps
+tostorro
+tostorros	tostorro
+tosufloxacina
+tosufloxacines	tosufloxacina
+tosà
+tòs

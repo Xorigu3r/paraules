@@ -1,0 +1,44 @@
+vim
+vimassa
+vimasses	vimassa
+vimblanc
+vimblancs	vimblanc
+vimbodinenc
+vimbodinenca	vimbodinenc
+vimbodinencs	vimbodinenc
+vimbodinenques	vimbodinenc
+vimen
+vimenar
+vimenars	vimenar
+vimener
+vimenera
+vimenera	vimener
+vimeneral
+vimenerals	vimeneral
+vimenerar
+vimenerars	vimenerar
+vimeneres	vimener
+vimeneres	vimenera
+vimeners	vimener
+vimer
+vimera
+vimerera
+vimereres	vimerera
+vimeres	vimera
+vimers	vimer
+vimetera
+vimeterar
+vimeterars	vimeterar
+vimeteres	vimetera
+vimini
+viminis	vimini
+viminol
+viminols	viminol
+vims	vim
+vimínia	vimini
+vimínies	vimini
+vímec
+vímecs	vímec
+vímens	vimen
+vímet
+vímets	vímet

@@ -1,0 +1,80 @@
+set
+seta
+setabitana	setabitano
+setabitanas	setabitano
+setabitano
+setabitanos	setabitano
+setas	seta
+setecientas
+setecientos
+setena	setenar
+setenaba	setenar
+setenabais	setenar
+setenaban	setenar
+setenabas	setenar
+setenad	setenar
+setenada	setenar
+setenadas	setenar
+setenado	setenar
+setenados	setenar
+setenamos	setenar
+setenan	setenar
+setenando	setenar
+setenar
+setenara	setenar
+setenarais	setenar
+setenaran	setenar
+setenaras	setenar
+setenare	setenar
+setenareis	setenar
+setenaremos	setenar
+setenaren	setenar
+setenares	setenar
+setenario
+setenarios	setenario
+setenaron	setenar
+setenarse	setenar
+setenará	setenar
+setenarán	setenar
+setenarás	setenar
+setenaré	setenar
+setenaréis	setenar
+setenaría	setenar
+setenaríais	setenar
+setenaríamos	setenar
+setenarían	setenar
+setenarías	setenar
+setenas	setenar
+setenase	setenar
+setenaseis	setenar
+setenasen	setenar
+setenases	setenar
+setenaste	setenar
+setenasteis	setenar
+setene	setenar
+setenemos	setenar
+setenen	setenar
+setenes	setenar
+seteno	setenar
+setenta
+setentas	setenta
+setentava	setentavo
+setentavas	setentavo
+setentavo
+setentavos	setentavo
+setenábamos	setenar
+setenáis	setenar
+setenándose	setenar
+setenáramos	setenar
+setenáremos	setenar
+setenásemos	setenar
+setené	setenar
+setenéis	setenar
+setenó	setenar
+setero
+seteros	setero
+setiembre
+setiembres	setiembre
+seto
+setos	seto
+sets	set

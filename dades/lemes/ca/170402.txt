@@ -1,0 +1,580 @@
+sec
+sec	secar
+sec	seure
+seca
+seca	sec
+seca	secar
+secabasses
+secada
+secada	secar
+secades	secada
+secades	secar
+secalina
+secalines	secalina
+secall
+secallona	secalló
+secallones	secalló
+secallons	secalló
+secallosa	secallós
+secalloses	secallós
+secallosos	secallós
+secalls	secall
+secalluda	secallut
+secalludes	secallut
+secallut
+secalluts	secallut
+secalló
+secallós
+secam	secar
+secament
+secana	secà
+secances	secança
+secaner
+secanera	secaner
+secaneres	secaner
+secaners	secaner
+secanes	secà
+secans	secà
+secant
+secant	secar
+secants	secant
+secany
+secanys	secany
+secança
+secar
+secara	secar
+secaran	secar
+secardina	secardí
+secardinenc
+secardinenca	secardinenc
+secardinencs	secardinenc
+secardinenques	secardinenc
+secardines	secardí
+secardins	secardí
+secardí
+secarem	secar
+secaren	secar
+secares	secar
+secareu	secar
+secaria	secar
+secarien	secar
+secaries	secar
+secarà	secar
+secaràs	secar
+secaré	secar
+secaríem	secar
+secaríeu	secar
+secassen	secar
+secasses	secar
+secassin	secar
+secassis	secar
+secat	secar
+secats	secar
+secau	secar
+secava	secar
+secaven	secar
+secaves	secar
+secbutabarbital
+seccion	seccionar
+secciona	seccionar
+seccionada	seccionar
+seccionades	seccionar
+seccionador
+seccionadors	seccionador
+seccionam	seccionar
+seccionament
+seccionaments	seccionament
+seccionant	seccionar
+seccionar
+seccionara	seccionar
+seccionaran	seccionar
+seccionarem	seccionar
+seccionaren	seccionar
+seccionares	seccionar
+seccionareu	seccionar
+seccionaria	seccionar
+seccionarien	seccionar
+seccionaries	seccionar
+seccionarà	seccionar
+seccionaràs	seccionar
+seccionaré	seccionar
+seccionaríem	seccionar
+seccionaríeu	seccionar
+seccionassen	seccionar
+seccionasses	seccionar
+seccionassin	seccionar
+seccionassis	seccionar
+seccionat	seccionar
+seccionats	seccionar
+seccionau	seccionar
+seccionava	seccionar
+seccionaven	seccionar
+seccionaves	seccionar
+seccione	seccionar
+seccionem	seccionar
+seccionen	seccionar
+secciones	seccionar
+seccionessen	seccionar
+seccionesses	seccionar
+seccionessin	seccionar
+seccionessis	seccionar
+seccioneu	seccionar
+seccioni	seccionar
+seccionin	seccionar
+seccionis	seccionar
+secciono	seccionar
+seccions	secció
+seccionà	seccionar
+seccionàrem	seccionar
+seccionàreu	seccionar
+seccionàs	seccionar
+seccionàssem	seccionar
+seccionàsseu	seccionar
+seccionàssim	seccionar
+seccionàssiu	seccionar
+seccionàvem	seccionar
+seccionàveu	seccionar
+seccionés	seccionar
+seccionéssem	seccionar
+seccionésseu	seccionar
+seccionéssim	seccionar
+seccionéssiu	seccionar
+seccioní	seccionar
+secció
+secessionisme
+secessionismes	secessionisme
+secessionista
+secessionistes	secessionista
+secessions	secessió
+secessió
+seclusions	seclusió
+seclusió
+secnidazole
+secnidazoles	secnidazole
+seco	secar
+secodont
+secodonta	secodont
+secodontes	secodont
+secodonts	secodont
+seconder
+seconders	seconder
+secor
+secors	secor
+secrecions	secreció
+secreció
+secret
+secret	secretar
+secreta
+secreta	secret
+secreta	secretar
+secretada	secretar
+secretades	secretar
+secretagog
+secretagoga	secretagog
+secretagogs	secretagog
+secretagogues	secretagog
+secretam	secretar
+secretament
+secretant
+secretant	secretar
+secretants	secretant
+secretar
+secretara	secretar
+secretaran	secretar
+secretarem	secretar
+secretaren	secretar
+secretares	secretar
+secretareu	secretar
+secretari
+secretaria
+secretaria	secretar
+secretariat
+secretariats	secretariat
+secretarien	secretar
+secretaries	secretar
+secretaries	secretaria
+secretaris	secretari
+secretarà	secretar
+secretaràs	secretar
+secretaré	secretar
+secretaríem	secretar
+secretaríeu	secretar
+secretassen	secretar
+secretasses	secretar
+secretassin	secretar
+secretassis	secretar
+secretat	secretar
+secretats	secretar
+secretau	secretar
+secretava	secretar
+secretaven	secretar
+secretaves	secretar
+secrete	secretar
+secretege	secretejar
+secretegem	secretejar
+secretegen	secretejar
+secreteges	secretejar
+secretegessen	secretejar
+secretegesses	secretejar
+secretegessin	secretejar
+secretegessis	secretejar
+secretegeu	secretejar
+secretegi	secretejar
+secretegin	secretejar
+secretegis	secretejar
+secretegés	secretejar
+secretegéssem	secretejar
+secretegésseu	secretejar
+secretegéssim	secretejar
+secretegéssiu	secretejar
+secretegí	secretejar
+secreteig	secretejar
+secreteja	secretejar
+secretejada	secretejar
+secretejades	secretejar
+secretejam	secretejar
+secretejant	secretejar
+secretejar
+secretejara	secretejar
+secretejaran	secretejar
+secretejarem	secretejar
+secretejaren	secretejar
+secretejares	secretejar
+secretejareu	secretejar
+secretejaria	secretejar
+secretejarien	secretejar
+secretejaries	secretejar
+secretejarà	secretejar
+secretejaràs	secretejar
+secretejaré	secretejar
+secretejaríem	secretejar
+secretejaríeu	secretejar
+secretejassen	secretejar
+secretejasses	secretejar
+secretejassin	secretejar
+secretejassis	secretejar
+secretejat	secretejar
+secretejats	secretejar
+secretejau	secretejar
+secretejava	secretejar
+secretejaven	secretejar
+secretejaves	secretejar
+secretejo	secretejar
+secretejà	secretejar
+secretejàrem	secretejar
+secretejàreu	secretejar
+secretejàs	secretejar
+secretejàssem	secretejar
+secretejàsseu	secretejar
+secretejàssim	secretejar
+secretejàssiu	secretejar
+secretejàvem	secretejar
+secretejàveu	secretejar
+secretem	secretar
+secreten	secretar
+secreter
+secreters	secreter
+secretes	secret
+secretes	secreta
+secretes	secretar
+secretessen	secretar
+secretesses	secretar
+secretessin	secretar
+secretessis	secretar
+secreteu	secretar
+secreti	secretar
+secretin	secretar
+secretina
+secretines	secretina
+secretis	secretar
+secretisme
+secretismes	secretisme
+secretista
+secretistes	secretista
+secreto	secretar
+secretomotor
+secretomotora	secretomotor
+secretomotores	secretomotor
+secretomotors	secretomotor
+secretor
+secretora	secretor
+secretores	secretor
+secretori
+secretoris	secretori
+secretors	secretor
+secrets	secret
+secretà	secretar
+secretàrem	secretar
+secretàreu	secretar
+secretària	secretari
+secretàries	secretari
+secretàs	secretar
+secretàssem	secretar
+secretàsseu	secretar
+secretàssim	secretar
+secretàssiu	secretar
+secretàvem	secretar
+secretàveu	secretar
+secretés	secretar
+secretéssem	secretar
+secretésseu	secretar
+secretéssim	secretar
+secretéssiu	secretar
+secretí	secretar
+secretíssim
+secretíssima	secretíssim
+secretíssimes	secretíssim
+secretíssims	secretíssim
+secretòria	secretori
+secretòries	secretori
+secs	sec
+secta
+sectari
+sectaris	sectari
+sectarisme
+sectarismes	sectarisme
+sectes	secta
+sector
+sectorial
+sectorialment
+sectorials	sectorial
+sectoritz	sectoritzar
+sectoritza	sectoritzar
+sectoritzacions	sectorització
+sectorització
+sectoritzada	sectoritzar
+sectoritzades	sectoritzar
+sectoritzam	sectoritzar
+sectoritzant	sectoritzar
+sectoritzar
+sectoritzara	sectoritzar
+sectoritzaran	sectoritzar
+sectoritzarem	sectoritzar
+sectoritzaren	sectoritzar
+sectoritzares	sectoritzar
+sectoritzareu	sectoritzar
+sectoritzaria	sectoritzar
+sectoritzarien	sectoritzar
+sectoritzaries	sectoritzar
+sectoritzarà	sectoritzar
+sectoritzaràs	sectoritzar
+sectoritzaré	sectoritzar
+sectoritzaríem	sectoritzar
+sectoritzaríeu	sectoritzar
+sectoritzassen	sectoritzar
+sectoritzasses	sectoritzar
+sectoritzassin	sectoritzar
+sectoritzassis	sectoritzar
+sectoritzat	sectoritzar
+sectoritzats	sectoritzar
+sectoritzau	sectoritzar
+sectoritzava	sectoritzar
+sectoritzaven	sectoritzar
+sectoritzaves	sectoritzar
+sectoritze	sectoritzar
+sectoritzem	sectoritzar
+sectoritzen	sectoritzar
+sectoritzes	sectoritzar
+sectoritzessen	sectoritzar
+sectoritzesses	sectoritzar
+sectoritzessin	sectoritzar
+sectoritzessis	sectoritzar
+sectoritzeu	sectoritzar
+sectoritzi	sectoritzar
+sectoritzin	sectoritzar
+sectoritzis	sectoritzar
+sectoritzo	sectoritzar
+sectoritzà	sectoritzar
+sectoritzàrem	sectoritzar
+sectoritzàreu	sectoritzar
+sectoritzàs	sectoritzar
+sectoritzàssem	sectoritzar
+sectoritzàsseu	sectoritzar
+sectoritzàssim	sectoritzar
+sectoritzàssiu	sectoritzar
+sectoritzàvem	sectoritzar
+sectoritzàveu	sectoritzar
+sectoritzés	sectoritzar
+sectoritzéssem	sectoritzar
+sectoritzésseu	sectoritzar
+sectoritzéssim	sectoritzar
+sectoritzéssiu	sectoritzar
+sectoritzí	sectoritzar
+sectors	sector
+sectària	sectari
+sectàriament
+sectàries	sectari
+secuitenc
+secuitenca	secuitenc
+secuitencs	secuitenc
+secuitenques	secuitenc
+secular
+secularisme
+secularismes	secularisme
+secularitat
+secularitats	secularitat
+secularitz	secularitzar
+secularitza	secularitzar
+secularització
+secularitzada	secularitzar
+secularitzades	secularitzar
+secularitzador
+secularitzadora	secularitzador
+secularitzadors	secularitzador
+secularitzam	secularitzar
+secularitzant	secularitzar
+secularitzar
+secularitzara	secularitzar
+secularitzaran	secularitzar
+secularitzarem	secularitzar
+secularitzaren	secularitzar
+secularitzares	secularitzar
+secularitzareu	secularitzar
+secularitzaria	secularitzar
+secularitzarien	secularitzar
+secularitzaries	secularitzar
+secularitzarà	secularitzar
+secularitzaràs	secularitzar
+secularitzaré	secularitzar
+secularitzaríem	secularitzar
+secularitzaríeu	secularitzar
+secularitzassen	secularitzar
+secularitzasses	secularitzar
+secularitzassin	secularitzar
+secularitzassis	secularitzar
+secularitzat	secularitzar
+secularitzats	secularitzar
+secularitzau	secularitzar
+secularitzava	secularitzar
+secularitzaven	secularitzar
+secularitzaves	secularitzar
+secularitze	secularitzar
+secularitzem	secularitzar
+secularitzen	secularitzar
+secularitzes	secularitzar
+secularitzessen	secularitzar
+secularitzesses	secularitzar
+secularitzessin	secularitzar
+secularitzessis	secularitzar
+secularitzeu	secularitzar
+secularitzi	secularitzar
+secularitzin	secularitzar
+secularitzis	secularitzar
+secularitzo	secularitzar
+secularitzà	secularitzar
+secularitzàrem	secularitzar
+secularitzàreu	secularitzar
+secularitzàs	secularitzar
+secularitzàssem	secularitzar
+secularitzàsseu	secularitzar
+secularitzàssim	secularitzar
+secularitzàssiu	secularitzar
+secularitzàvem	secularitzar
+secularitzàveu	secularitzar
+secularitzés	secularitzar
+secularitzéssem	secularitzar
+secularitzésseu	secularitzar
+secularitzéssim	secularitzar
+secularitzéssiu	secularitzar
+secularitzí	secularitzar
+secularment
+seculars	secular
+secund	secundar
+secunda	secundar
+secundada	secundar
+secundades	secundar
+secundam	secundar
+secundant	secundar
+secundar
+secundara	secundar
+secundaran	secundar
+secundarem	secundar
+secundaren	secundar
+secundares	secundar
+secundareu	secundar
+secundari
+secundaria	secundar
+secundarien	secundar
+secundaries	secundar
+secundaris	secundari
+secundarà	secundar
+secundaràs	secundar
+secundaré	secundar
+secundaríem	secundar
+secundaríeu	secundar
+secundassen	secundar
+secundasses	secundar
+secundassin	secundar
+secundassis	secundar
+secundat	secundar
+secundats	secundar
+secundau	secundar
+secundava	secundar
+secundaven	secundar
+secundaves	secundar
+secunde	secundar
+secundem	secundar
+secunden	secundar
+secundes	secundar
+secundessen	secundar
+secundesses	secundar
+secundessin	secundar
+secundessis	secundar
+secundeu	secundar
+secundi	secundar
+secundigràvida
+secundigràvides	secundigràvida
+secundin	secundar
+secundina
+secundines	secundina
+secundinització
+secundiparitat
+secundiparitats	secundiparitat
+secundis	secundar
+secundo	secundar
+secundogènit
+secundogènita	secundogènit
+secundogènites	secundogènit
+secundogènits	secundogènit
+secundà	secundar
+secundàrem	secundar
+secundàreu	secundar
+secundària
+secundària	secundari
+secundàriament
+secundàries	secundari
+secundàries	secundària
+secundàs	secundar
+secundàssem	secundar
+secundàsseu	secundar
+secundàssim	secundar
+secundàssiu	secundar
+secundàvem	secundar
+secundàveu	secundar
+secundés	secundar
+secundéssem	secundar
+secundésseu	secundar
+secundéssim	secundar
+secundéssiu	secundar
+secundí	secundar
+secundípar
+secundípara	secundípar
+secundípares	secundípar
+secundípars	secundípar
+securiforme
+securiformes	securiforme
+secà
+secà	secar
+secàrem	secar
+secàreu	secar
+secàs	secar
+secàssem	secar
+secàsseu	secar
+secàssim	secar
+secàssiu	secar
+secàvem	secar
+secàveu	secar
+sèctil
+sèctils	sèctil
+séc
+sécs	séc

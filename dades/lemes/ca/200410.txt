@@ -1,0 +1,597 @@
+vel
+vel	velar
+vela
+vela	velar
+velacions
+velacions	velació
+velació
+velada	velar
+veladament
+velades	velar
+velador
+veladora	velador
+veladores	velador
+veladors	velador
+veladre
+veladres	veladre
+veladura
+veladures	veladura
+velaglucerasa
+velaglucerases	velaglucerasa
+velam
+velam	velar
+velamen
+velamentosa	velamentós
+velamentoses	velamentós
+velamentosos	velamentós
+velamentós
+velams	velam
+velant	velar
+velar
+velara	velar
+velaran	velar
+velarem	velar
+velaren	velar
+velares	velar
+velareu	velar
+velari
+velaria	velar
+velarien	velar
+velaries	velar
+velaris	velari
+velaritz	velaritzar
+velaritza	velaritzar
+velaritzacions	velarització
+velarització
+velaritzada	velaritzar
+velaritzades	velaritzar
+velaritzam	velaritzar
+velaritzant	velaritzar
+velaritzar
+velaritzara	velaritzar
+velaritzaran	velaritzar
+velaritzarem	velaritzar
+velaritzaren	velaritzar
+velaritzares	velaritzar
+velaritzareu	velaritzar
+velaritzaria	velaritzar
+velaritzarien	velaritzar
+velaritzaries	velaritzar
+velaritzarà	velaritzar
+velaritzaràs	velaritzar
+velaritzaré	velaritzar
+velaritzaríem	velaritzar
+velaritzaríeu	velaritzar
+velaritzassen	velaritzar
+velaritzasses	velaritzar
+velaritzassin	velaritzar
+velaritzassis	velaritzar
+velaritzat	velaritzar
+velaritzats	velaritzar
+velaritzau	velaritzar
+velaritzava	velaritzar
+velaritzaven	velaritzar
+velaritzaves	velaritzar
+velaritze	velaritzar
+velaritzem	velaritzar
+velaritzen	velaritzar
+velaritzes	velaritzar
+velaritzessen	velaritzar
+velaritzesses	velaritzar
+velaritzessin	velaritzar
+velaritzessis	velaritzar
+velaritzeu	velaritzar
+velaritzi	velaritzar
+velaritzin	velaritzar
+velaritzis	velaritzar
+velaritzo	velaritzar
+velaritzà	velaritzar
+velaritzàrem	velaritzar
+velaritzàreu	velaritzar
+velaritzàs	velaritzar
+velaritzàssem	velaritzar
+velaritzàsseu	velaritzar
+velaritzàssim	velaritzar
+velaritzàssiu	velaritzar
+velaritzàvem	velaritzar
+velaritzàveu	velaritzar
+velaritzés	velaritzar
+velaritzéssem	velaritzar
+velaritzésseu	velaritzar
+velaritzéssim	velaritzar
+velaritzéssiu	velaritzar
+velaritzí	velaritzar
+velars	velar
+velarà	velar
+velaràs	velar
+velaré	velar
+velaríem	velar
+velaríeu	velar
+velassen	velar
+velasses	velar
+velassin	velar
+velassis	velar
+velat
+velat	velar
+velatge
+velatges	velatge
+velats	velar
+velats	velat
+velatxo
+velatxos	velatxo
+velau	velar
+velava	velar
+velaven	velar
+velaves	velar
+velcro
+velcros	velcro
+vele	velar
+velege	velejar
+velegem	velejar
+velegen	velejar
+veleges	velejar
+velegessen	velejar
+velegesses	velejar
+velegessin	velejar
+velegessis	velejar
+velegeu	velejar
+velegi	velejar
+velegin	velejar
+velegis	velejar
+velegés	velejar
+velegéssem	velejar
+velegésseu	velejar
+velegéssim	velejar
+velegéssiu	velejar
+velegí	velejar
+veleig	velejar
+veleja	velejar
+velejada	velejar
+velejades	velejar
+velejam	velejar
+velejant	velejar
+velejar
+velejara	velejar
+velejaran	velejar
+velejarem	velejar
+velejaren	velejar
+velejares	velejar
+velejareu	velejar
+velejaria	velejar
+velejarien	velejar
+velejaries	velejar
+velejarà	velejar
+velejaràs	velejar
+velejaré	velejar
+velejaríem	velejar
+velejaríeu	velejar
+velejassen	velejar
+velejasses	velejar
+velejassin	velejar
+velejassis	velejar
+velejat	velejar
+velejats	velejar
+velejau	velejar
+velejava	velejar
+velejaven	velejar
+velejaves	velejar
+velejo	velejar
+velejà	velejar
+velejàrem	velejar
+velejàreu	velejar
+velejàs	velejar
+velejàssem	velejar
+velejàsseu	velejar
+velejàssim	velejar
+velejàssiu	velejar
+velejàvem	velejar
+velejàveu	velejar
+velem	velar
+velen	velar
+veler
+veler	veler_1
+veler	veler_2
+velera	veler
+velera	veler_2
+veleres	veler
+veleres	veler_2
+veleria
+veleries	veleria
+velers	veler
+velers	veler_1
+velers	veler_2
+veles	vela
+veles	velar
+velessen	velar
+velesses	velar
+velessin	velar
+velessis	velar
+veleu	velar
+veli	velar
+veliforme
+veliformes	veliforme
+velin	velar
+velis	velar
+velisa
+velises	velisa
+vell
+vella	vell
+vellard
+vellarda	vellard
+vellardes	vellard
+vellards	vellard
+vellassa	vellàs
+vellasses	vellàs
+vellassos	vellàs
+vellcatòlic
+vellcatòlica	vellcatòlic
+vellcatòlics	vellcatòlic
+vellcatòliques	vellcatòlic
+vellea
+velledat
+velledats	velledat
+vellees	vellea
+vellege	vellejar
+vellegem	vellejar
+vellegen	vellejar
+velleges	vellejar
+vellegessen	vellejar
+vellegesses	vellejar
+vellegessin	vellejar
+vellegessis	vellejar
+vellegeu	vellejar
+vellegi	vellejar
+vellegin	vellejar
+vellegis	vellejar
+vellegés	vellejar
+vellegéssem	vellejar
+vellegésseu	vellejar
+vellegéssim	vellejar
+vellegéssiu	vellejar
+vellegí	vellejar
+velleig	vellejar
+velleja	vellejar
+vellejada	vellejar
+vellejades	vellejar
+vellejam	vellejar
+vellejant	vellejar
+vellejar
+vellejara	vellejar
+vellejaran	vellejar
+vellejarem	vellejar
+vellejaren	vellejar
+vellejares	vellejar
+vellejareu	vellejar
+vellejaria	vellejar
+vellejarien	vellejar
+vellejaries	vellejar
+vellejarà	vellejar
+vellejaràs	vellejar
+vellejaré	vellejar
+vellejaríem	vellejar
+vellejaríeu	vellejar
+vellejassen	vellejar
+vellejasses	vellejar
+vellejassin	vellejar
+vellejassis	vellejar
+vellejat	vellejar
+vellejats	vellejar
+vellejau	vellejar
+vellejava	vellejar
+vellejaven	vellejar
+vellejaves	vellejar
+vellejo	vellejar
+vellejà	vellejar
+vellejàrem	vellejar
+vellejàreu	vellejar
+vellejàs	vellejar
+vellejàssem	vellejar
+vellejàsseu	vellejar
+vellejàssim	vellejar
+vellejàssiu	vellejar
+vellejàvem	vellejar
+vellejàveu	vellejar
+velles	vell
+vellesa
+velleses	vellesa
+vellet
+velleta	vellet
+velletes	vellet
+vellets	vellet
+vellons	velló
+vellor
+vellors	vellor
+vellosa	vellós
+velloses	vellós
+vellositat
+vellositats	vellositat
+vellosos	vellós
+vellot
+vellota	vellot
+vellotege	vellotejar
+vellotegem	vellotejar
+vellotegen	vellotejar
+velloteges	vellotejar
+vellotegessen	vellotejar
+vellotegesses	vellotejar
+vellotegessin	vellotejar
+vellotegessis	vellotejar
+vellotegeu	vellotejar
+vellotegi	vellotejar
+vellotegin	vellotejar
+vellotegis	vellotejar
+vellotegés	vellotejar
+vellotegéssem	vellotejar
+vellotegésseu	vellotejar
+vellotegéssim	vellotejar
+vellotegéssiu	vellotejar
+vellotegí	vellotejar
+velloteig	vellotejar
+velloteja	vellotejar
+vellotejada	vellotejar
+vellotejades	vellotejar
+vellotejam	vellotejar
+vellotejant	vellotejar
+vellotejar
+vellotejara	vellotejar
+vellotejaran	vellotejar
+vellotejarem	vellotejar
+vellotejaren	vellotejar
+vellotejares	vellotejar
+vellotejareu	vellotejar
+vellotejaria	vellotejar
+vellotejarien	vellotejar
+vellotejaries	vellotejar
+vellotejarà	vellotejar
+vellotejaràs	vellotejar
+vellotejaré	vellotejar
+vellotejaríem	vellotejar
+vellotejaríeu	vellotejar
+vellotejassen	vellotejar
+vellotejasses	vellotejar
+vellotejassin	vellotejar
+vellotejassis	vellotejar
+vellotejat	vellotejar
+vellotejats	vellotejar
+vellotejau	vellotejar
+vellotejava	vellotejar
+vellotejaven	vellotejar
+vellotejaves	vellotejar
+vellotejo	vellotejar
+vellotejà	vellotejar
+vellotejàrem	vellotejar
+vellotejàreu	vellotejar
+vellotejàs	vellotejar
+vellotejàssem	vellotejar
+vellotejàsseu	vellotejar
+vellotejàssim	vellotejar
+vellotejàssiu	vellotejar
+vellotejàvem	vellotejar
+vellotejàveu	vellotejar
+vellotes	vellot
+vellots	vellot
+vells	vell
+vellura
+vellures	vellura
+vellussa	vellús
+vellusses	vellús
+vellussos	vellús
+vellut
+vellutada	vellutat
+vellutadament
+vellutades	vellutat
+vellutassos	vellutàs
+vellutat
+vellutats	vellutat
+vellutege	vellutejar
+vellutegem	vellutejar
+vellutegen	vellutejar
+velluteges	vellutejar
+vellutegessen	vellutejar
+vellutegesses	vellutejar
+vellutegessin	vellutejar
+vellutegessis	vellutejar
+vellutegeu	vellutejar
+vellutegi	vellutejar
+vellutegin	vellutejar
+vellutegis	vellutejar
+vellutegés	vellutejar
+vellutegéssem	vellutejar
+vellutegésseu	vellutejar
+vellutegéssim	vellutejar
+vellutegéssiu	vellutejar
+vellutegí	vellutejar
+velluteig	vellutejar
+velluteja	vellutejar
+vellutejada	vellutejar
+vellutejades	vellutejar
+vellutejam	vellutejar
+vellutejant	vellutejar
+vellutejar
+vellutejara	vellutejar
+vellutejaran	vellutejar
+vellutejarem	vellutejar
+vellutejaren	vellutejar
+vellutejares	vellutejar
+vellutejareu	vellutejar
+vellutejaria	vellutejar
+vellutejarien	vellutejar
+vellutejaries	vellutejar
+vellutejarà	vellutejar
+vellutejaràs	vellutejar
+vellutejaré	vellutejar
+vellutejaríem	vellutejar
+vellutejaríeu	vellutejar
+vellutejassen	vellutejar
+vellutejasses	vellutejar
+vellutejassin	vellutejar
+vellutejassis	vellutejar
+vellutejat	vellutejar
+vellutejats	vellutejar
+vellutejau	vellutejar
+vellutejava	vellutejar
+vellutejaven	vellutejar
+vellutejaves	vellutejar
+vellutejo	vellutejar
+vellutejà	vellutejar
+vellutejàrem	vellutejar
+vellutejàreu	vellutejar
+vellutejàs	vellutejar
+vellutejàssem	vellutejar
+vellutejàsseu	vellutejar
+vellutejàssim	vellutejar
+vellutejàssiu	vellutejar
+vellutejàvem	vellutejar
+vellutejàveu	vellutejar
+velluter
+vellutera	velluter
+velluteres	velluter
+velluters	velluter
+vellutet
+vellutets	vellutet
+velluts	vellut
+vellutàs
+vellàs
+vellíssim
+vellíssima	vellíssim
+vellíssimes	vellíssim
+vellíssims	vellíssim
+velló
+vellós
+vellúria
+vellúries	vellúria
+vellús
+velnegr	velnegrar
+velnegra	velnegrar
+velnegrada	velnegrar
+velnegrades	velnegrar
+velnegram	velnegrar
+velnegrant	velnegrar
+velnegrar
+velnegrara	velnegrar
+velnegraran	velnegrar
+velnegrarem	velnegrar
+velnegraren	velnegrar
+velnegrares	velnegrar
+velnegrareu	velnegrar
+velnegraria	velnegrar
+velnegrarien	velnegrar
+velnegraries	velnegrar
+velnegrarà	velnegrar
+velnegraràs	velnegrar
+velnegraré	velnegrar
+velnegraríem	velnegrar
+velnegraríeu	velnegrar
+velnegrassen	velnegrar
+velnegrasses	velnegrar
+velnegrassin	velnegrar
+velnegrassis	velnegrar
+velnegrat	velnegrar
+velnegrats	velnegrar
+velnegrau	velnegrar
+velnegrava	velnegrar
+velnegraven	velnegrar
+velnegraves	velnegrar
+velnegre	velnegrar
+velnegrem	velnegrar
+velnegren	velnegrar
+velnegres	velnegrar
+velnegressen	velnegrar
+velnegresses	velnegrar
+velnegressin	velnegrar
+velnegressis	velnegrar
+velnegreu	velnegrar
+velnegri	velnegrar
+velnegrin	velnegrar
+velnegris	velnegrar
+velnegro	velnegrar
+velnegrà	velnegrar
+velnegràrem	velnegrar
+velnegràreu	velnegrar
+velnegràs	velnegrar
+velnegràssem	velnegrar
+velnegràsseu	velnegrar
+velnegràssim	velnegrar
+velnegràssiu	velnegrar
+velnegràvem	velnegrar
+velnegràveu	velnegrar
+velnegrés	velnegrar
+velnegréssem	velnegrar
+velnegrésseu	velnegrar
+velnegréssim	velnegrar
+velnegréssiu	velnegrar
+velnegrí	velnegrar
+velo	velar
+veloces	veloç
+velocipedisme
+velocipedismes	velocipedisme
+velocipedista
+velocipedistes	velocipedista
+velociraptor
+velociraptors	velociraptor
+velocista
+velocistes	velocista
+velocitat
+velocitats	velocitat
+velocímetre
+velocímetres	velocímetre
+velocípede
+velocípedes	velocípede
+velocíssim
+velocíssima	velocíssim
+velocíssimes	velocíssim
+velocíssims	velocíssim
+velocístic
+velocística	velocístic
+velocístics	velocístic
+velocístiques	velocístic
+velomotor
+velomotors	velomotor
+veloç
+veloçment
+veloços	veloç
+velpatasvir
+vels	vel
+velum
+velums	velum
+velutina
+velutines	velutina
+velvètic
+velvètica	velvètic
+velvètics	velvètic
+velvètiques	velvètic
+velà	velar
+velàmens	velamen
+velàrem	velar
+velàreu	velar
+velàrium
+velàriums	velàrium
+velàs	velar
+velàssem	velar
+velàsseu	velar
+velàssim	velar
+velàssiu	velar
+velàvem	velar
+velàveu	velar
+velés	velar
+veléssem	velar
+velésseu	velar
+veléssim	velar
+veléssiu	velar
+velí	velar
+velòdrom
+velòdroms	velòdrom
+velògraf
+velògrafs	velògraf
+vèlic
+vèlica	vèlic
+vèlics	vèlic
+vèlid
+vèlids	vèlid
+vèliger
+vèligers	vèliger
+vèliques	vèlic
+vèlit
+vèlits	vèlit
+véllor
+véllors	véllor

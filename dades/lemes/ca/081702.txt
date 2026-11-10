@@ -1,0 +1,34 @@
+isc	eixir
+isca	eixir
+isclenc
+isclenca	isclenc
+isclencs	isclenc
+isclenques	isclenc
+iscnofonia
+iscnofonies	iscnofonia
+iscnogíria
+iscnogíries	iscnogíria
+iscoblènnia
+iscoblènnies	iscoblènnia
+iscocòlia
+iscocòlies	iscocòlia
+iscofonia
+iscofonies	iscofonia
+iscogalàctia
+iscogalàcties	iscogalàctia
+iscogíria
+iscogíries	iscogíria
+iscolòquia
+iscolòquies	iscolòquia
+iscomènia
+iscomènies	iscomènia
+iscoquímia
+iscoquímies	iscoquímia
+iscospèrmia
+iscospèrmies	iscospèrmia
+iscurètic
+iscurètica	iscurètic
+iscurètics	iscurètic
+iscurètiques	iscurètic
+iscúria
+iscúries	iscúria

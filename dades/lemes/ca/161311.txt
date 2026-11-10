@@ -1,0 +1,685 @@
+rom
+roma	rom
+romaic
+romaica
+romaica	romaic
+romaics	romaic
+romaiques	romaic
+romaiques	romaica
+roman	romandre
+romana	romà
+romanalla
+romanalles	romanalla
+romanament
+romanc	romandre
+romancege	romancejar
+romancegem	romancejar
+romancegen	romancejar
+romanceges	romancejar
+romancegessen	romancejar
+romancegesses	romancejar
+romancegessin	romancejar
+romancegessis	romancejar
+romancegeu	romancejar
+romancegi	romancejar
+romancegin	romancejar
+romancegis	romancejar
+romancegés	romancejar
+romancegéssem	romancejar
+romancegésseu	romancejar
+romancegéssim	romancejar
+romancegéssiu	romancejar
+romancegí	romancejar
+romanceig	romancejar
+romanceja	romancejar
+romancejada	romancejar
+romancejades	romancejar
+romancejam	romancejar
+romancejant	romancejar
+romancejar
+romancejara	romancejar
+romancejaran	romancejar
+romancejarem	romancejar
+romancejaren	romancejar
+romancejares	romancejar
+romancejareu	romancejar
+romancejaria	romancejar
+romancejarien	romancejar
+romancejaries	romancejar
+romancejarà	romancejar
+romancejaràs	romancejar
+romancejaré	romancejar
+romancejaríem	romancejar
+romancejaríeu	romancejar
+romancejassen	romancejar
+romancejasses	romancejar
+romancejassin	romancejar
+romancejassis	romancejar
+romancejat	romancejar
+romancejats	romancejar
+romancejau	romancejar
+romancejava	romancejar
+romancejaven	romancejar
+romancejaves	romancejar
+romancejo	romancejar
+romancejà	romancejar
+romancejàrem	romancejar
+romancejàreu	romancejar
+romancejàs	romancejar
+romancejàssem	romancejar
+romancejàsseu	romancejar
+romancejàssim	romancejar
+romancejàssiu	romancejar
+romancejàvem	romancejar
+romancejàveu	romancejar
+romancer
+romancera	romancer
+romancerament
+romanceres	romancer
+romanceresc
+romanceresca	romanceresc
+romancerescos	romanceresc
+romancerescs	romanceresc
+romanceresques	romanceresc
+romanceria
+romanceries	romanceria
+romancers	romancer
+romances	romança
+romancista
+romancistes	romancista
+romandalusina	romandalusí
+romandalusines	romandalusí
+romandalusins	romandalusí
+romandalusisme
+romandalusismes	romandalusisme
+romandalusí
+romandran	romandre
+romandre
+romandrem	romandre
+romandreu	romandre
+romandria	romandre
+romandrien	romandre
+romandries	romandre
+romandrà	romandre
+romandràs	romandre
+romandré	romandre
+romandríem	romandre
+romandríeu	romandre
+romanem	romandre
+romanen	romandre
+romanent
+romanent	romandre
+romanents	romanent
+romaner
+romanera	romaner
+romaneres	romaner
+romaners	romaner
+romanes	romà
+romanesa	romanès
+romanesco
+romanescos	romanesco
+romaneses	romanès
+romanesos	romanès
+romaneu	romandre
+romanga	romandre
+romanguem	romandre
+romanguen	romandre
+romanguera	romandre
+romangueren	romandre
+romangueres	romandre
+romangues	romandre
+romanguessen	romandre
+romanguesses	romandre
+romanguessin	romandre
+romanguessis	romandre
+romangueu	romandre
+romangui	romandre
+romanguin	romandre
+romanguis	romandre
+romangué	romandre
+romanguérem	romandre
+romanguéreu	romandre
+romangués	romandre
+romanguéssem	romandre
+romanguésseu	romandre
+romanguéssim	romandre
+romanguéssiu	romandre
+romanguí	romandre
+romania	romandre
+romanien	romandre
+romanies	romandre
+romanins	romaní_1
+romanisme
+romanismes	romanisme
+romanista
+romanistes	romanista
+romanita
+romanitat
+romanitats	romanitat
+romanites	romanita
+romanitz	romanitzar
+romanitza	romanitzar
+romanitzacions	romanització
+romanització
+romanitzada	romanitzar
+romanitzades	romanitzar
+romanitzador
+romanitzadora	romanitzador
+romanitzadores	romanitzador
+romanitzadors	romanitzador
+romanitzam	romanitzar
+romanitzant	romanitzar
+romanitzar
+romanitzara	romanitzar
+romanitzaran	romanitzar
+romanitzarem	romanitzar
+romanitzaren	romanitzar
+romanitzares	romanitzar
+romanitzareu	romanitzar
+romanitzaria	romanitzar
+romanitzarien	romanitzar
+romanitzaries	romanitzar
+romanitzarà	romanitzar
+romanitzaràs	romanitzar
+romanitzaré	romanitzar
+romanitzaríem	romanitzar
+romanitzaríeu	romanitzar
+romanitzassen	romanitzar
+romanitzasses	romanitzar
+romanitzassin	romanitzar
+romanitzassis	romanitzar
+romanitzat	romanitzar
+romanitzats	romanitzar
+romanitzau	romanitzar
+romanitzava	romanitzar
+romanitzaven	romanitzar
+romanitzaves	romanitzar
+romanitze	romanitzar
+romanitzem	romanitzar
+romanitzen	romanitzar
+romanitzes	romanitzar
+romanitzessen	romanitzar
+romanitzesses	romanitzar
+romanitzessin	romanitzar
+romanitzessis	romanitzar
+romanitzeu	romanitzar
+romanitzi	romanitzar
+romanitzin	romanitzar
+romanitzis	romanitzar
+romanitzo	romanitzar
+romanitzà	romanitzar
+romanitzàrem	romanitzar
+romanitzàreu	romanitzar
+romanitzàs	romanitzar
+romanitzàssem	romanitzar
+romanitzàsseu	romanitzar
+romanitzàssim	romanitzar
+romanitzàssiu	romanitzar
+romanitzàvem	romanitzar
+romanitzàveu	romanitzar
+romanitzés	romanitzar
+romanitzéssem	romanitzar
+romanitzésseu	romanitzar
+romanitzéssim	romanitzar
+romanitzéssiu	romanitzar
+romanitzí	romanitzar
+romanobàrbar
+romanobàrbara	romanobàrbar
+romanobàrbares	romanobàrbar
+romanobàrbars	romanobàrbar
+romanogermànic
+romanogermànica	romanogermànic
+romanogermànics	romanogermànic
+romanopèxia
+romanopèxies	romanopèxia
+romanoscopi
+romanoscopis	romanoscopi
+romanoscòpia
+romanoscòpies	romanoscòpia
+romans	romandre
+romans	romà
+romanticisme
+romanticismes	romanticisme
+romantitz	romantitzar
+romantitza	romantitzar
+romantitzacions	romantització
+romantització
+romantitzada	romantitzar
+romantitzades	romantitzar
+romantitzam	romantitzar
+romantitzant	romantitzar
+romantitzar
+romantitzara	romantitzar
+romantitzaran	romantitzar
+romantitzarem	romantitzar
+romantitzaren	romantitzar
+romantitzares	romantitzar
+romantitzareu	romantitzar
+romantitzaria	romantitzar
+romantitzarien	romantitzar
+romantitzaries	romantitzar
+romantitzarà	romantitzar
+romantitzaràs	romantitzar
+romantitzaré	romantitzar
+romantitzaríem	romantitzar
+romantitzaríeu	romantitzar
+romantitzassen	romantitzar
+romantitzasses	romantitzar
+romantitzassin	romantitzar
+romantitzassis	romantitzar
+romantitzat	romantitzar
+romantitzats	romantitzar
+romantitzau	romantitzar
+romantitzava	romantitzar
+romantitzaven	romantitzar
+romantitzaves	romantitzar
+romantitze	romantitzar
+romantitzem	romantitzar
+romantitzen	romantitzar
+romantitzes	romantitzar
+romantitzessen	romantitzar
+romantitzesses	romantitzar
+romantitzessin	romantitzar
+romantitzessis	romantitzar
+romantitzeu	romantitzar
+romantitzi	romantitzar
+romantitzin	romantitzar
+romantitzis	romantitzar
+romantitzo	romantitzar
+romantitzà	romantitzar
+romantitzàrem	romantitzar
+romantitzàreu	romantitzar
+romantitzàs	romantitzar
+romantitzàssem	romantitzar
+romantitzàsseu	romantitzar
+romantitzàssim	romantitzar
+romantitzàssiu	romantitzar
+romantitzàvem	romantitzar
+romantitzàveu	romantitzar
+romantitzés	romantitzar
+romantitzéssem	romantitzar
+romantitzésseu	romantitzar
+romantitzéssim	romantitzar
+romantitzéssiu	romantitzar
+romantitzí	romantitzar
+romanx
+romanxa	romanx
+romanxes	romanx
+romanxos	romanx
+romanyesa	romanyès
+romanyeses	romanyès
+romanyesos	romanyès
+romanyès
+romanyés	romanyès
+romanç
+romança
+romançada
+romançades	romançada
+romanço
+romanços	romanç
+romanços	romanço
+romanència
+romanències	romanència
+romanès
+romanés	romanès
+romaní	romaní_1
+romaní	romaní_2
+romaníem	romandre
+romaníeu	romandre
+romanís	romaní_2
+romanística
+romanístiques	romanística
+romasa	romandre
+romases	romandre
+romasos	romandre
+romassos	romàs
+rombal
+romball
+romball	romballar
+romballa	romballar
+romballada	romballar
+romballades	romballar
+romballam	romballar
+romballant	romballar
+romballar
+romballara	romballar
+romballaran	romballar
+romballarem	romballar
+romballaren	romballar
+romballares	romballar
+romballareu	romballar
+romballaria	romballar
+romballarien	romballar
+romballaries	romballar
+romballarà	romballar
+romballaràs	romballar
+romballaré	romballar
+romballaríem	romballar
+romballaríeu	romballar
+romballassen	romballar
+romballasses	romballar
+romballassin	romballar
+romballassis	romballar
+romballat	romballar
+romballats	romballar
+romballau	romballar
+romballava	romballar
+romballaven	romballar
+romballaves	romballar
+romballe	romballar
+romballem	romballar
+romballen	romballar
+romballes	romballar
+romballessen	romballar
+romballesses	romballar
+romballessin	romballar
+romballessis	romballar
+romballeu	romballar
+romballi	romballar
+romballin	romballar
+romballis	romballar
+romballo	romballar
+romballs	romball
+romballà	romballar
+romballàrem	romballar
+romballàreu	romballar
+romballàs	romballar
+romballàssem	romballar
+romballàsseu	romballar
+romballàssim	romballar
+romballàssiu	romballar
+romballàvem	romballar
+romballàveu	romballar
+romballés	romballar
+romballéssem	romballar
+romballésseu	romballar
+romballéssim	romballar
+romballéssiu	romballar
+romballí	romballar
+rombals	rombal
+rombe
+rombell
+rombells	rombell
+rombencefalitis
+rombencefàlic
+rombencefàlica	rombencefàlic
+rombencefàlics	rombencefàlic
+rombencefàliques	rombencefàlic
+rombencèfal
+rombencèfals	rombencèfal
+rombes	rombe
+rombododecaedre
+rombododecàedre
+romboedre
+romboedres	romboedre
+romboencèfal
+romboencèfals	romboencèfal
+romboidal
+romboidals	romboidal
+romboide
+romboides	romboide
+romboll
+romboll	rombollar
+rombolla	rombollar
+rombollada	rombollar
+rombollades	rombollar
+rombollam	rombollar
+rombollant	rombollar
+rombollar
+rombollara	rombollar
+rombollaran	rombollar
+rombollarem	rombollar
+rombollaren	rombollar
+rombollares	rombollar
+rombollareu	rombollar
+rombollaria	rombollar
+rombollarien	rombollar
+rombollaries	rombollar
+rombollarà	rombollar
+rombollaràs	rombollar
+rombollaré	rombollar
+rombollaríem	rombollar
+rombollaríeu	rombollar
+rombollassen	rombollar
+rombollasses	rombollar
+rombollassin	rombollar
+rombollassis	rombollar
+rombollat	rombollar
+rombollats	rombollar
+rombollau	rombollar
+rombollava	rombollar
+rombollaven	rombollar
+rombollaves	rombollar
+rombolle	rombollar
+rombollem	rombollar
+rombollen	rombollar
+rombolles	rombollar
+rombollessen	rombollar
+rombollesses	rombollar
+rombollessin	rombollar
+rombollessis	rombollar
+rombolleu	rombollar
+rombolli	rombollar
+rombollin	rombollar
+rombollis	rombollar
+rombollo	rombollar
+rombolls	romboll
+rombollà	rombollar
+rombollàrem	rombollar
+rombollàreu	rombollar
+rombollàs	rombollar
+rombollàssem	rombollar
+rombollàsseu	rombollar
+rombollàssim	rombollar
+rombollàssiu	rombollar
+rombollàvem	rombollar
+rombollàveu	rombollar
+rombollés	rombollar
+rombolléssem	rombollar
+rombollésseu	rombollar
+rombolléssim	rombollar
+rombolléssiu	rombollar
+rombollí	rombollar
+romboèdric
+romboèdrica	romboèdric
+romboèdrics	romboèdric
+romboèdriques	romboèdric
+rombífer
+rombífers	rombífer
+rombòedre
+rombòedres	rombòedre
+romege	romejar
+romegem	romejar
+romegen	romejar
+romeges	romejar
+romegessen	romejar
+romegesses	romejar
+romegessin	romejar
+romegessis	romejar
+romegeu	romejar
+romegi	romejar
+romegin	romejar
+romegis	romejar
+romegosa
+romegoses	romegosa
+romeguer
+romeguera
+romegueral
+romeguerals	romegueral
+romeguerar
+romeguerars	romeguerar
+romegueres	romeguera
+romeguerons	romegueró
+romeguers	romeguer
+romegueró
+romegés	romejar
+romegéssem	romejar
+romegésseu	romejar
+romegéssim	romejar
+romegéssiu	romejar
+romegí	romejar
+romeig	romejar
+romeja	romejar
+romejada	romejar
+romejades	romejar
+romejam	romejar
+romejant	romejar
+romejar
+romejara	romejar
+romejaran	romejar
+romejarem	romejar
+romejaren	romejar
+romejares	romejar
+romejareu	romejar
+romejaria	romejar
+romejarien	romejar
+romejaries	romejar
+romejarà	romejar
+romejaràs	romejar
+romejaré	romejar
+romejaríem	romejar
+romejaríeu	romejar
+romejassen	romejar
+romejasses	romejar
+romejassin	romejar
+romejassis	romejar
+romejat	romejar
+romejats	romejar
+romejau	romejar
+romejava	romejar
+romejaven	romejar
+romejaves	romejar
+romejo	romejar
+romejà	romejar
+romejàrem	romejar
+romejàreu	romejar
+romejàs	romejar
+romejàssem	romejar
+romejàsseu	romejar
+romejàssim	romejar
+romejàssiu	romejar
+romejàvem	romejar
+romejàveu	romejar
+romer
+romera	romer
+romeral
+romerals	romeral
+romerar
+romerars	romerar
+romeres	romer
+romeria
+romeries	romeria
+romerola
+romeroles	romerola
+romers	romer
+romes	rom
+romesco
+romescos	romesco
+romeu
+romeua	romeu
+romeuenc
+romeuenca	romeuenc
+romeuencs	romeuenc
+romeuenques	romeuenc
+romeues	romeu
+romeus	romeu
+romeva	romeu
+romeves	romeu
+romiatge
+romiatges	romiatge
+romifidina
+romifidines	romifidina
+romiol
+romiols	romiol
+romiplostim
+romiplostims	romiplostim
+romofòbia
+romofòbies	romofòbia
+romosozumab
+romosozumabs	romosozumab
+romp	rompre
+rompa	rompre
+rompedor
+rompedora	rompedor
+rompedores	rompedor
+rompedors	rompedor
+rompem	rompre
+rompen	rompre
+rompent
+rompent	rompre
+rompents	rompent
+rompera	rompre
+romperen	rompre
+romperes	rompre
+rompes	rompre
+rompessen	rompre
+rompesses	rompre
+rompessin	rompre
+rompessis	rompre
+rompeu	rompre
+rompi	rompre
+rompia	rompre
+rompien	rompre
+rompies	rompre
+rompiment
+rompiments	rompiment
+rompin	rompre
+rompis	rompre
+rompo	rompre
+rompran	rompre
+rompre
+romprem	rompre
+rompreu	rompre
+rompria	rompre
+romprien	rompre
+rompries	rompre
+romprà	rompre
+rompràs	rompre
+rompré	rompre
+rompríem	rompre
+rompríeu	rompre
+romps	rompre
+rompsac
+rompsacs	rompsac
+rompuda
+rompuda	rompre
+rompudaire
+rompudaires	rompudaire
+rompudes	rompre
+rompudes	rompuda
+romput	rompre
+romputs	rompre
+rompé	rompre
+rompérem	rompre
+rompéreu	rompre
+rompés	rompre
+rompéssem	rompre
+rompésseu	rompre
+rompéssim	rompre
+rompéssiu	rompre
+rompí	rompre
+rompíem	rompre
+rompíeu	rompre
+roms	rom
+romà
+romànic
+romànica	romànic
+romànics	romànic
+romàniques	romànic
+romàntic
+romàntica	romàntic
+romànticament
+romàntics	romàntic
+romàntiques	romàntic
+romàs
+romàs	romandre
+romàstiga
+romàstigues	romàstiga
+romàtic
+romàtica	romàtic
+romàtics	romàtic
+romàtiques	romàtic
+ròmbic
+ròmbica	ròmbic
+ròmbics	ròmbic
+ròmbiques	ròmbic

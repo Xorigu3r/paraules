@@ -1,0 +1,86 @@
+leccionario
+leccionarios	leccionario
+lecciones	lección
+leccionista
+leccionistas	leccionista
+lección
+lechal
+lechales	lechal
+lechar
+lechares	lechar
+lechaza
+lechazas	lechaza
+leche
+lechecillas
+lechera
+lechera	lechero
+lecheras	lechera
+lecheras	lechero
+lechero
+lecheros	lechero
+lechería
+lecherías	lechería
+leches	leche
+lechetrezna
+lechetreznas	lechetrezna
+lechiga
+lechigada
+lechigada	lechigado
+lechigadas	lechigada
+lechigadas	lechigado
+lechigado
+lechigados	lechigado
+lechigas	lechiga
+lechino
+lechinos	lechino
+lecho
+lechona
+lechona	lechón
+lechonas	lechona
+lechonas	lechón
+lechones	lechón
+lechos	lecho
+lechosa	lechoso
+lechosas	lechoso
+lechoso
+lechosos	lechoso
+lechuga
+lechugada	lechugado
+lechugadas	lechugado
+lechugado
+lechugados	lechugado
+lechugas	lechuga
+lechuguera	lechuguero
+lechugueras	lechuguero
+lechuguero
+lechugueros	lechuguero
+lechuguilla	lechuga
+lechuguillas	lechuga
+lechuguina
+lechuguina	lechuguino
+lechuguinas	lechuguina
+lechuguinas	lechuguino
+lechuguino
+lechuguinos	lechuguino
+lechuza	lechuzo
+lechuzas	lechuzo
+lechuzo
+lechuzos	lechuzo
+lechón
+lectisternio
+lectisternios	lectisternio
+lectiva
+lectiva	lectivo
+lectivas	lectivo
+lectivo
+lectivos	lectivo
+lector
+lectora	lector
+lectorado
+lectorados	lectorado
+lectoras	lector
+lectores	lector
+lectoría
+lectorías	lectoría
+lectura
+lecturas	lectura

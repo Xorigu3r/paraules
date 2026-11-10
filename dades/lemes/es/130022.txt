@@ -1,0 +1,190 @@
+nava	nave
+navacera	navacero
+navaceras	navacero
+navacero
+navaceros	navacero
+navaja
+navaja	navajo
+navajada
+navajadas	navajada
+navajas	navaja
+navajas	navajo
+navajazo	navaja
+navajazos	navaja
+navajea	navajear
+navajeaba	navajear
+navajeabais	navajear
+navajeaban	navajear
+navajeabas	navajear
+navajead	navajear
+navajeada	navajear
+navajeadas	navajear
+navajeado	navajear
+navajeados	navajear
+navajeamos	navajear
+navajean	navajear
+navajeando	navajear
+navajear
+navajeara	navajear
+navajearais	navajear
+navajearan	navajear
+navajearas	navajear
+navajeare	navajear
+navajeareis	navajear
+navajearemos	navajear
+navajearen	navajear
+navajeares	navajear
+navajearon	navajear
+navajearse	navajear
+navajeará	navajear
+navajearán	navajear
+navajearás	navajear
+navajearé	navajear
+navajearéis	navajear
+navajearía	navajear
+navajearíais	navajear
+navajearíamos	navajear
+navajearían	navajear
+navajearías	navajear
+navajeas	navajear
+navajease	navajear
+navajeaseis	navajear
+navajeasen	navajear
+navajeases	navajear
+navajeaste	navajear
+navajeasteis	navajear
+navajee	navajear
+navajeemos	navajear
+navajeen	navajear
+navajees	navajear
+navajeo
+navajeo	navajear
+navajeos	navajeo
+navajera	navajero
+navajeras	navajero
+navajero
+navajeros	navajero
+navajeábamos	navajear
+navajeáis	navajear
+navajeándose	navajear
+navajeáramos	navajear
+navajeáremos	navajear
+navajeásemos	navajear
+navajeé	navajear
+navajeéis	navajear
+navajeó	navajear
+navajo
+navajonazo	navajón
+navajonazos	navajón
+navajones	navajón
+navajos	navajo
+navajón
+naval
+navales	naval
+navalmente
+navanco
+navancos	navanco
+navarca
+navarcas	navarca
+navarra	navarro
+navarras	navarro
+navarrisca	navarrisco
+navarriscas	navarrisco
+navarrisco
+navarriscos	navarrisco
+navarro
+navarroaragonés
+navarros	navarro
+navas	nave
+navazo
+navazos	navazo
+nave
+navecilla	nave
+navecillas	nave
+navega	navegar
+navegaba	navegar
+navegabais	navegar
+navegaban	navegar
+navegabas	navegar
+navegabilidad
+navegabilidades	navegabilidad
+navegable
+navegables	navegable
+navegaciones	navegación
+navegación
+navegad	navegar
+navegada	navegar
+navegadas	navegar
+navegado	navegar
+navegador
+navegadora	navegador
+navegadoras	navegador
+navegadores	navegador
+navegados	navegar
+navegamos	navegar
+navegan	navegar
+navegando	navegar
+navegante
+navegantes	navegante
+navegar
+navegara	navegar
+navegarais	navegar
+navegaran	navegar
+navegaras	navegar
+navegare	navegar
+navegareis	navegar
+navegaremos	navegar
+navegaren	navegar
+navegares	navegar
+navegaron	navegar
+navegarse	navegar
+navegará	navegar
+navegarán	navegar
+navegarás	navegar
+navegaré	navegar
+navegaréis	navegar
+navegaría	navegar
+navegaríais	navegar
+navegaríamos	navegar
+navegarían	navegar
+navegarías	navegar
+navegas	navegar
+navegase	navegar
+navegaseis	navegar
+navegasen	navegar
+navegases	navegar
+navegaste	navegar
+navegasteis	navegar
+navego	navegar
+navegue	navegar
+naveguemos	navegar
+naveguen	navegar
+navegues	navegar
+navegué	navegar
+naveguéis	navegar
+navegábamos	navegar
+navegáis	navegar
+navegándose	navegar
+navegáramos	navegar
+navegáremos	navegar
+navegásemos	navegar
+navegó	navegar
+naves	nave
+naveta
+navetas	naveta
+navicular
+naviculares	navicular
+naviculario
+navicularios	naviculario
+navidad
+navidades	navidad
+navideña	navideño
+navideñas	navideño
+navideño
+navideños	navideño
+naviera	naviero
+navieras	naviero
+naviero
+navieros	naviero
+navío
+navíos	navío

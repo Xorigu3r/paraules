@@ -1,0 +1,54 @@
+exvalencianista
+exvedet
+exvedets	exvedet
+exvicealcalde
+exvicealcaldes	exvicealcalde
+exvicealmirall
+exvicealmiralls	exvicealmirall
+exvicecanceller
+exviceconseller
+exvicecònsol
+exvicecònsols	exvicecònsol
+exvicedegana	exvicedegà
+exvicedeganes	exvicedegà
+exvicedegans	exvicedegà
+exvicedegà
+exvicedirector
+exvicedirectora	exvicedirector
+exvicedirectors	exvicedirector
+exvicegerent
+exvicegerenta
+exvicegerentes	exvicegerenta
+exvicegerents	exvicegerent
+exvicelegat
+exvicelegats	exvicelegat
+exviceministra	exviceministre
+exviceministre
+exviceministres	exviceministre
+exvicepresident
+exviceprimer
+exviceprimera	exviceprimer
+exviceprimeres	exviceprimer
+exviceprimers	exviceprimer
+exvicerector
+exvicerectora	exvicerector
+exvicerectores	exvicerector
+exvicerectors	exvicerector
+exvicesecretari
+exvicesenescal
+exvicesenescals	exvicesenescal
+exvicetresorer
+exvicetresorera	exvicetresorer
+exvicetresorers	exvicetresorer
+exvirrei
+exvirreina
+exvirreines	exvirreina
+exvirreis	exvirrei
+exvocal
+exvocalista
+exvocalistes	exvocalista
+exvocals	exvocal
+exvot
+exvotant
+exvotants	exvotant
+exvots	exvot

@@ -1,0 +1,4 @@
+tigre
+tigres	tigre
+tigresa
+tigresas	tigresa

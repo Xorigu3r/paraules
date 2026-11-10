@@ -1,0 +1,4 @@
+get
+getons	getó
+gets	get
+getó

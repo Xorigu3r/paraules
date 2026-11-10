@@ -1,0 +1,5 @@
+osa
+osalmid
+osalmids	osalmid
+osazona
+osazones	osazona

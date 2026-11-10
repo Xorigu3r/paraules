@@ -1,0 +1,667 @@
+cav	cavar
+cava
+cava	cavar
+cavada
+cavada	cavar
+cavades	cavada
+cavades	cavar
+cavadissa	cavadís
+cavadisses	cavadís
+cavadissos	cavadís
+cavador
+cavadora	cavador
+cavadores	cavador
+cavadors	cavador
+cavadís
+cavafems
+caval
+cavalc	cavalcar
+cavalca	cavalcar
+cavalcada
+cavalcada	cavalcar
+cavalcades	cavalcada
+cavalcades	cavalcar
+cavalcador
+cavalcadora	cavalcador
+cavalcadores	cavalcador
+cavalcadors	cavalcador
+cavalcadura
+cavalcadures	cavalcadura
+cavalcam	cavalcar
+cavalcant
+cavalcant	cavalcar
+cavalcants	cavalcant
+cavalcar
+cavalcara	cavalcar
+cavalcaran	cavalcar
+cavalcarem	cavalcar
+cavalcaren	cavalcar
+cavalcares	cavalcar
+cavalcareu	cavalcar
+cavalcaria	cavalcar
+cavalcarien	cavalcar
+cavalcaries	cavalcar
+cavalcarà	cavalcar
+cavalcaràs	cavalcar
+cavalcaré	cavalcar
+cavalcaríem	cavalcar
+cavalcaríeu	cavalcar
+cavalcassen	cavalcar
+cavalcasses	cavalcar
+cavalcassin	cavalcar
+cavalcassis	cavalcar
+cavalcat	cavalcar
+cavalcats	cavalcar
+cavalcau	cavalcar
+cavalcava	cavalcar
+cavalcaven	cavalcar
+cavalcaves	cavalcar
+cavalco	cavalcar
+cavalcà	cavalcar
+cavalcàrem	cavalcar
+cavalcàreu	cavalcar
+cavalcàs	cavalcar
+cavalcàssem	cavalcar
+cavalcàsseu	cavalcar
+cavalcàssim	cavalcar
+cavalcàssiu	cavalcar
+cavalcàvem	cavalcar
+cavalcàveu	cavalcar
+cavall
+cavall	cavallar
+cavalla
+cavalla	cavallar
+cavallada
+cavallada	cavallar
+cavallades	cavallada
+cavallades	cavallar
+cavallam	cavallar
+cavallant	cavallar
+cavallar
+cavallara	cavallar
+cavallaran	cavallar
+cavallarem	cavallar
+cavallaren	cavallar
+cavallares	cavallar
+cavallareu	cavallar
+cavallaria	cavallar
+cavallarien	cavallar
+cavallaries	cavallar
+cavallars	cavallar
+cavallarà	cavallar
+cavallaràs	cavallar
+cavallaré	cavallar
+cavallaríem	cavallar
+cavallaríeu	cavallar
+cavallassen	cavallar
+cavallasses	cavallar
+cavallassin	cavallar
+cavallassis	cavallar
+cavallat	cavallar
+cavallats	cavallar
+cavallau	cavallar
+cavallava	cavallar
+cavallaven	cavallar
+cavallaves	cavallar
+cavallbernat
+cavallbernats	cavallbernat
+cavalle	cavallar
+cavallege	cavallejar
+cavallegem	cavallejar
+cavallegen	cavallejar
+cavalleges	cavallejar
+cavallegessen	cavallejar
+cavallegesses	cavallejar
+cavallegessin	cavallejar
+cavallegessis	cavallejar
+cavallegeu	cavallejar
+cavallegi	cavallejar
+cavallegin	cavallejar
+cavallegis	cavallejar
+cavallegés	cavallejar
+cavallegéssem	cavallejar
+cavallegésseu	cavallejar
+cavallegéssim	cavallejar
+cavallegéssiu	cavallejar
+cavallegí	cavallejar
+cavalleig	cavallejar
+cavalleja	cavallejar
+cavallejada	cavallejar
+cavallejades	cavallejar
+cavallejam	cavallejar
+cavallejant	cavallejar
+cavallejar
+cavallejara	cavallejar
+cavallejaran	cavallejar
+cavallejarem	cavallejar
+cavallejaren	cavallejar
+cavallejares	cavallejar
+cavallejareu	cavallejar
+cavallejaria	cavallejar
+cavallejarien	cavallejar
+cavallejaries	cavallejar
+cavallejarà	cavallejar
+cavallejaràs	cavallejar
+cavallejaré	cavallejar
+cavallejaríem	cavallejar
+cavallejaríeu	cavallejar
+cavallejassen	cavallejar
+cavallejasses	cavallejar
+cavallejassin	cavallejar
+cavallejassis	cavallejar
+cavallejat	cavallejar
+cavallejats	cavallejar
+cavallejau	cavallejar
+cavallejava	cavallejar
+cavallejaven	cavallejar
+cavallejaves	cavallejar
+cavallejo	cavallejar
+cavallejà	cavallejar
+cavallejàrem	cavallejar
+cavallejàreu	cavallejar
+cavallejàs	cavallejar
+cavallejàssem	cavallejar
+cavallejàsseu	cavallejar
+cavallejàssim	cavallejar
+cavallejàssiu	cavallejar
+cavallejàvem	cavallejar
+cavallejàveu	cavallejar
+cavallem	cavallar
+cavallen	cavallar
+cavaller
+cavallerege	cavallerejar
+cavalleregem	cavallerejar
+cavalleregen	cavallerejar
+cavallereges	cavallerejar
+cavalleregessen	cavallerejar
+cavalleregesses	cavallerejar
+cavalleregessin	cavallerejar
+cavalleregessis	cavallerejar
+cavalleregeu	cavallerejar
+cavalleregi	cavallerejar
+cavalleregin	cavallerejar
+cavalleregis	cavallerejar
+cavalleregés	cavallerejar
+cavalleregéssem	cavallerejar
+cavalleregésseu	cavallerejar
+cavalleregéssim	cavallerejar
+cavalleregéssiu	cavallerejar
+cavalleregí	cavallerejar
+cavallereig	cavallerejar
+cavallereja	cavallerejar
+cavallerejada	cavallerejar
+cavallerejades	cavallerejar
+cavallerejam	cavallerejar
+cavallerejant	cavallerejar
+cavallerejar
+cavallerejara	cavallerejar
+cavallerejaran	cavallerejar
+cavallerejarem	cavallerejar
+cavallerejaren	cavallerejar
+cavallerejares	cavallerejar
+cavallerejareu	cavallerejar
+cavallerejaria	cavallerejar
+cavallerejarien	cavallerejar
+cavallerejaries	cavallerejar
+cavallerejarà	cavallerejar
+cavallerejaràs	cavallerejar
+cavallerejaré	cavallerejar
+cavallerejaríem	cavallerejar
+cavallerejaríeu	cavallerejar
+cavallerejassen	cavallerejar
+cavallerejasses	cavallerejar
+cavallerejassin	cavallerejar
+cavallerejassis	cavallerejar
+cavallerejat	cavallerejar
+cavallerejats	cavallerejar
+cavallerejau	cavallerejar
+cavallerejava	cavallerejar
+cavallerejaven	cavallerejar
+cavallerejaves	cavallerejar
+cavallerejo	cavallerejar
+cavallerejà	cavallerejar
+cavallerejàrem	cavallerejar
+cavallerejàreu	cavallerejar
+cavallerejàs	cavallerejar
+cavallerejàssem	cavallerejar
+cavallerejàsseu	cavallerejar
+cavallerejàssim	cavallerejar
+cavallerejàssiu	cavallerejar
+cavallerejàvem	cavallerejar
+cavallerejàveu	cavallerejar
+cavalleresc
+cavalleresca	cavalleresc
+cavallerescos	cavalleresc
+cavallerescs	cavalleresc
+cavalleresques	cavalleresc
+cavalleressa
+cavalleresses	cavalleressa
+cavalleria
+cavalleries	cavalleria
+cavallerissa
+cavallerisses	cavallerissa
+cavallerissos	cavallerís
+cavallerosa	cavallerós
+cavallerosament
+cavalleroses	cavallerós
+cavallerositat
+cavallerositats	cavallerositat
+cavallerosos	cavallerós
+cavallers	cavaller
+cavallerís
+cavallerívol
+cavallerívola	cavallerívol
+cavallerívoles	cavallerívol
+cavallerívols	cavallerívol
+cavallerós
+cavalles	cavalla
+cavalles	cavallar
+cavallessen	cavallar
+cavallesses	cavallar
+cavallessin	cavallar
+cavallessis	cavallar
+cavallet
+cavallets
+cavallets	cavallet
+cavalleu	cavallar
+cavallfort
+cavallforts	cavallfort
+cavalli	cavallar
+cavallin	cavallar
+cavallina
+cavallina	cavallí
+cavallines	cavallina
+cavallines	cavallí
+cavallins
+cavallins	cavallí
+cavallis	cavallar
+cavallista
+cavallistes	cavallista
+cavallo	cavallar
+cavallon	cavallonar
+cavallona	cavallonar
+cavallonada	cavallonar
+cavallonades	cavallonar
+cavallonadora
+cavallonadores	cavallonadora
+cavallonam	cavallonar
+cavallonant	cavallonar
+cavallonar
+cavallonara	cavallonar
+cavallonaran	cavallonar
+cavallonarem	cavallonar
+cavallonaren	cavallonar
+cavallonares	cavallonar
+cavallonareu	cavallonar
+cavallonaria	cavallonar
+cavallonarien	cavallonar
+cavallonaries	cavallonar
+cavallonarà	cavallonar
+cavallonaràs	cavallonar
+cavallonaré	cavallonar
+cavallonaríem	cavallonar
+cavallonaríeu	cavallonar
+cavallonassen	cavallonar
+cavallonasses	cavallonar
+cavallonassin	cavallonar
+cavallonassis	cavallonar
+cavallonat	cavallonar
+cavallonats	cavallonar
+cavallonau	cavallonar
+cavallonava	cavallonar
+cavallonaven	cavallonar
+cavallonaves	cavallonar
+cavallone	cavallonar
+cavallonem	cavallonar
+cavallonen	cavallonar
+cavallones	cavallonar
+cavallonessen	cavallonar
+cavallonesses	cavallonar
+cavallonessin	cavallonar
+cavallonessis	cavallonar
+cavalloneu	cavallonar
+cavalloni	cavallonar
+cavallonin	cavallonar
+cavallonis	cavallonar
+cavallono	cavallonar
+cavallons	cavalló
+cavallonà	cavallonar
+cavallonàrem	cavallonar
+cavallonàreu	cavallonar
+cavallonàs	cavallonar
+cavallonàssem	cavallonar
+cavallonàsseu	cavallonar
+cavallonàssim	cavallonar
+cavallonàssiu	cavallonar
+cavallonàvem	cavallonar
+cavallonàveu	cavallonar
+cavallonés	cavallonar
+cavallonéssem	cavallonar
+cavallonésseu	cavallonar
+cavallonéssim	cavallonar
+cavallonéssiu	cavallonar
+cavalloní	cavallonar
+cavallot
+cavallots	cavallot
+cavalls	cavall
+cavallà	cavallar
+cavallàrem	cavallar
+cavallàreu	cavallar
+cavallàs	cavallar
+cavallàssem	cavallar
+cavallàsseu	cavallar
+cavallàssim	cavallar
+cavallàssiu	cavallar
+cavallàvem	cavallar
+cavallàveu	cavallar
+cavallés	cavallar
+cavalléssem	cavallar
+cavallésseu	cavallar
+cavalléssim	cavallar
+cavalléssiu	cavallar
+cavallí
+cavallí	cavallar
+cavalló
+cavalque	cavalcar
+cavalquem	cavalcar
+cavalquen	cavalcar
+cavalques	cavalcar
+cavalquessen	cavalcar
+cavalquesses	cavalcar
+cavalquessin	cavalcar
+cavalquessis	cavalcar
+cavalqueu	cavalcar
+cavalqui	cavalcar
+cavalquin	cavalcar
+cavalquis	cavalcar
+cavalqués	cavalcar
+cavalquéssem	cavalcar
+cavalquésseu	cavalcar
+cavalquéssim	cavalcar
+cavalquéssiu	cavalcar
+cavalquí	cavalcar
+cavals	caval
+cavam	cavar
+cavanillèsia
+cavanillèsies	cavanillèsia
+cavant	cavar
+cavapalles
+cavar
+cavara	cavar
+cavaran	cavar
+cavarem	cavar
+cavaren	cavar
+cavares	cavar
+cavareu	cavar
+cavaria	cavar
+cavarien	cavar
+cavaries	cavar
+cavarà	cavar
+cavaràs	cavar
+cavaré	cavar
+cavaríem	cavar
+cavaríeu	cavar
+cavassen	cavar
+cavasses	cavar
+cavassin	cavar
+cavassis	cavar
+cavat	cavar
+cavatina
+cavatines	cavatina
+cavats	cavar
+cavau	cavar
+cavava	cavar
+cavaven	cavar
+cavaves	cavar
+cave	cavar
+cavegada
+cavegades	cavegada
+caveguell
+caveguells	caveguell
+caveguet
+caveguets	caveguet
+cavem	cavar
+caven	cavar
+caveolina
+caveolines	caveolina
+caver
+cavera	caver
+caveres	caver
+caverna
+cavernari
+cavernaris	cavernari
+cavernes	caverna
+cavernilòquia
+cavernilòquies	cavernilòquia
+cavernitis
+cavernoma
+cavernomes	cavernoma
+cavernosa	cavernós
+cavernosament
+cavernoscopi
+cavernoscopis	cavernoscopi
+cavernoscòpia
+cavernoscòpies	cavernoscòpia
+cavernoses	cavernós
+cavernositis
+cavernosos	cavernós
+cavernostomia
+cavernostomies	cavernostomia
+cavernosíssim
+cavernosíssima	cavernosíssim
+cavernosíssimes	cavernosíssim
+cavernosíssims	cavernosíssim
+cavernària	cavernari
+cavernàries	cavernari
+cavernícola
+cavernícoles	cavernícola
+cavernós
+cavers	caver
+caves	cava
+caves	cavar
+cavessen	cavar
+cavesses	cavar
+cavessin	cavar
+cavessis	cavar
+cavet
+cavets	cavet
+caveu	cavar
+cavi	cavar
+caviar
+caviars	caviar
+cavicorni
+cavicornis	cavicorni
+cavicòrnia	cavicorni
+cavicòrnies	cavicorni
+cavil	cavil·lar
+cavilat
+cavilats	cavilat
+cavil·la	cavil·lar
+cavil·lacions	cavil·lació
+cavil·lació
+cavil·lada	cavil·lar
+cavil·lades	cavil·lar
+cavil·lador
+cavil·ladora	cavil·lador
+cavil·ladores	cavil·lador
+cavil·ladors	cavil·lador
+cavil·lam	cavil·lar
+cavil·lant	cavil·lar
+cavil·lar
+cavil·lara	cavil·lar
+cavil·laran	cavil·lar
+cavil·larem	cavil·lar
+cavil·laren	cavil·lar
+cavil·lares	cavil·lar
+cavil·lareu	cavil·lar
+cavil·laria	cavil·lar
+cavil·larien	cavil·lar
+cavil·laries	cavil·lar
+cavil·larà	cavil·lar
+cavil·laràs	cavil·lar
+cavil·laré	cavil·lar
+cavil·laríem	cavil·lar
+cavil·laríeu	cavil·lar
+cavil·lassen	cavil·lar
+cavil·lasses	cavil·lar
+cavil·lassin	cavil·lar
+cavil·lassis	cavil·lar
+cavil·lat	cavil·lar
+cavil·lats	cavil·lar
+cavil·lau	cavil·lar
+cavil·lava	cavil·lar
+cavil·laven	cavil·lar
+cavil·laves	cavil·lar
+cavil·le	cavil·lar
+cavil·lege	cavil·lejar
+cavil·legem	cavil·lejar
+cavil·legen	cavil·lejar
+cavil·leges	cavil·lejar
+cavil·legessen	cavil·lejar
+cavil·legesses	cavil·lejar
+cavil·legessin	cavil·lejar
+cavil·legessis	cavil·lejar
+cavil·legeu	cavil·lejar
+cavil·legi	cavil·lejar
+cavil·legin	cavil·lejar
+cavil·legis	cavil·lejar
+cavil·legés	cavil·lejar
+cavil·legéssem	cavil·lejar
+cavil·legésseu	cavil·lejar
+cavil·legéssim	cavil·lejar
+cavil·legéssiu	cavil·lejar
+cavil·legí	cavil·lejar
+cavil·leig
+cavil·leig	cavil·lejar
+cavil·leigs	cavil·leig
+cavil·leja	cavil·lejar
+cavil·lejada	cavil·lejar
+cavil·lejades	cavil·lejar
+cavil·lejam	cavil·lejar
+cavil·lejant	cavil·lejar
+cavil·lejar
+cavil·lejara	cavil·lejar
+cavil·lejaran	cavil·lejar
+cavil·lejarem	cavil·lejar
+cavil·lejaren	cavil·lejar
+cavil·lejares	cavil·lejar
+cavil·lejareu	cavil·lejar
+cavil·lejaria	cavil·lejar
+cavil·lejarien	cavil·lejar
+cavil·lejaries	cavil·lejar
+cavil·lejarà	cavil·lejar
+cavil·lejaràs	cavil·lejar
+cavil·lejaré	cavil·lejar
+cavil·lejaríem	cavil·lejar
+cavil·lejaríeu	cavil·lejar
+cavil·lejassen	cavil·lejar
+cavil·lejasses	cavil·lejar
+cavil·lejassin	cavil·lejar
+cavil·lejassis	cavil·lejar
+cavil·lejat	cavil·lejar
+cavil·lejats	cavil·lejar
+cavil·lejau	cavil·lejar
+cavil·lejava	cavil·lejar
+cavil·lejaven	cavil·lejar
+cavil·lejaves	cavil·lejar
+cavil·lejo	cavil·lejar
+cavil·lejos	cavil·leig
+cavil·lejà	cavil·lejar
+cavil·lejàrem	cavil·lejar
+cavil·lejàreu	cavil·lejar
+cavil·lejàs	cavil·lejar
+cavil·lejàssem	cavil·lejar
+cavil·lejàsseu	cavil·lejar
+cavil·lejàssim	cavil·lejar
+cavil·lejàssiu	cavil·lejar
+cavil·lejàvem	cavil·lejar
+cavil·lejàveu	cavil·lejar
+cavil·lem	cavil·lar
+cavil·len	cavil·lar
+cavil·les	cavil·lar
+cavil·lessen	cavil·lar
+cavil·lesses	cavil·lar
+cavil·lessin	cavil·lar
+cavil·lessis	cavil·lar
+cavil·leu	cavil·lar
+cavil·li	cavil·lar
+cavil·lin	cavil·lar
+cavil·lis	cavil·lar
+cavil·lo	cavil·lar
+cavil·losa	cavil·lós
+cavil·losament
+cavil·loses	cavil·lós
+cavil·losos	cavil·lós
+cavil·losíssim
+cavil·losíssima	cavil·losíssim
+cavil·losíssimes	cavil·losíssim
+cavil·losíssims	cavil·losíssim
+cavil·là	cavil·lar
+cavil·làrem	cavil·lar
+cavil·làreu	cavil·lar
+cavil·làs	cavil·lar
+cavil·làssem	cavil·lar
+cavil·làsseu	cavil·lar
+cavil·làssim	cavil·lar
+cavil·làssiu	cavil·lar
+cavil·làvem	cavil·lar
+cavil·làveu	cavil·lar
+cavil·lés	cavil·lar
+cavil·léssem	cavil·lar
+cavil·lésseu	cavil·lar
+cavil·léssim	cavil·lar
+cavil·léssiu	cavil·lar
+cavil·lí	cavil·lar
+cavil·lós
+cavim
+cavims	cavim
+cavin	cavar
+cavis	cavar
+cavista
+cavistes	cavista
+cavitacions	cavitació
+cavitació
+cavitari
+cavitaris	cavitari
+cavitat
+cavitats	cavitat
+cavitis
+cavitària	cavitari
+cavitàries	cavitari
+cavo	cavar
+cavografia
+cavografies	cavografia
+cavons	cavó
+cavorca
+cavorques	cavorca
+cavovalg
+cavovalga	cavovalg
+cavovalgs	cavovalg
+cavovalgues	cavovalg
+cavà	cavar
+cavàrem	cavar
+cavàreu	cavar
+cavàs	cavar
+cavàssem	cavar
+cavàsseu	cavar
+cavàssim	cavar
+cavàssiu	cavar
+cavàvem	cavar
+cavàveu	cavar
+cavèola
+cavèoles	cavèola
+cavés	cavar
+cavéssem	cavar
+cavésseu	cavar
+cavéssim	cavar
+cavéssiu	cavar
+caví	cavar
+cavó
+càvea
+càvec
+càvecs	càvec
+càvees	càvea
+càvid
+càvids	càvid
+càvum
+càvums	càvum

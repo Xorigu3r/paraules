@@ -1,0 +1,319 @@
+top
+top	topar
+topa	topar
+topada
+topada	topar
+topades	topada
+topades	topar
+topadissa	topadís
+topadisses	topadís
+topadissos	topadís
+topador
+topadora	topador
+topadores	topador
+topadors	topador
+topadís
+topagnosi
+topagnosis	topagnosi
+topall
+topalls	topall
+topam	topar
+topament
+topaments	topament
+topant	topar
+topants
+topar
+topara	topar
+toparan	topar
+toparem	topar
+toparen	topar
+topares	topar
+topareu	topar
+toparia	topar
+toparien	topar
+toparies	topar
+toparà	topar
+toparàs	topar
+toparé	topar
+toparíem	topar
+toparíeu	topar
+topassen	topar
+topasses	topar
+topassin	topar
+topassis	topar
+topat	topar
+topats	topar
+topau	topar
+topava	topar
+topaven	topar
+topaves	topar
+topazi
+topazis	topazi
+topcrosos	topcròs
+topcròs
+tope	topar
+topectomia
+topectomies	topectomia
+topem	topar
+topen	topar
+topes	topar
+topessen	topar
+topesses	topar
+topessin	topar
+topessis	topar
+topestèsia
+topestèsies	topestèsia
+topeta
+topetege	topetejar
+topetegem	topetejar
+topetegen	topetejar
+topeteges	topetejar
+topetegessen	topetejar
+topetegesses	topetejar
+topetegessin	topetejar
+topetegessis	topetejar
+topetegeu	topetejar
+topetegi	topetejar
+topetegin	topetejar
+topetegis	topetejar
+topetegés	topetejar
+topetegéssem	topetejar
+topetegésseu	topetejar
+topetegéssim	topetejar
+topetegéssiu	topetejar
+topetegí	topetejar
+topeteig	topetejar
+topeteja	topetejar
+topetejada	topetejar
+topetejades	topetejar
+topetejam	topetejar
+topetejant	topetejar
+topetejar
+topetejara	topetejar
+topetejaran	topetejar
+topetejarem	topetejar
+topetejaren	topetejar
+topetejares	topetejar
+topetejareu	topetejar
+topetejaria	topetejar
+topetejarien	topetejar
+topetejaries	topetejar
+topetejarà	topetejar
+topetejaràs	topetejar
+topetejaré	topetejar
+topetejaríem	topetejar
+topetejaríeu	topetejar
+topetejassen	topetejar
+topetejasses	topetejar
+topetejassin	topetejar
+topetejassis	topetejar
+topetejat	topetejar
+topetejats	topetejar
+topetejau	topetejar
+topetejava	topetejar
+topetejaven	topetejar
+topetejaves	topetejar
+topetejo	topetejar
+topetejà	topetejar
+topetejàrem	topetejar
+topetejàreu	topetejar
+topetejàs	topetejar
+topetejàssem	topetejar
+topetejàsseu	topetejar
+topetejàssim	topetejar
+topetejàssiu	topetejar
+topetejàvem	topetejar
+topetejàveu	topetejar
+topetes	topeta
+topetia
+topeties	topetia
+topeu	topar
+topi	topar
+topiari
+topiaris	topiari
+topin	topar
+topina
+topinada
+topinades	topinada
+topinaire
+topinaires	topinaire
+topines	topina
+topins	topí
+topiramat
+topiramats	topiramat
+topis	topar
+topiària	topiari
+topiàries	topiari
+topless
+topo	topar
+topoagnosi
+topoagnosis	topoagnosi
+topoanestèsia
+topoanestèsies	topoanestèsia
+topoclima
+topoclimes	topoclima
+topocèntric
+topocèntrica	topocèntric
+topocèntrics	topocèntric
+topocèntriques	topocèntric
+topodiagnosi
+topodiagnosis	topodiagnosi
+topodiagnòstic
+topodiagnòstica	topodiagnòstic
+topodiagnòstics	topodiagnòstic
+topodisestèsia
+topodisestèsies	topodisestèsia
+topoectomia
+topoectomies	topoectomia
+topoestèsia
+topoestèsies	topoestèsia
+topofilàxia
+topofilàxies	topofilàxia
+topofòbia
+topofòbies	topofòbia
+topognosi
+topognosis	topognosi
+topografia
+topografia	topografiar
+topografiada	topografiar
+topografiades	topografiar
+topografiam	topografiar
+topografiant	topografiar
+topografiar
+topografiara	topografiar
+topografiaran	topografiar
+topografiarem	topografiar
+topografiaren	topografiar
+topografiares	topografiar
+topografiareu	topografiar
+topografiaria	topografiar
+topografiarien	topografiar
+topografiaries	topografiar
+topografiarà	topografiar
+topografiaràs	topografiar
+topografiaré	topografiar
+topografiaríem	topografiar
+topografiaríeu	topografiar
+topografiassen	topografiar
+topografiasses	topografiar
+topografiassin	topografiar
+topografiassis	topografiar
+topografiat	topografiar
+topografiats	topografiar
+topografiau	topografiar
+topografiava	topografiar
+topografiaven	topografiar
+topografiaves	topografiar
+topografie	topografiar
+topografiem	topografiar
+topografien	topografiar
+topografies	topografia
+topografies	topografiar
+topografiessen	topografiar
+topografiesses	topografiar
+topografiessin	topografiar
+topografiessis	topografiar
+topografieu	topografiar
+topografii	topografiar
+topografio	topografiar
+topografià	topografiar
+topografiàrem	topografiar
+topografiàreu	topografiar
+topografiàs	topografiar
+topografiàssem	topografiar
+topografiàsseu	topografiar
+topografiàssim	topografiar
+topografiàssiu	topografiar
+topografiàvem	topografiar
+topografiàveu	topografiar
+topografiés	topografiar
+topografiéssem	topografiar
+topografiésseu	topografiar
+topografiéssim	topografiar
+topografiéssiu	topografiar
+topografií	topografiar
+topografiï	topografiar
+topografiïn	topografiar
+topografiïs	topografiar
+topogràfic
+topogràfica	topogràfic
+topogràficament
+topogràfics	topogràfic
+topogràfiques	topogràfic
+topoguia
+topoguies	topoguia
+topologia
+topologies	topologia
+topològic
+topològica	topològic
+topològicament
+topològics	topològic
+topològiques	topològic
+topometria
+topometries	topometria
+topometrista
+topometristes	topometrista
+toponarcosi
+toponarcosis	toponarcosi
+toponema
+toponemes	toponema
+toponeurosi
+toponeurosis	toponeurosi
+toponimista
+toponimistes	toponimista
+toponomàstic
+toponomàstica
+toponomàstica	toponomàstic
+toponomàstics	toponomàstic
+toponomàstiques	toponomàstic
+toponomàstiques	toponomàstica
+toponímia
+toponímic
+toponímica	toponímic
+toponímicament
+toponímics	toponímic
+toponímies	toponímia
+toponímiques	toponímic
+topotecan
+topotecans	topotecan
+topoàlgia
+topoàlgies	topoàlgia
+tops	top
+topspin
+topspins	topspin
+topuda	toput
+topudes	toput
+toput
+toputs	toput
+topà	topar
+topàlgia
+topàlgies	topàlgia
+topàrem	topar
+topàreu	topar
+topàs	topar
+topàssem	topar
+topàsseu	topar
+topàssim	topar
+topàssiu	topar
+topàvem	topar
+topàveu	topar
+topés	topar
+topéssem	topar
+topésseu	topar
+topéssim	topar
+topéssiu	topar
+topí
+topí	topar
+topògraf
+topògrafa	topògraf
+topògrafes	topògraf
+topògrafs	topògraf
+topònim
+topònims	topònim
+tòpic
+tòpica
+tòpica	tòpic
+tòpicament
+tòpics	tòpic
+tòpiques	tòpic
+tòpiques	tòpica

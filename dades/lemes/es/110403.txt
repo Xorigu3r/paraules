@@ -1,0 +1,6 @@
+led
+leda	ledo
+ledas	ledo
+ledes	led
+ledo
+ledos	ledo

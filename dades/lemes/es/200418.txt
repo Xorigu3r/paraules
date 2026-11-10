@@ -1,0 +1,975 @@
+ter
+teraamperio	amperio
+teraamperios	amperio
+terabar	bar
+terabares	bar
+terabecquerel	becquerel
+terabecquereles	becquerel
+teraculombio	culombio
+teraculombios	culombio
+terafaradio	faradio
+terafaradios	faradio
+teragrais	grais
+teragramo	gramo
+teragramos	gramo
+teragray	gray
+terahenrio	henrio
+terahenrios	henrio
+terahenry	henry
+terajoule	joule
+terajoules	joule
+terajulio	julio
+terajulios	julio
+teralitro	litro
+teralitros	litro
+teralux	lux
+teraluxes	lux
+teranewton	newton
+teranewtons	newtons
+teraohm	ohm
+teraohmio	ohmio
+teraohmios	ohmio
+terapascal	pascal
+terapascales	pascal
+terapeuta
+terapeutas	terapeuta
+terapia
+terapias	terapia
+terapéutica
+terapéutica	terapéutico
+terapéuticas	terapéutica
+terapéuticas	terapéutico
+terapéutico
+terapéuticos	terapéutico
+terasegundo	segundo
+terasegundos	segundo
+teratesla	tesla
+terateslas	tesla
+teravolt	volt
+teravoltio	voltio
+teravoltios	voltio
+teravolts	volt
+terawatt	watt
+terawatts	watt
+teraweber	weber
+terawebers	webers
+terbio
+terbios	terbio
+terca	terco
+tercamente
+tercas	terco
+tercelete
+terceletes	tercelete
+tercena
+tercenas	tercena
+tercenca	tercenco
+tercencas	tercenco
+tercenco
+tercencos	tercenco
+tercenista
+tercenistas	tercenista
+tercer
+tercera
+tercera	tercer
+tercera	tercero
+terceras	tercer
+terceras	tercera
+terceras	tercero
+tercerea	tercerear
+tercereaba	tercerear
+tercereabais	tercerear
+tercereaban	tercerear
+tercereabas	tercerear
+terceread	tercerear
+tercereada	tercerear
+tercereadas	tercerear
+tercereado	tercerear
+tercereados	tercerear
+tercereamos	tercerear
+tercerean	tercerear
+tercereando	tercerear
+tercerear
+tercereara	tercerear
+tercerearais	tercerear
+tercerearan	tercerear
+tercerearas	tercerear
+tercereare	tercerear
+tercereareis	tercerear
+tercerearemos	tercerear
+tercerearen	tercerear
+tercereares	tercerear
+tercerearon	tercerear
+tercerearse	tercerear
+tercereará	tercerear
+tercerearán	tercerear
+tercerearás	tercerear
+tercerearé	tercerear
+tercerearéis	tercerear
+tercerearía	tercerear
+tercerearíais	tercerear
+tercerearíamos	tercerear
+tercerearían	tercerear
+tercerearías	tercerear
+tercereas	tercerear
+tercerease	tercerear
+tercereaseis	tercerear
+tercereasen	tercerear
+tercereases	tercerear
+tercereaste	tercerear
+tercereasteis	tercerear
+terceree	tercerear
+tercereemos	tercerear
+tercereen	tercerear
+tercerees	tercerear
+tercereo	tercerear
+terceres	tercer
+tercereábamos	tercerear
+tercereáis	tercerear
+tercereándose	tercerear
+tercereáramos	tercerear
+tercereáremos	tercerear
+tercereásemos	tercerear
+tercereé	tercerear
+tercereéis	tercerear
+tercereó	tercerear
+tercerilla	tercera
+tercerillas	tercera
+tercerista
+terceristas	tercerista
+tercermundista
+tercermundistas	tercermundista
+tercero
+tercerola
+tercerolas	tercerola
+terceros	tercero
+tercería	tercera
+tercerías	tercera
+terceto
+tercetos	terceto
+tercia
+tercia	terciar
+tercia	tercio
+terciaba	terciar
+terciabais	terciar
+terciaban	terciar
+terciabas	terciar
+terciad	terciar
+terciada	terciado
+terciada	terciar
+terciadas	terciado
+terciadas	terciar
+terciado
+terciado	terciar
+terciador
+terciadora	terciador
+terciadoras	terciador
+terciadores	terciador
+terciados	terciado
+terciados	terciar
+terciamos	terciar
+tercian	terciar
+terciana
+tercianaria	tercianario
+tercianarias	tercianario
+tercianario
+tercianarios	tercianario
+tercianas	terciana
+terciando	terciar
+tercianela
+tercianelas	tercianela
+terciar
+terciara	terciar
+terciarais	terciar
+terciaran	terciar
+terciaras	terciar
+terciare	terciar
+terciareis	terciar
+terciaremos	terciar
+terciaren	terciar
+terciares	terciar
+terciaria	terciario
+terciarias	terciario
+terciario
+terciarios	terciario
+terciaron	terciar
+terciarse	terciar
+terciará	terciar
+terciarán	terciar
+terciarás	terciar
+terciaré	terciar
+terciaréis	terciar
+terciaría	terciar
+terciaríais	terciar
+terciaríamos	terciar
+terciarían	terciar
+terciarías	terciar
+tercias	tercia
+tercias	terciar
+tercias	tercio
+terciase	terciar
+terciaseis	terciar
+terciasen	terciar
+terciases	terciar
+terciaste	terciar
+terciasteis	terciar
+tercie	terciar
+terciemos	terciar
+tercien	terciar
+tercies	terciar
+tercio
+tercio	terciar
+terciopelada
+terciopelada	terciopelado
+terciopeladas	terciopelado
+terciopelado
+terciopelados	terciopelado
+terciopelera	terciopelero
+terciopeleras	terciopelero
+terciopelero
+terciopeleros	terciopelero
+terciopelo
+terciopelos	terciopelo
+terciopersonal
+tercios	tercio
+terciábamos	terciar
+terciáis	terciar
+terciándose	terciar
+terciáramos	terciar
+terciáremos	terciar
+terciásemos	terciar
+tercié	terciar
+terciéis	terciar
+terció	terciar
+terco
+tercos	terco
+terebinto
+terebintos	terebinto
+terebrante
+terebrantes	terebrante
+terenciana	terenciano
+terencianas	terenciano
+terenciano
+terencianos	terenciano
+teresa
+teresas	teresa
+teresiana
+teresiana	teresiano
+teresianas	teresiana
+teresianas	teresiano
+teresiano
+teresianos	teresiano
+terete
+teretes	terete
+tergiversa	tergiversar
+tergiversaba	tergiversar
+tergiversabais	tergiversar
+tergiversaban	tergiversar
+tergiversabas	tergiversar
+tergiversable	tergiversar
+tergiversables	tergiversar
+tergiversación
+tergiversad	tergiversar
+tergiversada	tergiversar
+tergiversadas	tergiversar
+tergiversado	tergiversar
+tergiversador
+tergiversadora	tergiversador
+tergiversadoras	tergiversador
+tergiversadores	tergiversador
+tergiversados	tergiversar
+tergiversamos	tergiversar
+tergiversan	tergiversar
+tergiversando	tergiversar
+tergiversar
+tergiversara	tergiversar
+tergiversarais	tergiversar
+tergiversaran	tergiversar
+tergiversaras	tergiversar
+tergiversare	tergiversar
+tergiversareis	tergiversar
+tergiversaremos	tergiversar
+tergiversaren	tergiversar
+tergiversares	tergiversar
+tergiversarla	tergiversar
+tergiversarlas	tergiversar
+tergiversarlo	tergiversar
+tergiversarlos	tergiversar
+tergiversaron	tergiversar
+tergiversarse	tergiversar
+tergiversará	tergiversar
+tergiversarán	tergiversar
+tergiversarás	tergiversar
+tergiversaré	tergiversar
+tergiversaréis	tergiversar
+tergiversaría	tergiversar
+tergiversaríais	tergiversar
+tergiversarían	tergiversar
+tergiversarías	tergiversar
+tergiversas	tergiversar
+tergiversase	tergiversar
+tergiversaseis	tergiversar
+tergiversasen	tergiversar
+tergiversases	tergiversar
+tergiversaste	tergiversar
+tergiversasteis	tergiversar
+tergiverse	tergiversar
+tergiversemos	tergiversar
+tergiversen	tergiversar
+tergiverses	tergiversar
+tergiverso	tergiversar
+tergiversábamos	tergiversar
+tergiversáis	tergiversar
+tergiversándola	tergiversar
+tergiversándolo	tergiversar
+tergiversándose	tergiversar
+tergiversáramos	tergiversar
+tergiversáremos	tergiversar
+tergiversásemos	tergiversar
+tergiversé	tergiversar
+tergiverséis	tergiversar
+tergiversó	tergiversar
+teridofita	teridofito
+teridofitas	teridofito
+teridofito
+teridofitos	teridofito
+teridófita	teridófito
+teridófitas	teridófito
+teridófito
+teridófitos	teridófito
+terlices	terliz
+terliz
+termal
+termales	termal
+termalismo
+termalismos	termalismo
+termas
+termes
+termia
+termias	termia
+termina	terminar
+terminaba	terminar
+terminabais	terminar
+terminaban	terminar
+terminabas	terminar
+terminable
+terminables	terminable
+terminacho
+terminachos	terminacho
+terminaciones	terminación
+terminación
+terminad	terminar
+terminada	terminar
+terminadas	terminar
+terminado	terminar
+terminador
+terminadora	terminador
+terminadoras	terminador
+terminadores	terminador
+terminados	terminar
+terminajo
+terminajos	terminajo
+terminal
+terminales	terminal
+terminamos	terminar
+terminan	terminar
+terminando	terminar
+terminante
+terminantemente
+terminantes	terminante
+terminaos	terminar
+terminar
+terminara	terminar
+terminarais	terminar
+terminaran	terminar
+terminaras	terminar
+terminare	terminar
+terminareis	terminar
+terminaremos	terminar
+terminaren	terminar
+terminares	terminar
+terminarla	terminar
+terminarlas	terminar
+terminarle	terminar
+terminarles	terminar
+terminarlo	terminar
+terminarlos	terminar
+terminarme	terminar
+terminarnos	terminar
+terminaron	terminar
+terminaros	terminar
+terminarse	terminar
+terminarte	terminar
+terminará	terminar
+terminarán	terminar
+terminarás	terminar
+terminaré	terminar
+terminaréis	terminar
+terminaría	terminar
+terminaríais	terminar
+terminaríamos	terminar
+terminarían	terminar
+terminarías	terminar
+terminas	terminar
+terminase	terminar
+terminaseis	terminar
+terminasen	terminar
+terminases	terminar
+terminaste	terminar
+terminasteis	terminar
+terminativa
+terminativa	terminativo
+terminativas	terminativo
+terminativo
+terminativos	terminativo
+termine	terminar
+terminemos	terminar
+terminen	terminar
+termines	terminar
+terminista
+terministas	terminista
+termino	terminar
+terminología
+terminologías	terminología
+terminote
+terminotes	terminote
+terminábamos	terminar
+termináis	terminar
+terminándose	terminar
+termináramos	terminar
+termináremos	terminar
+terminármela	terminar
+terminármelas	terminar
+terminármelo	terminar
+terminármelos	terminar
+terminárnosla	terminar
+terminárnoslas	terminar
+terminárnoslo	terminar
+terminárnoslos	terminar
+terminárosla	terminar
+terminároslas	terminar
+terminároslo	terminar
+terminároslos	terminar
+terminársela	terminar
+terminárselas	terminar
+terminárselo	terminar
+terminárselos	terminar
+terminártela	terminar
+terminártelas	terminar
+terminártelo	terminar
+terminártelos	terminar
+terminásemos	terminar
+terminé	terminar
+terminéis	terminar
+terminémonos	terminar
+terminó	terminar
+termita
+termitas	termita
+termitero
+termiteros	termitero
+termo
+termocauterio
+termocauterios	termocauterio
+termodinámica
+termodinámica	termodinámico
+termodinámicas	termodinámica
+termodinámicas	termodinámico
+termodinámico
+termodinámicos	termodinámico
+termoeléctrica	termoeléctrico
+termoeléctricas	termoeléctrico
+termoeléctrico
+termoeléctricos	termoeléctrico
+termoestable
+termoestables	termoestable
+termolúdico
+termolúdicos	termolúdico
+termométrica	termométrico
+termométricas	termométrico
+termométrico
+termométricos	termométrico
+termonuclear
+termonucleares	termonuclear
+termopar
+termopares	termopar
+termos	termo
+termoscopio
+termoscopios	termoscopio
+termosifones	termosifón
+termosifón
+termostato
+termostatos	termostato
+termínate	terminar
+termínense	terminar
+termínese	terminar
+termómetro
+termómetros	termómetro
+terna
+terna	terne
+ternaria	ternario
+ternarias	ternario
+ternario
+ternarios	ternario
+ternas	terna
+ternas	terne
+ternasco
+ternascos	ternasco
+terne
+ternejal
+ternejales	ternejal
+ternera
+terneras	ternera
+ternero
+terneros	ternero
+ternes	terne
+terneza
+ternezas	terneza
+ternilla	terna
+ternillas	terna
+ternillosa	ternilloso
+ternillosas	ternilloso
+ternilloso
+ternillosos	ternilloso
+terno
+ternos	terno
+ternura
+ternuras	ternura
+ternísimamente
+terpeno
+terpenos	terpeno
+terpina
+terpinas	terpina
+terquea	terquear
+terqueaba	terquear
+terqueabais	terquear
+terqueaban	terquear
+terqueabas	terquear
+terquead	terquear
+terqueada	terquear
+terqueadas	terquear
+terqueado	terquear
+terqueados	terquear
+terqueamos	terquear
+terquean	terquear
+terqueando	terquear
+terquear
+terqueara	terquear
+terquearais	terquear
+terquearan	terquear
+terquearas	terquear
+terqueare	terquear
+terqueareis	terquear
+terquearemos	terquear
+terquearen	terquear
+terqueares	terquear
+terquearon	terquear
+terquearse	terquear
+terqueará	terquear
+terquearán	terquear
+terquearás	terquear
+terquearé	terquear
+terquearéis	terquear
+terquearía	terquear
+terquearíais	terquear
+terquearíamos	terquear
+terquearían	terquear
+terquearías	terquear
+terqueas	terquear
+terquease	terquear
+terqueaseis	terquear
+terqueasen	terquear
+terqueases	terquear
+terqueaste	terquear
+terqueasteis	terquear
+terquedad
+terquedades	terquedad
+terquee	terquear
+terqueemos	terquear
+terqueen	terquear
+terquees	terquear
+terqueo	terquear
+terqueza
+terquezas	terqueza
+terqueábamos	terquear
+terqueáis	terquear
+terqueándose	terquear
+terqueáramos	terquear
+terqueáremos	terquear
+terqueásemos	terquear
+terqueé	terquear
+terqueéis	terquear
+terqueó	terquear
+terracota
+terracotas	terracota
+terrada
+terradas	terrada
+terrado
+terrados	terrado
+terraguero
+terragueros	terraguero
+terraja
+terrajas	terraja
+terraje
+terrajero
+terrajeros	terrajero
+terrajes	terraje
+terral
+terrales	terral
+terraplena	terraplenar
+terraplenaba	terraplenar
+terraplenabais	terraplenar
+terraplenaban	terraplenar
+terraplenabas	terraplenar
+terraplenad	terraplenar
+terraplenada	terraplenar
+terraplenadas	terraplenar
+terraplenado	terraplenar
+terraplenados	terraplenar
+terraplenamos	terraplenar
+terraplenan	terraplenar
+terraplenando	terraplenar
+terraplenar
+terraplenara	terraplenar
+terraplenarais	terraplenar
+terraplenaran	terraplenar
+terraplenaras	terraplenar
+terraplenare	terraplenar
+terraplenareis	terraplenar
+terraplenaremos	terraplenar
+terraplenaren	terraplenar
+terraplenares	terraplenar
+terraplenaron	terraplenar
+terraplenarse	terraplenar
+terraplenará	terraplenar
+terraplenarán	terraplenar
+terraplenarás	terraplenar
+terraplenaré	terraplenar
+terraplenaréis	terraplenar
+terraplenaría	terraplenar
+terraplenaríais	terraplenar
+terraplenarían	terraplenar
+terraplenarías	terraplenar
+terraplenas	terraplenar
+terraplenase	terraplenar
+terraplenaseis	terraplenar
+terraplenasen	terraplenar
+terraplenases	terraplenar
+terraplenaste	terraplenar
+terraplenasteis	terraplenar
+terraplene	terraplenar
+terraplenemos	terraplenar
+terraplenen	terraplenar
+terraplenes	terraplenar
+terraplenes	terraplén
+terrapleno	terraplenar
+terraplenábamos	terraplenar
+terraplenáis	terraplenar
+terraplenándose	terraplenar
+terraplenáramos	terraplenar
+terraplenáremos	terraplenar
+terraplenásemos	terraplenar
+terraplené	terraplenar
+terraplenéis	terraplenar
+terraplenó	terraplenar
+terraplén
+terrario
+terrarios	terrario
+terrateniente
+terratenientes	terrateniente
+terraza
+terrazas	terraza
+terrazgo
+terrazgos	terrazgo
+terrazguero
+terrazgueros	terrazguero
+terrazo
+terrazos	terrazo
+terrea	terrear
+terreaba	terrear
+terreabais	terrear
+terreaban	terrear
+terreabas	terrear
+terread	terrear
+terreada	terrear
+terreadas	terrear
+terreado	terrear
+terreados	terrear
+terreamos	terrear
+terrean	terrear
+terreando	terrear
+terrear
+terreara	terrear
+terrearais	terrear
+terrearan	terrear
+terrearas	terrear
+terreare	terrear
+terreareis	terrear
+terrearemos	terrear
+terrearen	terrear
+terreares	terrear
+terrearon	terrear
+terrearse	terrear
+terreará	terrear
+terrearán	terrear
+terrearás	terrear
+terrearé	terrear
+terrearéis	terrear
+terrearía	terrear
+terrearíais	terrear
+terrearíamos	terrear
+terrearían	terrear
+terrearías	terrear
+terreas	terrear
+terrease	terrear
+terreaseis	terrear
+terreasen	terrear
+terreases	terrear
+terreaste	terrear
+terreasteis	terrear
+terrece	terrecer
+terreced	terrecer
+terrecemos	terrecer
+terrecen	terrecer
+terrecer
+terreceremos	terrecer
+terrecerse	terrecer
+terrecerá	terrecer
+terrecerán	terrecer
+terrecerás	terrecer
+terreceré	terrecer
+terreceréis	terrecer
+terrecería	terrecer
+terreceríais	terrecer
+terreceríamos	terrecer
+terrecerían	terrecer
+terrecerías	terrecer
+terreces	terrecer
+terrecida	terrecer
+terrecidas	terrecer
+terrecido	terrecer
+terrecidos	terrecer
+terreciendo	terrecer
+terreciera	terrecer
+terrecierais	terrecer
+terrecieran	terrecer
+terrecieras	terrecer
+terreciere	terrecer
+terreciereis	terrecer
+terrecieren	terrecer
+terrecieres	terrecer
+terrecieron	terrecer
+terreciese	terrecer
+terrecieseis	terrecer
+terreciesen	terrecer
+terrecieses	terrecer
+terrecimos	terrecer
+terreciste	terrecer
+terrecisteis	terrecer
+terreciéndose	terrecer
+terreciéramos	terrecer
+terreciéremos	terrecer
+terreciésemos	terrecer
+terreció	terrecer
+terrecéis	terrecer
+terrecí	terrecer
+terrecía	terrecer
+terrecíais	terrecer
+terrecíamos	terrecer
+terrecían	terrecer
+terrecías	terrecer
+terree	terrear
+terreemos	terrear
+terreen	terrear
+terrees	terrear
+terregosa	terregoso
+terregosas	terregoso
+terregoso
+terregosos	terregoso
+terremoto
+terremotos	terremoto
+terrena	terreno
+terrenal
+terrenales	terrenal
+terrenas	terreno
+terrenidad
+terrenidades	terrenidad
+terreno
+terrenos	terreno
+terreo	terrear
+terrera
+terrera	terrero
+terreras	terrera
+terreras	terrero
+terrero
+terreros	terrero
+terrestre
+terrestres	terrestre
+terrezca	terrecer
+terrezcamos	terrecer
+terrezcan	terrecer
+terrezcas	terrecer
+terrezco	terrecer
+terrezcáis	terrecer
+terrezuela
+terrezuelas	terrezuela
+terreábamos	terrear
+terreáis	terrear
+terreándose	terrear
+terreáramos	terrear
+terreáremos	terrear
+terreásemos	terrear
+terreé	terrear
+terreéis	terrear
+terreó	terrear
+terribilidad
+terribilidades	terribilidad
+terrible
+terribleces	terriblez
+terriblemente
+terribles	terrible
+terriblez
+terribleza	terriblez
+terriblezas	terriblez
+terrina
+terrina	terrino
+terrinas	terrina
+terrinas	terrino
+terrino
+terrinos	terrino
+territorial
+territoriales	territorial
+territorialidad
+territorio
+territorios	territorio
+terriza
+terriza	terrizo
+terrizas	terriza
+terrizas	terrizo
+terrizo
+terrizos	terrizo
+terrollo
+terrollos	terrollo
+terronazo	terrón
+terronazos	terrón
+terrones	terrón
+terror
+terrores	terror
+terrorismo
+terrorismo	terror
+terrorismos	terror
+terrorismos	terrorismo
+terrorista
+terroristas	terrorista
+terrorífica	terrorífico
+terroríficas	terrorífico
+terrorífico
+terroríficos	terrorífico
+terrosa	terroso
+terrosas	terroso
+terrosidad
+terrosidades	terrosidad
+terroso
+terrosos	terroso
+terruño
+terruños	terruño
+terráquea	terráqueo
+terráqueas	terráqueo
+terráqueo
+terráqueos	terráqueo
+terrícola
+terrícolas	terrícola
+terrífica	terrífico
+terríficas	terrífico
+terrífico
+terríficos	terrífico
+terrón
+tersa	tersar
+tersa	terso
+tersaba	tersar
+tersabais	tersar
+tersaban	tersar
+tersabas	tersar
+tersad	tersar
+tersada	tersar
+tersadas	tersar
+tersado	tersar
+tersados	tersar
+tersamente
+tersamos	tersar
+tersan	tersar
+tersando	tersar
+tersar
+tersara	tersar
+tersarais	tersar
+tersaran	tersar
+tersaras	tersar
+tersare	tersar
+tersareis	tersar
+tersaremos	tersar
+tersaren	tersar
+tersares	tersar
+tersaron	tersar
+tersarse	tersar
+tersará	tersar
+tersarán	tersar
+tersarás	tersar
+tersaré	tersar
+tersaréis	tersar
+tersaría	tersar
+tersaríais	tersar
+tersaríamos	tersar
+tersarían	tersar
+tersarías	tersar
+tersas	tersar
+tersas	terso
+tersase	tersar
+tersaseis	tersar
+tersasen	tersar
+tersases	tersar
+tersaste	tersar
+tersasteis	tersar
+terse	tersar
+tersemos	tersar
+tersen	tersar
+terses	tersar
+tersidad
+tersidades	tersidad
+terso
+terso	tersar
+tersos	terso
+tersura
+tersuras	tersura
+tersábamos	tersar
+tersáis	tersar
+tersándose	tersar
+tersáramos	tersar
+tersáremos	tersar
+tersásemos	tersar
+tersé	tersar
+terséis	tersar
+tersó	tersar
+tertulia
+tertulia	tertulio
+tertuliana	tertuliano
+tertulianas	tertuliano
+tertuliano
+tertulianos	tertuliano
+tertuliante
+tertuliantes	tertuliante
+tertulias	tertulia
+tertulias	tertulio
+tertulio
+tertulios	tertulio
+terzuela
+terzuelas	terzuela
+terzuelo
+terzuelos	terzuelo
+térmica	térmico
+térmicas	térmico
+térmico
+térmicos	térmico
+término
+términos	término
+térrea	térreo
+térreas	térreo
+térreo
+térreos	térreo

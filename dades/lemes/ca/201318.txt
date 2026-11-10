@@ -1,0 +1,74 @@
+vot
+vot	votar
+vota	votar
+votacions	votació
+votació
+votada	votar
+votades	votar
+votam	votar
+votant
+votant	votar
+votants	votant
+votar
+votara	votar
+votaran	votar
+votarem	votar
+votaren	votar
+votares	votar
+votareu	votar
+votaria	votar
+votarien	votar
+votaries	votar
+votarà	votar
+votaràs	votar
+votaré	votar
+votaríem	votar
+votaríeu	votar
+votassen	votar
+votasses	votar
+votassin	votar
+votassis	votar
+votat	votar
+votats	votar
+votau	votar
+votava	votar
+votaven	votar
+votaves	votar
+vote	votar
+votem	votar
+voten	votar
+votes	votar
+votessen	votar
+votesses	votar
+votessin	votar
+votessis	votar
+voteu	votar
+voti	votar
+votiac
+votiaca	votiac
+votiacs	votiac
+votiaques	votiac
+votin	votar
+votis	votar
+votiu
+votius	votiu
+votiva	votiu
+votives	votiu
+voto	votar
+vots	vot
+votà	votar
+votàrem	votar
+votàreu	votar
+votàs	votar
+votàssem	votar
+votàsseu	votar
+votàssim	votar
+votàssiu	votar
+votàvem	votar
+votàveu	votar
+votés	votar
+votéssem	votar
+votésseu	votar
+votéssim	votar
+votéssiu	votar
+votí	votar

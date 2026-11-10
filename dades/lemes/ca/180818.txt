@@ -1,0 +1,558 @@
+tit
+tita
+titafluixa
+titafluixes	titafluixa
+titafreda
+titafredes	titafreda
+titaigüenc
+titaigüenca	titaigüenc
+titaigüencs	titaigüenc
+titaigüenques	titaigüenc
+titaina
+titaines	titaina
+titanat
+titanats	titanat
+titani
+titanil
+titanils	titanil
+titanis	titani
+titanita
+titanites	titanita
+titanocè
+titanocé	titanocè
+titanomàquia
+titanomàquies	titanomàquia
+titanosa	titanós
+titanoses	titanós
+titanosos	titanós
+titanoteri
+titanoteris	titanoteri
+titans	tità
+titanífer
+titanífera	titanífer
+titaníferes	titanífer
+titanífers	titanífer
+titanós
+titaranya
+titaranyes	titaranya
+titella	titella_1
+titella	titella_2
+titellaire
+titellaires	titellaire
+titelles	titella_1
+titelles	titella_2
+tites	tita
+titet
+titeta
+titetes	titeta
+titets	titet
+titil	titil·lar
+titil·la	titil·lar
+titil·lacions	titil·lació
+titil·lació
+titil·lada	titil·lar
+titil·lades	titil·lar
+titil·lam	titil·lar
+titil·lant
+titil·lant	titil·lar
+titil·lants	titil·lant
+titil·lar
+titil·lara	titil·lar
+titil·laran	titil·lar
+titil·larem	titil·lar
+titil·laren	titil·lar
+titil·lares	titil·lar
+titil·lareu	titil·lar
+titil·laria	titil·lar
+titil·larien	titil·lar
+titil·laries	titil·lar
+titil·larà	titil·lar
+titil·laràs	titil·lar
+titil·laré	titil·lar
+titil·laríem	titil·lar
+titil·laríeu	titil·lar
+titil·lassen	titil·lar
+titil·lasses	titil·lar
+titil·lassin	titil·lar
+titil·lassis	titil·lar
+titil·lat	titil·lar
+titil·lats	titil·lar
+titil·lau	titil·lar
+titil·lava	titil·lar
+titil·laven	titil·lar
+titil·laves	titil·lar
+titil·le	titil·lar
+titil·lem	titil·lar
+titil·len	titil·lar
+titil·les	titil·lar
+titil·lessen	titil·lar
+titil·lesses	titil·lar
+titil·lessin	titil·lar
+titil·lessis	titil·lar
+titil·leu	titil·lar
+titil·li	titil·lar
+titil·lin	titil·lar
+titil·lis	titil·lar
+titil·lo	titil·lar
+titil·lomania
+titil·lomanies	titil·lomania
+titil·là	titil·lar
+titil·làrem	titil·lar
+titil·làreu	titil·lar
+titil·làs	titil·lar
+titil·làssem	titil·lar
+titil·làsseu	titil·lar
+titil·làssim	titil·lar
+titil·làssiu	titil·lar
+titil·làvem	titil·lar
+titil·làveu	titil·lar
+titil·lés	titil·lar
+titil·léssem	titil·lar
+titil·lésseu	titil·lar
+titil·léssim	titil·lar
+titil·léssiu	titil·lar
+titil·lí	titil·lar
+titina
+titines	titina
+titisme
+titismes	titisme
+titista
+titistes	titista
+titit
+titits	titit
+titl	titlar
+titla
+titla	titlar
+titlada	titlar
+titlades	titlar
+titlam	titlar
+titlant	titlar
+titlar
+titlara	titlar
+titlaran	titlar
+titlarem	titlar
+titlaren	titlar
+titlares	titlar
+titlareu	titlar
+titlaria	titlar
+titlarien	titlar
+titlaries	titlar
+titlarà	titlar
+titlaràs	titlar
+titlaré	titlar
+titlaríem	titlar
+titlaríeu	titlar
+titlassen	titlar
+titlasses	titlar
+titlassin	titlar
+titlassis	titlar
+titlat	titlar
+titlats	titlar
+titlau	titlar
+titlava	titlar
+titlaven	titlar
+titlaves	titlar
+title	titlar
+titlem	titlar
+titlen	titlar
+titles	titla
+titles	titlar
+titlessen	titlar
+titlesses	titlar
+titlessin	titlar
+titlessis	titlar
+titlet
+titlets	titlet
+titleu	titlar
+titli	titlar
+titlin	titlar
+titlis	titlar
+titll	titllar
+titlla
+titlla	titllar
+titllada	titllar
+titllades	titllar
+titllam	titllar
+titllant	titllar
+titllar
+titllara	titllar
+titllaran	titllar
+titllarem	titllar
+titllaren	titllar
+titllares	titllar
+titllareu	titllar
+titllaria	titllar
+titllarien	titllar
+titllaries	titllar
+titllarà	titllar
+titllaràs	titllar
+titllaré	titllar
+titllaríem	titllar
+titllaríeu	titllar
+titllassen	titllar
+titllasses	titllar
+titllassin	titllar
+titllassis	titllar
+titllat	titllar
+titllats	titllar
+titllau	titllar
+titllava	titllar
+titllaven	titllar
+titllaves	titllar
+titlle	titllar
+titllem	titllar
+titllen	titllar
+titlles	titlla
+titlles	titllar
+titllessen	titllar
+titllesses	titllar
+titllessin	titllar
+titllessis	titllar
+titllet
+titllets	titllet
+titlleu	titllar
+titlli	titllar
+titllin	titllar
+titllis	titllar
+titllo	titllar
+titllà	titllar
+titllàrem	titllar
+titllàreu	titllar
+titllàs	titllar
+titllàssem	titllar
+titllàsseu	titllar
+titllàssim	titllar
+titllàssiu	titllar
+titllàvem	titllar
+titllàveu	titllar
+titllés	titllar
+titlléssem	titllar
+titllésseu	titllar
+titlléssim	titllar
+titlléssiu	titllar
+titllí	titllar
+titlo	titlar
+titlà	titlar
+titlàrem	titlar
+titlàreu	titlar
+titlàs	titlar
+titlàssem	titlar
+titlàsseu	titlar
+titlàssim	titlar
+titlàssiu	titlar
+titlàvem	titlar
+titlàveu	titlar
+titlés	titlar
+titléssem	titlar
+titlésseu	titlar
+titléssim	titlar
+titléssiu	titlar
+titlí	titlar
+titola
+titoles	titola
+titolet
+titolets	titolet
+titolot
+titolots	titolot
+titoniana	titonià
+titonianes	titonià
+titonians	titonià
+titonià
+titoràpia
+titoràpies	titoràpia
+titot
+titota	titot
+titotes	titot
+titots	titot
+tits	tit
+titub	titubar
+tituba	titubar
+titubacions	titubació
+titubació
+titubada	titubar
+titubades	titubar
+titubam	titubar
+titubant
+titubant	titubar
+titubants	titubant
+titubar
+titubara	titubar
+titubaran	titubar
+titubarem	titubar
+titubaren	titubar
+titubares	titubar
+titubareu	titubar
+titubaria	titubar
+titubarien	titubar
+titubaries	titubar
+titubarà	titubar
+titubaràs	titubar
+titubaré	titubar
+titubaríem	titubar
+titubaríeu	titubar
+titubassen	titubar
+titubasses	titubar
+titubassin	titubar
+titubassis	titubar
+titubat	titubar
+titubats	titubar
+titubau	titubar
+titubava	titubar
+titubaven	titubar
+titubaves	titubar
+titube	titubar
+titubege	titubejar
+titubegem	titubejar
+titubegen	titubejar
+titubeges	titubejar
+titubegessen	titubejar
+titubegesses	titubejar
+titubegessin	titubejar
+titubegessis	titubejar
+titubegeu	titubejar
+titubegi	titubejar
+titubegin	titubejar
+titubegis	titubejar
+titubegés	titubejar
+titubegéssem	titubejar
+titubegésseu	titubejar
+titubegéssim	titubejar
+titubegéssiu	titubejar
+titubegí	titubejar
+titubeig
+titubeig	titubejar
+titubeigs	titubeig
+titubeja	titubejar
+titubejada	titubejar
+titubejades	titubejar
+titubejam	titubejar
+titubejant
+titubejant	titubejar
+titubejants	titubejant
+titubejar
+titubejara	titubejar
+titubejaran	titubejar
+titubejarem	titubejar
+titubejaren	titubejar
+titubejares	titubejar
+titubejareu	titubejar
+titubejaria	titubejar
+titubejarien	titubejar
+titubejaries	titubejar
+titubejarà	titubejar
+titubejaràs	titubejar
+titubejaré	titubejar
+titubejaríem	titubejar
+titubejaríeu	titubejar
+titubejassen	titubejar
+titubejasses	titubejar
+titubejassin	titubejar
+titubejassis	titubejar
+titubejat	titubejar
+titubejats	titubejar
+titubejau	titubejar
+titubejava	titubejar
+titubejaven	titubejar
+titubejaves	titubejar
+titubejo	titubejar
+titubejos	titubeig
+titubejà	titubejar
+titubejàrem	titubejar
+titubejàreu	titubejar
+titubejàs	titubejar
+titubejàssem	titubejar
+titubejàsseu	titubejar
+titubejàssim	titubejar
+titubejàssiu	titubejar
+titubejàvem	titubejar
+titubejàveu	titubejar
+titubem	titubar
+tituben	titubar
+titubes	titubar
+titubessen	titubar
+titubesses	titubar
+titubessin	titubar
+titubessis	titubar
+titubeu	titubar
+titubi	titubar
+titubin	titubar
+titubis	titubar
+titubo	titubar
+titubà	titubar
+titubàrem	titubar
+titubàreu	titubar
+titubàs	titubar
+titubàssem	titubar
+titubàsseu	titubar
+titubàssim	titubar
+titubàssiu	titubar
+titubàvem	titubar
+titubàveu	titubar
+titubés	titubar
+titubéssem	titubar
+titubésseu	titubar
+titubéssim	titubar
+titubéssiu	titubar
+titubí	titubar
+titul	titular
+titula	titular
+titulacions	titulació
+titulació
+titulada	titular
+titulades	titular
+titulador
+tituladora	titulador
+tituladores	titulador
+tituladors	titulador
+titulam	titular
+titulant	titular
+titular
+titulara	titular
+titularan	titular
+titularem	titular
+titularen	titular
+titulares	titular
+titulareu	titular
+titularia	titular
+titularien	titular
+titularies	titular
+titularitat
+titularitats	titularitat
+titulars	titular
+titularà	titular
+titularàs	titular
+titularé	titular
+titularíem	titular
+titularíeu	titular
+titulassen	titular
+titulasses	titular
+titulassin	titular
+titulassis	titular
+titulat	titular
+titulats	titular
+titulatura
+titulatures	titulatura
+titulau	titular
+titulava	titular
+titulaven	titular
+titulaves	titular
+titule	titular
+titulem	titular
+titulen	titular
+titules	titular
+titulessen	titular
+titulesses	titular
+titulessin	titular
+titulessis	titular
+tituleu	titular
+tituli	titular
+titulin	titular
+titulis	titular
+titulitis
+titulitz	titulitzar
+titulitza	titulitzar
+titulitzacions	titulització
+titulització
+titulitzada	titulitzar
+titulitzades	titulitzar
+titulitzam	titulitzar
+titulitzant	titulitzar
+titulitzar
+titulitzara	titulitzar
+titulitzaran	titulitzar
+titulitzarem	titulitzar
+titulitzaren	titulitzar
+titulitzares	titulitzar
+titulitzareu	titulitzar
+titulitzaria	titulitzar
+titulitzarien	titulitzar
+titulitzaries	titulitzar
+titulitzarà	titulitzar
+titulitzaràs	titulitzar
+titulitzaré	titulitzar
+titulitzaríem	titulitzar
+titulitzaríeu	titulitzar
+titulitzassen	titulitzar
+titulitzasses	titulitzar
+titulitzassin	titulitzar
+titulitzassis	titulitzar
+titulitzat	titulitzar
+titulitzats	titulitzar
+titulitzau	titulitzar
+titulitzava	titulitzar
+titulitzaven	titulitzar
+titulitzaves	titulitzar
+titulitze	titulitzar
+titulitzem	titulitzar
+titulitzen	titulitzar
+titulitzes	titulitzar
+titulitzessen	titulitzar
+titulitzesses	titulitzar
+titulitzessin	titulitzar
+titulitzessis	titulitzar
+titulitzeu	titulitzar
+titulitzi	titulitzar
+titulitzin	titulitzar
+titulitzis	titulitzar
+titulitzo	titulitzar
+titulitzà	titulitzar
+titulitzàrem	titulitzar
+titulitzàreu	titulitzar
+titulitzàs	titulitzar
+titulitzàssem	titulitzar
+titulitzàsseu	titulitzar
+titulitzàssim	titulitzar
+titulitzàssiu	titulitzar
+titulitzàvem	titulitzar
+titulitzàveu	titulitzar
+titulitzés	titulitzar
+titulitzéssem	titulitzar
+titulitzésseu	titulitzar
+titulitzéssim	titulitzar
+titulitzéssiu	titulitzar
+titulitzí	titulitzar
+titulo	titular
+titulometria
+titulometries	titulometria
+titulomètric
+titulomètrica	titulomètric
+titulomètrics	titulomètric
+titulomètriques	titulomètric
+titulot
+titulots	titulot
+titulà	titular
+titulàrem	titular
+titulàreu	titular
+titulàs	titular
+titulàssem	titular
+titulàsseu	titular
+titulàssim	titular
+titulàssiu	titular
+titulàvem	titular
+titulàveu	titular
+titulés	titular
+tituléssem	titular
+titulésseu	titular
+tituléssim	titular
+tituléssiu	titular
+titulí	titular
+tità
+titànic
+titànica	titànic
+titànicament
+titànics	titànic
+titàniques	titànic
+tití
+titís	tití
+titònic
+titònica	titònic
+titònics	titònic
+titònid
+titònids	titònid
+titòniques	titònic
+títera
+títeres	títera
+títirid
+títirids	títirid
+títol
+títols	títol

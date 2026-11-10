@@ -1,0 +1,169 @@
+evoc	evocar
+evoca	evocar
+evocable
+evocables	evocable
+evocacions	evocació
+evocació
+evocada	evocar
+evocades	evocar
+evocador
+evocadora	evocador
+evocadores	evocador
+evocadors	evocador
+evocam	evocar
+evocant	evocar
+evocar
+evocara	evocar
+evocaran	evocar
+evocarem	evocar
+evocaren	evocar
+evocares	evocar
+evocareu	evocar
+evocaria	evocar
+evocarien	evocar
+evocaries	evocar
+evocarà	evocar
+evocaràs	evocar
+evocaré	evocar
+evocaríem	evocar
+evocaríeu	evocar
+evocassen	evocar
+evocasses	evocar
+evocassin	evocar
+evocassis	evocar
+evocat
+evocat	evocar
+evocatiu
+evocatius	evocatiu
+evocativa	evocatiu
+evocatives	evocatiu
+evocatori
+evocatoris	evocatori
+evocats	evocar
+evocats	evocat
+evocatòria	evocatori
+evocatòries	evocatori
+evocau	evocar
+evocava	evocar
+evocaven	evocar
+evocaves	evocar
+evoco	evocar
+evocà	evocar
+evocàrem	evocar
+evocàreu	evocar
+evocàs	evocar
+evocàssem	evocar
+evocàsseu	evocar
+evocàssim	evocar
+evocàssiu	evocar
+evocàvem	evocar
+evocàveu	evocar
+evolenc
+evolenca	evolenc
+evolencs	evolenc
+evolenques	evolenc
+evolocumab
+evolocumabs	evolocumab
+evolucion	evolucionar
+evoluciona	evolucionar
+evolucionada	evolucionar
+evolucionada	evolucionat
+evolucionades	evolucionar
+evolucionades	evolucionat
+evolucionam	evolucionar
+evolucionant	evolucionar
+evolucionar
+evolucionara	evolucionar
+evolucionaran	evolucionar
+evolucionarem	evolucionar
+evolucionaren	evolucionar
+evolucionares	evolucionar
+evolucionareu	evolucionar
+evolucionaria	evolucionar
+evolucionarien	evolucionar
+evolucionaries	evolucionar
+evolucionarà	evolucionar
+evolucionaràs	evolucionar
+evolucionaré	evolucionar
+evolucionaríem	evolucionar
+evolucionaríeu	evolucionar
+evolucionassen	evolucionar
+evolucionasses	evolucionar
+evolucionassin	evolucionar
+evolucionassis	evolucionar
+evolucionat
+evolucionat	evolucionar
+evolucionats	evolucionar
+evolucionats	evolucionat
+evolucionau	evolucionar
+evolucionava	evolucionar
+evolucionaven	evolucionar
+evolucionaves	evolucionar
+evolucione	evolucionar
+evolucionem	evolucionar
+evolucionen	evolucionar
+evoluciones	evolucionar
+evolucionessen	evolucionar
+evolucionesses	evolucionar
+evolucionessin	evolucionar
+evolucionessis	evolucionar
+evolucioneu	evolucionar
+evolucioni	evolucionar
+evolucionin	evolucionar
+evolucionis	evolucionar
+evolucionisme
+evolucionismes	evolucionisme
+evolucionista
+evolucionistes	evolucionista
+evoluciono	evolucionar
+evolucions	evolució
+evolucionà	evolucionar
+evolucionàrem	evolucionar
+evolucionàreu	evolucionar
+evolucionàs	evolucionar
+evolucionàssem	evolucionar
+evolucionàsseu	evolucionar
+evolucionàssim	evolucionar
+evolucionàssiu	evolucionar
+evolucionàvem	evolucionar
+evolucionàveu	evolucionar
+evolucionés	evolucionar
+evolucionéssem	evolucionar
+evolucionésseu	evolucionar
+evolucionéssim	evolucionar
+evolucionéssiu	evolucionar
+evolucioní	evolucionar
+evolució
+evoluta
+evolutes	evoluta
+evolutiu
+evolutius	evolutiu
+evolutiva	evolutiu
+evolutivament
+evolutives	evolutiu
+evolvent
+evolvents	evolvent
+evonimina
+evonimines	evonimina
+evoque	evocar
+evoquem	evocar
+evoquen	evocar
+evoques	evocar
+evoquessen	evocar
+evoquesses	evocar
+evoquessin	evocar
+evoquessis	evocar
+evoqueu	evocar
+evoqui	evocar
+evoquin	evocar
+evoquis	evocar
+evoqués	evocar
+evoquéssem	evocar
+evoquésseu	evocar
+evoquéssim	evocar
+evoquéssiu	evocar
+evoquí	evocar
+evònim
+evònims	evònim
+évol
+évols	évol

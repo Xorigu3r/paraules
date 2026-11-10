@@ -1,0 +1,4 @@
+adyacente
+adyacentes	adyacente
+adyuvante
+adyuvantes	adyuvante

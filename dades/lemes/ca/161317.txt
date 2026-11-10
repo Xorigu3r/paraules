@@ -1,0 +1,807 @@
+ros
+ros	ro
+ros	ros_1
+ros	ros_2
+ros	rosar
+rosa
+rosa	rosar
+rosaci
+rosacis	rosaci
+rosada
+rosada	rosar
+rosadament
+rosadenc
+rosadenca	rosadenc
+rosadencs	rosadenc
+rosadenques	rosadenc
+rosades	rosada
+rosades	rosar
+rosal
+rosalia
+rosalies	rosalia
+rosals	rosal
+rosam	rosar
+rosamicina
+rosamicines	rosamicina
+rosanilina
+rosanilines	rosanilina
+rosant	rosar
+rosaprostol
+rosar
+rosara	rosar
+rosaramicina
+rosaramicines	rosaramicina
+rosaran	rosar
+rosarem	rosar
+rosaren	rosar
+rosares	rosar
+rosareu	rosar
+rosari
+rosaria	rosar
+rosariaire
+rosariaires	rosariaire
+rosarien	rosar
+rosarier
+rosariera	rosarier
+rosarieres	rosarier
+rosariers	rosarier
+rosaries	rosar
+rosaris	rosari
+rosarà	rosar
+rosaràs	rosar
+rosaré	rosar
+rosaríem	rosar
+rosaríeu	rosar
+rosassa
+rosassen	rosar
+rosasses	rosar
+rosasses	rosassa
+rosassin	rosar
+rosassis	rosar
+rosat	rosar
+rosats	rosar
+rosau	rosar
+rosava	rosar
+rosaven	rosar
+rosaves	rosar
+rosbif
+rosbifs	rosbif
+rosc	roscar
+rosca
+rosca	roscar
+roscada	roscar
+roscades	roscar
+roscadora
+roscadores	roscadora
+roscam	roscar
+roscant	roscar
+roscar
+roscara	roscar
+roscaran	roscar
+roscarem	roscar
+roscaren	roscar
+roscares	roscar
+roscareu	roscar
+roscaria	roscar
+roscarien	roscar
+roscaries	roscar
+roscarà	roscar
+roscaràs	roscar
+roscaré	roscar
+roscaríem	roscar
+roscaríeu	roscar
+roscassen	roscar
+roscasses	roscar
+roscassin	roscar
+roscassis	roscar
+roscat	roscar
+roscatge
+roscatges	roscatge
+roscats	roscar
+roscau	roscar
+roscava	roscar
+roscaven	roscar
+roscaves	roscar
+rosco	roscar
+roscoelita
+roscoelites	roscoelita
+roscà	roscar
+roscàrem	roscar
+roscàreu	roscar
+roscàs	roscar
+roscàssem	roscar
+roscàsseu	roscar
+roscàssim	roscar
+roscàssiu	roscar
+roscàvem	roscar
+roscàveu	roscar
+rose	rosar
+rosec
+rosecs	rosec
+roseg	rosegar
+rosega	rosegar
+rosegaaltars
+rosegaapunts
+rosegada
+rosegada	rosegar
+rosegades	rosegada
+rosegades	rosegar
+rosegador
+rosegadora	rosegador
+rosegadores	rosegador
+rosegadors	rosegador
+rosegaire
+rosegaires	rosegaire
+rosegall
+rosegalls	rosegall
+rosegam	rosegar
+rosegant	rosegar
+rosegaossos
+rosegar
+rosegara	rosegar
+rosegaran	rosegar
+rosegarem	rosegar
+rosegaren	rosegar
+rosegares	rosegar
+rosegareu	rosegar
+rosegaria	rosegar
+rosegarien	rosegar
+rosegaries	rosegar
+rosegarà	rosegar
+rosegaràs	rosegar
+rosegaré	rosegar
+rosegaríem	rosegar
+rosegaríeu	rosegar
+rosegassen	rosegar
+rosegasses	rosegar
+rosegassin	rosegar
+rosegassis	rosegar
+rosegat	rosegar
+rosegats	rosegar
+rosegau	rosegar
+rosegava	rosegar
+rosegaven	rosegar
+rosegaves	rosegar
+rosego	rosegar
+rosegons	rosegó
+rosegue	rosegar
+roseguem	rosegar
+roseguen	rosegar
+rosegues	rosegar
+roseguessen	rosegar
+roseguesses	rosegar
+roseguessin	rosegar
+roseguessis	rosegar
+rosegueu	rosegar
+rosegui	rosegar
+roseguies
+roseguin	rosegar
+roseguis	rosegar
+rosegués	rosegar
+roseguéssem	rosegar
+roseguésseu	rosegar
+roseguéssim	rosegar
+roseguéssiu	rosegar
+roseguí	rosegar
+rosegà	rosegar
+rosegàrem	rosegar
+rosegàreu	rosegar
+rosegàs	rosegar
+rosegàssem	rosegar
+rosegàsseu	rosegar
+rosegàssim	rosegar
+rosegàssiu	rosegar
+rosegàvem	rosegar
+rosegàveu	rosegar
+rosegó
+rosella
+rosellar
+rosellars	rosellar
+roseller
+rosellera
+roselleres	rosellera
+rosellers	roseller
+roselles	rosella
+rosem	rosar
+rosen	rosar
+rosenc
+rosenca	rosenc
+rosencs	rosenc
+rosenques	rosenc
+roser
+roseral
+roserals	roseral
+roserar
+roserars	roserar
+roserista
+roseristes	roserista
+rosers	roser
+roses	rosa
+roses	rosar
+rosessen	rosar
+rosesses	rosar
+rosessin	rosar
+rosessis	rosar
+roseta
+rosetada	rosetat
+rosetades	rosetat
+rosetat
+rosetats	rosetat
+rosetes	roseta
+roseti
+rosetis	roseti
+rosetons	rosetó
+rosetó
+roseu	rosar
+roseïna
+roseïnes	roseïna
+rosi	rosar
+rosiglitazona
+rosiglitazones	rosiglitazona
+rosin	rosar
+rosinc
+rosinca	rosinc
+rosincs	rosinc
+rosinques	rosinc
+rosis	rosar
+rosminiana	rosminià
+rosminianes	rosminià
+rosminians	rosminià
+rosminià
+roso	rosar
+rosolis
+rosons	rosó
+rosos	ros_1
+rosoxacina
+rosoxacines	rosoxacina
+rosque	roscar
+rosquem	roscar
+rosquen	roscar
+rosques	rosca
+rosques	roscar
+rosquessen	roscar
+rosquesses	roscar
+rosquessin	roscar
+rosquessis	roscar
+rosqueta
+rosquetes	rosqueta
+rosqueu	roscar
+rosqui	roscar
+rosquilla
+rosquilles	rosquilla
+rosquilleta
+rosquilletes	rosquilleta
+rosquin	roscar
+rosquis	roscar
+rosqués	roscar
+rosquéssem	roscar
+rosquésseu	roscar
+rosquéssim	roscar
+rosquéssiu	roscar
+rosquí	roscar
+rossa
+rossa	ros
+rossam
+rossams	rossam
+rossec
+rossecs	rossec
+rosseg	rossegar
+rossega	rossegar
+rossegada	rossegar
+rossegades	rossegar
+rossegall
+rossegalls	rossegall
+rossegam	rossegar
+rossegant	rossegar
+rossegar
+rossegara	rossegar
+rossegaran	rossegar
+rossegarem	rossegar
+rossegaren	rossegar
+rossegares	rossegar
+rossegareu	rossegar
+rossegaria	rossegar
+rossegarien	rossegar
+rossegaries	rossegar
+rossegarà	rossegar
+rossegaràs	rossegar
+rossegaré	rossegar
+rossegaríem	rossegar
+rossegaríeu	rossegar
+rossegassen	rossegar
+rossegasses	rossegar
+rossegassin	rossegar
+rossegassis	rossegar
+rossegat	rossegar
+rossegats	rossegar
+rossegau	rossegar
+rossegava	rossegar
+rossegaven	rossegar
+rossegaves	rossegar
+rossege	rossejar
+rossegem	rossejar
+rossegen	rossejar
+rosseges	rossejar
+rossegessen	rossejar
+rossegesses	rossejar
+rossegessin	rossejar
+rossegessis	rossejar
+rossegeu	rossejar
+rossegi	rossejar
+rossegin	rossejar
+rossegis	rossejar
+rossego	rossegar
+rossegue	rossegar
+rosseguem	rossegar
+rosseguen	rossegar
+rosseguera
+rossegueres	rosseguera
+rossegues	rossegar
+rosseguessen	rossegar
+rosseguesses	rossegar
+rosseguessin	rossegar
+rosseguessis	rossegar
+rossegueu	rossegar
+rossegui	rossegar
+rosseguin	rossegar
+rosseguis	rossegar
+rossegués	rossegar
+rosseguéssem	rossegar
+rosseguésseu	rossegar
+rosseguéssim	rossegar
+rosseguéssiu	rossegar
+rosseguí	rossegar
+rossegà	rossegar
+rossegàrem	rossegar
+rossegàreu	rossegar
+rossegàs	rossegar
+rossegàssem	rossegar
+rossegàsseu	rossegar
+rossegàssim	rossegar
+rossegàssiu	rossegar
+rossegàvem	rossegar
+rossegàveu	rossegar
+rossegés	rossejar
+rossegéssem	rossejar
+rossegésseu	rossejar
+rossegéssim	rossejar
+rossegéssiu	rossejar
+rossegí	rossejar
+rosseig	rossejar
+rosseja	rossejar
+rossejada	rossejar
+rossejades	rossejar
+rossejadora
+rossejadores	rossejadora
+rossejam	rossejar
+rossejant	rossejar
+rossejar
+rossejara	rossejar
+rossejaran	rossejar
+rossejarem	rossejar
+rossejaren	rossejar
+rossejares	rossejar
+rossejareu	rossejar
+rossejaria	rossejar
+rossejarien	rossejar
+rossejaries	rossejar
+rossejarà	rossejar
+rossejaràs	rossejar
+rossejaré	rossejar
+rossejaríem	rossejar
+rossejaríeu	rossejar
+rossejassen	rossejar
+rossejasses	rossejar
+rossejassin	rossejar
+rossejassis	rossejar
+rossejat
+rossejat	rossejar
+rossejats	rossejar
+rossejats	rossejat
+rossejau	rossejar
+rossejava	rossejar
+rossejaven	rossejar
+rossejaves	rossejar
+rossejo	rossejar
+rossejà	rossejar
+rossejàrem	rossejar
+rossejàreu	rossejar
+rossejàs	rossejar
+rossejàssem	rossejar
+rossejàsseu	rossejar
+rossejàssim	rossejar
+rossejàssiu	rossejar
+rossejàvem	rossejar
+rossejàveu	rossejar
+rossell
+rossellana	rossellà
+rossellanes	rossellà
+rossellans	rossellà
+rossellona
+rossellonenc
+rossellonenca	rossellonenc
+rossellonencs	rossellonenc
+rossellonenques	rossellonenc
+rossellones	rossellona
+rossellonesa	rossellonès
+rosselloneses	rossellonès
+rossellonesos	rossellonès
+rossellonès
+rossellonés	rossellonès
+rossells	rossell
+rossellà
+rossenc
+rossenca	rossenc
+rossencs	rossenc
+rossenques	rossenc
+rosses	ros
+rosses	rossa
+rosset
+rosseta
+rosseta	rosset
+rossetes	rosset
+rossetes	rosseta
+rossets	rosset
+rossinal
+rossinals	rossinal
+rossiniana	rossinià
+rossinianes	rossinià
+rossinians	rossinià
+rossinià
+rossins	rossí
+rossinyol
+rossinyolet
+rossinyolets	rossinyolet
+rossinyolic
+rossinyolics	rossinyolic
+rossinyols	rossinyol
+rossol	rossolar
+rossola
+rossola	rossolar
+rossolada	rossolar
+rossolades	rossolar
+rossoladissa	rossoladís
+rossoladisses	rossoladís
+rossoladissos	rossoladís
+rossoladís
+rossolaire
+rossolaires	rossolaire
+rossolam	rossolar
+rossolant	rossolar
+rossolar
+rossolara	rossolar
+rossolaran	rossolar
+rossolarem	rossolar
+rossolaren	rossolar
+rossolares	rossolar
+rossolareu	rossolar
+rossolaria	rossolar
+rossolarien	rossolar
+rossolaries	rossolar
+rossolarà	rossolar
+rossolaràs	rossolar
+rossolaré	rossolar
+rossolaríem	rossolar
+rossolaríeu	rossolar
+rossolassen	rossolar
+rossolasses	rossolar
+rossolassin	rossolar
+rossolassis	rossolar
+rossolat	rossolar
+rossolats	rossolar
+rossolau	rossolar
+rossolava	rossolar
+rossolaven	rossolar
+rossolaves	rossolar
+rossole	rossolar
+rossolem	rossolar
+rossolen	rossolar
+rossolera
+rossoleres	rossolera
+rossoles	rossola
+rossoles	rossolar
+rossolessen	rossolar
+rossolesses	rossolar
+rossolessin	rossolar
+rossolessis	rossolar
+rossoleu	rossolar
+rossoli	rossolar
+rossolin	rossolar
+rossolis	rossolar
+rossolo	rossolar
+rossolà	rossolar
+rossolàrem	rossolar
+rossolàreu	rossolar
+rossolàs	rossolar
+rossolàssem	rossolar
+rossolàsseu	rossolar
+rossolàssim	rossolar
+rossolàssiu	rossolar
+rossolàvem	rossolar
+rossolàveu	rossolar
+rossolés	rossolar
+rossoléssem	rossolar
+rossolésseu	rossolar
+rossoléssim	rossolar
+rossoléssiu	rossolar
+rossolí	rossolar
+rossor
+rossors	rossor
+rossos	ros
+rossos	ros_2
+rossí
+rossíssim
+rossíssima	rossíssim
+rossíssimes	rossíssim
+rossíssims	rossíssim
+rost
+rost	rostar
+rosta
+rosta	rost
+rosta	rostar
+rostada
+rostada	rostar
+rostades	rostada
+rostades	rostar
+rostam	rostar
+rostant	rostar
+rostar
+rostara	rostar
+rostaran	rostar
+rostarem	rostar
+rostaren	rostar
+rostares	rostar
+rostareu	rostar
+rostaria	rostar
+rostarien	rostar
+rostaries	rostar
+rostarà	rostar
+rostaràs	rostar
+rostaré	rostar
+rostaríem	rostar
+rostaríeu	rostar
+rostassen	rostar
+rostasses	rostar
+rostassin	rostar
+rostassis	rostar
+rostat	rostar
+rostats	rostar
+rostau	rostar
+rostava	rostar
+rostaven	rostar
+rostaves	rostar
+roste	rostar
+rosteix	rostir
+rosteixen	rostir
+rosteixes	rostir
+rosteixi	rostir
+rosteixin	rostir
+rosteixis	rostir
+rosteixo	rostir
+rostel
+rostels	rostel
+rostem	rostar
+rosten	rostar
+rostes	rost
+rostes	rosta
+rostes	rostar
+rostesc	rostir
+rostesca	rostir
+rostesquen	rostir
+rostesques	rostir
+rostesqui	rostir
+rostesquin	rostir
+rostesquis	rostir
+rostessen	rostar
+rostesses	rostar
+rostessin	rostar
+rostessis	rostar
+rosteta
+rostetes	rosteta
+rosteu	rostar
+rosti	rostar
+rostia	rostir
+rostida
+rostida	rostir
+rostides	rostida
+rostides	rostir
+rostidor
+rostidora	rostidor
+rostidores	rostidor
+rostidoria
+rostidories	rostidoria
+rostidors	rostidor
+rostien	rostir
+rosties	rostir
+rostiguem	rostir
+rostigueu	rostir
+rostillons	rostilló
+rostilló
+rostim	rostir
+rostiment
+rostiments	rostiment
+rostin	rostar
+rostint	rostir
+rostir
+rostira	rostir
+rostiran	rostir
+rostirem	rostir
+rostiren	rostir
+rostires	rostir
+rostireu	rostir
+rostiria	rostir
+rostirien	rostir
+rostiries	rostir
+rostirà	rostir
+rostiràs	rostir
+rostiré	rostir
+rostiríem	rostir
+rostiríeu	rostir
+rostis	rostar
+rostisc	rostir
+rostisca	rostir
+rostisquen	rostir
+rostisques	rostir
+rostissen	rostir
+rostisseria
+rostisseries	rostisseria
+rostisses	rostir
+rostissin	rostir
+rostissis	rostir
+rostit
+rostit	rostir
+rostits	rostir
+rostits	rostit
+rostiu	rostir
+rostix	rostir
+rostixen	rostir
+rostixes	rostir
+rosto	rostar
+rostoll
+rostoll	rostollar
+rostolla	rostollar
+rostollada
+rostollada	rostollar
+rostollades	rostollada
+rostollades	rostollar
+rostollam	rostollar
+rostollant	rostollar
+rostollar
+rostollara	rostollar
+rostollaran	rostollar
+rostollarem	rostollar
+rostollaren	rostollar
+rostollares	rostollar
+rostollareu	rostollar
+rostollaria	rostollar
+rostollarien	rostollar
+rostollaries	rostollar
+rostollars	rostollar
+rostollarà	rostollar
+rostollaràs	rostollar
+rostollaré	rostollar
+rostollaríem	rostollar
+rostollaríeu	rostollar
+rostollassen	rostollar
+rostollasses	rostollar
+rostollassin	rostollar
+rostollassis	rostollar
+rostollat	rostollar
+rostollats	rostollar
+rostollau	rostollar
+rostollava	rostollar
+rostollaven	rostollar
+rostollaves	rostollar
+rostolle	rostollar
+rostollem	rostollar
+rostollen	rostollar
+rostolles	rostollar
+rostollessen	rostollar
+rostollesses	rostollar
+rostollessin	rostollar
+rostollessis	rostollar
+rostolleu	rostollar
+rostolli	rostollar
+rostollin	rostollar
+rostollis	rostollar
+rostollo	rostollar
+rostolls	rostoll
+rostollà	rostollar
+rostollàrem	rostollar
+rostollàreu	rostollar
+rostollàs	rostollar
+rostollàssem	rostollar
+rostollàsseu	rostollar
+rostollàssim	rostollar
+rostollàssiu	rostollar
+rostollàvem	rostollar
+rostollàveu	rostollar
+rostollés	rostollar
+rostolléssem	rostollar
+rostollésseu	rostollar
+rostolléssim	rostollar
+rostolléssiu	rostollar
+rostollí	rostollar
+rostos	rost
+rostrada	rostrat
+rostrades	rostrat
+rostral
+rostrals	rostral
+rostrat
+rostrats	rostrat
+rostre
+rostres	rostre
+rostriforme
+rostriformes	rostriforme
+rostroconqui
+rostroconquis	rostroconqui
+rosts	rost
+rostà	rostar
+rostàrem	rostar
+rostàreu	rostar
+rostària
+rostàries	rostària
+rostàs	rostar
+rostàssem	rostar
+rostàsseu	rostar
+rostàssim	rostar
+rostàssiu	rostar
+rostàvem	rostar
+rostàveu	rostar
+rostèl·lum
+rostèl·lums	rostèl·lum
+rostés	rostar
+rostéssem	rostar
+rostésseu	rostar
+rostéssim	rostar
+rostéssiu	rostar
+rostí	rostar
+rostí	rostir
+rostíem	rostir
+rostíeu	rostir
+rostírem	rostir
+rostíreu	rostir
+rostís	rostir
+rostíssem	rostir
+rostísseu	rostir
+rostíssim	rostir
+rostíssiu	rostir
+rosulada	rosulat
+rosulades	rosulat
+rosulat
+rosulats	rosulat
+rosuvastatina
+rosuvastatines	rosuvastatina
+rosà	rosar
+rosàcia
+rosàcia	rosaci
+rosàcies	rosaci
+rosàcies	rosàcia
+rosàrem	rosar
+rosàreu	rosar
+rosàs	rosar
+rosàssem	rosar
+rosàsseu	rosar
+rosàssim	rosar
+rosàssiu	rosar
+rosàvem	rosar
+rosàveu	rosar
+rosèola
+rosèoles	rosèola
+rosés	rosar
+roséssem	rosar
+rosésseu	rosar
+roséssim	rosar
+roséssiu	rosar
+rosí	rosar
+rosòlic
+rosòlica	rosòlic
+rosòlics	rosòlic
+rosòliques	rosòlic
+rosó
+ròssa
+ròssec
+ròssecs	ròssec
+ròssega
+ròssegues	ròssega
+ròsses	ròssa

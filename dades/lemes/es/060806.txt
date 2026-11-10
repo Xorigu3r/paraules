@@ -1,0 +1,72 @@
+giga
+gigaamperio	amperio
+gigaamperios	amperio
+gigabar	bar
+gigabares	bar
+gigabecquerel	becquerel
+gigabecquereles	becquerel
+gigaculombio	culombio
+gigaculombios	culombio
+gigafaradio	faradio
+gigafaradios	faradio
+gigagrais	grais
+gigagramo	gramo
+gigagramos	gramo
+gigagray	gray
+gigahenrio	henrio
+gigahenrios	henrio
+gigahenry	henry
+gigajoule	joule
+gigajoules	joule
+gigajulio	julio
+gigajulios	julio
+gigalitro	litro
+gigalitros	litro
+gigalux	lux
+gigaluxes	lux
+giganewton	newton
+giganewtons	newtons
+giganta
+gigantas	giganta
+gigante
+gigantea
+gigantea	giganteo
+giganteas	gigantea
+giganteas	giganteo
+giganteces	giganta
+giganteo
+giganteos	giganteo
+gigantes	gigante
+gigantesca	gigantesco
+gigantescas	gigantesco
+gigantesco
+gigantescos	gigantesco
+gigantez	giganta
+gigantismo
+gigantismo	gigante
+gigantismos	gigante
+gigantismos	gigantismo
+gigantona	gigantón
+gigantonas	gigantón
+gigantones	gigantón
+gigantón
+gigaohm	ohm
+gigaohmio	ohmio
+gigaohmios	ohmio
+gigapascal	pascal
+gigapascales	pascal
+gigas	giga
+gigasegundo	segundo
+gigasegundos	segundo
+gigatesla	tesla
+gigateslas	tesla
+gigavolt	volt
+gigavoltio	voltio
+gigavoltios	voltio
+gigavolts	volt
+gigawatt	watt
+gigawatts	watt
+gigaweber	weber
+gigawebers	webers
+gigote
+gigotes	gigote

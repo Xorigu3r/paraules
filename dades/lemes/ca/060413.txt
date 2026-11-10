@@ -1,0 +1,546 @@
+geo
+geoamagatall
+geoamagatalls	geoamagatall
+geoanemocor
+geoanemocora	geoanemocor
+geoanemocores	geoanemocor
+geoanemocors	geoanemocor
+geoarqueologia
+geoarqueologies	geoarqueologia
+geoautocor
+geoautocora	geoautocor
+geoautocores	geoautocor
+geoautocors	geoautocor
+geobiologia
+geobiologies	geobiologia
+geobiont
+geobionts	geobiont
+geoblast
+geoblastos	geoblast
+geoblasts	geoblast
+geobloqueig
+geobloqueigs	geobloqueig
+geobloquejos	geobloqueig
+geobotànic
+geobotànica	geobotànic
+geobotànicament
+geobotànics	geobotànic
+geobotàniques	geobotànic
+geocentrisme
+geocentrismes	geocentrisme
+geocerca
+geocercador
+geocercadora	geocercador
+geocercadores	geocercador
+geocercadors	geocercador
+geocerques	geocerca
+geociències
+geocodificació
+geocronologia
+geocronologies	geocronologia
+geocronològic
+geocronològica	geocronològic
+geocronològics	geocronològic
+geocronològiques	geocronològic
+geocronometria
+geocronometries	geocronometria
+geocronòleg
+geocronòlegs	geocronòleg
+geocronòloga	geocronòleg
+geocronòlogues	geocronòleg
+geocàrpia
+geocàrpic
+geocàrpica	geocàrpic
+geocàrpics	geocàrpic
+geocàrpies	geocàrpia
+geocàrpiques	geocàrpic
+geocèntric
+geocèntrica	geocèntric
+geocèntrics	geocèntric
+geocèntriques	geocèntric
+geocíclic
+geocíclica	geocíclic
+geocíclics	geocíclic
+geocícliques	geocíclic
+geoda
+geodemografia
+geodemografies	geodemografia
+geodemogràfic
+geodemogràfica	geodemogràfic
+geodemogràfics	geodemogràfic
+geodemogràfiques	geodemogràfic
+geodes	geoda
+geodesista
+geodesistes	geodesista
+geodinàmic
+geodinàmica
+geodinàmica	geodinàmic
+geodinàmics	geodinàmic
+geodinàmiques	geodinàmic
+geodinàmiques	geodinàmica
+geodèsia
+geodèsic
+geodèsica
+geodèsica	geodèsic
+geodèsicament
+geodèsics	geodèsic
+geodèsies	geodèsia
+geodèsiques	geodèsic
+geodèsiques	geodèsica
+geodímetre
+geodímetres	geodímetre
+geoecologia
+geoecologies	geoecologia
+geoeconòmic
+geoeconòmica	geoeconòmic
+geoeconòmics	geoeconòmic
+geoeconòmiques	geoeconòmic
+geoelectricitat
+geoelement
+geoelements	geoelement
+geoenginyeria
+geoenginyeries	geoenginyeria
+geoestacionari
+geoestacionaris	geoestacionari
+geoestacionària	geoestacionari
+geoestadístic
+geoestadística	geoestadístic
+geoestadístics	geoestadístic
+geoestadístiques	geoestadístic
+geoestratègia
+geoestratègic
+geoestratègica	geoestratègic
+geoestratègics	geoestratègic
+geoestratègies	geoestratègia
+geoestratègiques	geoestratègic
+geoestàtica
+geoestàtiques	geoestàtica
+geofàgia
+geofàgies	geofàgia
+geofísic
+geofísica	geofísic
+geofísics	geofísic
+geofísiques	geofísic
+geognosta
+geognostes	geognosta
+geognòsia
+geognòsies	geognòsia
+geognòstic
+geognòstica	geognòstic
+geognòstics	geognòstic
+geognòstiques	geognòstic
+geografia
+geografies	geografia
+geogràfic
+geogràfica	geogràfic
+geogràficament
+geogràfics	geogràfic
+geogràfiques	geogràfic
+geogènia
+geogènic
+geogènica	geogènic
+geogènics	geogènic
+geogènies	geogènia
+geogèniques	geogènic
+geohidrografia
+geohidrografies	geohidrografia
+geoide
+geoides	geoide
+geoinformacions	geoinformació
+geoinformació
+geolingüístic
+geolingüística
+geolingüística	geolingüístic
+geolingüístics	geolingüístic
+geolingüístiques	geolingüístic
+geolingüístiques	geolingüística
+geolocalitz	geolocalitzar
+geolocalitza	geolocalitzar
+geolocalització
+geolocalitzada	geolocalitzar
+geolocalitzades	geolocalitzar
+geolocalitzador
+geolocalitzam	geolocalitzar
+geolocalitzant	geolocalitzar
+geolocalitzar
+geolocalitzara	geolocalitzar
+geolocalitzaran	geolocalitzar
+geolocalitzarem	geolocalitzar
+geolocalitzaren	geolocalitzar
+geolocalitzares	geolocalitzar
+geolocalitzareu	geolocalitzar
+geolocalitzaria	geolocalitzar
+geolocalitzarà	geolocalitzar
+geolocalitzaràs	geolocalitzar
+geolocalitzaré	geolocalitzar
+geolocalitzat	geolocalitzar
+geolocalitzats	geolocalitzar
+geolocalitzau	geolocalitzar
+geolocalitzava	geolocalitzar
+geolocalitzaven	geolocalitzar
+geolocalitzaves	geolocalitzar
+geolocalitze	geolocalitzar
+geolocalitzem	geolocalitzar
+geolocalitzen	geolocalitzar
+geolocalitzes	geolocalitzar
+geolocalitzeu	geolocalitzar
+geolocalitzi	geolocalitzar
+geolocalitzin	geolocalitzar
+geolocalitzis	geolocalitzar
+geolocalitzo	geolocalitzar
+geolocalitzà	geolocalitzar
+geolocalitzàrem	geolocalitzar
+geolocalitzàreu	geolocalitzar
+geolocalitzàs	geolocalitzar
+geolocalitzàvem	geolocalitzar
+geolocalitzàveu	geolocalitzar
+geolocalitzés	geolocalitzar
+geolocalitzí	geolocalitzar
+geologia
+geologies	geologia
+geològic
+geològica	geològic
+geològicament
+geològics	geològic
+geològiques	geològic
+geomagnetisme
+geomagnetismes	geomagnetisme
+geomagnètic
+geomagnètica	geomagnètic
+geomagnètics	geomagnètic
+geomagnètiques	geomagnètic
+geomatitz	geomatitzar
+geomatitza	geomatitzar
+geomatitzacions	geomatització
+geomatització
+geomatitzada	geomatitzar
+geomatitzades	geomatitzar
+geomatitzam	geomatitzar
+geomatitzant	geomatitzar
+geomatitzar
+geomatitzara	geomatitzar
+geomatitzaran	geomatitzar
+geomatitzarem	geomatitzar
+geomatitzaren	geomatitzar
+geomatitzares	geomatitzar
+geomatitzareu	geomatitzar
+geomatitzaria	geomatitzar
+geomatitzarien	geomatitzar
+geomatitzaries	geomatitzar
+geomatitzarà	geomatitzar
+geomatitzaràs	geomatitzar
+geomatitzaré	geomatitzar
+geomatitzaríem	geomatitzar
+geomatitzaríeu	geomatitzar
+geomatitzassen	geomatitzar
+geomatitzasses	geomatitzar
+geomatitzassin	geomatitzar
+geomatitzassis	geomatitzar
+geomatitzat	geomatitzar
+geomatitzats	geomatitzar
+geomatitzau	geomatitzar
+geomatitzava	geomatitzar
+geomatitzaven	geomatitzar
+geomatitzaves	geomatitzar
+geomatitze	geomatitzar
+geomatitzem	geomatitzar
+geomatitzen	geomatitzar
+geomatitzes	geomatitzar
+geomatitzessen	geomatitzar
+geomatitzesses	geomatitzar
+geomatitzessin	geomatitzar
+geomatitzessis	geomatitzar
+geomatitzeu	geomatitzar
+geomatitzi	geomatitzar
+geomatitzin	geomatitzar
+geomatitzis	geomatitzar
+geomatitzo	geomatitzar
+geomatitzà	geomatitzar
+geomatitzàrem	geomatitzar
+geomatitzàreu	geomatitzar
+geomatitzàs	geomatitzar
+geomatitzàssem	geomatitzar
+geomatitzàsseu	geomatitzar
+geomatitzàssim	geomatitzar
+geomatitzàssiu	geomatitzar
+geomatitzàvem	geomatitzar
+geomatitzàveu	geomatitzar
+geomatitzés	geomatitzar
+geomatitzéssem	geomatitzar
+geomatitzésseu	geomatitzar
+geomatitzéssim	geomatitzar
+geomatitzéssiu	geomatitzar
+geomatitzí	geomatitzar
+geomecànic
+geomecànica	geomecànic
+geomecànics	geomecànic
+geomecàniques	geomecànic
+geomedicina
+geomedicines	geomedicina
+geometral
+geometrals	geometral
+geometria
+geometries	geometria
+geometritz	geometritzar
+geometritza	geometritzar
+geometrització
+geometritzada	geometritzar
+geometritzades	geometritzar
+geometritzam	geometritzar
+geometritzant	geometritzar
+geometritzar
+geometritzara	geometritzar
+geometritzaran	geometritzar
+geometritzarem	geometritzar
+geometritzaren	geometritzar
+geometritzares	geometritzar
+geometritzareu	geometritzar
+geometritzaria	geometritzar
+geometritzarien	geometritzar
+geometritzaries	geometritzar
+geometritzarà	geometritzar
+geometritzaràs	geometritzar
+geometritzaré	geometritzar
+geometritzaríem	geometritzar
+geometritzaríeu	geometritzar
+geometritzassen	geometritzar
+geometritzasses	geometritzar
+geometritzassin	geometritzar
+geometritzassis	geometritzar
+geometritzat	geometritzar
+geometritzats	geometritzar
+geometritzau	geometritzar
+geometritzava	geometritzar
+geometritzaven	geometritzar
+geometritzaves	geometritzar
+geometritze	geometritzar
+geometritzem	geometritzar
+geometritzen	geometritzar
+geometritzes	geometritzar
+geometritzessen	geometritzar
+geometritzesses	geometritzar
+geometritzessin	geometritzar
+geometritzessis	geometritzar
+geometritzeu	geometritzar
+geometritzi	geometritzar
+geometritzin	geometritzar
+geometritzis	geometritzar
+geometritzo	geometritzar
+geometritzà	geometritzar
+geometritzàrem	geometritzar
+geometritzàreu	geometritzar
+geometritzàs	geometritzar
+geometritzàssem	geometritzar
+geometritzàsseu	geometritzar
+geometritzàssim	geometritzar
+geometritzàssiu	geometritzar
+geometritzàvem	geometritzar
+geometritzàveu	geometritzar
+geometritzés	geometritzar
+geometritzéssem	geometritzar
+geometritzésseu	geometritzar
+geometritzéssim	geometritzar
+geometritzéssiu	geometritzar
+geometritzí	geometritzar
+geometrografia
+geometrografies	geometrografia
+geomorfogènia
+geomorfogènies	geomorfogènia
+geomorfologia
+geomorfologies	geomorfologia
+geomorfològic
+geomorfològica	geomorfològic
+geomorfològics	geomorfològic
+geomorfològiques	geomorfològic
+geomorfòleg
+geomorfòlegs	geomorfòleg
+geomorfòloga	geomorfòleg
+geomorfòlogues	geomorfòleg
+geomància
+geomàncies	geomància
+geomàntic
+geomàntica	geomàntic
+geomàntics	geomàntic
+geomàntiques	geomàntic
+geomàtic
+geomàtica
+geomàtica	geomàtic
+geomàtics	geomàtic
+geomàtiques	geomàtic
+geomàtiques	geomàtica
+geomètric
+geomètrica	geomètric
+geomètricament
+geomètrics	geomètric
+geomètrid
+geomètrids	geomètrid
+geomètriques	geomètric
+geomòrfic
+geomòrfica	geomòrfic
+geomòrficament
+geomòrfics	geomòrfic
+geomòrfiques	geomòrfic
+geonomia
+geonomies	geonomia
+geonàstia
+geonàsties	geonàstia
+geonòmic
+geonòmica	geonòmic
+geonòmics	geonòmic
+geonòmiques	geonòmic
+geoparc
+geoparcs	geoparc
+geopatologia
+geopatologies	geopatologia
+geoplans	geoplà
+geoplà
+geopolític
+geopolítica
+geopolítica	geopolític
+geopolíticament
+geopolítics	geopolític
+geopolítiques	geopolític
+geopolítiques	geopolítica
+geoposicions	geoposició
+geoposició
+geopotencial
+geopotencials	geopotencial
+geopressions	geopressió
+geopressió
+geoquímic
+geoquímica	geoquímic
+geoquímicament
+geoquímics	geoquímic
+geoquímiques	geoquímic
+georadar
+georadars	georadar
+georama
+georames	georama
+georeferencia	georeferenciar
+georeferenciada	georeferenciar
+georeferenciam	georeferenciar
+georeferenciant	georeferenciar
+georeferenciar
+georeferenciara	georeferenciar
+georeferenciarà	georeferenciar
+georeferenciaré	georeferenciar
+georeferenciat	georeferenciar
+georeferenciats	georeferenciar
+georeferenciau	georeferenciar
+georeferenciava	georeferenciar
+georeferencie	georeferenciar
+georeferenciem	georeferenciar
+georeferencien	georeferenciar
+georeferencies	georeferenciar
+georeferencieu	georeferenciar
+georeferencii	georeferenciar
+georeferencio	georeferenciar
+georeferencià	georeferenciar
+georeferenciàs	georeferenciar
+georeferenciés	georeferenciar
+georeferencií	georeferenciar
+georeferenciï	georeferenciar
+georeferenciïn	georeferenciar
+georeferenciïs	georeferenciar
+georgiana	georgià
+georgianes	georgià
+georgians	georgià
+georgià
+georisc
+georiscos	georisc
+georiscs	georisc
+geos	geo
+geosfera
+geosferes	geosfera
+geosinclinal
+geosinclinals	geosinclinal
+geosincrònic
+geosincrònica	geosincrònic
+geosincrònics	geosincrònic
+geosincròniques	geosincrònic
+geosinònim
+geosinònims	geosinònim
+geosistema
+geosistemes	geosistema
+geostròfic
+geostròfica	geostròfic
+geostròfics	geostròfic
+geostròfiques	geostròfic
+geosíncron
+geosíncrona	geosíncron
+geosíncrones	geosíncron
+geosíncrons	geosíncron
+geotactisme
+geotactismes	geotactisme
+geotaxi
+geotaxis	geotaxi
+geotectònic
+geotectònica
+geotectònica	geotectònic
+geotectònics	geotectònic
+geotectòniques	geotectònic
+geotectòniques	geotectònica
+geotermometria
+geotermometries	geotermometria
+geoteràpia
+geoteràpies	geoteràpia
+geotricosi
+geotricosis	geotricosi
+geotropisme
+geotropismes	geotropisme
+geotròpic
+geotròpica	geotròpic
+geotròpics	geotròpic
+geotròpiques	geotròpic
+geoturisme
+geoturismes	geoturisme
+geoturístic
+geoturística	geoturístic
+geoturístics	geoturístic
+geoturístiques	geoturístic
+geotàctic
+geotàctica	geotàctic
+geotàctics	geotàctic
+geotàctiques	geotàctic
+geotècnia
+geotècnic
+geotècnica
+geotècnica	geotècnic
+geotècnicament
+geotècnics	geotècnic
+geotècnies	geotècnia
+geotècniques	geotècnic
+geotècniques	geotècnica
+geotèrmia
+geotèrmic
+geotèrmica	geotèrmic
+geotèrmicament
+geotèrmics	geotèrmic
+geotèrmies	geotèrmia
+geotèrmiques	geotèrmic
+geotèxtil
+geotèxtils	geotèxtil
+geòfag
+geòfaga	geòfag
+geòfags	geòfag
+geòfagues	geòfag
+geòfit
+geòfits	geòfit
+geòfon
+geòfons	geòfon
+geòglif
+geòglifs	geòglif
+geògraf
+geògrafa	geògraf
+geògrafes	geògraf
+geògrafs	geògraf
+geòleg
+geòlegs	geòleg
+geòloga	geòleg
+geòlogues	geòleg
+geòmetra
+geòmetres	geòmetra
+geòrgic
+geòrgica	geòrgic
+geòrgics	geòrgic
+geòrgiques	geòrgic

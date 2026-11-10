@@ -1,0 +1,31 @@
+vece	vezar
+vecemos	vezar
+vecen	vezar
+vecera
+vecera	vecero
+veceras	vecera
+veceras	vecero
+vecero
+veceros	vecero
+veces	vez
+veces	vezar
+vecina
+vecina	vecino
+vecinal
+vecinales	vecinal
+vecinas	vecino
+vecindad
+vecindades	vecindad
+vecindar
+vecindario
+vecindarios	vecindario
+vecindona
+vecindonas	vecindona
+vecino
+vecinos	vecino
+vector
+vectores	vector
+vectorial
+vectoriales	vectorial
+vecé	vezar
+vecéis	vezar

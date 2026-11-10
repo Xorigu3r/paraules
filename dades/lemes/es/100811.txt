@@ -1,0 +1,64 @@
+kiliárea
+kiliáreas	kiliárea
+kilo
+kiloamperio	amperio
+kiloamperios	amperio
+kilobar	bar
+kilobares	bar
+kilobecquerel	becquerel
+kilobecquereles	becquerel
+kilociclo
+kilociclos	kilociclo
+kiloculombio	culombio
+kiloculombios	culombio
+kilofaradio	faradio
+kilofaradios	faradio
+kilograis	grais
+kilogramo	gramo
+kilogramos	gramo
+kilogray	gray
+kilográmetro
+kilográmetros	kilográmetro
+kilohenrio	henrio
+kilohenrios	henrio
+kilohenry	henry
+kilojoule	joule
+kilojoules	joule
+kilojulio	julio
+kilojulios	julio
+kilolitro	litro
+kilolitros	litro
+kilolux	lux
+kiloluxes	lux
+kilometraje
+kilometrajes	kilometraje
+kilométrica	kilométrico
+kilométricas	kilométrico
+kilométrico
+kilométricos	kilométrico
+kilonewton	newton
+kilonewtons	newtons
+kiloohm	ohm
+kiloohmio	ohmio
+kiloohmios	ohmio
+kilopascal	pascal
+kilopascales	pascal
+kilopondio
+kilopondios	kilopondio
+kilos	kilo
+kilosegundo	segundo
+kilosegundos	segundo
+kilotesla	tesla
+kiloteslas	tesla
+kilovatio
+kilovatios	kilovatio
+kilovolt	volt
+kilovoltio	voltio
+kilovoltios	voltio
+kilovolts	volt
+kilowatt	watt
+kilowatts	watt
+kiloweber	weber
+kilowebers	webers
+kilómetro
+kilómetros	kilómetro

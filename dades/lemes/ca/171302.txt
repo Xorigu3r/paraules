@@ -1,0 +1,603 @@
+soc	ser
+soc	soc_1
+soc	soc_2
+soca
+socada
+socades	socada
+socaire
+socaires	socaire
+socaliv	socalivar
+socaliva	socalivar
+socalivada	socalivar
+socalivades	socalivar
+socalivam	socalivar
+socalivant	socalivar
+socalivar
+socalivara	socalivar
+socalivaran	socalivar
+socalivarem	socalivar
+socalivaren	socalivar
+socalivares	socalivar
+socalivareu	socalivar
+socalivaria	socalivar
+socalivarien	socalivar
+socalivaries	socalivar
+socalivarà	socalivar
+socalivaràs	socalivar
+socalivaré	socalivar
+socalivaríem	socalivar
+socalivaríeu	socalivar
+socalivassen	socalivar
+socalivasses	socalivar
+socalivassin	socalivar
+socalivassis	socalivar
+socalivat	socalivar
+socalivats	socalivar
+socalivau	socalivar
+socalivava	socalivar
+socalivaven	socalivar
+socalivaves	socalivar
+socalive	socalivar
+socalivem	socalivar
+socaliven	socalivar
+socalives	socalivar
+socalivessen	socalivar
+socalivesses	socalivar
+socalivessin	socalivar
+socalivessis	socalivar
+socaliveu	socalivar
+socalivi	socalivar
+socalivin	socalivar
+socalivis	socalivar
+socalivo	socalivar
+socalivà	socalivar
+socalivàrem	socalivar
+socalivàreu	socalivar
+socalivàs	socalivar
+socalivàssem	socalivar
+socalivàsseu	socalivar
+socalivàssim	socalivar
+socalivàssiu	socalivar
+socalivàvem	socalivar
+socalivàveu	socalivar
+socalivés	socalivar
+socalivéssem	socalivar
+socalivésseu	socalivar
+socalivéssim	socalivar
+socalivéssiu	socalivar
+socaliví	socalivar
+socam
+socams	socam
+socar
+socarr	socarrar
+socarra	socarrar
+socarracelles
+socarrada
+socarrada	socarrar
+socarrades	socarrada
+socarrades	socarrar
+socarram	socarrar
+socarrament
+socarraments	socarrament
+socarrant	socarrar
+socarrar
+socarrara	socarrar
+socarraran	socarrar
+socarrarem	socarrar
+socarraren	socarrar
+socarrares	socarrar
+socarrareu	socarrar
+socarraria	socarrar
+socarrarien	socarrar
+socarraries	socarrar
+socarrarà	socarrar
+socarraràs	socarrar
+socarraré	socarrar
+socarraríem	socarrar
+socarraríeu	socarrar
+socarrassen	socarrar
+socarrasses	socarrar
+socarrassin	socarrar
+socarrassis	socarrar
+socarrat	socarrar
+socarrats	socarrar
+socarrau	socarrar
+socarrava	socarrar
+socarraven	socarrar
+socarraves	socarrar
+socarre	socarrar
+socarrell
+socarrells	socarrell
+socarrem	socarrar
+socarren	socarrar
+socarrenc
+socarrenca	socarrenc
+socarrencs	socarrenc
+socarrenques	socarrenc
+socarres	socarrar
+socarressen	socarrar
+socarresses	socarrar
+socarressin	socarrar
+socarressis	socarrar
+socarreu	socarrar
+socarri	socarrar
+socarrim
+socarrim	socarrimar
+socarrima	socarrimar
+socarrimada
+socarrimada	socarrimar
+socarrimades	socarrimada
+socarrimades	socarrimar
+socarrimadora
+socarrimadores	socarrimadora
+socarrimam	socarrimar
+socarrimant	socarrimar
+socarrimar
+socarrimara	socarrimar
+socarrimaran	socarrimar
+socarrimarem	socarrimar
+socarrimaren	socarrimar
+socarrimares	socarrimar
+socarrimareu	socarrimar
+socarrimaria	socarrimar
+socarrimarien	socarrimar
+socarrimaries	socarrimar
+socarrimarà	socarrimar
+socarrimaràs	socarrimar
+socarrimaré	socarrimar
+socarrimaríem	socarrimar
+socarrimaríeu	socarrimar
+socarrimassen	socarrimar
+socarrimasses	socarrimar
+socarrimassin	socarrimar
+socarrimassis	socarrimar
+socarrimat	socarrimar
+socarrimats	socarrimar
+socarrimau	socarrimar
+socarrimava	socarrimar
+socarrimaven	socarrimar
+socarrimaves	socarrimar
+socarrime	socarrimar
+socarrimem	socarrimar
+socarrimen	socarrimar
+socarrimes	socarrimar
+socarrimessen	socarrimar
+socarrimesses	socarrimar
+socarrimessin	socarrimar
+socarrimessis	socarrimar
+socarrimeu	socarrimar
+socarrimi	socarrimar
+socarrimin	socarrimar
+socarrimis	socarrimar
+socarrimo	socarrimar
+socarrims	socarrim
+socarrimà	socarrimar
+socarrimàrem	socarrimar
+socarrimàreu	socarrimar
+socarrimàs	socarrimar
+socarrimàssem	socarrimar
+socarrimàsseu	socarrimar
+socarrimàssim	socarrimar
+socarrimàssiu	socarrimar
+socarrimàvem	socarrimar
+socarrimàveu	socarrimar
+socarrimés	socarrimar
+socarriméssem	socarrimar
+socarrimésseu	socarrimar
+socarriméssim	socarrimar
+socarriméssiu	socarrimar
+socarrimí	socarrimar
+socarrin	socarrar
+socarrina
+socarrines	socarrina
+socarris	socarrar
+socarro	socarrar
+socarrà	socarrar
+socarràrem	socarrar
+socarràreu	socarrar
+socarràs	socarrar
+socarràssem	socarrar
+socarràsseu	socarrar
+socarràssim	socarrar
+socarràssiu	socarrar
+socarràvem	socarrar
+socarràveu	socarrar
+socarrés	socarrar
+socarréssem	socarrar
+socarrésseu	socarrar
+socarréssim	socarrar
+socarréssiu	socarrar
+socarrí	socarrar
+socars	socar
+soci
+sociabilitat
+sociabilitats	sociabilitat
+sociabilitz	sociabilitzar
+sociabilitza	sociabilitzar
+sociabilització
+sociabilitzada	sociabilitzar
+sociabilitzades	sociabilitzar
+sociabilitzam	sociabilitzar
+sociabilitzant	sociabilitzar
+sociabilitzar
+sociabilitzara	sociabilitzar
+sociabilitzaran	sociabilitzar
+sociabilitzarem	sociabilitzar
+sociabilitzaren	sociabilitzar
+sociabilitzares	sociabilitzar
+sociabilitzareu	sociabilitzar
+sociabilitzaria	sociabilitzar
+sociabilitzarà	sociabilitzar
+sociabilitzaràs	sociabilitzar
+sociabilitzaré	sociabilitzar
+sociabilitzat	sociabilitzar
+sociabilitzats	sociabilitzar
+sociabilitzau	sociabilitzar
+sociabilitzava	sociabilitzar
+sociabilitzaven	sociabilitzar
+sociabilitzaves	sociabilitzar
+sociabilitze	sociabilitzar
+sociabilitzem	sociabilitzar
+sociabilitzen	sociabilitzar
+sociabilitzes	sociabilitzar
+sociabilitzeu	sociabilitzar
+sociabilitzi	sociabilitzar
+sociabilitzin	sociabilitzar
+sociabilitzis	sociabilitzar
+sociabilitzo	sociabilitzar
+sociabilitzà	sociabilitzar
+sociabilitzàrem	sociabilitzar
+sociabilitzàreu	sociabilitzar
+sociabilitzàs	sociabilitzar
+sociabilitzàvem	sociabilitzar
+sociabilitzàveu	sociabilitzar
+sociabilitzés	sociabilitzar
+sociabilitzí	sociabilitzar
+sociable
+sociablement
+sociables	sociable
+sociacions	sociació
+sociació
+social
+socialcomunisme
+socialcomunista
+socialcristiana	socialcristià
+socialcristians	socialcristià
+socialcristià
+socialdemòcrata
+socialisme
+socialismes	socialisme
+socialista
+socialistes	socialista
+socialitz	socialitzar
+socialitza	socialitzar
+socialitzacions	socialització
+socialització
+socialitzada	socialitzar
+socialitzades	socialitzar
+socialitzador
+socialitzadora	socialitzador
+socialitzadores	socialitzador
+socialitzadors	socialitzador
+socialitzam	socialitzar
+socialitzant
+socialitzant	socialitzar
+socialitzants	socialitzant
+socialitzar
+socialitzara	socialitzar
+socialitzaran	socialitzar
+socialitzarem	socialitzar
+socialitzaren	socialitzar
+socialitzares	socialitzar
+socialitzareu	socialitzar
+socialitzaria	socialitzar
+socialitzarien	socialitzar
+socialitzaries	socialitzar
+socialitzarà	socialitzar
+socialitzaràs	socialitzar
+socialitzaré	socialitzar
+socialitzaríem	socialitzar
+socialitzaríeu	socialitzar
+socialitzassen	socialitzar
+socialitzasses	socialitzar
+socialitzassin	socialitzar
+socialitzassis	socialitzar
+socialitzat	socialitzar
+socialitzats	socialitzar
+socialitzau	socialitzar
+socialitzava	socialitzar
+socialitzaven	socialitzar
+socialitzaves	socialitzar
+socialitze	socialitzar
+socialitzem	socialitzar
+socialitzen	socialitzar
+socialitzes	socialitzar
+socialitzessen	socialitzar
+socialitzesses	socialitzar
+socialitzessin	socialitzar
+socialitzessis	socialitzar
+socialitzeu	socialitzar
+socialitzi	socialitzar
+socialitzin	socialitzar
+socialitzis	socialitzar
+socialitzo	socialitzar
+socialitzà	socialitzar
+socialitzàrem	socialitzar
+socialitzàreu	socialitzar
+socialitzàs	socialitzar
+socialitzàssem	socialitzar
+socialitzàsseu	socialitzar
+socialitzàssim	socialitzar
+socialitzàssiu	socialitzar
+socialitzàvem	socialitzar
+socialitzàveu	socialitzar
+socialitzés	socialitzar
+socialitzéssem	socialitzar
+socialitzésseu	socialitzar
+socialitzéssim	socialitzar
+socialitzéssiu	socialitzar
+socialitzí	socialitzar
+socialment
+socials	social
+sociata
+sociates	sociata
+societari
+societaris	societari
+societat
+societats	societat
+societària	societari
+societàriament
+societàries	societari
+socimi
+socimis	socimi
+sociniana	socinià
+socinianes	socinià
+socinianisme
+socinianismes	socinianisme
+socinians	socinià
+socinià
+socioaddiccions	socioaddicció
+socioaddicció
+socioafectiu
+socioafectius	socioafectiu
+socioafectiva	socioafectiu
+socioafectives	socioafectiu
+socioambiental
+socioambientals	socioambiental
+sociobiologia
+sociobiologies	sociobiologia
+sociobiològic
+sociobiològica	sociobiològic
+sociobiològics	sociobiològic
+sociobiològiques	sociobiològic
+sociocentrisme
+sociocentrismes	sociocentrisme
+sociocognitiu
+sociocognitius	sociocognitiu
+sociocognitiva	sociocognitiu
+sociocognitives	sociocognitiu
+sociocomunitari
+sociocultural
+socioculturals	sociocultural
+sociodemogràfic
+sociodrama
+sociodrames	sociodrama
+socioecologia
+socioecologies	socioecologia
+socioecològic
+socioecològica	socioecològic
+socioecològics	socioecològic
+socioecològiques	socioecològic
+socioeconòmic
+socioeconòmica	socioeconòmic
+socioeconòmics	socioeconòmic
+socioeconòmiques	socioeconòmic
+socioeducatiu
+socioeducatius	socioeducatiu
+socioeducativa	socioeducatiu
+socioeducatives	socioeducatiu
+socioemocional
+socioemocionals	socioemocional
+socioesportiu
+socioesportius	socioesportiu
+socioesportiva	socioesportiu
+socioesportives	socioesportiu
+sociofamiliar
+sociofamiliars	sociofamiliar
+sociofilosòfic
+sociofilosòfica	sociofilosòfic
+sociofilosòfics	sociofilosòfic
+sociofinancer
+sociofinancera	sociofinancer
+sociofinanceres	sociofinancer
+sociofinancers	sociofinancer
+sociofuncional
+sociofuncionals	sociofuncional
+sociogenètic
+sociogenètica	sociogenètic
+sociogenètics	sociogenètic
+sociogenètiques	sociogenètic
+sociograma
+sociogrames	sociograma
+sociogènesi
+sociogènesis	sociogènesi
+sociogènia
+sociogènic
+sociogènica	sociogènic
+sociogènics	sociogènic
+sociogènies	sociogènia
+sociogèniques	sociogènic
+sociohistòric
+sociohistòrica	sociohistòric
+sociohistòrics	sociohistòric
+sociohistòriques	sociohistòric
+socioideològic
+socioideològica	socioideològic
+socioideològics	socioideològic
+sociojurídic
+sociojurídica	sociojurídic
+sociojurídics	sociojurídic
+sociojurídiques	sociojurídic
+sociolaboral
+sociolaborals	sociolaboral
+sociolecte
+sociolectes	sociolecte
+socioliberal
+socioliberals	socioliberal
+sociolingüista
+sociolingüistes	sociolingüista
+sociolingüístic
+sociologia
+sociologies	sociologia
+sociologisme
+sociologismes	sociologisme
+sociologista
+sociologistes	sociologista
+sociològic
+sociològica	sociològic
+sociològicament
+sociològics	sociològic
+sociològiques	sociològic
+sociometria
+sociometries	sociometria
+sociomilitar
+sociomilitars	sociomilitar
+sociomètric
+sociomètrica	sociomètric
+sociomètrics	sociomètric
+sociomètriques	sociomètric
+sociopatia
+sociopaties	sociopatia
+sociopatologia
+sociopatologies	sociopatologia
+sociopolític
+sociopolítica	sociopolític
+sociopolítics	sociopolític
+sociopolítiques	sociopolític
+sociopsicologia
+sociopsicològic
+sociopàtic
+sociopàtica	sociopàtic
+sociopàtics	sociopàtic
+sociopàtiques	sociopàtic
+sociorelacional
+socioreligiosa	socioreligiós
+socioreligioses	socioreligiós
+socioreligiosos	socioreligiós
+socioreligiós
+sociosanitari
+sociosanitaris	sociosanitari
+sociosanitària	sociosanitari
+sociosanitàries	sociosanitari
+socioterapèutic
+socioteràpia
+socioteràpies	socioteràpia
+sociourbana	sociourbà
+sociourbanes	sociourbà
+sociourbans	sociourbà
+sociourbà
+sociovergència
+socis	soci
+sociòleg
+sociòlegs	sociòleg
+sociòloga	sociòleg
+sociòlogues	sociòleg
+sociòpata
+sociòpates	sociòpata
+socolada
+socolades	socolada
+socoltra	socoltre
+socoltre
+socoltreria
+socoltreries	socoltreria
+socoltres	socoltre
+socons	socó
+socorr	socórrer
+socorre	socórrer
+socorredor
+socorredora	socorredor
+socorredores	socorredor
+socorredors	socorredor
+socorreguda	socórrer
+socorregudes	socórrer
+socorreguem	socórrer
+socorreguera	socórrer
+socorregueren	socórrer
+socorregueres	socórrer
+socorreguessen	socórrer
+socorreguesses	socórrer
+socorreguessin	socórrer
+socorreguessis	socórrer
+socorregueu	socórrer
+socorregut	socórrer
+socorreguts	socórrer
+socorregué	socórrer
+socorreguérem	socórrer
+socorreguéreu	socórrer
+socorregués	socórrer
+socorreguéssem	socórrer
+socorreguésseu	socórrer
+socorreguéssim	socórrer
+socorreguéssiu	socórrer
+socorreguí	socórrer
+socorrem	socórrer
+socorren	socórrer
+socorrent	socórrer
+socorreran	socórrer
+socorrerem	socórrer
+socorrereu	socórrer
+socorreria	socórrer
+socorrerien	socórrer
+socorreries	socórrer
+socorrerà	socórrer
+socorreràs	socórrer
+socorreré	socórrer
+socorreríem	socórrer
+socorreríeu	socórrer
+socorres	socórrer
+socorreu	socórrer
+socorri	socórrer
+socorria	socórrer
+socorrien	socórrer
+socorries	socórrer
+socorriment
+socorriments	socorriment
+socorrin	socórrer
+socorris	socórrer
+socorrisme
+socorrismes	socorrisme
+socorrista
+socorristes	socorrista
+socorro	socórrer
+socorrs	socórrer
+socorríem	socórrer
+socorríeu	socórrer
+socors
+socoster
+socosters	socoster
+socratisme
+socratismes	socratisme
+socràtic
+socràtica	socràtic
+socràticament
+socràtics	socràtic
+socràtiques	socràtic
+socs	soc_1
+socs	soc_2
+socó
+socórrec	socórrer
+socórrega	socórrer
+socórreguen	socórrer
+socórregues	socórrer
+socórrer
+sòccida
+sòccides	sòccida
+sòccita
+sòccites	sòccita
+sòcia	soci
+sòcies	soci
+sòcita
+sòcites	sòcita
+sòcol
+sòcols	sòcol
+sóc	ser

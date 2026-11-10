@@ -1,0 +1,471 @@
+buf
+buf	bufar
+bufa
+bufa	buf
+bufa	bufar
+bufacanyes
+bufaculs
+bufaculsos	bufaculs
+bufada
+bufada	bufar
+bufadera
+bufaderes	bufadera
+bufades	bufada
+bufades	bufar
+bufador
+bufadora	bufador
+bufadores	bufador
+bufadors	bufador
+bufafocs
+bufaforats
+bufalaga
+bufalagues	bufalaga
+bufalitana	bufalità
+bufalitanes	bufalità
+bufalitans	bufalità
+bufalità
+bufallege	bufallejar
+bufallegem	bufallejar
+bufallegen	bufallejar
+bufalleges	bufallejar
+bufallegessen	bufallejar
+bufallegesses	bufallejar
+bufallegessin	bufallejar
+bufallegessis	bufallejar
+bufallegeu	bufallejar
+bufallegi	bufallejar
+bufallegin	bufallejar
+bufallegis	bufallejar
+bufallegés	bufallejar
+bufallegéssem	bufallejar
+bufallegésseu	bufallejar
+bufallegéssim	bufallejar
+bufallegéssiu	bufallejar
+bufallegí	bufallejar
+bufalleig	bufallejar
+bufalleja	bufallejar
+bufallejada	bufallejar
+bufallejades	bufallejar
+bufallejam	bufallejar
+bufallejant	bufallejar
+bufallejar
+bufallejara	bufallejar
+bufallejaran	bufallejar
+bufallejarem	bufallejar
+bufallejaren	bufallejar
+bufallejares	bufallejar
+bufallejareu	bufallejar
+bufallejaria	bufallejar
+bufallejarien	bufallejar
+bufallejaries	bufallejar
+bufallejarà	bufallejar
+bufallejaràs	bufallejar
+bufallejaré	bufallejar
+bufallejaríem	bufallejar
+bufallejaríeu	bufallejar
+bufallejassen	bufallejar
+bufallejasses	bufallejar
+bufallejassin	bufallejar
+bufallejassis	bufallejar
+bufallejat	bufallejar
+bufallejats	bufallejar
+bufallejau	bufallejar
+bufallejava	bufallejar
+bufallejaven	bufallejar
+bufallejaves	bufallejar
+bufallejo	bufallejar
+bufallejà	bufallejar
+bufallejàrem	bufallejar
+bufallejàreu	bufallejar
+bufallejàs	bufallejar
+bufallejàssem	bufallejar
+bufallejàsseu	bufallejar
+bufallejàssim	bufallejar
+bufallejàssiu	bufallejar
+bufallejàvem	bufallejar
+bufallejàveu	bufallejar
+bufallums
+bufam	bufar
+bufament
+bufaments	bufament
+bufanaga
+bufanagues	bufanaga
+bufanda
+bufandes	bufanda
+bufandeta
+bufandetes	bufandeta
+bufanege	bufanejar
+bufanegem	bufanejar
+bufanegen	bufanejar
+bufaneges	bufanejar
+bufanegessen	bufanejar
+bufanegesses	bufanejar
+bufanegessin	bufanejar
+bufanegessis	bufanejar
+bufanegeu	bufanejar
+bufanegi	bufanejar
+bufanegin	bufanejar
+bufanegis	bufanejar
+bufanegés	bufanejar
+bufanegéssem	bufanejar
+bufanegésseu	bufanejar
+bufanegéssim	bufanejar
+bufanegéssiu	bufanejar
+bufanegí	bufanejar
+bufaneig	bufanejar
+bufaneja	bufanejar
+bufanejada	bufanejar
+bufanejades	bufanejar
+bufanejam	bufanejar
+bufanejant	bufanejar
+bufanejar
+bufanejara	bufanejar
+bufanejaran	bufanejar
+bufanejarem	bufanejar
+bufanejaren	bufanejar
+bufanejares	bufanejar
+bufanejareu	bufanejar
+bufanejaria	bufanejar
+bufanejarien	bufanejar
+bufanejaries	bufanejar
+bufanejarà	bufanejar
+bufanejaràs	bufanejar
+bufanejaré	bufanejar
+bufanejaríem	bufanejar
+bufanejaríeu	bufanejar
+bufanejassen	bufanejar
+bufanejasses	bufanejar
+bufanejassin	bufanejar
+bufanejassis	bufanejar
+bufanejat	bufanejar
+bufanejats	bufanejar
+bufanejau	bufanejar
+bufanejava	bufanejar
+bufanejaven	bufanejar
+bufanejaves	bufanejar
+bufanejo	bufanejar
+bufanejà	bufanejar
+bufanejàrem	bufanejar
+bufanejàreu	bufanejar
+bufanejàs	bufanejar
+bufanejàssem	bufanejar
+bufanejàsseu	bufanejar
+bufanejàssim	bufanejar
+bufanejàssiu	bufanejar
+bufanejàvem	bufanejar
+bufanejàveu	bufanejar
+bufaner
+bufanera	bufaner
+bufaneres	bufaner
+bufaners	bufaner
+bufant	bufar
+bufanúvols
+bufar
+bufara	bufar
+bufaran	bufar
+bufarell
+bufarella	bufarell
+bufarelles	bufarell
+bufarells	bufarell
+bufarem	bufar
+bufaren	bufar
+bufares	bufar
+bufareu	bufar
+bufaria	bufar
+bufarien	bufar
+bufaries	bufar
+bufarota
+bufarotes	bufarota
+bufarut
+bufaruts	bufarut
+bufarà	bufar
+bufaràs	bufar
+bufaré	bufar
+bufaríem	bufar
+bufaríeu	bufar
+bufassa
+bufassen	bufar
+bufasses	bufar
+bufasses	bufassa
+bufassin	bufar
+bufassis	bufar
+bufat
+bufat	bufar
+bufats	bufar
+bufats	bufat
+bufau	bufar
+bufava	bufar
+bufaven	bufar
+bufaves	bufar
+bufe	bufar
+bufec
+bufecs	bufec
+bufeg	bufegar
+bufega	bufegar
+bufegada	bufegar
+bufegades	bufegar
+bufegam	bufegar
+bufegant	bufegar
+bufegar
+bufegara	bufegar
+bufegaran	bufegar
+bufegarem	bufegar
+bufegaren	bufegar
+bufegares	bufegar
+bufegareu	bufegar
+bufegaria	bufegar
+bufegarien	bufegar
+bufegaries	bufegar
+bufegarà	bufegar
+bufegaràs	bufegar
+bufegaré	bufegar
+bufegaríem	bufegar
+bufegaríeu	bufegar
+bufegassen	bufegar
+bufegasses	bufegar
+bufegassin	bufegar
+bufegassis	bufegar
+bufegat	bufegar
+bufegats	bufegar
+bufegau	bufegar
+bufegava	bufegar
+bufegaven	bufegar
+bufegaves	bufegar
+bufego	bufegar
+bufegue	bufegar
+bufeguem	bufegar
+bufeguen	bufegar
+bufegues	bufegar
+bufeguessen	bufegar
+bufeguesses	bufegar
+bufeguessin	bufegar
+bufeguessis	bufegar
+bufegueu	bufegar
+bufegui	bufegar
+bufeguin	bufegar
+bufeguis	bufegar
+bufegués	bufegar
+bufeguéssem	bufegar
+bufeguésseu	bufegar
+bufeguéssim	bufegar
+bufeguéssiu	bufegar
+bufeguí	bufegar
+bufegà	bufegar
+bufegàrem	bufegar
+bufegàreu	bufegar
+bufegàs	bufegar
+bufegàssem	bufegar
+bufegàsseu	bufegar
+bufegàssim	bufegar
+bufegàssiu	bufegar
+bufegàvem	bufegar
+bufegàveu	bufegar
+bufem	bufar
+bufen	bufar
+bufenina
+bufeniode
+bufeniodes	bufeniode
+bufera
+buferes	bufera
+bufes	buf
+bufes	bufar
+bufessen	bufar
+bufesses	bufar
+bufessin	bufar
+bufessis	bufar
+bufet
+bufeta
+bufetada
+bufetades	bufetada
+bufetege	bufetejar
+bufetegem	bufetejar
+bufetegen	bufetejar
+bufeteges	bufetejar
+bufetegessen	bufetejar
+bufetegesses	bufetejar
+bufetegessin	bufetejar
+bufetegessis	bufetejar
+bufetegeu	bufetejar
+bufetegi	bufetejar
+bufetegin	bufetejar
+bufetegis	bufetejar
+bufetegés	bufetejar
+bufetegéssem	bufetejar
+bufetegésseu	bufetejar
+bufetegéssim	bufetejar
+bufetegéssiu	bufetejar
+bufetegí	bufetejar
+bufeteig
+bufeteig	bufetejar
+bufeteigs	bufeteig
+bufeteja	bufetejar
+bufetejada	bufetejar
+bufetejades	bufetejar
+bufetejam	bufetejar
+bufetejant	bufetejar
+bufetejar
+bufetejara	bufetejar
+bufetejaran	bufetejar
+bufetejarem	bufetejar
+bufetejaren	bufetejar
+bufetejares	bufetejar
+bufetejareu	bufetejar
+bufetejaria	bufetejar
+bufetejarien	bufetejar
+bufetejaries	bufetejar
+bufetejarà	bufetejar
+bufetejaràs	bufetejar
+bufetejaré	bufetejar
+bufetejaríem	bufetejar
+bufetejaríeu	bufetejar
+bufetejassen	bufetejar
+bufetejasses	bufetejar
+bufetejassin	bufetejar
+bufetejassis	bufetejar
+bufetejat	bufetejar
+bufetejats	bufetejar
+bufetejau	bufetejar
+bufetejava	bufetejar
+bufetejaven	bufetejar
+bufetejaves	bufetejar
+bufetejo	bufetejar
+bufetejos	bufeteig
+bufetejà	bufetejar
+bufetejàrem	bufetejar
+bufetejàreu	bufetejar
+bufetejàs	bufetejar
+bufetejàssem	bufetejar
+bufetejàsseu	bufetejar
+bufetejàssim	bufetejar
+bufetejàssiu	bufetejar
+bufetejàvem	bufetejar
+bufetejàveu	bufetejar
+bufetes	bufeta
+bufetons	bufetó
+bufets	bufet
+bufetó
+bufeu	bufar
+bufexamac
+bufexamacs	bufexamac
+bufi	bufar
+bufil·lina
+bufin	bufar
+bufis	bufar
+bufit
+bufits	bufit
+buflomedil
+buflomedils	buflomedil
+bufo	bufar
+bufoga
+bufogues	bufoga
+bufolla
+bufolles	bufolla
+bufona	bufó
+bufonada
+bufonades	bufonada
+bufonege	bufonejar
+bufonegem	bufonejar
+bufonegen	bufonejar
+bufoneges	bufonejar
+bufonegessen	bufonejar
+bufonegesses	bufonejar
+bufonegessin	bufonejar
+bufonegessis	bufonejar
+bufonegeu	bufonejar
+bufonegi	bufonejar
+bufonegin	bufonejar
+bufonegis	bufonejar
+bufonegés	bufonejar
+bufonegéssem	bufonejar
+bufonegésseu	bufonejar
+bufonegéssim	bufonejar
+bufonegéssiu	bufonejar
+bufonegí	bufonejar
+bufoneig	bufonejar
+bufoneja	bufonejar
+bufonejada	bufonejar
+bufonejades	bufonejar
+bufonejam	bufonejar
+bufonejant	bufonejar
+bufonejar
+bufonejara	bufonejar
+bufonejaran	bufonejar
+bufonejarem	bufonejar
+bufonejaren	bufonejar
+bufonejares	bufonejar
+bufonejareu	bufonejar
+bufonejaria	bufonejar
+bufonejarien	bufonejar
+bufonejaries	bufonejar
+bufonejarà	bufonejar
+bufonejaràs	bufonejar
+bufonejaré	bufonejar
+bufonejaríem	bufonejar
+bufonejaríeu	bufonejar
+bufonejassen	bufonejar
+bufonejasses	bufonejar
+bufonejassin	bufonejar
+bufonejassis	bufonejar
+bufonejat	bufonejar
+bufonejats	bufonejar
+bufonejau	bufonejar
+bufonejava	bufonejar
+bufonejaven	bufonejar
+bufonejaves	bufonejar
+bufonejo	bufonejar
+bufonejà	bufonejar
+bufonejàrem	bufonejar
+bufonejàreu	bufonejar
+bufonejàs	bufonejar
+bufonejàssem	bufonejar
+bufonejàsseu	bufonejar
+bufonejàssim	bufonejar
+bufonejàssiu	bufonejar
+bufonejàvem	bufonejar
+bufonejàveu	bufonejar
+bufones	bufó
+bufonesc
+bufonesca	bufonesc
+bufonescos	bufonesc
+bufonescs	bufonesc
+bufonesques	bufonesc
+bufons	bufó
+bufor
+buformina
+buformines	buformina
+bufors	bufor
+bufotenina
+bufotenines	bufotenina
+bufotoxina
+bufotoxines	bufotoxina
+bufrolina
+bufs	buf
+buftàlmia
+buftàlmies	buftàlmia
+bufà	bufar
+bufàrem	bufar
+bufàreu	bufar
+bufàs	bufar
+bufàssem	bufar
+bufàsseu	bufar
+bufàssim	bufar
+bufàssiu	bufar
+bufàvem	bufar
+bufàveu	bufar
+bufés	bufar
+buféssem	bufar
+bufésseu	bufar
+buféssim	bufar
+buféssiu	bufar
+bufí	bufar
+bufònid
+bufònids	bufònid
+bufó
+búfag
+búfags	búfag
+búfal
+búfala	búfal
+búfales	búfal
+búfals	búfal
+búfol
+búfols	búfol

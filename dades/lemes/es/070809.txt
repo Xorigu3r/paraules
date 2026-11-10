@@ -1,0 +1,22 @@
+hija	hijo
+hijadalgo
+hijadalgos	hijadalgo
+hijas	hijo
+hijastra	hijastro
+hijastras	hijastro
+hijastro
+hijastros	hijastro
+hijato
+hijatos	hijato
+hijita	hijito
+hijitas	hijito
+hijito
+hijitos	hijito
+hijo
+hijodalgo
+hijodalgos	hijodalgo
+hijos	hijo
+hijuela
+hijuelas	hijuela
+hijuelero
+hijueleros	hijuelero

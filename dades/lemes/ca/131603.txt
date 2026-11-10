@@ -1,0 +1,305 @@
+ordalia
+ordalies
+ordalies	ordalia
+orde	orde_1
+orde	orde_2
+ordeix	ordir
+ordeixen	ordir
+ordeixes	ordir
+ordeixi	ordir
+ordeixin	ordir
+ordeixis	ordir
+ordeixo	ordir
+ordena	ordenar
+ordenable
+ordenables	ordenable
+ordenacions	ordenació
+ordenació
+ordenada
+ordenada	ordenar
+ordenada	ordenat
+ordenadament
+ordenades	ordenada
+ordenades	ordenar
+ordenades	ordenat
+ordenador
+ordenadora	ordenador
+ordenadores	ordenador
+ordenadors	ordenador
+ordenadíssim
+ordenadíssima	ordenadíssim
+ordenadíssimes	ordenadíssim
+ordenadíssims	ordenadíssim
+ordenam	ordenar
+ordenament
+ordenaments	ordenament
+ordenances	ordenança
+ordenancisme
+ordenancismes	ordenancisme
+ordenancista
+ordenancistes	ordenancista
+ordenand
+ordenands	ordenand
+ordenant
+ordenant	ordenar
+ordenants	ordenant
+ordenança
+ordenar
+ordenara	ordenar
+ordenaran	ordenar
+ordenarem	ordenar
+ordenaren	ordenar
+ordenares	ordenar
+ordenareu	ordenar
+ordenaria	ordenar
+ordenarien	ordenar
+ordenaries	ordenar
+ordenarà	ordenar
+ordenaràs	ordenar
+ordenaré	ordenar
+ordenaríem	ordenar
+ordenaríeu	ordenar
+ordenassen	ordenar
+ordenasses	ordenar
+ordenassin	ordenar
+ordenassis	ordenar
+ordenat
+ordenat	ordenar
+ordenatiu
+ordenatius	ordenatiu
+ordenativa	ordenatiu
+ordenatives	ordenatiu
+ordenats	ordenar
+ordenats	ordenat
+ordenau	ordenar
+ordenava	ordenar
+ordenaven	ordenar
+ordenaves	ordenar
+ordene	ordenar
+ordenem	ordenar
+ordenen	ordenar
+ordenes	ordenar
+ordenessen	ordenar
+ordenesses	ordenar
+ordenessin	ordenar
+ordenessis	ordenar
+ordeneu	ordenar
+ordeni	ordenar
+ordenin	ordenar
+ordenis	ordenar
+ordeno	ordenar
+ordenà	ordenar
+ordenàrem	ordenar
+ordenàreu	ordenar
+ordenàs	ordenar
+ordenàssem	ordenar
+ordenàsseu	ordenar
+ordenàssim	ordenar
+ordenàssiu	ordenar
+ordenàvem	ordenar
+ordenàveu	ordenar
+ordenés	ordenar
+ordenéssem	ordenar
+ordenésseu	ordenar
+ordenéssim	ordenar
+ordenéssiu	ordenar
+ordení	ordenar
+ordeolosi
+ordeolosis	ordeolosi
+ordes	orde_1
+ordes	orde_2
+ordesc	ordir
+ordesca	ordir
+ordesquen	ordir
+ordesques	ordir
+ordesqui	ordir
+ordesquin	ordir
+ordesquis	ordir
+ordi
+ordia	ordiar
+ordia	ordir
+ordiada	ordiar
+ordiades	ordiar
+ordiam	ordiar
+ordiant	ordiar
+ordiar
+ordiara	ordiar
+ordiaran	ordiar
+ordiarem	ordiar
+ordiaren	ordiar
+ordiares	ordiar
+ordiareu	ordiar
+ordiaria	ordiar
+ordiarien	ordiar
+ordiaries	ordiar
+ordiars	ordiar
+ordiarà	ordiar
+ordiaràs	ordiar
+ordiaré	ordiar
+ordiaríem	ordiar
+ordiaríeu	ordiar
+ordiassen	ordiar
+ordiasses	ordiar
+ordiassin	ordiar
+ordiassis	ordiar
+ordiat
+ordiat	ordiar
+ordiats	ordiar
+ordiats	ordiat
+ordiau	ordiar
+ordiava	ordiar
+ordiaven	ordiar
+ordiaves	ordiar
+ordida	ordir
+ordides	ordir
+ordidor
+ordidora	ordidor
+ordidores	ordidor
+ordidors	ordidor
+ordidura
+ordidures	ordidura
+ordie	ordiar
+ordiem	ordiar
+ordien	ordiar
+ordien	ordir
+ordienc
+ordienca	ordienc
+ordiencs	ordienc
+ordienques	ordienc
+ordier
+ordiera	ordier
+ordieres	ordier
+ordiers	ordier
+ordies	ordiar
+ordies	ordir
+ordiessen	ordiar
+ordiesses	ordiar
+ordiessin	ordiar
+ordiessis	ordiar
+ordieu	ordiar
+ordiguem	ordir
+ordigueu	ordir
+ordii	ordiar
+ordim
+ordim	ordir
+ordims	ordim
+ordinacions
+ordinacions	ordinació
+ordinació
+ordinador
+ordinadors	ordinador
+ordinal
+ordinalitat
+ordinalitats	ordinalitat
+ordinals	ordinal
+ordinari
+ordinariesa
+ordinarieses	ordinariesa
+ordinaris	ordinari
+ordinatiu
+ordinatius	ordinatiu
+ordinativa	ordinatiu
+ordinatives	ordinatiu
+ordinenc
+ordinenca	ordinenc
+ordinencs	ordinenc
+ordinenques	ordinenc
+ordinesa	ordinès
+ordineses	ordinès
+ordinesos	ordinès
+ordinograma
+ordinogrames	ordinograma
+ordint	ordir
+ordinària	ordinari
+ordinàriament
+ordinàries	ordinari
+ordinès
+ordinés	ordinès
+ordio	ordiar
+ordiosa	ordiós
+ordioses	ordiós
+ordiosos	ordiós
+ordir
+ordira	ordir
+ordiran	ordir
+ordirem	ordir
+ordiren	ordir
+ordires	ordir
+ordireu	ordir
+ordiria	ordir
+ordirien	ordir
+ordiries	ordir
+ordirà	ordir
+ordiràs	ordir
+ordiré	ordir
+ordiríem	ordir
+ordiríeu	ordir
+ordis	ordi
+ordisc	ordir
+ordisca	ordir
+ordisquen	ordir
+ordisques	ordir
+ordissatge
+ordissatges	ordissatge
+ordissen	ordir
+ordisses	ordir
+ordissin	ordir
+ordissis	ordir
+ordit
+ordit	ordir
+ordits	ordir
+ordits	ordit
+ordiu	ordir
+ordix	ordir
+ordixen	ordir
+ordixes	ordir
+ordià	ordiar
+ordiàrem	ordiar
+ordiàreu	ordiar
+ordiàs	ordiar
+ordiàssem	ordiar
+ordiàsseu	ordiar
+ordiàssim	ordiar
+ordiàssiu	ordiar
+ordiàvem	ordiar
+ordiàveu	ordiar
+ordiés	ordiar
+ordiéssem	ordiar
+ordiésseu	ordiar
+ordiéssim	ordiar
+ordiéssiu	ordiar
+ordií	ordiar
+ordiï	ordiar
+ordiïn	ordiar
+ordiïs	ordiar
+ordiós
+ordoliberal
+ordoliberalisme
+ordoliberals	ordoliberal
+ordoviciana	ordovicià
+ordovicianes	ordovicià
+ordovicians	ordovicià
+ordovicià
+ordovícic
+ordovícica	ordovícic
+ordovícics	ordovícic
+ordovíciques	ordovícic
+ordre	ordre_1
+ordre	ordre_2
+ordres	ordre_1
+ordres	ordre_2
+ordèol
+ordèols	ordèol
+ordén	ordenar
+ordí	ordir
+ordíem	ordir
+ordíeu	ordir
+ordírem	ordir
+ordíreu	ordir
+ordís	ordir
+ordíssem	ordir
+ordísseu	ordir
+ordíssim	ordir
+ordíssiu	ordir
+órdens	orde_1
+órdens	orde_2

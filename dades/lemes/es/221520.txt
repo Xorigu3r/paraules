@@ -1,0 +1,72 @@
+vota	votar
+votaba	votar
+votabais	votar
+votaban	votar
+votabas	votar
+votaciones	votación
+votación
+votad	votar
+votada
+votada	votar
+votadas	votada
+votadas	votar
+votado	votar
+votador
+votadora	votador
+votadoras	votador
+votadores	votador
+votados	votar
+votamos	votar
+votan	votar
+votando	votar
+votante
+votantes	votante
+votar
+votara	votar
+votarais	votar
+votaran	votar
+votaras	votar
+votare	votar
+votareis	votar
+votaremos	votar
+votaren	votar
+votares	votar
+votarla	votar
+votarlas	votar
+votarlo	votar
+votarlos	votar
+votaron	votar
+votarse	votar
+votará	votar
+votarán	votar
+votarás	votar
+votaré	votar
+votaréis	votar
+votaría	votar
+votaríais	votar
+votaríamos	votar
+votarían	votar
+votarías	votar
+votas	votar
+votase	votar
+votaseis	votar
+votasen	votar
+votases	votar
+votaste	votar
+votasteis	votar
+vote	votar
+votemos	votar
+voten	votar
+votes	votar
+voto
+voto	votar
+votos	voto
+votábamos	votar
+votáis	votar
+votándose	votar
+votáramos	votar
+votáremos	votar
+votásemos	votar
+voté	votar
+votéis	votar
+votó	votar

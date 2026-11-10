@@ -1,0 +1,132 @@
+tax	taxar
+taxa
+taxa	taxar
+taxable
+taxables	taxable
+taxacions	taxació
+taxació
+taxada	taxar
+taxades	taxar
+taxador
+taxadora	taxador
+taxadores	taxador
+taxadors	taxador
+taxal
+taxals	taxal
+taxam	taxar
+taxant	taxar
+taxar
+taxara	taxar
+taxaran	taxar
+taxarem	taxar
+taxaren	taxar
+taxares	taxar
+taxareu	taxar
+taxaria	taxar
+taxarien	taxar
+taxaries	taxar
+taxarà	taxar
+taxaràs	taxar
+taxaré	taxar
+taxaríem	taxar
+taxaríeu	taxar
+taxassen	taxar
+taxasses	taxar
+taxassin	taxar
+taxassis	taxar
+taxat	taxar
+taxatiu
+taxatius	taxatiu
+taxativa	taxatiu
+taxativament
+taxatives	taxatiu
+taxativitat
+taxativitats	taxativitat
+taxats	taxar
+taxau	taxar
+taxava	taxar
+taxaven	taxar
+taxaves	taxar
+taxe	taxar
+taxem	taxar
+taxema
+taxemes	taxema
+taxen	taxar
+taxes	taxa
+taxes	taxar
+taxessen	taxar
+taxesses	taxar
+taxessin	taxar
+taxessis	taxar
+taxeu	taxar
+taxi	taxar
+taxi	taxi_1
+taxi	taxi_2
+taxiarca
+taxiarques	taxiarca
+taxidermista
+taxidermistes	taxidermista
+taxidèrmia
+taxidèrmic
+taxidèrmica	taxidèrmic
+taxidèrmics	taxidèrmic
+taxidèrmies	taxidèrmia
+taxidèrmiques	taxidèrmic
+taxin	taxar
+taxinomia
+taxinomies	taxinomia
+taxis	taxar
+taxis	taxi_1
+taxis	taxi_2
+taxista
+taxistes	taxista
+taxo	taxar
+taxodi
+taxodis	taxodi
+taxodiàcia
+taxodiàcies	taxodiàcia
+taxodont
+taxodonts	taxodont
+taxoide
+taxoides	taxoide
+taxol
+taxols	taxol
+taxonomia
+taxonomies	taxonomia
+taxonomista
+taxonomistes	taxonomista
+taxons	taxó
+taxonòmic
+taxonòmica	taxonòmic
+taxonòmicament
+taxonòmics	taxonòmic
+taxonòmiques	taxonòmic
+taxà	taxar
+taxàcia
+taxàcies	taxàcia
+taxàrem	taxar
+taxàreu	taxar
+taxàs	taxar
+taxàssem	taxar
+taxàsseu	taxar
+taxàssim	taxar
+taxàssiu	taxar
+taxàvem	taxar
+taxàveu	taxar
+taxés	taxar
+taxéssem	taxar
+taxésseu	taxar
+taxéssim	taxar
+taxéssiu	taxar
+taxí	taxar
+taxímetre
+taxímetres	taxímetre
+taxònom
+taxònoma	taxònom
+taxònomes	taxònom
+taxònoms	taxònom
+taxó
+tàxia
+tàxies	tàxia
+tàxon
+tàxons	tàxon

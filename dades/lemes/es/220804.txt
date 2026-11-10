@@ -1,0 +1,86 @@
+vieira
+vieiras	vieira
+vieja	viejo
+viejales
+viejas	viejo
+viejo
+viejos	viejo
+viendo	ver
+viene	venir
+vienen	venir
+vienes	venir
+vienesa	vienés
+vienesas	vienés
+vieneses	vienés
+vienta	ventar
+vientan	ventar
+vientas	ventar
+viente	ventar
+vienten	ventar
+vientes	ventar
+viento
+viento	ventar
+vientos	viento
+vientre
+vientres	vientre
+vienés
+viera	ver
+vierais	ver
+vieran	ver
+vieras	ver
+viere	ver
+viereis	ver
+vieren	ver
+vieres	ver
+viernes
+vieron	ver
+vierta	verter
+viertan	verter
+viertas	verter
+vierte	verter
+vierteaguas
+vierten	verter
+viertes	verter
+vierto	verter
+viese	ver
+vieseis	ver
+viesen	ver
+vieses	ver
+vietnamita
+vietnamitas	vietnamita
+viéndola	ver
+viéndolas	ver
+viéndole	ver
+viéndoles	ver
+viéndolo	ver
+viéndolos	ver
+viéndome	ver
+viéndomela	ver
+viéndomelas	ver
+viéndomelo	ver
+viéndomelos	ver
+viéndonos	ver
+viéndonosla	ver
+viéndonoslas	ver
+viéndonoslo	ver
+viéndonoslos	ver
+viéndoos	ver
+viéndoosla	ver
+viéndooslas	ver
+viéndooslo	ver
+viéndooslos	ver
+viéndose	ver
+viéndosela	ver
+viéndoselas	ver
+viéndoselo	ver
+viéndoselos	ver
+viéndote	ver
+viéndotela	ver
+viéndotelas	ver
+viéndotelo	ver
+viéndotelos	ver
+viéramos	ver
+viéremos	ver
+viértanse	verter
+viértase	verter
+viésemos	ver

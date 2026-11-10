@@ -40,7 +40,10 @@ header .ttl small{display:block;font-style:normal;font-weight:700;font-size:9px;
 body[data-tapet=verd] #table{background:var(--spot),radial-gradient(ellipse at 50% 45%,#23864d,#14603a 55%,#0b3d24)}
 body[data-tapet=blau] #table{background:var(--spot),radial-gradient(ellipse at 50% 45%,#2a6aa8,#1b4b7d 55%,#0f2c4d)}
 body[data-tapet=vermell] #table{background:var(--spot),radial-gradient(ellipse at 50% 45%,#a33232,#7a1f22 55%,#4a1013)}
-body[data-tapet=fusta] #table{background:var(--spot),radial-gradient(ellipse at 50% 45%,#9b6a3c,#7a4f2a 55%,#4e3019)}
+/* taula de fusta (img/fusta.jpg, de empaquetar/fusta.py), amb el mateix focus de llum càlida */
+body[data-tapet=fusta] #table{background:var(--spot),radial-gradient(ellipse at 50% 50%,rgba(0,0,0,0) 55%,rgba(20,10,4,.45) 100%),url(img/fusta.jpg) center/cover;
+  box-shadow:inset 0 0 0 3px #2a180b,inset 0 0 0 6px #4a2e17,inset 0 0 30px rgba(0,0,0,.5),0 6px 20px rgba(0,0,0,.6)}
+body[data-tapet=fusta] #table::before{display:none}
 #players{position:relative;z-index:3;display:flex;gap:6px;justify-content:center;flex-wrap:wrap;padding:10px 12px 4px;flex:none}
 .pc{background:rgba(0,0,0,.55);border:1px solid rgba(255,255,255,.15);border-radius:12px;padding:2px 10px;display:flex;align-items:center;gap:7px;font-size:13px;font-variant-numeric:tabular-nums}
 .pc b{font-size:17px;color:var(--cream)}
@@ -52,27 +55,32 @@ body[data-tapet=fusta] #table{background:var(--spot),radial-gradient(ellipse at 
 @keyframes glow{from{box-shadow:0 0 0 rgba(247,147,30,0)}to{box-shadow:0 0 14px rgba(247,147,30,.9)}}
 #bwrap{position:relative;z-index:2;flex:1;min-height:0;display:flex;align-items:center;justify-content:center;padding:4px 10px 10px}
 #bwrap.zoom{overflow:auto;display:block;padding:8px}
-#deco{position:absolute;inset:0;display:grid;place-items:center;pointer-events:none;z-index:1}
-#deco img{width:min(62%,460px);opacity:.30;filter:saturate(1.2) drop-shadow(0 3px 6px rgba(0,0,0,.35))}
-#board{position:relative;display:grid;grid-template-columns:repeat(15,1fr);grid-template-rows:repeat(15,1fr);gap:1px;padding:2px;border-radius:8px;background:rgba(0,0,0,.28);box-shadow:0 0 0 2px rgba(0,0,0,.25),0 8px 22px rgba(0,0,0,.45);flex:none;margin:auto}
-.cell{position:relative;border-radius:14%;background:rgba(255,248,235,.12);display:grid;place-items:center;overflow:visible;
-  font:800 calc(var(--cs)*.27)/1 "Segoe UI",system-ui,sans-serif;color:rgba(255,255,255,.92);letter-spacing:-.3px}
-.cell.p1{background:rgba(79,179,169,.80)} .cell.p2{background:rgba(47,110,200,.85)}
-.cell.p3{background:rgba(201,75,106,.85)} .cell.p4{background:rgba(232,118,43,.92)}
+#deco{display:none}
+/* Tauler gris pedra clar, amb el falcó en colors al mig (mateixa intensitat que a la Botifarra i el Dòmino;
+   amb un contorn fosc perquè el cap blanc es vegi sobre el gris, com sobre el marbre del Dòmino) */
+#board{position:relative;display:grid;grid-template-columns:repeat(15,1fr);grid-template-rows:repeat(15,1fr);gap:1px;padding:3px;border-radius:9px;flex:none;margin:auto;
+  background:linear-gradient(160deg,#ddd8cf,#cbc5ba 60%,#bfb8ac);
+  box-shadow:0 0 0 2px #6d5a45,0 0 0 4px #3a2a1b,0 10px 26px rgba(0,0,0,.55)}
+#board::before{content:"";position:absolute;inset:6%;pointer-events:none;background:url(img/deco.png) center/contain no-repeat;opacity:.85;
+  filter:saturate(1.25) drop-shadow(0 0 1px rgba(70,45,20,.9)) drop-shadow(0 0 1px rgba(70,45,20,.6)) drop-shadow(0 2px 3px rgba(0,0,0,.2))}
+.cell{position:relative;border-radius:14%;background:rgba(255,255,255,.16);box-shadow:inset 0 0 0 1px rgba(90,75,60,.16);display:grid;place-items:center;overflow:visible;
+  font:800 calc(var(--cs)*.27)/1 "Segoe UI",system-ui,sans-serif;color:rgba(255,255,255,.95);letter-spacing:-.3px}
+.cell.p1{background:rgba(56,160,150,.88)} .cell.p2{background:rgba(42,100,190,.90)}
+.cell.p3{background:rgba(196,66,98,.90)} .cell.p4{background:rgba(230,112,36,.95)}
 .cell.cen{font-size:calc(var(--cs)*.62);color:#fff3d6}
 .cell.sel{outline:2px solid var(--gold);outline-offset:-1px}
 #board.drop .cell:not(:has(.tl)):hover{outline:2px dashed var(--cream);outline-offset:-2px}
 
 /* ---------- Fitxes ---------- */
 .tl{--sz:var(--cs);position:absolute;inset:0;border-radius:14%;display:grid;place-items:center;color:#2b1d12;
-  background:linear-gradient(145deg,#fffaf0,#e9dcc3 70%,#d9c8a8);box-shadow:inset 0 -2px 0 rgba(90,60,30,.25),inset 0 1px 0 #fff,0 1px 2px rgba(0,0,0,.55);
+  background:linear-gradient(145deg,#fffaf0,#efe3cb 70%,#e2d2b3);box-shadow:inset 0 -2px 0 rgba(90,60,30,.28),inset 0 1px 0 #fff,0 0 0 1px rgba(70,48,26,.45),0 2px 3px rgba(0,0,0,.45);
   font-family:Georgia,"Times New Roman",serif;font-weight:700;touch-action:none}
 .tl .lt{font-size:calc(var(--sz)*.62);line-height:1;margin-top:-6%}
 .tl .lt.dg{font-size:calc(var(--sz)*.36);letter-spacing:-.04em}
 .tl .pt{position:absolute;right:9%;bottom:5%;font:700 calc(var(--sz)*.25)/1 "Segoe UI",system-ui,sans-serif;color:#6b4a2a}
 .tl.bl .lt{color:#c4661a}
 .tl.pend{background:linear-gradient(145deg,#fff6d8,#f6d796);box-shadow:0 0 0 2px var(--gold),0 2px 5px rgba(0,0,0,.5);cursor:grab;z-index:2}
-.tl.last{background:linear-gradient(145deg,#fffdf4,#f3e5c4 70%,#e8cf9f);box-shadow:inset 0 0 0 2px rgba(247,147,30,.85),0 1px 2px rgba(0,0,0,.55)}
+.tl.last{background:linear-gradient(145deg,#fffdf4,#f3e5c4 70%,#e8cf9f);box-shadow:inset 0 0 0 2px rgba(247,147,30,.9),0 0 0 1px rgba(70,48,26,.45),0 2px 3px rgba(0,0,0,.45)}
 .tl.new{animation:drop .45s ease-out}
 @keyframes drop{0%{opacity:0;transform:scale(1.6)}70%{opacity:1;transform:scale(.94)}100%{transform:scale(1)}}
 .tl.hint{box-shadow:0 0 0 2px #7cf,0 0 10px #7cf}
@@ -126,6 +134,13 @@ input:focus{outline:2px solid var(--gold);border-color:var(--gold)}
 button:disabled{opacity:.45;cursor:default}
 .big{font-size:22px;font-weight:800;color:var(--cream);text-align:center;margin:4px 0}
 .mutd{color:var(--mut);font-size:13px}
+.wd{cursor:pointer;border-bottom:1px dotted currentColor}
+.wd:hover{color:var(--gold)}
+#status .wd{font-weight:700}
+.def h3{margin:12px 0 2px;font-size:18px}
+.def .pos{margin:6px 0 2px;color:var(--gold);font-style:italic;font-size:14px}
+.def ol{margin:2px 0 6px;padding-left:22px} .def li{margin:3px 0}
+.def .dlinks{font-size:13px;color:var(--mut);margin:6px 0 4px} .def a{color:var(--gold)}
 .letters{display:grid;grid-template-columns:repeat(auto-fill,minmax(48px,1fr));gap:6px}
 .letters .slot{--rt:48px;width:48px;height:48px;cursor:pointer}
 .xch{display:flex;gap:6px;flex-wrap:wrap;justify-content:center;margin:10px 0}
@@ -209,7 +224,7 @@ const $ = s => document.querySelector(s), $$ = s => [...document.querySelectorAl
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 const quiet = () => {};
-const APP_VERSION = '1.0', APP_DATE = '2026-11-10';
+const APP_VERSION = '1.1', APP_DATE = '2026-11-10';
 const AI_NAMES = ['Montse', 'Jordi', 'Pere'];
 
 /* ---------- Idiomes (interfície en català i castellà) ---------- */
@@ -242,7 +257,10 @@ const I18N = { es: {
   'Partides jugades': 'Partidas jugadas', 'Guanyades': 'Ganadas', 'Millor puntuació': 'Mejor puntuación', 'Millor jugada': 'Mejor jugada',
   'Mitjana de punts': 'Media de puntos', 'Esborrar': 'Borrar', 'Esborrar les estadístiques?': '¿Borrar las estadísticas?',
   'Aspecte': 'Aspecto', 'So': 'Sonido', 'Joc': 'Juego', 'Quant a': 'Acerca de',
-  'Idioma': 'Idioma', 'Automàtic': 'Automático', 'Tapet': 'Tapete', 'Verd': 'Verde', 'Blau': 'Azul', 'Vermell': 'Rojo', 'Fusta': 'Madera',
+  'Idioma': 'Idioma', 'Automàtic': 'Automático', 'Tapet': 'Tapete', 'Verd': 'Verde', 'Blau': 'Azul', 'Vermell': 'Rojo', 'Fusta': 'Madera', 'Taula de fusta': 'Mesa de madera',
+  'Buscant la definició...': 'Buscando la definición...', 'forma de': 'forma de', 'Mira-ho a': 'Búscalo en',
+  'Definicions de {0} (CC BY-SA).': 'Definiciones de {0} (CC BY-SA).', 'Cal connexió a internet per veure la definició.': 'Hace falta conexión a internet para ver la definición.',
+  'No he trobat la definició al {0}.': 'No he encontrado la definición en el {0}.',
   'Sons': 'Sonidos', 'Volum': 'Volumen', 'Sí': 'Sí', 'Velocitat de la IA': 'Velocidad de la IA', 'Lenta': 'Lenta', 'Ràpida': 'Rápida',
   'Mostrar els punts mentre col·loques': 'Mostrar los puntos mientras colocas',
   'Versió': 'Versión',
@@ -295,7 +313,7 @@ const RULES = {
 /* ---------- Opcions ---------- */
 const OPTS = [
   { k: 'idioma', g: 'Aspecte', l: 'Idioma', d: 'auto', v: [['auto', 'Automàtic'], ['ca', 'Català'], ['es', 'Español']] },
-  { k: 'tapet', g: 'Aspecte', l: 'Tapet', d: 'verd', v: [['verd', 'Verd'], ['blau', 'Blau'], ['vermell', 'Vermell'], ['fusta', 'Fusta']] },
+  { k: 'tapet', g: 'Aspecte', l: 'Tapet', d: 'fusta', v: [['fusta', 'Taula de fusta'], ['verd', 'Verd'], ['blau', 'Blau'], ['vermell', 'Vermell']] },
   { k: 'so', g: 'So', l: 'Sons', d: '1', v: [['1', 'Sí'], ['0', 'No']] },
   { k: 'vol', g: 'So', l: 'Volum', d: '70', range: true },
   { k: 'vel', g: 'Joc', l: 'Velocitat de la IA', d: '1', v: [['1.6', 'Lenta'], ['1', 'Normal'], ['0.5', 'Ràpida']] },
@@ -570,7 +588,10 @@ function placeTile(ri, i) {
 }
 function afterPend() { renderBoard(); renderRack(); renderCtrl(); turnStatus(); }
 $('#board').addEventListener('click', e => {
-  const cell = e.target.closest('.cell'); if (!cell || e.target.closest('.tl')) return;
+  const cell = e.target.closest('.cell'); if (!cell) return;
+  const tl = e.target.closest('.tl');
+  // tocar una fitxa que ja és al tauler: definició de les paraules que hi passen
+  if (tl) { if (!tl.classList.contains('pend') && G.sel < 0) { const ws = wordsAt(+cell.dataset.i); if (ws.length) defineWords(ws); } return; }
   if (G.sel >= 0) placeTile(G.sel, +cell.dataset.i);
 });
 function askBlank(cb) {
@@ -655,7 +676,7 @@ function afterMove(p, gained) {
   if (h && h.t === 'play') { G.anim = new Set(G.S.last.tiles.map(x => x.i)); snd(h.b ? 'bingo' : (p === G.me ? 'play' : 'tile')); }
   else snd('pass');
   syncRack(); renderAll();
-  if (h) status(moveText(h), false);
+  if (h) statusMove(h);
 }
 function moveText(h) {
   const who = h.p === G.me && G.mode !== 'online' ? t('Tu') : G.names[h.p];
@@ -663,6 +684,127 @@ function moveText(h) {
   if (h.t === 'swap') return `${who} ${h.n === 1 ? t('canvia 1 fitxa') : t('canvia {0} fitxes', h.n)}`;
   return `${who} ${t('passa')}`;
 }
+// Igual que moveText però amb les paraules clicables (per veure'n la definició)
+const wordLinks = ws => ws.map(w => `<span class="wd" data-w="${esc(w)}">${esc(w)}</span>`).join(', ');
+function statusMove(h, suffix = '') {
+  const s = $('#status'); s.classList.remove('err');
+  if (h.t !== 'play') { s.textContent = moveText(h) + suffix; return; }
+  const who = h.p === G.me && G.mode !== 'online' ? t('Tu') : G.names[h.p];
+  s.innerHTML = `${esc(who)}: ${wordLinks(h.w)} +${h.s}${h.b ? ' · ' + esc(t('Bingo! +50')) : ''}${esc(suffix)}`;
+}
+
+/* ---------- Definicions ----------
+   1) dades/lemes/<idioma>/<AABBCC>.txt diu com s'escriu la paraula (amb accents) i quina és la paraula base
+      (cançons → cançó, enllanda → enllandar). Es baixa només el tros que cal.
+   2) La definició de la paraula base es busca al Viquidiccionari (ca) o al Wikcionario (es). Cal connexió. */
+const LEM = {};
+async function lemmas(lang, disp) {
+  const L = M.prepLang(lang), w = M.encode(L, disp);
+  if (!w || w.length < 2) return [];
+  const key = w.slice(0, 3).map(i => String(i).padStart(2, '0')).join(''), id = lang + key, ws = w.join(',');
+  if (!LEM[id]) LEM[id] = fetch(`dades/lemes/${lang}/${key}.txt`).then(r => r.ok ? r.text() : '').catch(() => { delete LEM[id]; return ''; });
+  const out = [];
+  for (const line of (await LEM[id]).split('\n')) {
+    if (!line) continue;
+    const [f, b] = line.split('\t'), e = M.encode(L, f);
+    if (e && e.join(',') === ws) out.push({ f, b: b || f });
+  }
+  return out;
+}
+const WIKI = { ca: 'ca.wiktionary.org', es: 'es.wiktionary.org' };
+const WIKI_NAME = { ca: 'Viquidiccionari', es: 'Wikcionario' };
+const WIKI_LANG = { ca: 'Català', es: 'Español' };
+const POS_RX = /^(Nom|Verb|Adjectiu|Adverbi|Preposició|Interjecció|Pronom|Conjunció|Determinant|Article|Numeral|Locució|Sufix|Prefix|Forma|Sustantivo|Verbo|Adjetivo|Adverbio|Interjección|Pronombre|Preposición|Conjunción|Artículo|Locución|Onomatopeya|Sufijo|Prefijo)/i;
+const NOISE_RX = /^(Exemple|Ejemplo|Sinónim|Antónim|Hiperónim|Hipónim|Relacionad|Uso:|Ámbito:|Véase|Variante|Sinònim|Antònim|Vegeu)/i;
+const WDEF = {};
+async function wikiDef(lang, title) {
+  const id = lang + '|' + title;
+  if (WDEF[id]) return WDEF[id];
+  const u = `https://${WIKI[lang]}/w/api.php?action=query&format=json&origin=*&prop=extracts&explaintext=1&redirects=1&titles=${encodeURIComponent(title)}`;
+  const j = await (await fetch(u)).json();
+  const p = Object.values((j.query && j.query.pages) || {})[0] || {};
+  return WDEF[id] = parseWiki(p.extract || '', lang, title);
+}
+// Del text pla de la pàgina, només la secció de l'idioma i, de cada categoria (Nom, Verb...), fins a 4 accepcions
+function parseWiki(txt, lang, title) {
+  const secs = []; let inLang = false, cur = null;
+  for (const raw of txt.split('\n')) {
+    const l = raw.trim(); if (!l) continue;
+    const m = l.match(/^(=+)\s*(.*?)\s*=+$/);
+    if (m) {
+      if (m[1].length === 2) { inLang = m[2] === WIKI_LANG[lang]; cur = null; continue; }
+      cur = inLang && POS_RX.test(m[2]) ? { pos: m[2], gram: '', defs: [] } : null;
+      if (cur) secs.push(cur);
+      continue;
+    }
+    if (!cur || /^\d+$/.test(l) || NOISE_RX.test(l)) continue;
+    if (/^\d+\s/.test(l) && !/[.;:]/.test(l) && l.length < 40) continue;   // etiquetes de categoria ("1 Mamíferos, perros")
+    if (!cur.gram && !cur.defs.length && l.toLowerCase().startsWith(title.toLowerCase())) { cur.gram = l; continue; }
+    if (/^(a aquesta paraula li falten|esta palabra)/i.test(l)) continue;
+    if (cur.defs.length < 4) cur.defs.push(l);
+  }
+  return secs.filter(s => s.defs.length).slice(0, 3);
+}
+function defLinks(lang, base) {
+  const q = encodeURIComponent(base);
+  const links = [`<a href="https://${WIKI[lang]}/wiki/${q}" target="_blank" rel="noopener">${WIKI_NAME[lang]}</a>`];
+  if (lang === 'ca') links.push(`<a href="https://dlc.iec.cat/Results?DecEntradaText=${q}" target="_blank" rel="noopener">DIEC</a>`);
+  else links.push(`<a href="https://dle.rae.es/${q}" target="_blank" rel="noopener">DLE (RAE)</a>`);
+  return `<p class="dlinks">${t('Mira-ho a')}: ${links.join(' · ')}</p>`;
+}
+// Finestra amb la definició de les paraules (text tal com surt al tauler, p.ex. "CANÇONS", "APEL·LIN")
+async function defineWords(words, back) {
+  const lang = G.S ? G.S.lang : 'ca';
+  const tok = {}; defineWords.tok = tok;
+  modal(`<h2>📖 ${esc(words.join(', '))}</h2><div id="defBody" class="def"><p class="mutd">${t('Buscant la definició...')}</p></div>
+    <p class="mutd" style="font-size:11px">${t('Definicions de {0} (CC BY-SA).', WIKI_NAME[lang])}</p>
+    <div class="row">${back ? `<button class="btn" id="defBack">${t('Tornar')}</button>` : ''}<button class="btn pri" onclick="closeModal()">${t('Tancar')}</button></div>`);
+  if (back) $('#defBack').onclick = back;
+  let html = '';
+  for (const w of words) {
+    let cands = await lemmas(lang, w);
+    if (!cands.length) cands = [{ f: w.toLowerCase(), b: w.toLowerCase() }];
+    const bases = [...new Set(cands.map(c => c.b))].slice(0, 3);
+    for (const b of bases) {
+      const forms = [...new Set(cands.filter(c => c.b === b && c.f !== b).map(c => c.f))];
+      html += `<h3>${esc(b)}</h3>`;
+      if (forms.length) html += `<p class="mutd">${esc(forms.join(', '))} → ${t('forma de')} <b>${esc(b)}</b></p>`;
+      let secs = null, via = '';
+      try {
+        secs = await wikiDef(lang, b);
+        // si només diu "Forma de l'infinitiu encruar-se" / "Forma del plural de perro", seguim la remissió un pas
+        const defs = secs.flatMap(s => s.defs);
+        if (defs.length && defs.every(d => /^(Forma|Plural|Femen)/i.test(d))) {
+          const m = defs[0].match(/([\p{L}·'-]+)[.)]*\s*$/u), x = m && m[1];
+          if (x && x.toLowerCase() !== b.toLowerCase()) { const s2 = await wikiDef(lang, x); if (s2.length) { secs = secs.concat(s2); via = x; } }
+        }
+      } catch (e) { secs = null; }
+      if (defineWords.tok !== tok) return;   // l'usuari ja ha tancat o obert una altra paraula
+      if (secs === null) html += `<p class="err">${t('Cal connexió a internet per veure la definició.')}</p>`;
+      else if (!secs.length) html += `<p class="mutd">${t("No he trobat la definició al {0}.", WIKI_NAME[lang])}</p>`;
+      else html += secs.map(s => `<p class="pos">${esc(s.pos)}${s.gram ? ` <span class="mutd">· ${esc(s.gram)}</span>` : ''}</p><ol>${s.defs.map(d => `<li>${esc(d)}</li>`).join('')}</ol>`).join('');
+      html += defLinks(lang, via || b);
+    }
+    const body = $('#defBody'); if (body && defineWords.tok === tok) body.innerHTML = html;
+  }
+}
+// Paraules que passen per una casella del tauler (horitzontal i vertical)
+function wordsAt(i) {
+  const S = G.S, out = [];
+  for (const [dr, dc] of [[0, 1], [1, 0]]) {
+    let r = (i / N) | 0, c = i % N;
+    while (r - dr >= 0 && c - dc >= 0 && S.board[(r - dr) * N + c - dc] >= 0) { r -= dr; c -= dc; }
+    const w = [];
+    while (r < N && c < N && S.board[r * N + c] >= 0) { w.push(S.board[r * N + c]); r += dr; c += dc; }
+    if (w.length >= 2) out.push(wordTxt(w));
+  }
+  return out;
+}
+document.addEventListener('click', e => {
+  const wd = e.target.closest('.wd'); if (!wd || !G.S) return;
+  const inHist = !!e.target.closest('#mbox');
+  defineWords([wd.dataset.w], inHist ? () => modal(histHtml()) : null);
+});
 
 /* ---------- Finestres ---------- */
 function modal(html) { $('#mbox').innerHTML = html; $('#modal').classList.add('on'); }
@@ -673,7 +815,7 @@ function histHtml() {
   const S = G.S, hs = S ? S.hist : [];
   const rows = hs.slice().reverse().map(h => {
     const who = h.p === G.me && G.mode !== 'online' ? t('Tu') : G.names[h.p];
-    const w = h.t === 'play' ? esc(h.w.join(', ')) + (h.b ? ' ★' : '') : `<span class="mutd">${h.t === 'swap' ? (h.n === 1 ? t('canvia 1 fitxa') : t('canvia {0} fitxes', h.n)) : t('passa')}</span>`;
+    const w = h.t === 'play' ? wordLinks(h.w) + (h.b ? ' ★' : '') :`<span class="mutd">${h.t === 'swap' ? (h.n === 1 ? t('canvia 1 fitxa') : t('canvia {0} fitxes', h.n)) : t('passa')}</span>`;
     return `<tr><td>${esc(who)}</td><td class="w">${w}</td><td>${h.t === 'play' ? h.s : ''}</td></tr>`;
   }).join('');
   return `<h2>📜 ${t('Jugades')}</h2>${rows ? `<table class="h"><tr><th>${t('Jugador')}</th><th>${t('Paraules')}</th><th>${t('Punts')}</th></tr>${rows}</table>` : `<p>${t('Encara no hi ha cap jugada.')}</p>`}
@@ -808,7 +950,7 @@ async function loop() {
   renderAll();
   snd('turn');
   if (!G.S.hist.length || G.S.hist[G.S.hist.length - 1].p === G.me) turnStatus();
-  else status(moveText(G.S.hist[G.S.hist.length - 1]) + ' · ' + t('Et toca!'));
+  else statusMove(G.S.hist[G.S.hist.length - 1], ' · ' + t('Et toca!'));
 }
 function aiMove(S, level) {
   const ch = M.aiChoose(S, G.dict, level);
@@ -1066,7 +1208,7 @@ async function onGame(r) {
   syncRack(); renderAll();
   const h = S.hist[S.hist.length - 1];
   if (S.over) { status(t('Fi de la partida')); return gameOver(); }
-  if (changed && h) { status(moveText(h) + (S.turn === me ? ' · ' + t('Et toca!') : '')); snd(S.turn === me ? 'turn' : (h.t === 'play' ? 'tile' : 'pass')); }
+  if (changed && h) { statusMove(h, S.turn === me ? ' · ' + t('Et toca!') : ''); snd(S.turn === me ? 'turn' : (h.t === 'play' ? 'tile' : 'pass')); }
   else turnStatus();
   // torns de la IA: els fa qualsevol que tingui la partida oberta
   clearTimeout(o.aiTimer);
@@ -1091,6 +1233,8 @@ async function onlineCommit(fn) {
 }
 
 /* ---------- Inici ---------- */
+// 1.1: la taula de fusta passa a ser el tapet per defecte (també per a qui ja tenia el verd o el blau triat)
+if (!store.get('par_mig_fusta')) { store.set('par_opt_tapet', 'fusta'); store.set('par_mig_fusta', '1'); }
 document.body.dataset.tapet = opt('tapet');
 setLang();
 startScreen();

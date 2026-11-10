@@ -1,0 +1,6 @@
+vaja
+vaja	anar
+vajolenc
+vajolenca	vajolenc
+vajolencs	vajolenc
+vajolenques	vajolenc

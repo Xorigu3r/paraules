@@ -1,0 +1,212 @@
+lib	libar
+liba	libar
+libacions	libació
+libació
+libada	libar
+libades	libar
+libam	libar
+libanesa	libanès
+libaneses	libanès
+libanesos	libanès
+libant	libar
+libanès
+libanés	libanès
+libar
+libara	libar
+libaran	libar
+libarem	libar
+libaren	libar
+libares	libar
+libareu	libar
+libaria	libar
+libarien	libar
+libaries	libar
+libarà	libar
+libaràs	libar
+libaré	libar
+libaríem	libar
+libaríeu	libar
+libassen	libar
+libasses	libar
+libassin	libar
+libassis	libar
+libat	libar
+libats	libar
+libau	libar
+libava	libar
+libaven	libar
+libaves	libar
+libe	libar
+libel
+libels	libel
+libel·lista
+libel·listes	libel·lista
+libel·làtic
+libel·làtica	libel·làtic
+libel·làtics	libel·làtic
+libel·làtiques	libel·làtic
+libel·lúlid
+libel·lúlids	libel·lúlid
+libem	libar
+liben	libar
+liberal
+liberalisme
+liberalismes	liberalisme
+liberalitat
+liberalitats	liberalitat
+liberalitz	liberalitzar
+liberalitza	liberalitzar
+liberalització
+liberalitzada	liberalitzar
+liberalitzades	liberalitzar
+liberalitzador
+liberalitzadora	liberalitzador
+liberalitzadors	liberalitzador
+liberalitzam	liberalitzar
+liberalitzant	liberalitzar
+liberalitzar
+liberalitzara	liberalitzar
+liberalitzaran	liberalitzar
+liberalitzarem	liberalitzar
+liberalitzaren	liberalitzar
+liberalitzares	liberalitzar
+liberalitzareu	liberalitzar
+liberalitzaria	liberalitzar
+liberalitzarien	liberalitzar
+liberalitzaries	liberalitzar
+liberalitzarà	liberalitzar
+liberalitzaràs	liberalitzar
+liberalitzaré	liberalitzar
+liberalitzaríem	liberalitzar
+liberalitzaríeu	liberalitzar
+liberalitzassen	liberalitzar
+liberalitzasses	liberalitzar
+liberalitzassin	liberalitzar
+liberalitzassis	liberalitzar
+liberalitzat	liberalitzar
+liberalitzats	liberalitzar
+liberalitzau	liberalitzar
+liberalitzava	liberalitzar
+liberalitzaven	liberalitzar
+liberalitzaves	liberalitzar
+liberalitze	liberalitzar
+liberalitzem	liberalitzar
+liberalitzen	liberalitzar
+liberalitzes	liberalitzar
+liberalitzessen	liberalitzar
+liberalitzesses	liberalitzar
+liberalitzessin	liberalitzar
+liberalitzessis	liberalitzar
+liberalitzeu	liberalitzar
+liberalitzi	liberalitzar
+liberalitzin	liberalitzar
+liberalitzis	liberalitzar
+liberalitzo	liberalitzar
+liberalitzà	liberalitzar
+liberalitzàrem	liberalitzar
+liberalitzàreu	liberalitzar
+liberalitzàs	liberalitzar
+liberalitzàssem	liberalitzar
+liberalitzàsseu	liberalitzar
+liberalitzàssim	liberalitzar
+liberalitzàssiu	liberalitzar
+liberalitzàvem	liberalitzar
+liberalitzàveu	liberalitzar
+liberalitzés	liberalitzar
+liberalitzéssem	liberalitzar
+liberalitzésseu	liberalitzar
+liberalitzéssim	liberalitzar
+liberalitzéssiu	liberalitzar
+liberalitzí	liberalitzar
+liberalment
+liberals	liberal
+liberiana	liberià
+liberianes	liberià
+liberians	liberià
+liberià
+liberollenyosa	liberollenyós
+liberollenyoses	liberollenyós
+liberollenyosos	liberollenyós
+liberollenyós
+liberomotor
+liberomotora	liberomotor
+liberomotores	liberomotor
+liberomotors	liberomotor
+libes	libar
+libessen	libar
+libesses	libar
+libessin	libar
+libessis	libar
+libeu	libar
+libi
+libi	libar
+libicoberber
+libicoberbers	libicoberber
+libidinal
+libidinals	libidinal
+libidinització
+libidinosa	libidinós
+libidinosament
+libidinoses	libidinós
+libidinositat
+libidinositats	libidinositat
+libidinosos	libidinós
+libidinós
+libido
+libidos	libido
+libifenici
+libifenicis	libifenici
+libifenícia	libifenici
+libifenícies	libifenici
+libin	libar
+libis	libar
+libis	libi
+libiteí
+libiteïns	libiteí
+libo	libar
+libocedre
+libocedres	libocedre
+libra
+libracions	libració
+libració
+librari
+libraris	librari
+librària	librari
+libràries	librari
+liburna
+liburnes	liburna
+libà	libar
+libàrem	libar
+libàreu	libar
+libàs	libar
+libàssem	libar
+libàsseu	libar
+libàssim	libar
+libàssiu	libar
+libàvem	libar
+libàveu	libar
+libèl·lula
+libèl·lules	libèl·lula
+libèrrim
+libèrrima	libèrrim
+libèrrimament
+libèrrimes	libèrrim
+libèrrims	libèrrim
+libés	libar
+libéssem	libar
+libésseu	libar
+libéssim	libar
+libéssiu	libar
+libí	libar
+líber
+líbers	líber
+líbia
+líbia	libi
+líbic
+líbica	líbic
+líbics	líbic
+líbies	libi
+líbies	líbia
+líbiques	líbic
+líbor
+líbors	líbor

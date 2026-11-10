@@ -1,0 +1,79 @@
+plica
+plicas	plica
+pliega	plegar
+pliegan	plegar
+pliegas	plegar
+pliego
+pliego	plegar
+pliegos	pliego
+pliegue
+pliegue	plegar
+plieguecillo
+plieguecillos	plieguecillo
+plieguen	plegar
+pliegues	plegar
+pliegues	pliegue
+plim
+plin
+plinto
+plintos	plinto
+pliocena	plioceno
+pliocenas	plioceno
+plioceno
+pliocenos	plioceno
+plisa	plisar
+plisaba	plisar
+plisabais	plisar
+plisaban	plisar
+plisabas	plisar
+plisad	plisar
+plisada	plisar
+plisadas	plisar
+plisado	plisar
+plisados	plisar
+plisamos	plisar
+plisan	plisar
+plisando	plisar
+plisar
+plisara	plisar
+plisarais	plisar
+plisaran	plisar
+plisaras	plisar
+plisare	plisar
+plisareis	plisar
+plisaremos	plisar
+plisaren	plisar
+plisares	plisar
+plisaron	plisar
+plisarse	plisar
+plisará	plisar
+plisarán	plisar
+plisarás	plisar
+plisaré	plisar
+plisaréis	plisar
+plisaría	plisar
+plisaríais	plisar
+plisaríamos	plisar
+plisarían	plisar
+plisarías	plisar
+plisas	plisar
+plisase	plisar
+plisaseis	plisar
+plisasen	plisar
+plisases	plisar
+plisaste	plisar
+plisasteis	plisar
+plise	plisar
+plisemos	plisar
+plisen	plisar
+plises	plisar
+pliso	plisar
+plisábamos	plisar
+plisáis	plisar
+plisándose	plisar
+plisáramos	plisar
+plisáremos	plisar
+plisásemos	plisar
+plisé	plisar
+pliséis	plisar
+plisó	plisar

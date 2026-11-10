@@ -1,0 +1,37 @@
+psalm
+psalmista
+psalmistes	psalmista
+psalms	psalm
+psalmòdia
+psalmòdies	psalmòdia
+psalteri
+psalteris	psalteri
+psaltiri
+psaltiris	psaltiri
+psammita
+psammites	psammita
+psammocarcinoma
+psammoma
+psammomatosa	psammomatós
+psammomatoses	psammomatós
+psammomatosos	psammomatós
+psammomatós
+psammomes	psammoma
+psammosarcoma
+psammosarcomes	psammosarcoma
+psammoteràpia
+psammoteràpies	psammoteràpia
+psammític
+psammítica	psammític
+psammítics	psammític
+psammítiques	psammític
+psammòfil
+psammòfila	psammòfil
+psammòfiles	psammòfil
+psammòfils	psammòfil
+psammòfit
+psammòfits	psammòfit
+psatirosi
+psatirosis	psatirosi
+psàmmon
+psàmmons	psàmmon

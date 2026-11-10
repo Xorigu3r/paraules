@@ -1,0 +1,274 @@
+pip
+pip	pipar
+pipa
+pipa	pipar
+pipaciclina
+pipaciclines	pipaciclina
+pipada
+pipada	pipar
+pipades	pipada
+pipades	pipar
+pipam	pipar
+pipamazina
+pipamperona
+pipamperones	pipamperona
+pipant	pipar
+pipar
+pipara	pipar
+piparan	pipar
+piparem	pipar
+piparen	pipar
+pipares	pipar
+pipareu	pipar
+piparia	pipar
+piparien	pipar
+piparies	pipar
+piparà	pipar
+piparàs	pipar
+piparé	pipar
+piparíem	pipar
+piparíeu	pipar
+pipassen	pipar
+pipasses	pipar
+pipassin	pipar
+pipassis	pipar
+pipat	pipar
+pipats	pipar
+pipau	pipar
+pipava	pipar
+pipaven	pipar
+pipaves	pipar
+pipazetat
+pipazetats	pipazetat
+pipe	pipar
+pipecuroni
+pipecuronis	pipecuroni
+pipella
+pipellege	pipellejar
+pipellegem	pipellejar
+pipellegen	pipellejar
+pipelleges	pipellejar
+pipellegessen	pipellejar
+pipellegesses	pipellejar
+pipellegessin	pipellejar
+pipellegessis	pipellejar
+pipellegeu	pipellejar
+pipellegi	pipellejar
+pipellegin	pipellejar
+pipellegis	pipellejar
+pipellegés	pipellejar
+pipellegéssem	pipellejar
+pipellegésseu	pipellejar
+pipellegéssim	pipellejar
+pipellegéssiu	pipellejar
+pipellegí	pipellejar
+pipelleig	pipellejar
+pipelleja	pipellejar
+pipellejada	pipellejar
+pipellejades	pipellejar
+pipellejam	pipellejar
+pipellejant	pipellejar
+pipellejar
+pipellejara	pipellejar
+pipellejaran	pipellejar
+pipellejarem	pipellejar
+pipellejaren	pipellejar
+pipellejares	pipellejar
+pipellejareu	pipellejar
+pipellejaria	pipellejar
+pipellejarien	pipellejar
+pipellejaries	pipellejar
+pipellejarà	pipellejar
+pipellejaràs	pipellejar
+pipellejaré	pipellejar
+pipellejaríem	pipellejar
+pipellejaríeu	pipellejar
+pipellejassen	pipellejar
+pipellejasses	pipellejar
+pipellejassin	pipellejar
+pipellejassis	pipellejar
+pipellejat	pipellejar
+pipellejats	pipellejar
+pipellejau	pipellejar
+pipellejava	pipellejar
+pipellejaven	pipellejar
+pipellejaves	pipellejar
+pipellejo	pipellejar
+pipellejà	pipellejar
+pipellejàrem	pipellejar
+pipellejàreu	pipellejar
+pipellejàs	pipellejar
+pipellejàssem	pipellejar
+pipellejàsseu	pipellejar
+pipellejàssim	pipellejar
+pipellejàssiu	pipellejar
+pipellejàvem	pipellejar
+pipellejàveu	pipellejar
+pipelles	pipella
+pipem	pipar
+pipen	pipar
+pipenzolat
+piperacetazina
+piperacetazines	piperacetazina
+piperacil·lina
+piperacil·lines	piperacil·lina
+piperal
+piperals	piperal
+piperazina
+piperazines	piperazina
+piperidina
+piperidines	piperidina
+piperidiona
+piperidolat
+piperidolats	piperidolat
+piperina
+piperines	piperina
+piperisme
+piperismes	piperisme
+piperita
+piperites	piperita
+pipermint
+pipermints	pipermint
+piperocaïna
+piperocaïnes	piperocaïna
+piperonal
+piperonals	piperonal
+piperonil
+piperoxan
+piperoxans	piperoxan
+piperàcia
+piperàcies	piperàcia
+pipes	pipa
+pipes	pipar
+pipessen	pipar
+pipesses	pipar
+pipessin	pipar
+pipessis	pipar
+pipeta
+pipetanat
+pipetanats	pipetanat
+pipetege	pipetejar
+pipetegem	pipetejar
+pipetegen	pipetejar
+pipeteges	pipetejar
+pipetegessen	pipetejar
+pipetegesses	pipetejar
+pipetegessin	pipetejar
+pipetegessis	pipetejar
+pipetegeu	pipetejar
+pipetegi	pipetejar
+pipetegin	pipetejar
+pipetegis	pipetejar
+pipetegés	pipetejar
+pipetegéssem	pipetejar
+pipetegésseu	pipetejar
+pipetegéssim	pipetejar
+pipetegéssiu	pipetejar
+pipetegí	pipetejar
+pipeteig	pipetejar
+pipeteja	pipetejar
+pipetejada	pipetejar
+pipetejades	pipetejar
+pipetejador
+pipetejadors	pipetejador
+pipetejam	pipetejar
+pipetejant	pipetejar
+pipetejar
+pipetejara	pipetejar
+pipetejaran	pipetejar
+pipetejarem	pipetejar
+pipetejaren	pipetejar
+pipetejares	pipetejar
+pipetejareu	pipetejar
+pipetejaria	pipetejar
+pipetejarien	pipetejar
+pipetejaries	pipetejar
+pipetejarà	pipetejar
+pipetejaràs	pipetejar
+pipetejaré	pipetejar
+pipetejaríem	pipetejar
+pipetejaríeu	pipetejar
+pipetejassen	pipetejar
+pipetejasses	pipetejar
+pipetejassin	pipetejar
+pipetejassis	pipetejar
+pipetejat	pipetejar
+pipetejats	pipetejar
+pipetejau	pipetejar
+pipetejava	pipetejar
+pipetejaven	pipetejar
+pipetejaves	pipetejar
+pipetejo	pipetejar
+pipetejà	pipetejar
+pipetejàrem	pipetejar
+pipetejàreu	pipetejar
+pipetejàs	pipetejar
+pipetejàssem	pipetejar
+pipetejàsseu	pipetejar
+pipetejàssim	pipetejar
+pipetejàssiu	pipetejar
+pipetejàvem	pipetejar
+pipetejàveu	pipetejar
+pipetes	pipeta
+pipeu	pipar
+pipi	pipar
+pipicans	pipicà
+pipicà
+pipil
+pipils	pipil
+pipin	pipar
+pipins	pipí
+pipioli
+pipiolis	pipioli
+pipirigall
+pipirigalls	pipirigall
+pipiripip
+pipiripips	pipiripip
+pipis	pipar
+pipiu
+pipius	pipiu
+pipo	pipar
+pipobroman
+pipobromans	pipobroman
+pipons	pipó
+pipotiazina
+pipotiazines	pipotiazina
+pipoxizina
+pipoxolan
+pipoxolans	pipoxolan
+pipradrol
+pipradrols	pipradrol
+pipratecol
+pipratecols	pipratecol
+piprinhidrinat
+piprinhidrinats	piprinhidrinat
+pipà	pipar
+pipàrem	pipar
+pipàreu	pipar
+pipàs	pipar
+pipàssem	pipar
+pipàsseu	pipar
+pipàssim	pipar
+pipàssiu	pipar
+pipàvem	pipar
+pipàveu	pipar
+pipèric
+pipèrica	pipèric
+pipèrics	pipèric
+pipèriques	pipèric
+pipés	pipar
+pipéssem	pipar
+pipésseu	pipar
+pipéssim	pipar
+pipéssiu	pipar
+pipí
+pipí	pipar
+pipínid
+pipínida	pipínid
+pipínides	pipínid
+pipínids	pipínid
+pipó
+pípid
+pípids	pípid
+píprid
+píprids	píprid

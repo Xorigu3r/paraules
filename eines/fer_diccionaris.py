@@ -59,7 +59,7 @@ def norm_ca(w):
     return w.upper()
 
 
-def paraules_ca():
+def paraules_ca(lem=None):
     res = set()
     with open(os.path.join(FONT, 'diccionari.txt'), encoding='utf-8') as f:
         for line in f:
@@ -74,6 +74,8 @@ def paraules_ca():
             w = norm_ca(forma)
             if w:
                 res.add(w)
+                if lem is not None:
+                    lem.setdefault(w, set()).add((forma, p[1]))
     return res
 
 
@@ -173,7 +175,7 @@ def norm_es(w):
     return w.upper()
 
 
-def paraules_es():
+def paraules_es(lem=None):
     pfx, sfx = llegeix_aff(os.path.join(FONT, 'es_ES.aff'))
     coneg = set(pfx) | set(sfx)
     res = set()
@@ -194,6 +196,8 @@ def paraules_es():
                 w = norm_es(forma)
                 if w:
                     res.add(w)
+                    if lem is not None:
+                        lem.setdefault(w, set()).add((forma, arrel))
     return res
 
 
@@ -290,12 +294,43 @@ def comprova(dawg, alfa, paraules, mostra=2000):
     assert falses == 0
 
 
+def fer_lemes(lang, ws, lem):
+    """dades/lemes/<lang>/<AABBCC>.txt: per a cada paraula del joc, com s'escriu (amb accents) i la
+    paraula base, per buscar-ne la definicio. AA, BB, CC = index de les 3 primeres lletres a l'alfabet
+    (2 si la paraula en te 2). Una linia per forma: "forma" o "forma<TAB>base" (si la base es diferent).
+    El joc normalitza la forma amb Motor.encode per saber a quina paraula del tauler correspon."""
+    import shutil
+    alfa = ALFA[lang]
+    out = os.path.join(DADES, 'lemes', lang)
+    shutil.rmtree(out, ignore_errors=True)
+    os.makedirs(out)
+    trossos = {}
+    for w in ws:
+        clau = ''.join('%02d' % alfa.index(c) for c in w[:3])
+        linies = trossos.setdefault(clau, [])
+        n = 0
+        for forma, base in sorted(lem.get(w, ())):
+            l = forma if forma == base else forma + '\t' + base
+            if l not in linies:
+                linies.append(l); n += 1
+            if n >= 6:
+                break
+    total = 0
+    for clau, ll in trossos.items():
+        txt = '\n'.join(sorted(ll)) + '\n'
+        with open(os.path.join(out, clau + '.txt'), 'w', encoding='utf-8', newline='\n') as f:
+            f.write(txt)
+        total += len(txt.encode('utf-8'))
+    print(lang, 'lemes:', len(trossos), 'fitxers,', total // 1024, 'KB')
+
+
 def main():
     os.makedirs(DADES, exist_ok=True)
     langs = sys.argv[1:] or ['ca', 'es']
     for lang in langs:
         alfa = ALFA[lang]
-        ws = paraules_ca() if lang == 'ca' else paraules_es()
+        lem = {}
+        ws = paraules_ca(lem) if lang == 'ca' else paraules_es(lem)
         ws = {w for w in ws if MINL <= len(w) <= MAXL and all(c in alfa for c in w)}
         # fora sigles i simbols (cm, kg, hl...): tota paraula ha de tenir alguna vocal
         ws = {w for w in ws if any(v in w for v in 'AEIOU')}
@@ -307,6 +342,7 @@ def main():
         with open(os.path.join(DADES, lang + '.dawg'), 'wb') as f:
             f.write(struct.pack('<%dI' % len(d), *d))
         print(lang, len(ws), 'paraules,', len(d), 'arestes,', len(d) * 4 // 1024, 'KB')
+        fer_lemes(lang, ws, lem)
 
 
 if __name__ == '__main__':

@@ -1,0 +1,4 @@
+eocena	eoceno
+eocenas	eoceno
+eoceno
+eocenos	eoceno

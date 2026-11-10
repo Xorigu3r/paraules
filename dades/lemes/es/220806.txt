@@ -1,0 +1,305 @@
+viga
+vigas	viga
+vigencia
+vigencias	vigencia
+vigente
+vigentes	vigente
+vigesimoctava	vigesimoctavo
+vigesimoctavas	vigesimoctavo
+vigesimoctavo
+vigesimoctavos	vigesimoctavo
+vigesimocuarta	vigesimocuarto
+vigesimocuartas	vigesimocuarto
+vigesimocuarto
+vigesimocuartos	vigesimocuarto
+vigesimonona	vigesimonono
+vigesimononas	vigesimonono
+vigesimonono
+vigesimononos	vigesimonono
+vigesimonovena	vigesimonoveno
+vigesimonovenas	vigesimonoveno
+vigesimonoveno
+vigesimonovenos	vigesimonoveno
+vigesimoprimera	vigesimoprimero
+vigesimoprimero
+vigesimoquinta	vigesimoquinto
+vigesimoquintas	vigesimoquinto
+vigesimoquinto
+vigesimoquintos	vigesimoquinto
+vigesimosegunda	vigesimosegundo
+vigesimosegundo
+vigesimosexta	vigesimosexto
+vigesimosextas	vigesimosexto
+vigesimosexto
+vigesimosextos	vigesimosexto
+vigesimoséptima	vigesimoséptimo
+vigesimoséptimo
+vigesimotercera	vigesimotercero
+vigesimotercero
+vigiaba	vigiar
+vigiabais	vigiar
+vigiaban	vigiar
+vigiabas	vigiar
+vigiad	vigiar
+vigiada	vigiar
+vigiadas	vigiar
+vigiado	vigiar
+vigiados	vigiar
+vigiamos	vigiar
+vigiando	vigiar
+vigiar
+vigiara	vigiar
+vigiarais	vigiar
+vigiaran	vigiar
+vigiaras	vigiar
+vigiare	vigiar
+vigiareis	vigiar
+vigiaremos	vigiar
+vigiaren	vigiar
+vigiares	vigiar
+vigiaron	vigiar
+vigiarse	vigiar
+vigiará	vigiar
+vigiarán	vigiar
+vigiarás	vigiar
+vigiaré	vigiar
+vigiaréis	vigiar
+vigiaría	vigiar
+vigiaríais	vigiar
+vigiaríamos	vigiar
+vigiarían	vigiar
+vigiarías	vigiar
+vigiase	vigiar
+vigiaseis	vigiar
+vigiasen	vigiar
+vigiases	vigiar
+vigiaste	vigiar
+vigiasteis	vigiar
+vigiemos	vigiar
+vigila	vigilar
+vigilaba	vigilar
+vigilabais	vigilar
+vigilaban	vigilar
+vigilabas	vigilar
+vigilad	vigilar
+vigilada	vigilar
+vigiladas	vigilar
+vigilado	vigilar
+vigilados	vigilar
+vigilamos	vigilar
+vigilan	vigilar
+vigilancia
+vigilancias	vigilancia
+vigilando	vigilar
+vigilante
+vigilantes	vigilante
+vigilar
+vigilara	vigilar
+vigilarais	vigilar
+vigilaran	vigilar
+vigilaras	vigilar
+vigilare	vigilar
+vigilareis	vigilar
+vigilaremos	vigilar
+vigilaren	vigilar
+vigilares	vigilar
+vigilaron	vigilar
+vigilarse	vigilar
+vigilará	vigilar
+vigilarán	vigilar
+vigilarás	vigilar
+vigilaré	vigilar
+vigilaréis	vigilar
+vigilaría	vigilar
+vigilaríais	vigilar
+vigilaríamos	vigilar
+vigilarían	vigilar
+vigilarías	vigilar
+vigilas	vigilar
+vigilase	vigilar
+vigilaseis	vigilar
+vigilasen	vigilar
+vigilases	vigilar
+vigilaste	vigilar
+vigilasteis	vigilar
+vigilativa	vigilativo
+vigilativas	vigilativo
+vigilativo
+vigilativos	vigilativo
+vigile	vigilar
+vigilemos	vigilar
+vigilen	vigilar
+vigiles	vigilar
+vigilia
+vigilias	vigilia
+vigilo	vigilar
+vigilábamos	vigilar
+vigiláis	vigilar
+vigilándose	vigilar
+vigiláramos	vigilar
+vigiláremos	vigilar
+vigilásemos	vigilar
+vigilé	vigilar
+vigiléis	vigilar
+vigiló	vigilar
+vigiábamos	vigiar
+vigiáis	vigiar
+vigiándose	vigiar
+vigiáramos	vigiar
+vigiáremos	vigiar
+vigiásemos	vigiar
+vigié	vigiar
+vigiéis	vigiar
+vigió	vigiar
+vigolero
+vigoleros	vigolero
+vigor
+vigora	vigorar
+vigoraba	vigorar
+vigorabais	vigorar
+vigoraban	vigorar
+vigorabas	vigorar
+vigorad	vigorar
+vigorada	vigorar
+vigoradas	vigorar
+vigorado	vigorar
+vigorados	vigorar
+vigoramos	vigorar
+vigoran	vigorar
+vigorando	vigorar
+vigorar
+vigorara	vigorar
+vigorarais	vigorar
+vigoraran	vigorar
+vigoraras	vigorar
+vigorare	vigorar
+vigorareis	vigorar
+vigoraremos	vigorar
+vigoraren	vigorar
+vigorares	vigorar
+vigoraron	vigorar
+vigorarse	vigorar
+vigorará	vigorar
+vigorarán	vigorar
+vigorarás	vigorar
+vigoraré	vigorar
+vigoraréis	vigorar
+vigoraría	vigorar
+vigoraríais	vigorar
+vigoraríamos	vigorar
+vigorarían	vigorar
+vigorarías	vigorar
+vigoras	vigorar
+vigorase	vigorar
+vigoraseis	vigorar
+vigorasen	vigorar
+vigorases	vigorar
+vigoraste	vigorar
+vigorasteis	vigorar
+vigore	vigorar
+vigoremos	vigorar
+vigoren	vigorar
+vigores	vigor
+vigores	vigorar
+vigorice	vigorizar
+vigoricemos	vigorizar
+vigoricen	vigorizar
+vigorices	vigorizar
+vigoricé	vigorizar
+vigoricéis	vigorizar
+vigoriza	vigorizar
+vigorizaba	vigorizar
+vigorizabais	vigorizar
+vigorizaban	vigorizar
+vigorizabas	vigorizar
+vigorizad	vigorizar
+vigorizada	vigorizar
+vigorizadas	vigorizar
+vigorizado	vigorizar
+vigorizador
+vigorizadora	vigorizador
+vigorizadoras	vigorizador
+vigorizadores	vigorizador
+vigorizados	vigorizar
+vigorizamos	vigorizar
+vigorizan	vigorizar
+vigorizando	vigorizar
+vigorizante
+vigorizantes	vigorizante
+vigorizar
+vigorizara	vigorizar
+vigorizarais	vigorizar
+vigorizaran	vigorizar
+vigorizaras	vigorizar
+vigorizare	vigorizar
+vigorizareis	vigorizar
+vigorizaremos	vigorizar
+vigorizaren	vigorizar
+vigorizares	vigorizar
+vigorizarla	vigorizar
+vigorizarlas	vigorizar
+vigorizarlo	vigorizar
+vigorizarlos	vigorizar
+vigorizaron	vigorizar
+vigorizarse	vigorizar
+vigorizará	vigorizar
+vigorizarán	vigorizar
+vigorizarás	vigorizar
+vigorizaré	vigorizar
+vigorizaréis	vigorizar
+vigorizaría	vigorizar
+vigorizaríais	vigorizar
+vigorizaríamos	vigorizar
+vigorizarían	vigorizar
+vigorizarías	vigorizar
+vigorizas	vigorizar
+vigorizase	vigorizar
+vigorizaseis	vigorizar
+vigorizasen	vigorizar
+vigorizases	vigorizar
+vigorizaste	vigorizar
+vigorizasteis	vigorizar
+vigorizo	vigorizar
+vigorizábamos	vigorizar
+vigorizáis	vigorizar
+vigorizándola	vigorizar
+vigorizándolas	vigorizar
+vigorizándolo	vigorizar
+vigorizándolos	vigorizar
+vigorizándose	vigorizar
+vigorizáramos	vigorizar
+vigorizáremos	vigorizar
+vigorizásemos	vigorizar
+vigorizó	vigorizar
+vigoro	vigorar
+vigorosa	vigoroso
+vigorosamente
+vigorosas	vigoroso
+vigorosidad
+vigorosidades	vigorosidad
+vigoroso
+vigorosos	vigoroso
+vigorábamos	vigorar
+vigoráis	vigorar
+vigorándose	vigorar
+vigoráramos	vigorar
+vigoráremos	vigorar
+vigorásemos	vigorar
+vigoré	vigorar
+vigoréis	vigorar
+vigoró	vigorar
+vigota
+vigotas	vigota
+vigueta
+viguetas	vigueta
+vigésima	vigésimo
+vigésimas	vigésimo
+vigésimo
+vigésimos	vigésimo
+vigía	vigiar
+vigían	vigiar
+vigías	vigiar
+vigíe	vigiar
+vigíen	vigiar
+vigíes	vigiar
+vigío	vigiar

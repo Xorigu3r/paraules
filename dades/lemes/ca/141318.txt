@@ -1,0 +1,514 @@
+pot
+pot	poder
+pota
+potabilitat
+potabilitats	potabilitat
+potabilitz	potabilitzar
+potabilitza	potabilitzar
+potabilització
+potabilitzada	potabilitzar
+potabilitzades	potabilitzar
+potabilitzador
+potabilitzadora	potabilitzador
+potabilitzadors	potabilitzador
+potabilitzam	potabilitzar
+potabilitzant	potabilitzar
+potabilitzar
+potabilitzara	potabilitzar
+potabilitzaran	potabilitzar
+potabilitzarem	potabilitzar
+potabilitzaren	potabilitzar
+potabilitzares	potabilitzar
+potabilitzareu	potabilitzar
+potabilitzaria	potabilitzar
+potabilitzarien	potabilitzar
+potabilitzaries	potabilitzar
+potabilitzarà	potabilitzar
+potabilitzaràs	potabilitzar
+potabilitzaré	potabilitzar
+potabilitzaríem	potabilitzar
+potabilitzaríeu	potabilitzar
+potabilitzassen	potabilitzar
+potabilitzasses	potabilitzar
+potabilitzassin	potabilitzar
+potabilitzassis	potabilitzar
+potabilitzat	potabilitzar
+potabilitzats	potabilitzar
+potabilitzau	potabilitzar
+potabilitzava	potabilitzar
+potabilitzaven	potabilitzar
+potabilitzaves	potabilitzar
+potabilitze	potabilitzar
+potabilitzem	potabilitzar
+potabilitzen	potabilitzar
+potabilitzes	potabilitzar
+potabilitzessen	potabilitzar
+potabilitzesses	potabilitzar
+potabilitzessin	potabilitzar
+potabilitzessis	potabilitzar
+potabilitzeu	potabilitzar
+potabilitzi	potabilitzar
+potabilitzin	potabilitzar
+potabilitzis	potabilitzar
+potabilitzo	potabilitzar
+potabilitzà	potabilitzar
+potabilitzàrem	potabilitzar
+potabilitzàreu	potabilitzar
+potabilitzàs	potabilitzar
+potabilitzàssem	potabilitzar
+potabilitzàsseu	potabilitzar
+potabilitzàssim	potabilitzar
+potabilitzàssiu	potabilitzar
+potabilitzàvem	potabilitzar
+potabilitzàveu	potabilitzar
+potabilitzés	potabilitzar
+potabilitzéssem	potabilitzar
+potabilitzésseu	potabilitzar
+potabilitzéssim	potabilitzar
+potabilitzéssiu	potabilitzar
+potabilitzí	potabilitzar
+potable
+potables	potable
+potaco
+potacos	potaco
+potada
+potades	potada
+potamofòbia
+potamofòbies	potamofòbia
+potamogetonàcia
+potamogàlid
+potamogàlids	potamogàlid
+potamogèton
+potamogètons	potamogèton
+potamologia
+potamologies	potamologia
+potamoplàncton
+potamoplànctons	potamoplàncton
+potassa
+potasses	potassa
+potassi
+potassis	potassi
+potassisme
+potassismes	potassisme
+potassèmia
+potassèmies	potassèmia
+potassúria
+potassúries	potassúria
+potatge
+potatges	potatge
+potege	potejar
+potegem	potejar
+potegen	potejar
+poteges	potejar
+potegessen	potejar
+potegesses	potejar
+potegessin	potejar
+potegessis	potejar
+potegeu	potejar
+potegi	potejar
+potegin	potejar
+potegis	potejar
+potegés	potejar
+potegéssem	potejar
+potegésseu	potejar
+potegéssim	potejar
+potegéssiu	potejar
+potegí	potejar
+poteig	potejar
+poteja	potejar
+potejada	potejar
+potejades	potejar
+potejam	potejar
+potejant	potejar
+potejar
+potejara	potejar
+potejaran	potejar
+potejarem	potejar
+potejaren	potejar
+potejares	potejar
+potejareu	potejar
+potejaria	potejar
+potejarien	potejar
+potejaries	potejar
+potejarà	potejar
+potejaràs	potejar
+potejaré	potejar
+potejaríem	potejar
+potejaríeu	potejar
+potejassen	potejar
+potejasses	potejar
+potejassin	potejar
+potejassis	potejar
+potejat	potejar
+potejats	potejar
+potejau	potejar
+potejava	potejar
+potejaven	potejar
+potejaves	potejar
+potejo	potejar
+potejà	potejar
+potejàrem	potejar
+potejàreu	potejar
+potejàs	potejar
+potejàssem	potejar
+potejàsseu	potejar
+potejàssim	potejar
+potejàssiu	potejar
+potejàvem	potejar
+potejàveu	potejar
+potences	potença
+potencia	potenciar
+potenciacions	potenciació
+potenciació
+potenciada	potenciar
+potenciades	potenciar
+potenciador
+potenciadora	potenciador
+potenciadores	potenciador
+potenciadors	potenciador
+potencial
+potencialitat
+potencialitats	potencialitat
+potencialment
+potencials	potencial
+potenciam	potenciar
+potenciament
+potenciaments	potenciament
+potenciant	potenciar
+potenciar
+potenciara	potenciar
+potenciaran	potenciar
+potenciarem	potenciar
+potenciaren	potenciar
+potenciares	potenciar
+potenciareu	potenciar
+potenciaria	potenciar
+potenciarien	potenciar
+potenciaries	potenciar
+potenciarà	potenciar
+potenciaràs	potenciar
+potenciaré	potenciar
+potenciaríem	potenciar
+potenciaríeu	potenciar
+potenciassen	potenciar
+potenciasses	potenciar
+potenciassin	potenciar
+potenciassis	potenciar
+potenciat	potenciar
+potenciats	potenciar
+potenciau	potenciar
+potenciava	potenciar
+potenciaven	potenciar
+potenciaves	potenciar
+potencie	potenciar
+potenciem	potenciar
+potencien	potenciar
+potencies	potenciar
+potenciessen	potenciar
+potenciesses	potenciar
+potenciessin	potenciar
+potenciessis	potenciar
+potencieu	potenciar
+potencii	potenciar
+potencio	potenciar
+potenciometria
+potenciometries	potenciometria
+potenciomètric
+potenciomètrica	potenciomètric
+potenciomètrics	potenciomètric
+potencià	potenciar
+potenciàrem	potenciar
+potenciàreu	potenciar
+potenciàs	potenciar
+potenciàssem	potenciar
+potenciàsseu	potenciar
+potenciàssim	potenciar
+potenciàssiu	potenciar
+potenciàvem	potenciar
+potenciàveu	potenciar
+potenciés	potenciar
+potenciéssem	potenciar
+potenciésseu	potenciar
+potenciéssim	potenciar
+potenciéssiu	potenciar
+potencií	potenciar
+potenciï	potenciar
+potenciïn	potenciar
+potenciïs	potenciar
+potenciòmetre
+potenciòmetres	potenciòmetre
+potenciòstat
+potenciòstats	potenciòstat
+potent
+potentada	potentat
+potentades	potentat
+potentat
+potentats	potentat
+potentil·la
+potentil·les	potentil·la
+potentment
+potentola
+potentoles	potentola
+potents	potent
+potentíssim
+potentíssima	potentíssim
+potentíssimes	potentíssim
+potentíssims	potentíssim
+potença
+potençada	potençat
+potençades	potençat
+potençat
+potençats	potençat
+potera
+poteres	potera
+poterna
+poternes	poterna
+potes	pota
+potestat
+potestatiu
+potestatius	potestatiu
+potestativa	potestatiu
+potestativament
+potestatives	potestatiu
+potestats	potestat
+potet
+poteta
+potetes	poteta
+potets	potet
+potial
+potials	potial
+potifler
+potiflers	potifler
+potinege	potinejar
+potinegem	potinejar
+potinegen	potinejar
+potineges	potinejar
+potinegessen	potinejar
+potinegesses	potinejar
+potinegessin	potinejar
+potinegessis	potinejar
+potinegeu	potinejar
+potinegi	potinejar
+potinegin	potinejar
+potinegis	potinejar
+potinegés	potinejar
+potinegéssem	potinejar
+potinegésseu	potinejar
+potinegéssim	potinejar
+potinegéssiu	potinejar
+potinegí	potinejar
+potineig	potinejar
+potineja	potinejar
+potinejada	potinejar
+potinejades	potinejar
+potinejam	potinejar
+potinejant	potinejar
+potinejar
+potinejara	potinejar
+potinejaran	potinejar
+potinejarem	potinejar
+potinejaren	potinejar
+potinejares	potinejar
+potinejareu	potinejar
+potinejaria	potinejar
+potinejarien	potinejar
+potinejaries	potinejar
+potinejarà	potinejar
+potinejaràs	potinejar
+potinejaré	potinejar
+potinejaríem	potinejar
+potinejaríeu	potinejar
+potinejassen	potinejar
+potinejasses	potinejar
+potinejassin	potinejar
+potinejassis	potinejar
+potinejat	potinejar
+potinejats	potinejar
+potinejau	potinejar
+potinejava	potinejar
+potinejaven	potinejar
+potinejaves	potinejar
+potinejo	potinejar
+potinejà	potinejar
+potinejàrem	potinejar
+potinejàreu	potinejar
+potinejàs	potinejar
+potinejàssem	potinejar
+potinejàsseu	potinejar
+potinejàssim	potinejar
+potinejàssiu	potinejar
+potinejàvem	potinejar
+potinejàveu	potinejar
+potiner
+potinera	potiner
+potinerament
+potineres	potiner
+potineria
+potineries	potineria
+potiners	potiner
+potinga
+potingo
+potingos	potingo
+potingues	potinga
+potoll	potollar
+potolla	potollar
+potollada	potollar
+potollades	potollar
+potollam	potollar
+potollant	potollar
+potollar
+potollara	potollar
+potollaran	potollar
+potollarem	potollar
+potollaren	potollar
+potollares	potollar
+potollareu	potollar
+potollaria	potollar
+potollarien	potollar
+potollaries	potollar
+potollarà	potollar
+potollaràs	potollar
+potollaré	potollar
+potollaríem	potollar
+potollaríeu	potollar
+potollassen	potollar
+potollasses	potollar
+potollassin	potollar
+potollassis	potollar
+potollat	potollar
+potollats	potollar
+potollau	potollar
+potollava	potollar
+potollaven	potollar
+potollaves	potollar
+potolle	potollar
+potollem	potollar
+potollen	potollar
+potolles	potollar
+potollessen	potollar
+potollesses	potollar
+potollessin	potollar
+potollessis	potollar
+potolleu	potollar
+potolli	potollar
+potollin	potollar
+potollis	potollar
+potollo	potollar
+potollà	potollar
+potollàrem	potollar
+potollàreu	potollar
+potollàs	potollar
+potollàssem	potollar
+potollàsseu	potollar
+potollàssim	potollar
+potollàssiu	potollar
+potollàvem	potollar
+potollàveu	potollar
+potollés	potollar
+potolléssem	potollar
+potollésseu	potollar
+potolléssim	potollar
+potolléssiu	potollar
+potollí	potollar
+potomania
+potomanies	potomania
+potons	potó
+potoroid
+potoroids	potoroid
+potos
+potra
+potra	potro
+potrege	potrejar
+potregem	potrejar
+potregen	potrejar
+potreges	potrejar
+potregessen	potrejar
+potregesses	potrejar
+potregessin	potrejar
+potregessis	potrejar
+potregeu	potrejar
+potregi	potrejar
+potregin	potrejar
+potregis	potrejar
+potregés	potrejar
+potregéssem	potrejar
+potregésseu	potrejar
+potregéssim	potrejar
+potregéssiu	potrejar
+potregí	potrejar
+potreig	potrejar
+potreja	potrejar
+potrejada	potrejar
+potrejades	potrejar
+potrejam	potrejar
+potrejant	potrejar
+potrejar
+potrejara	potrejar
+potrejaran	potrejar
+potrejarem	potrejar
+potrejaren	potrejar
+potrejares	potrejar
+potrejareu	potrejar
+potrejaria	potrejar
+potrejarien	potrejar
+potrejaries	potrejar
+potrejarà	potrejar
+potrejaràs	potrejar
+potrejaré	potrejar
+potrejaríem	potrejar
+potrejaríeu	potrejar
+potrejassen	potrejar
+potrejasses	potrejar
+potrejassin	potrejar
+potrejassis	potrejar
+potrejat	potrejar
+potrejats	potrejar
+potrejau	potrejar
+potrejava	potrejar
+potrejaven	potrejar
+potrejaves	potrejar
+potrejo	potrejar
+potrejà	potrejar
+potrejàrem	potrejar
+potrejàreu	potrejar
+potrejàs	potrejar
+potrejàssem	potrejar
+potrejàsseu	potrejar
+potrejàssim	potrejar
+potrejàssiu	potrejar
+potrejàvem	potrejar
+potrejàveu	potrejar
+potres	potra
+potres	potro
+potrier
+potriera	potrier
+potrieres	potrier
+potriers	potrier
+potro
+potros	potro
+potrosa	potrós
+potroses	potrós
+potrosos	potrós
+potrós
+pots	poder
+pots	pot
+potsdamiana	potsdamià
+potsdamianes	potsdamià
+potsdamians	potsdamià
+potsdamià
+potser
+potto
+pottos	potto
+potxons	potxó
+potxó
+potàssic
+potàssica	potàssic
+potàssics	potàssic
+potàssiques	potàssic
+potència
+potències	potència
+potó
+pòtil
+pòtils	pòtil
+pòtol
+pòtols	pòtol

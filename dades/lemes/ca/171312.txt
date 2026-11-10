@@ -1,0 +1,512 @@
+son
+son	son_1
+son	son_2
+son	sonar
+sona	sonar
+sonable
+sonables	sonable
+sonada
+sonada	sonar
+sonades	sonada
+sonades	sonar
+sonadeta
+sonadetes	sonadeta
+sonador
+sonadora	sonador
+sonadores	sonador
+sonadors	sonador
+sonadíssim
+sonadíssima	sonadíssim
+sonadíssimes	sonadíssim
+sonadíssims	sonadíssim
+sonall
+sonalla
+sonalles	sonalla
+sonalls	sonall
+sonam	sonar
+sonant
+sonant	sonar
+sonants	sonant
+sonar
+sonara	sonar
+sonaran	sonar
+sonarem	sonar
+sonaren	sonar
+sonares	sonar
+sonareu	sonar
+sonaria	sonar
+sonarien	sonar
+sonaries	sonar
+sonars	sonar
+sonarà	sonar
+sonaràs	sonar
+sonaré	sonar
+sonaríem	sonar
+sonaríeu	sonar
+sonassen	sonar
+sonasses	sonar
+sonassin	sonar
+sonassis	sonar
+sonat	sonar
+sonata
+sonates	sonata
+sonatina
+sonatines	sonatina
+sonats	sonar
+sonau	sonar
+sonava	sonar
+sonaven	sonar
+sonaves	sonar
+sond	sondar
+sonda
+sonda	sondar
+sondable
+sondables	sondable
+sondada	sondar
+sondades	sondar
+sondam	sondar
+sondant	sondar
+sondar
+sondara	sondar
+sondaran	sondar
+sondarem	sondar
+sondaren	sondar
+sondares	sondar
+sondareu	sondar
+sondaria	sondar
+sondarien	sondar
+sondaries	sondar
+sondarà	sondar
+sondaràs	sondar
+sondaré	sondar
+sondaríem	sondar
+sondaríeu	sondar
+sondassen	sondar
+sondasses	sondar
+sondassin	sondar
+sondassis	sondar
+sondat	sondar
+sondatge
+sondatges	sondatge
+sondats	sondar
+sondau	sondar
+sondava	sondar
+sondaven	sondar
+sondaves	sondar
+sonde	sondar
+sondege	sondejar
+sondegem	sondejar
+sondegen	sondejar
+sondeges	sondejar
+sondegessen	sondejar
+sondegesses	sondejar
+sondegessin	sondejar
+sondegessis	sondejar
+sondegeu	sondejar
+sondegi	sondejar
+sondegin	sondejar
+sondegis	sondejar
+sondegés	sondejar
+sondegéssem	sondejar
+sondegésseu	sondejar
+sondegéssim	sondejar
+sondegéssiu	sondejar
+sondegí	sondejar
+sondeig
+sondeig	sondejar
+sondeigs	sondeig
+sondeja	sondejar
+sondejada	sondejar
+sondejades	sondejar
+sondejam	sondejar
+sondejant	sondejar
+sondejar
+sondejara	sondejar
+sondejaran	sondejar
+sondejarem	sondejar
+sondejaren	sondejar
+sondejares	sondejar
+sondejareu	sondejar
+sondejaria	sondejar
+sondejarien	sondejar
+sondejaries	sondejar
+sondejarà	sondejar
+sondejaràs	sondejar
+sondejaré	sondejar
+sondejaríem	sondejar
+sondejaríeu	sondejar
+sondejassen	sondejar
+sondejasses	sondejar
+sondejassin	sondejar
+sondejassis	sondejar
+sondejat	sondejar
+sondejats	sondejar
+sondejau	sondejar
+sondejava	sondejar
+sondejaven	sondejar
+sondejaves	sondejar
+sondejo	sondejar
+sondejos	sondeig
+sondejà	sondejar
+sondejàrem	sondejar
+sondejàreu	sondejar
+sondejàs	sondejar
+sondejàssem	sondejar
+sondejàsseu	sondejar
+sondejàssim	sondejar
+sondejàssiu	sondejar
+sondejàvem	sondejar
+sondejàveu	sondejar
+sondem	sondar
+sonden	sondar
+sondes	sonda
+sondes	sondar
+sondessen	sondar
+sondesses	sondar
+sondessin	sondar
+sondessis	sondar
+sondeu	sondar
+sondi	sondar
+sondin	sondar
+sondis	sondar
+sondo	sondar
+sondroll
+sondroll	sondrollar
+sondrolla	sondrollar
+sondrollada	sondrollar
+sondrollades	sondrollar
+sondrollam	sondrollar
+sondrollant	sondrollar
+sondrollar
+sondrollara	sondrollar
+sondrollaran	sondrollar
+sondrollarem	sondrollar
+sondrollaren	sondrollar
+sondrollares	sondrollar
+sondrollareu	sondrollar
+sondrollaria	sondrollar
+sondrollarien	sondrollar
+sondrollaries	sondrollar
+sondrollarà	sondrollar
+sondrollaràs	sondrollar
+sondrollaré	sondrollar
+sondrollaríem	sondrollar
+sondrollaríeu	sondrollar
+sondrollassen	sondrollar
+sondrollasses	sondrollar
+sondrollassin	sondrollar
+sondrollassis	sondrollar
+sondrollat	sondrollar
+sondrollats	sondrollar
+sondrollau	sondrollar
+sondrollava	sondrollar
+sondrollaven	sondrollar
+sondrollaves	sondrollar
+sondrolle	sondrollar
+sondrollem	sondrollar
+sondrollen	sondrollar
+sondrolles	sondrollar
+sondrollessen	sondrollar
+sondrollesses	sondrollar
+sondrollessin	sondrollar
+sondrollessis	sondrollar
+sondrolleu	sondrollar
+sondrolli	sondrollar
+sondrollin	sondrollar
+sondrollis	sondrollar
+sondrollo	sondrollar
+sondrolls	sondroll
+sondrollà	sondrollar
+sondrollàrem	sondrollar
+sondrollàreu	sondrollar
+sondrollàs	sondrollar
+sondrollàssem	sondrollar
+sondrollàsseu	sondrollar
+sondrollàssim	sondrollar
+sondrollàssiu	sondrollar
+sondrollàvem	sondrollar
+sondrollàveu	sondrollar
+sondrollés	sondrollar
+sondrolléssem	sondrollar
+sondrollésseu	sondrollar
+sondrolléssim	sondrollar
+sondrolléssiu	sondrollar
+sondrollí	sondrollar
+sondà	sondar
+sondàrem	sondar
+sondàreu	sondar
+sondàs	sondar
+sondàssem	sondar
+sondàsseu	sondar
+sondàssim	sondar
+sondàssiu	sondar
+sondàvem	sondar
+sondàveu	sondar
+sondés	sondar
+sondéssem	sondar
+sondésseu	sondar
+sondéssim	sondar
+sondéssiu	sondar
+sondí	sondar
+sone	sonar
+soneguera
+sonegueres	soneguera
+soneixina	soneixí
+soneixines	soneixí
+soneixins	soneixí
+soneixí
+sonem	sonar
+sonen	sonar
+sonera
+soneres	sonera
+soneria
+soneries	soneria
+sones	sonar
+sonessen	sonar
+sonesses	sonar
+sonessin	sonar
+sonessis	sonar
+sonet
+soneta
+sonetes	soneta
+sonetista
+sonetistes	sonetista
+sonets	sonet
+soneu	sonar
+soni	sonar
+sonia
+sonicacions	sonicació
+sonicació
+sonicador
+sonicadors	sonicador
+sonicitat
+sonicitats	sonicitat
+sonidegib
+sonidegibs	sonidegib
+sonies	sonia
+sonillosa	sonillós
+sonilloses	sonillós
+sonillosos	sonillós
+sonillós
+sonin	sonar
+sonis	sonar
+sono	sonar
+sonografia
+sonografies	sonografia
+sonograma
+sonogrames	sonograma
+sonolisib
+sonolisibs	sonolisib
+sonologia
+sonologies	sonologia
+sonometria
+sonometries	sonometria
+sonomètric
+sonomètrica	sonomètric
+sonomètrics	sonomètric
+sonomètriques	sonomètric
+sonor
+sonora	sonor
+sonorament
+sonoreductor
+sonoreductora	sonoreductor
+sonoreductores	sonoreductor
+sonoreductors	sonoreductor
+sonores	sonor
+sonoritat
+sonoritats	sonoritat
+sonoritz	sonoritzar
+sonoritza	sonoritzar
+sonoritzacions	sonorització
+sonorització
+sonoritzada	sonoritzar
+sonoritzades	sonoritzar
+sonoritzador
+sonoritzadora	sonoritzador
+sonoritzadores	sonoritzador
+sonoritzadors	sonoritzador
+sonoritzam	sonoritzar
+sonoritzant	sonoritzar
+sonoritzar
+sonoritzara	sonoritzar
+sonoritzaran	sonoritzar
+sonoritzarem	sonoritzar
+sonoritzaren	sonoritzar
+sonoritzares	sonoritzar
+sonoritzareu	sonoritzar
+sonoritzaria	sonoritzar
+sonoritzarien	sonoritzar
+sonoritzaries	sonoritzar
+sonoritzarà	sonoritzar
+sonoritzaràs	sonoritzar
+sonoritzaré	sonoritzar
+sonoritzaríem	sonoritzar
+sonoritzaríeu	sonoritzar
+sonoritzassen	sonoritzar
+sonoritzasses	sonoritzar
+sonoritzassin	sonoritzar
+sonoritzassis	sonoritzar
+sonoritzat	sonoritzar
+sonoritzats	sonoritzar
+sonoritzau	sonoritzar
+sonoritzava	sonoritzar
+sonoritzaven	sonoritzar
+sonoritzaves	sonoritzar
+sonoritze	sonoritzar
+sonoritzem	sonoritzar
+sonoritzen	sonoritzar
+sonoritzes	sonoritzar
+sonoritzessen	sonoritzar
+sonoritzesses	sonoritzar
+sonoritzessin	sonoritzar
+sonoritzessis	sonoritzar
+sonoritzeu	sonoritzar
+sonoritzi	sonoritzar
+sonoritzin	sonoritzar
+sonoritzis	sonoritzar
+sonoritzo	sonoritzar
+sonoritzà	sonoritzar
+sonoritzàrem	sonoritzar
+sonoritzàreu	sonoritzar
+sonoritzàs	sonoritzar
+sonoritzàssem	sonoritzar
+sonoritzàsseu	sonoritzar
+sonoritzàssim	sonoritzar
+sonoritzàssiu	sonoritzar
+sonoritzàvem	sonoritzar
+sonoritzàveu	sonoritzar
+sonoritzés	sonoritzar
+sonoritzéssem	sonoritzar
+sonoritzésseu	sonoritzar
+sonoritzéssim	sonoritzar
+sonoritzéssiu	sonoritzar
+sonoritzí	sonoritzar
+sonorografia
+sonorografies	sonorografia
+sonorosa	sonorós
+sonorosament
+sonoroses	sonorós
+sonorosos	sonorós
+sonors	sonor
+sonoríssim
+sonoríssima	sonoríssim
+sonoríssimes	sonoríssim
+sonoríssims	sonoríssim
+sonorós
+sonosa	sonós
+sonoses	sonós
+sonosos	sonós
+sonoteca
+sonoteques	sonoteca
+sonotone
+sonotones	sonotone
+sons	so
+sons	son_1
+sons	son_2
+sonsa
+sonsa	sonso
+sonsada
+sonsades	sonsada
+sonsament
+sonsege	sonsejar
+sonsegem	sonsejar
+sonsegen	sonsejar
+sonseges	sonsejar
+sonsegessen	sonsejar
+sonsegesses	sonsejar
+sonsegessin	sonsejar
+sonsegessis	sonsejar
+sonsegeu	sonsejar
+sonsegi	sonsejar
+sonsegin	sonsejar
+sonsegis	sonsejar
+sonsegés	sonsejar
+sonsegéssem	sonsejar
+sonsegésseu	sonsejar
+sonsegéssim	sonsejar
+sonsegéssiu	sonsejar
+sonsegí	sonsejar
+sonseig	sonsejar
+sonseja	sonsejar
+sonsejada	sonsejar
+sonsejades	sonsejar
+sonsejam	sonsejar
+sonsejant	sonsejar
+sonsejar
+sonsejara	sonsejar
+sonsejaran	sonsejar
+sonsejarem	sonsejar
+sonsejaren	sonsejar
+sonsejares	sonsejar
+sonsejareu	sonsejar
+sonsejaria	sonsejar
+sonsejarien	sonsejar
+sonsejaries	sonsejar
+sonsejarà	sonsejar
+sonsejaràs	sonsejar
+sonsejaré	sonsejar
+sonsejaríem	sonsejar
+sonsejaríeu	sonsejar
+sonsejassen	sonsejar
+sonsejasses	sonsejar
+sonsejassin	sonsejar
+sonsejassis	sonsejar
+sonsejat	sonsejar
+sonsejats	sonsejar
+sonsejau	sonsejar
+sonsejava	sonsejar
+sonsejaven	sonsejar
+sonsejaves	sonsejar
+sonsejo	sonsejar
+sonsejà	sonsejar
+sonsejàrem	sonsejar
+sonsejàreu	sonsejar
+sonsejàs	sonsejar
+sonsejàssem	sonsejar
+sonsejàsseu	sonsejar
+sonsejàssim	sonsejar
+sonsejàssiu	sonsejar
+sonsejàvem	sonsejar
+sonsejàveu	sonsejar
+sonsera
+sonseres	sonsera
+sonses	sonsa
+sonses	sonso
+sonso
+sonsos	sonso
+sonsotera
+sonsoteres	sonsotera
+sonsònia
+sonsònies	sonsònia
+sonà	sonar
+sonàrem	sonar
+sonàreu	sonar
+sonàs	sonar
+sonàssem	sonar
+sonàsseu	sonar
+sonàssim	sonar
+sonàssiu	sonar
+sonàvem	sonar
+sonàveu	sonar
+sonés	sonar
+sonéssem	sonar
+sonésseu	sonar
+sonéssim	sonar
+sonéssiu	sonar
+soní	sonar
+sonífer
+sonífers	sonífer
+sonògraf
+sonògrafs	sonògraf
+sonòleg
+sonòlegs	sonòleg
+sonòloga	sonòleg
+sonòlogues	sonòleg
+sonòmetre
+sonòmetres	sonòmetre
+sonós
+sònic
+sònica	sònic
+sònics	sònic
+sòniques	sònic
+són	ser

@@ -1,0 +1,5 @@
+booleana	booleano
+booleanas	booleano
+booleano
+booleanos	booleano
+boom

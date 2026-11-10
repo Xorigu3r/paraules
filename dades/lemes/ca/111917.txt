@@ -1,0 +1,817 @@
+mus	mus_1
+mus	mus_2
+mus	musar
+musa
+musa	musar
+musada	musar
+musades	musar
+musam	musar
+musant	musar
+musar
+musara	musar
+musaran	musar
+musaranya
+musaranyes	musaranya
+musarem	musar
+musaren	musar
+musares	musar
+musareu	musar
+musaria	musar
+musarien	musar
+musaries	musar
+musarà	musar
+musaràs	musar
+musaré	musar
+musaríem	musar
+musaríeu	musar
+musassen	musar
+musasses	musar
+musassin	musar
+musassis	musar
+musat	musar
+musats	musar
+musau	musar
+musava	musar
+musaven	musar
+musaves	musar
+musc
+musca	musc
+muscarina
+muscarines	muscarina
+muscarínic
+muscarínica	muscarínic
+muscarínics	muscarínic
+muscaríniques	muscarínic
+muscegen
+muscicida
+muscicides	muscicida
+muscicàpid
+muscicàpids	muscicàpid
+musciforme
+musciformes	musciforme
+muscinal
+muscinals	muscinal
+musclada
+musclades	musclada
+musclaire
+musclaires	musclaire
+muscle
+musclege	musclejar
+musclegem	musclejar
+musclegen	musclejar
+muscleges	musclejar
+musclegessen	musclejar
+musclegesses	musclejar
+musclegessin	musclejar
+musclegessis	musclejar
+musclegeu	musclejar
+musclegi	musclejar
+musclegin	musclejar
+musclegis	musclejar
+musclegés	musclejar
+musclegéssem	musclejar
+musclegésseu	musclejar
+musclegéssim	musclejar
+musclegéssiu	musclejar
+musclegí	musclejar
+muscleig	musclejar
+muscleja	musclejar
+musclejada	musclejar
+musclejades	musclejar
+musclejam	musclejar
+musclejant	musclejar
+musclejar
+musclejara	musclejar
+musclejaran	musclejar
+musclejarem	musclejar
+musclejaren	musclejar
+musclejares	musclejar
+musclejareu	musclejar
+musclejaria	musclejar
+musclejarien	musclejar
+musclejaries	musclejar
+musclejarà	musclejar
+musclejaràs	musclejar
+musclejaré	musclejar
+musclejaríem	musclejar
+musclejaríeu	musclejar
+musclejassen	musclejar
+musclejasses	musclejar
+musclejassin	musclejar
+musclejassis	musclejar
+musclejat	musclejar
+musclejats	musclejar
+musclejau	musclejar
+musclejava	musclejar
+musclejaven	musclejar
+musclejaves	musclejar
+musclejo	musclejar
+musclejà	musclejar
+musclejàrem	musclejar
+musclejàreu	musclejar
+musclejàs	musclejar
+musclejàssem	musclejar
+musclejàsseu	musclejar
+musclejàssim	musclejar
+musclejàssiu	musclejar
+musclejàvem	musclejar
+musclejàveu	musclejar
+musclera
+muscleres	musclera
+muscles	muscle
+musclo
+musclos	musclo
+muscologia
+muscologies	muscologia
+muscos	musc
+muscs	musc
+musculacions	musculació
+musculació
+musculada	musculat
+musculades	musculat
+musculamina
+musculamines	musculamina
+muscular
+muscularment
+musculars	muscular
+musculat
+musculats	musculat
+musculatura
+musculatures	musculatura
+musculocutani
+musculocutanis	musculocutani
+musculocutània	musculocutani
+musculocutànies	musculocutani
+musculodèrmic
+musculodèrmica	musculodèrmic
+musculodèrmics	musculodèrmic
+musculodèrmiques	musculodèrmic
+musculoelàstic
+musculoelàstica	musculoelàstic
+musculoelàstics	musculoelàstic
+musculoespiral
+musculoespirals	musculoespiral
+musculofrènic
+musculofrènica	musculofrènic
+musculofrènics	musculofrènic
+musculofrèniques	musculofrènic
+musculoplàstia
+musculoplàsties	musculoplàstia
+musculosa	musculós
+musculosament
+musculoses	musculós
+musculosos	musculós
+musculosíssim
+musculosíssima	musculosíssim
+musculosíssimes	musculosíssim
+musculosíssims	musculosíssim
+musculotendinós
+musculotròpic
+musculotròpica	musculotròpic
+musculotròpics	musculotròpic
+musculotròpiques	musculotròpic
+musculotònic
+musculotònica	musculotònic
+musculotònics	musculotònic
+musculotòniques	musculotònic
+musculós
+muscègena	muscegen
+muscègenes	muscegen
+muscègens	muscegen
+muscícola
+muscícoles	muscícola
+muscínia
+muscínic
+muscínica	muscínic
+muscínics	muscínic
+muscínies	muscínia
+muscíniques	muscínic
+muse	musar
+musell
+musells	musell
+musem	musar
+musen	musar
+museografia
+museografies	museografia
+museogràfic
+museogràfica	museogràfic
+museogràfics	museogràfic
+museogràfiques	museogràfic
+museologia
+museologies	museologia
+museològic
+museològica	museològic
+museològics	museològic
+museològiques	museològic
+muser
+musera	muser
+muserenc
+muserenca	muserenc
+muserencs	muserenc
+muserenques	muserenc
+museres	muser
+muserola
+museroles	muserola
+musers	muser
+muses	musa
+muses	musar
+musessen	musar
+musesses	musar
+musessin	musar
+musessis	musar
+museta
+musetes	museta
+museu
+museu	musar
+museus	museu
+museístic
+museística	museístic
+museístics	museístic
+museístiques	museístic
+museïtz	museïtzar
+museïtza	museïtzar
+museïtzable
+museïtzables	museïtzable
+museïtzacions	museïtzació
+museïtzació
+museïtzada	museïtzar
+museïtzades	museïtzar
+museïtzam	museïtzar
+museïtzant	museïtzar
+museïtzar
+museïtzara	museïtzar
+museïtzaran	museïtzar
+museïtzarem	museïtzar
+museïtzaren	museïtzar
+museïtzares	museïtzar
+museïtzareu	museïtzar
+museïtzaria	museïtzar
+museïtzarien	museïtzar
+museïtzaries	museïtzar
+museïtzarà	museïtzar
+museïtzaràs	museïtzar
+museïtzaré	museïtzar
+museïtzaríem	museïtzar
+museïtzaríeu	museïtzar
+museïtzassen	museïtzar
+museïtzasses	museïtzar
+museïtzassin	museïtzar
+museïtzassis	museïtzar
+museïtzat	museïtzar
+museïtzats	museïtzar
+museïtzau	museïtzar
+museïtzava	museïtzar
+museïtzaven	museïtzar
+museïtzaves	museïtzar
+museïtze	museïtzar
+museïtzem	museïtzar
+museïtzen	museïtzar
+museïtzes	museïtzar
+museïtzessen	museïtzar
+museïtzesses	museïtzar
+museïtzessin	museïtzar
+museïtzessis	museïtzar
+museïtzeu	museïtzar
+museïtzi	museïtzar
+museïtzin	museïtzar
+museïtzis	museïtzar
+museïtzo	museïtzar
+museïtzà	museïtzar
+museïtzàrem	museïtzar
+museïtzàreu	museïtzar
+museïtzàs	museïtzar
+museïtzàssem	museïtzar
+museïtzàsseu	museïtzar
+museïtzàssim	museïtzar
+museïtzàssiu	museïtzar
+museïtzàvem	museïtzar
+museïtzàveu	museïtzar
+museïtzés	museïtzar
+museïtzéssem	museïtzar
+museïtzésseu	museïtzar
+museïtzéssim	museïtzar
+museïtzéssiu	museïtzar
+museïtzí	museïtzar
+museògraf
+museògrafa	museògraf
+museògrafes	museògraf
+museògrafs	museògraf
+museòleg
+museòlegs	museòleg
+museòloga	museòleg
+museòlogues	museòleg
+musi	musar
+music	musicar
+musica	musicar
+musicable
+musicables	musicable
+musicacions	musicació
+musicació
+musicada	musicar
+musicades	musicar
+musicadura
+musicadures	musicadura
+musical
+musicalitat
+musicalitats	musicalitat
+musicalitz	musicalitzar
+musicalitza	musicalitzar
+musicalització
+musicalitzada	musicalitzar
+musicalitzades	musicalitzar
+musicalitzam	musicalitzar
+musicalitzant	musicalitzar
+musicalitzar
+musicalitzara	musicalitzar
+musicalitzaran	musicalitzar
+musicalitzarem	musicalitzar
+musicalitzaren	musicalitzar
+musicalitzares	musicalitzar
+musicalitzareu	musicalitzar
+musicalitzaria	musicalitzar
+musicalitzarien	musicalitzar
+musicalitzaries	musicalitzar
+musicalitzarà	musicalitzar
+musicalitzaràs	musicalitzar
+musicalitzaré	musicalitzar
+musicalitzaríem	musicalitzar
+musicalitzaríeu	musicalitzar
+musicalitzassen	musicalitzar
+musicalitzasses	musicalitzar
+musicalitzassin	musicalitzar
+musicalitzassis	musicalitzar
+musicalitzat	musicalitzar
+musicalitzats	musicalitzar
+musicalitzau	musicalitzar
+musicalitzava	musicalitzar
+musicalitzaven	musicalitzar
+musicalitzaves	musicalitzar
+musicalitze	musicalitzar
+musicalitzem	musicalitzar
+musicalitzen	musicalitzar
+musicalitzes	musicalitzar
+musicalitzessen	musicalitzar
+musicalitzesses	musicalitzar
+musicalitzessin	musicalitzar
+musicalitzessis	musicalitzar
+musicalitzeu	musicalitzar
+musicalitzi	musicalitzar
+musicalitzin	musicalitzar
+musicalitzis	musicalitzar
+musicalitzo	musicalitzar
+musicalitzà	musicalitzar
+musicalitzàrem	musicalitzar
+musicalitzàreu	musicalitzar
+musicalitzàs	musicalitzar
+musicalitzàssem	musicalitzar
+musicalitzàsseu	musicalitzar
+musicalitzàssim	musicalitzar
+musicalitzàssiu	musicalitzar
+musicalitzàvem	musicalitzar
+musicalitzàveu	musicalitzar
+musicalitzés	musicalitzar
+musicalitzéssem	musicalitzar
+musicalitzésseu	musicalitzar
+musicalitzéssim	musicalitzar
+musicalitzéssiu	musicalitzar
+musicalitzí	musicalitzar
+musicalment
+musicals	musical
+musicam	musicar
+musicant	musicar
+musicar
+musicara	musicar
+musicaran	musicar
+musicarem	musicar
+musicaren	musicar
+musicares	musicar
+musicareu	musicar
+musicaria	musicar
+musicarien	musicar
+musicaries	musicar
+musicarà	musicar
+musicaràs	musicar
+musicaré	musicar
+musicaríem	musicar
+musicaríeu	musicar
+musicassen	musicar
+musicasses	musicar
+musicasset
+musicassets	musicasset
+musicassin	musicar
+musicassis	musicar
+musicastra	musicastre
+musicastre
+musicastres	musicastre
+musicat	musicar
+musicats	musicar
+musicau	musicar
+musicava	musicar
+musicaven	musicar
+musicaves	musicar
+musico	musicar
+musicografia
+musicografies	musicografia
+musicograma
+musicogrames	musicograma
+musicologia
+musicologies	musicologia
+musicològic
+musicològica	musicològic
+musicològics	musicològic
+musicològiques	musicològic
+musicomania
+musicomanies	musicomania
+musicopoètic
+musicopoètica	musicopoètic
+musicopoètics	musicopoètic
+musicopoètiques	musicopoètic
+musicoteatral
+musicoteatrals	musicoteatral
+musicoterapeuta
+musicoteràpia
+musicoteràpies	musicoteràpia
+musicà	musicar
+musicàrem	musicar
+musicàreu	musicar
+musicàs	musicar
+musicàssem	musicar
+musicàsseu	musicar
+musicàssim	musicar
+musicàssiu	musicar
+musicàvem	musicar
+musicàveu	musicar
+musicògraf
+musicògrafa	musicògraf
+musicògrafes	musicògraf
+musicògrafs	musicògraf
+musicòleg
+musicòlegs	musicòleg
+musicòloga	musicòleg
+musicòlogues	musicòleg
+musicòman
+musicòmana	musicòman
+musicòmanes	musicòman
+musicòmans	musicòman
+musin	musar
+musique	musicar
+musiquem	musicar
+musiquen	musicar
+musiquer
+musiqueries
+musiquers	musiquer
+musiques	musicar
+musiquessen	musicar
+musiquesses	musicar
+musiquessin	musicar
+musiquessis	musicar
+musiqueta
+musiquetes	musiqueta
+musiqueu	musicar
+musiqui	musicar
+musiquin	musicar
+musiquis	musicar
+musiqués	musicar
+musiquéssem	musicar
+musiquésseu	musicar
+musiquéssim	musicar
+musiquéssiu	musicar
+musiquí	musicar
+musis	musar
+musiu
+musius	musiu
+musiva	musiu
+musivari
+musivaris	musivari
+musives	musiu
+musivària	musivari
+musivàries	musivari
+musli
+muslim
+muslims	muslim
+muslis	musli
+muslímic
+muslímica	muslímic
+muslímics	muslímic
+muslímiques	muslímic
+muso	musar
+musofagiforme
+musofagiformes	musofagiforme
+musofàgid
+musofàgids	musofàgid
+musos	mus_1
+musques	musc
+mussa
+mussa	mus_2
+mussaca
+mussaques	mussaca
+musses	mus_2
+musses	mussa
+musseta
+mussetes	musseta
+mussit	mussitar
+mussita	mussitar
+mussitacions	mussitació
+mussitació
+mussitada	mussitar
+mussitades	mussitar
+mussitam	mussitar
+mussitant	mussitar
+mussitar
+mussitara	mussitar
+mussitaran	mussitar
+mussitarem	mussitar
+mussitaren	mussitar
+mussitares	mussitar
+mussitareu	mussitar
+mussitaria	mussitar
+mussitarien	mussitar
+mussitaries	mussitar
+mussitarà	mussitar
+mussitaràs	mussitar
+mussitaré	mussitar
+mussitaríem	mussitar
+mussitaríeu	mussitar
+mussitassen	mussitar
+mussitasses	mussitar
+mussitassin	mussitar
+mussitassis	mussitar
+mussitat	mussitar
+mussitats	mussitar
+mussitau	mussitar
+mussitava	mussitar
+mussitaven	mussitar
+mussitaves	mussitar
+mussite	mussitar
+mussitem	mussitar
+mussiten	mussitar
+mussites	mussitar
+mussitessen	mussitar
+mussitesses	mussitar
+mussitessin	mussitar
+mussitessis	mussitar
+mussiteu	mussitar
+mussiti	mussitar
+mussitin	mussitar
+mussitis	mussitar
+mussito	mussitar
+mussità	mussitar
+mussitàrem	mussitar
+mussitàreu	mussitar
+mussitàs	mussitar
+mussitàssem	mussitar
+mussitàsseu	mussitar
+mussitàssim	mussitar
+mussitàssiu	mussitar
+mussitàvem	mussitar
+mussitàveu	mussitar
+mussités	mussitar
+mussitéssem	mussitar
+mussitésseu	mussitar
+mussitéssim	mussitar
+mussitéssiu	mussitar
+mussití	mussitar
+mussol
+mussola
+mussoles	mussola
+mussolina
+mussolines	mussolina
+mussols	mussol
+mussos	mus_2
+mustalita
+mustalites	mustalita
+musteeix	musteir
+musteeixen	musteir
+musteeixes	musteir
+musteeixi	musteir
+musteeixin	musteir
+musteeixis	musteir
+musteeixo	musteir
+musteesc	musteir
+musteesca	musteir
+musteesquen	musteir
+musteesques	musteir
+musteesqui	musteir
+musteesquin	musteir
+musteesquis	musteir
+musteint	musteir
+musteir
+musteiran	musteir
+musteirem	musteir
+musteireu	musteir
+musteiria	musteir
+musteirien	musteir
+musteiries	musteir
+musteirà	musteir
+musteiràs	musteir
+musteiré	musteir
+musteiríem	musteir
+musteiríeu	musteir
+mustela
+musteles	mustela
+musteí	musteir
+musteíem	musteir
+musteíeu	musteir
+musteírem	musteir
+musteíreu	musteir
+musteís	musteir
+musteíssem	musteir
+musteísseu	musteir
+musteíssim	musteir
+musteíssiu	musteir
+musteïa	musteir
+musteïda	musteir
+musteïdes	musteir
+musteïen	musteir
+musteïes	musteir
+musteïguem	musteir
+musteïgueu	musteir
+musteïm	musteir
+musteïra	musteir
+musteïren	musteir
+musteïres	musteir
+musteïsc	musteir
+musteïsca	musteir
+musteïsquen	musteir
+musteïsques	musteir
+musteïssen	musteir
+musteïsses	musteir
+musteïssin	musteir
+musteïssis	musteir
+musteït	musteir
+musteïts	musteir
+musteïu	musteir
+musteïx	musteir
+musteïxen	musteir
+musteïxes	musteir
+musti
+mustia	mustiar
+mustiada	mustiar
+mustiades	mustiar
+mustiam	mustiar
+mustiant	mustiar
+mustiar
+mustiara	mustiar
+mustiaran	mustiar
+mustiarem	mustiar
+mustiaren	mustiar
+mustiares	mustiar
+mustiareu	mustiar
+mustiaria	mustiar
+mustiarien	mustiar
+mustiaries	mustiar
+mustiarà	mustiar
+mustiaràs	mustiar
+mustiaré	mustiar
+mustiaríem	mustiar
+mustiaríeu	mustiar
+mustiassen	mustiar
+mustiasses	mustiar
+mustiassin	mustiar
+mustiassis	mustiar
+mustiat	mustiar
+mustiats	mustiar
+mustiau	mustiar
+mustiava	mustiar
+mustiaven	mustiar
+mustiaves	mustiar
+mustic	mustigar
+mustie	mustiar
+mustiem	mustiar
+mustien	mustiar
+musties	mustiar
+mustiesa
+mustieses	mustiesa
+mustiessen	mustiar
+mustiesses	mustiar
+mustiessin	mustiar
+mustiessis	mustiar
+mustieu	mustiar
+mustiga	mustigar
+mustigada	mustigar
+mustigades	mustigar
+mustigam	mustigar
+mustigant	mustigar
+mustigar
+mustigara	mustigar
+mustigaran	mustigar
+mustigarem	mustigar
+mustigaren	mustigar
+mustigares	mustigar
+mustigareu	mustigar
+mustigaria	mustigar
+mustigarien	mustigar
+mustigaries	mustigar
+mustigarà	mustigar
+mustigaràs	mustigar
+mustigaré	mustigar
+mustigaríem	mustigar
+mustigaríeu	mustigar
+mustigassen	mustigar
+mustigasses	mustigar
+mustigassin	mustigar
+mustigassis	mustigar
+mustigat	mustigar
+mustigats	mustigar
+mustigau	mustigar
+mustigava	mustigar
+mustigaven	mustigar
+mustigaves	mustigar
+mustigo	mustigar
+mustigue	mustigar
+mustiguem	mustigar
+mustiguen	mustigar
+mustigues	mustigar
+mustiguesa
+mustigueses	mustiguesa
+mustiguessen	mustigar
+mustiguesses	mustigar
+mustiguessin	mustigar
+mustiguessis	mustigar
+mustigueu	mustigar
+mustigui	mustigar
+mustiguin	mustigar
+mustiguis	mustigar
+mustigués	mustigar
+mustiguéssem	mustigar
+mustiguésseu	mustigar
+mustiguéssim	mustigar
+mustiguéssiu	mustigar
+mustiguí	mustigar
+mustigà	mustigar
+mustigàrem	mustigar
+mustigàreu	mustigar
+mustigàs	mustigar
+mustigàssem	mustigar
+mustigàsseu	mustigar
+mustigàssim	mustigar
+mustigàssiu	mustigar
+mustigàvem	mustigar
+mustigàveu	mustigar
+mustii	mustiar
+mustina
+mustio	mustiar
+mustis	musti
+mustià	mustiar
+mustiàrem	mustiar
+mustiàreu	mustiar
+mustiàs	mustiar
+mustiàssem	mustiar
+mustiàsseu	mustiar
+mustiàssim	mustiar
+mustiàssiu	mustiar
+mustiàvem	mustiar
+mustiàveu	mustiar
+mustiés	mustiar
+mustiéssem	mustiar
+mustiésseu	mustiar
+mustiéssim	mustiar
+mustiéssiu	mustiar
+mustií	mustiar
+mustiï	mustiar
+mustiïn	mustiar
+mustiïs	mustiar
+mustèlid
+mustèlids	mustèlid
+musulmana	musulmà
+musulmanes	musulmà
+musulmans	musulmà
+musulmà
+musà	musar
+musàcia
+musàcies	musàcia
+musàrem	musar
+musàreu	musar
+musàs	musar
+musàssem	musar
+musàsseu	musar
+musàssim	musar
+musàssiu	musar
+musàvem	musar
+musàveu	musar
+musés	musar
+muséssem	musar
+musésseu	musar
+muséssim	musar
+muséssiu	musar
+musí	musar
+múscid
+múscids	múscid
+múscul
+músculs	múscul
+músic
+música
+música	músic
+músics	músic
+músiques	músic
+músiques	música
+múster
+músters	múster
+mústia	musti
+mústiament
+mústic
+mústics	mústic
+músties	musti
+mústiga	mústic
+mústigament
+mústigues	mústic

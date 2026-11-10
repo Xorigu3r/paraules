@@ -1,0 +1,28 @@
+glucemia
+glucemias	glucemia
+glucina
+glucinas	glucina
+glucosa
+glucosas	glucosa
+glucógeno
+glucógenos	glucógeno
+glucósido
+glucósidos	glucósido
+gluma
+glumas	gluma
+gluon
+gluones	gluon
+glutamato
+glutamatos	glutamato
+gluten
+glutenes	gluten
+glutinosa	glutinoso
+glutinosas	glutinoso
+glutinosidad
+glutinosidades	glutinosidad
+glutinoso
+glutinosos	glutinoso
+glútea	glúteo
+glúteas	glúteo
+glúteo
+glúteos	glúteo

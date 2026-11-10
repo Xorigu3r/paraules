@@ -1,0 +1,111 @@
+sueca	sueco
+suecas	sueco
+sueco
+suecos	sueco
+suegra
+suegra	suegro
+suegras	suegra
+suegras	suegro
+suegro
+suegros	suegro
+suela
+suela	solar
+suelan
+suelan	solar
+suelas
+suelas	solar
+suelas	suela
+suelda
+suelda	soldar
+sueldacostilla
+sueldacostillas	sueldacostilla
+sueldan	soldar
+sueldas	soldar
+sueldas	suelda
+suelde	soldar
+suelden	soldar
+sueldes	soldar
+sueldo
+sueldo	soldar
+sueldos	sueldo
+suele
+suele	solar
+suelen
+suelen	solar
+sueles
+sueles	solar
+suelo
+suelo	solar
+suelos	suelo
+suelta
+suelta	soltar
+suelta	suelto
+sueltan	soltar
+sueltas	soltar
+sueltas	suelta
+sueltas	suelto
+suelte	soltar
+suelten	soltar
+sueltes	soltar
+suelto
+suelto	soltar
+sueltos	suelto
+suena	sonar
+suenan	sonar
+suenas	sonar
+suene	sonar
+suenen	sonar
+suenes	sonar
+sueno
+sueno	sonar
+suenos	sueno
+suero
+sueros	suero
+suerosa	sueroso
+suerosas	sueroso
+sueroso
+suerosos	sueroso
+sueroterapia
+sueroterapias	sueroterapia
+suerte
+suertes	suerte
+sueste
+suestes	sueste
+sueva	suevo
+suevas	suevo
+suevo
+suevos	suevo
+sueña	soñar
+sueñan	soñar
+sueñas	soñar
+sueñe	soñar
+sueñen	soñar
+sueñes	soñar
+sueño
+sueño	soñar
+sueños	sueño
+suéldate	soldar
+suéltala	soltar
+suéltalas	soltar
+suéltalo	soltar
+suéltalos	soltar
+suéltame	soltar
+suéltanos	soltar
+suéltate	soltar
+suéltela	soltar
+suéltelas	soltar
+suéltelo	soltar
+suéltelos	soltar
+suélteme	soltar
+suéltenla	soltar
+suéltenlas	soltar
+suéltenlo	soltar
+suéltenlos	soltar
+suéltenme	soltar
+suéltennos	soltar
+suéltenos	soltar
+suéltense	soltar
+suéltese	soltar
+suénate	sonar
+suéter
+suéteres	suéter

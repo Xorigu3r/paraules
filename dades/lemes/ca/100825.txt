@@ -1,0 +1,4 @@
+linyolenc
+linyolenca	linyolenc
+linyolencs	linyolenc
+linyolenques	linyolenc

@@ -1,0 +1,4 @@
+sta	sto
+stand
+stands
+stas	sto

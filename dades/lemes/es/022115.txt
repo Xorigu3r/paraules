@@ -1,0 +1,2 @@
+cuota
+cuotas	cuota

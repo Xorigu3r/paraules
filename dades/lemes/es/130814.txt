@@ -1,0 +1,76 @@
+niña
+niña	niño
+niñas	niña
+niñas	niño
+niñata	niñato
+niñatas	niñato
+niñato
+niñatos	niñato
+niñea	niñear
+niñeaba	niñear
+niñeabais	niñear
+niñeaban	niñear
+niñeabas	niñear
+niñead	niñear
+niñeada	niñear
+niñeadas	niñear
+niñeado	niñear
+niñeados	niñear
+niñeamos	niñear
+niñean	niñear
+niñeando	niñear
+niñear
+niñeara	niñear
+niñearais	niñear
+niñearan	niñear
+niñearas	niñear
+niñeare	niñear
+niñeareis	niñear
+niñearemos	niñear
+niñearen	niñear
+niñeares	niñear
+niñearon	niñear
+niñearse	niñear
+niñeará	niñear
+niñearán	niñear
+niñearás	niñear
+niñearé	niñear
+niñearéis	niñear
+niñearía	niñear
+niñearíais	niñear
+niñearíamos	niñear
+niñearían	niñear
+niñearías	niñear
+niñeas	niñear
+niñease	niñear
+niñeaseis	niñear
+niñeasen	niñear
+niñeases	niñear
+niñeaste	niñear
+niñeasteis	niñear
+niñeces	niña
+niñee	niñear
+niñeemos	niñear
+niñeen	niñear
+niñees	niñear
+niñeo	niñear
+niñera
+niñera	niñero
+niñeras	niñera
+niñeras	niñero
+niñero
+niñeros	niñero
+niñería	niñera
+niñerías	niñera
+niñez	niña
+niñeábamos	niñear
+niñeáis	niñear
+niñeándose	niñear
+niñeáramos	niñear
+niñeáremos	niñear
+niñeásemos	niñear
+niñeé	niñear
+niñeéis	niñear
+niñeó	niñear
+niño
+niños	niño

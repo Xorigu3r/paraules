@@ -1,0 +1,14 @@
+hotel
+hotelera	hotelero
+hoteleras	hotelero
+hotelero
+hoteleros	hotelero
+hoteles	hotel
+hotentota
+hotentota	hotentote
+hotentotas	hotentota
+hotentotas	hotentote
+hotentote
+hotentotes	hotentote
+hoto
+hotos	hoto

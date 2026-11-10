@@ -1,0 +1,333 @@
+bus	bus_1
+bus	bus_2
+busal
+busals	busal
+busaroca
+busaroques	busaroca
+busbèrria
+busbèrries	busbèrria
+busc	buscar
+busca
+busca	buscar
+buscabaralles
+buscabregues
+buscacames
+buscada	buscar
+buscada	buscat
+buscades	buscar
+buscades	buscat
+buscadissa
+buscadisses	buscadissa
+buscador
+buscadora	buscador
+buscadores	buscador
+buscadors	buscador
+buscadíssim
+buscadíssima	buscadíssim
+buscadíssimes	buscadíssim
+buscadíssims	buscadíssim
+buscagatoses
+buscaire
+buscaires	buscaire
+buscall
+buscall	buscallar
+buscalla	buscallar
+buscallada
+buscallada	buscallar
+buscallades	buscallada
+buscallades	buscallar
+buscallam
+buscallam	buscallar
+buscallams	buscallam
+buscallant	buscallar
+buscallar
+buscallara	buscallar
+buscallaran	buscallar
+buscallarem	buscallar
+buscallaren	buscallar
+buscallares	buscallar
+buscallareu	buscallar
+buscallaria	buscallar
+buscallarien	buscallar
+buscallaries	buscallar
+buscallarà	buscallar
+buscallaràs	buscallar
+buscallaré	buscallar
+buscallaríem	buscallar
+buscallaríeu	buscallar
+buscallassen	buscallar
+buscallasses	buscallar
+buscallassin	buscallar
+buscallassis	buscallar
+buscallat	buscallar
+buscallats	buscallar
+buscallau	buscallar
+buscallava	buscallar
+buscallaven	buscallar
+buscallaves	buscallar
+buscalle	buscallar
+buscallem	buscallar
+buscallen	buscallar
+buscalles	buscallar
+buscallessen	buscallar
+buscallesses	buscallar
+buscallessin	buscallar
+buscallessis	buscallar
+buscalleu	buscallar
+buscalli	buscallar
+buscallin	buscallar
+buscallis	buscallar
+buscallo	buscallar
+buscalls	buscall
+buscallà	buscallar
+buscallàrem	buscallar
+buscallàreu	buscallar
+buscallàs	buscallar
+buscallàssem	buscallar
+buscallàsseu	buscallar
+buscallàssim	buscallar
+buscallàssiu	buscallar
+buscallàvem	buscallar
+buscallàveu	buscallar
+buscallés	buscallar
+buscalléssem	buscallar
+buscallésseu	buscallar
+buscalléssim	buscallar
+buscalléssiu	buscallar
+buscallí	buscallar
+buscam	buscar
+buscant	buscar
+buscapersones
+buscapromeses
+buscar
+buscara	buscar
+buscaran	buscar
+buscarem	buscar
+buscaren	buscar
+buscares	buscar
+buscareu	buscar
+buscaria	buscar
+buscarien	buscar
+buscaries	buscar
+buscarrons	buscarró
+buscarró
+buscarà	buscar
+buscaràs	buscar
+buscaré	buscar
+buscaríem	buscar
+buscaríeu	buscar
+buscassen	buscar
+buscasses	buscar
+buscassin	buscar
+buscassis	buscar
+buscat
+buscat	buscar
+buscatalents
+buscatendències
+buscats	buscar
+buscats	buscat
+buscau	buscar
+buscausuaris
+buscava	buscar
+buscaven	buscar
+buscaves	buscar
+buscavides
+busco	buscar
+buscà	buscar
+buscàrem	buscar
+buscàreu	buscar
+buscàs	buscar
+buscàssem	buscar
+buscàsseu	buscar
+buscàssim	buscar
+buscàssiu	buscar
+buscàvem	buscar
+buscàveu	buscar
+buserelina
+buserelines	buserelina
+bushel
+bushels	bushel
+business
+busos	bus_2
+busoter
+busotera	busoter
+busoteres	busoter
+busoters	busoter
+buspirona
+buspirones	buspirona
+busque	buscar
+busquem	buscar
+busquen	buscar
+busquera
+busqueres	busquera
+busqueret
+busquereta
+busqueretes	busquereta
+busquerets	busqueret
+busquerot
+busquerots	busquerot
+busques	busca
+busques	buscar
+busquessen	buscar
+busquesses	buscar
+busquessin	buscar
+busquessis	buscar
+busqueta
+busquetes	busqueta
+busqueu	buscar
+busqui	buscar
+busquin	buscar
+busquis	buscar
+busqués	buscar
+busquéssem	buscar
+busquésseu	buscar
+busquéssim	buscar
+busquéssiu	buscar
+busquí	buscar
+bussege	bussejar
+bussegem	bussejar
+bussegen	bussejar
+busseges	bussejar
+bussegessen	bussejar
+bussegesses	bussejar
+bussegessin	bussejar
+bussegessis	bussejar
+bussegeu	bussejar
+bussegi	bussejar
+bussegin	bussejar
+bussegis	bussejar
+bussegés	bussejar
+bussegéssem	bussejar
+bussegésseu	bussejar
+bussegéssim	bussejar
+bussegéssiu	bussejar
+bussegí	bussejar
+busseig
+busseig	bussejar
+busseigs	busseig
+busseja	bussejar
+bussejada	bussejar
+bussejades	bussejar
+bussejador
+bussejadora	bussejador
+bussejadores	bussejador
+bussejadors	bussejador
+bussejam	bussejar
+bussejant	bussejar
+bussejar
+bussejara	bussejar
+bussejaran	bussejar
+bussejarem	bussejar
+bussejaren	bussejar
+bussejares	bussejar
+bussejareu	bussejar
+bussejaria	bussejar
+bussejarien	bussejar
+bussejaries	bussejar
+bussejarà	bussejar
+bussejaràs	bussejar
+bussejaré	bussejar
+bussejaríem	bussejar
+bussejaríeu	bussejar
+bussejassen	bussejar
+bussejasses	bussejar
+bussejassin	bussejar
+bussejassis	bussejar
+bussejat	bussejar
+bussejats	bussejar
+bussejau	bussejar
+bussejava	bussejar
+bussejaven	bussejar
+bussejaves	bussejar
+bussejo	bussejar
+bussejos	busseig
+bussejà	bussejar
+bussejàrem	bussejar
+bussejàreu	bussejar
+bussejàs	bussejar
+bussejàssem	bussejar
+bussejàsseu	bussejar
+bussejàssim	bussejar
+bussejàssiu	bussejar
+bussejàvem	bussejar
+bussejàveu	bussejar
+bussi
+bussis	bussi
+bussons	bussó
+bussos	bus_1
+bussó
+bust
+bustamita
+bustamites	bustamita
+bustia	bustiar
+bustiada
+bustiada	bustiar
+bustiades	bustiada
+bustiades	bustiar
+bustiam	bustiar
+bustiant	bustiar
+bustiar
+bustiara	bustiar
+bustiaran	bustiar
+bustiarem	bustiar
+bustiaren	bustiar
+bustiares	bustiar
+bustiareu	bustiar
+bustiaria	bustiar
+bustiarien	bustiar
+bustiaries	bustiar
+bustiarà	bustiar
+bustiaràs	bustiar
+bustiaré	bustiar
+bustiaríem	bustiar
+bustiaríeu	bustiar
+bustiassen	bustiar
+bustiasses	bustiar
+bustiassin	bustiar
+bustiassis	bustiar
+bustiat	bustiar
+bustiats	bustiar
+bustiau	bustiar
+bustiava	bustiar
+bustiaven	bustiar
+bustiaves	bustiar
+bustie	bustiar
+bustiem	bustiar
+bustien	bustiar
+busties	bustiar
+bustiessen	bustiar
+bustiesses	bustiar
+bustiessin	bustiar
+bustiessis	bustiar
+bustieu	bustiar
+bustii	bustiar
+bustio	bustiar
+bustià	bustiar
+bustiàrem	bustiar
+bustiàreu	bustiar
+bustiàs	bustiar
+bustiàssem	bustiar
+bustiàsseu	bustiar
+bustiàssim	bustiar
+bustiàssiu	bustiar
+bustiàvem	bustiar
+bustiàveu	bustiar
+bustiés	bustiar
+bustiéssem	bustiar
+bustiésseu	bustiar
+bustiéssim	bustiar
+bustiéssiu	bustiar
+bustií	bustiar
+bustiï	bustiar
+bustiïn	bustiar
+bustiïs	bustiar
+bustos	bust
+bustrofèdic
+bustrofèdica	bustrofèdic
+bustrofèdics	bustrofèdic
+bustrofèdiques	bustrofèdic
+busts	bust
+busulfan
+busulfans	busulfan
+bústia
+bústies	bústia

@@ -1,0 +1,8 @@
+viña
+viñador
+viñadores	viñador
+viñas	viña
+viñedo
+viñedos	viñedo
+viñeta
+viñetas	viñeta
