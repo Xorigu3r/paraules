@@ -1,0 +1,1100 @@
+<!doctype html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover,user-scalable=no">
+<title>Paraules · Xoriguer</title>
+<link rel="icon" href="img/icona.png">
+<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#0b0a09">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<style>
+:root{
+  --gold:#f7931e; --cream:#faf4e8; --bg:#0b0a09;
+  --ui:#2b2622; --ui2:#3a322b; --ui3:#4a4037; --txt:#f3ece2; --mut:#b9ac9c;
+  --rt:clamp(34px,min(12vw,7.4vh),56px);
+  --feltre:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .35 0'/%3E%3C/filter%3E%3Crect width='160' height='160' filter='url(%23n)'/%3E%3C/svg%3E");
+  --spot:radial-gradient(ellipse 52% 42% at 50% 45%,rgba(255,236,190,.26) 0%,rgba(255,236,190,.10) 40%,rgba(255,236,190,0) 70%);
+}
+*{box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{margin:0;height:100%;background:var(--bg);color:var(--txt);font:15px/1.35 "Segoe UI",system-ui,-apple-system,Roboto,sans-serif;overflow:hidden}
+body{display:flex;flex-direction:column;height:100dvh;background:radial-gradient(ellipse at 50% 40%,#2a1a0a 0%,#0b0a09 65%);user-select:none;-webkit-user-select:none}
+button{font:inherit;color:inherit;cursor:pointer}
+
+/* ---------- Capçalera ---------- */
+header{display:flex;align-items:center;gap:8px;padding:6px 10px;background:#000;border-bottom:2px solid var(--gold);flex:none;padding-top:max(6px,env(safe-area-inset-top))}
+header img{width:32px;height:32px;border-radius:7px}
+header .ttl{font-weight:900;font-style:italic;font-size:19px;letter-spacing:.5px;color:var(--cream)}
+header .ttl small{display:block;font-style:normal;font-weight:700;font-size:9px;letter-spacing:3px;color:var(--gold);margin-top:-3px}
+.tools{display:flex;gap:4px;margin-left:auto}
+.tools button{background:#1b1714;border:1px solid #3b3128;border-radius:8px;width:36px;height:36px;font-size:17px;display:grid;place-items:center}
+.tools button:hover{border-color:var(--gold)}
+.tools button.on{border-color:var(--gold);background:#3a2410}
+
+/* ---------- Tapet i tauler ---------- */
+#table{position:relative;flex:1;min-height:0;margin:6px 6px 0;border-radius:18px;overflow:hidden;display:flex;flex-direction:column;
+  box-shadow:inset 0 0 0 3px #3a2412,inset 0 0 0 7px #5b3a1e,inset 0 0 40px rgba(0,0,0,.6),0 6px 20px rgba(0,0,0,.6)}
+#table::before{content:"";position:absolute;inset:0;background:var(--feltre);opacity:.55;pointer-events:none;mix-blend-mode:multiply}
+body[data-tapet=verd] #table{background:var(--spot),radial-gradient(ellipse at 50% 45%,#23864d,#14603a 55%,#0b3d24)}
+body[data-tapet=blau] #table{background:var(--spot),radial-gradient(ellipse at 50% 45%,#2a6aa8,#1b4b7d 55%,#0f2c4d)}
+body[data-tapet=vermell] #table{background:var(--spot),radial-gradient(ellipse at 50% 45%,#a33232,#7a1f22 55%,#4a1013)}
+body[data-tapet=fusta] #table{background:var(--spot),radial-gradient(ellipse at 50% 45%,#9b6a3c,#7a4f2a 55%,#4e3019)}
+#players{position:relative;z-index:3;display:flex;gap:6px;justify-content:center;flex-wrap:wrap;padding:10px 12px 4px;flex:none}
+.pc{background:rgba(0,0,0,.55);border:1px solid rgba(255,255,255,.15);border-radius:12px;padding:2px 10px;display:flex;align-items:center;gap:7px;font-size:13px;font-variant-numeric:tabular-nums}
+.pc b{font-size:17px;color:var(--cream)}
+.pc .nm{font-weight:600;max-width:96px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.pc .nm i{font-style:normal;color:var(--mut);font-weight:400;font-size:11px;margin-left:3px}
+.pc.me b{color:var(--gold)}
+.pc.turn{border-color:var(--gold);color:#fff;animation:glow 1.2s ease-in-out infinite alternate}
+.pc.bag{color:var(--mut);background:rgba(0,0,0,.35)}
+@keyframes glow{from{box-shadow:0 0 0 rgba(247,147,30,0)}to{box-shadow:0 0 14px rgba(247,147,30,.9)}}
+#bwrap{position:relative;z-index:2;flex:1;min-height:0;display:flex;align-items:center;justify-content:center;padding:4px 10px 10px}
+#bwrap.zoom{overflow:auto;display:block;padding:8px}
+#deco{position:absolute;inset:0;display:grid;place-items:center;pointer-events:none;z-index:1}
+#deco img{width:min(62%,460px);opacity:.30;filter:saturate(1.2) drop-shadow(0 3px 6px rgba(0,0,0,.35))}
+#board{position:relative;display:grid;grid-template-columns:repeat(15,1fr);grid-template-rows:repeat(15,1fr);gap:1px;padding:2px;border-radius:8px;background:rgba(0,0,0,.28);box-shadow:0 0 0 2px rgba(0,0,0,.25),0 8px 22px rgba(0,0,0,.45);flex:none;margin:auto}
+.cell{position:relative;border-radius:14%;background:rgba(255,248,235,.12);display:grid;place-items:center;overflow:visible;
+  font:800 calc(var(--cs)*.27)/1 "Segoe UI",system-ui,sans-serif;color:rgba(255,255,255,.92);letter-spacing:-.3px}
+.cell.p1{background:rgba(79,179,169,.80)} .cell.p2{background:rgba(47,110,200,.85)}
+.cell.p3{background:rgba(201,75,106,.85)} .cell.p4{background:rgba(232,118,43,.92)}
+.cell.cen{font-size:calc(var(--cs)*.62);color:#fff3d6}
+.cell.sel{outline:2px solid var(--gold);outline-offset:-1px}
+#board.drop .cell:not(:has(.tl)):hover{outline:2px dashed var(--cream);outline-offset:-2px}
+
+/* ---------- Fitxes ---------- */
+.tl{--sz:var(--cs);position:absolute;inset:0;border-radius:14%;display:grid;place-items:center;color:#2b1d12;
+  background:linear-gradient(145deg,#fffaf0,#e9dcc3 70%,#d9c8a8);box-shadow:inset 0 -2px 0 rgba(90,60,30,.25),inset 0 1px 0 #fff,0 1px 2px rgba(0,0,0,.55);
+  font-family:Georgia,"Times New Roman",serif;font-weight:700;touch-action:none}
+.tl .lt{font-size:calc(var(--sz)*.62);line-height:1;margin-top:-6%}
+.tl .lt.dg{font-size:calc(var(--sz)*.36);letter-spacing:-.04em}
+.tl .pt{position:absolute;right:9%;bottom:5%;font:700 calc(var(--sz)*.25)/1 "Segoe UI",system-ui,sans-serif;color:#6b4a2a}
+.tl.bl .lt{color:#c4661a}
+.tl.pend{background:linear-gradient(145deg,#fff6d8,#f6d796);box-shadow:0 0 0 2px var(--gold),0 2px 5px rgba(0,0,0,.5);cursor:grab;z-index:2}
+.tl.last{background:linear-gradient(145deg,#fffdf4,#f3e5c4 70%,#e8cf9f);box-shadow:inset 0 0 0 2px rgba(247,147,30,.85),0 1px 2px rgba(0,0,0,.55)}
+.tl.new{animation:drop .45s ease-out}
+@keyframes drop{0%{opacity:0;transform:scale(1.6)}70%{opacity:1;transform:scale(.94)}100%{transform:scale(1)}}
+.tl.hint{box-shadow:0 0 0 2px #7cf,0 0 10px #7cf}
+.tl.ghost{position:fixed;z-index:50;pointer-events:none;inset:auto;width:var(--sz);height:var(--sz);transform:translate(-50%,-70%) scale(1.15);opacity:.95;box-shadow:0 8px 18px rgba(0,0,0,.6)}
+#badge{position:absolute;z-index:4;pointer-events:none;background:var(--gold);color:#1a1006;font:800 13px/1 "Segoe UI",system-ui,sans-serif;border-radius:10px;padding:3px 6px;box-shadow:0 2px 6px rgba(0,0,0,.5);transform:translate(-30%,-60%);display:none}
+#badge.bad{background:#6b5f55;color:#fff}
+
+/* ---------- Faristol ---------- */
+#me{flex:none;padding:6px 8px calc(8px + env(safe-area-inset-bottom));display:flex;flex-direction:column;align-items:center;gap:6px}
+#status{font-size:14px;color:var(--cream);min-height:19px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-align:center}
+#status.err{color:#ffb08f}
+#rack{display:flex;gap:5px;justify-content:center;padding:6px 10px 8px;border-radius:12px;min-height:calc(var(--rt) + 16px);min-width:min(92vw,calc(var(--rt)*7 + 66px));
+  background:linear-gradient(#6b4423,#4a2d15);box-shadow:inset 0 2px 0 rgba(255,255,255,.12),inset 0 -3px 0 rgba(0,0,0,.35),0 4px 10px rgba(0,0,0,.6)}
+.slot{position:relative;width:var(--rt);height:var(--rt);flex:none;transition:transform .15s}
+.slot .tl{--sz:var(--rt);cursor:pointer}
+.slot.sel{transform:translateY(-8px)} .slot.sel .tl{box-shadow:0 0 0 2px var(--gold),0 0 12px rgba(247,147,30,.8)}
+.slot.used{visibility:hidden}
+#ctrl{display:flex;gap:6px;flex-wrap:wrap;justify-content:center}
+#ctrl .btn{padding:7px 12px;font-size:14px}
+#ctrl .btn.pri{min-width:110px}
+.shake{animation:shake .35s}
+@keyframes shake{25%{translate:-6px}50%{translate:6px}75%{translate:-3px}}
+
+/* ---------- Finestres ---------- */
+#modal{position:fixed;inset:0;background:rgba(0,0,0,.6);display:none;align-items:center;justify-content:center;z-index:20;padding:12px}
+#modal.on{display:flex}
+.box{background:var(--ui);border:1px solid #4a3d31;border-top:3px solid var(--gold);border-radius:14px;max-width:560px;width:100%;max-height:92dvh;overflow:auto;padding:16px 18px;box-shadow:0 10px 40px rgba(0,0,0,.7);user-select:text}
+.box h2{margin:0 0 10px;color:var(--gold);font-size:20px}
+.box h3{margin:14px 0 6px;color:var(--gold);font-size:16px}
+.box .row{display:flex;gap:8px;justify-content:flex-end;margin-top:14px;flex-wrap:wrap}
+.btn{background:var(--ui3);border:1px solid #5b4d40;border-radius:10px;padding:8px 16px;font-weight:600}
+.btn.pri{background:var(--gold);border-color:var(--gold);color:#1a1006}
+.btn:hover{filter:brightness(1.1)}
+.seg{display:flex;flex-wrap:wrap;gap:4px}
+.seg button{background:var(--ui2);border:1px solid #4a3d31;border-radius:8px;padding:5px 10px;font-size:13px}
+.seg button.on{background:var(--gold);color:#1a1006;border-color:var(--gold);font-weight:700}
+.opt{display:grid;grid-template-columns:minmax(110px,38%) 1fr;gap:8px 10px;align-items:center;margin:8px 0}
+.opt label{color:var(--mut);font-size:14px}
+.tabs{display:flex;gap:4px;margin-bottom:8px;border-bottom:1px solid #4a3d31;flex-wrap:wrap}
+.tabs button{background:none;border:none;padding:6px 10px;color:var(--mut);border-bottom:3px solid transparent}
+.tabs button.on{color:var(--gold);border-bottom-color:var(--gold);font-weight:700}
+input[type=range]{width:100%;accent-color:var(--gold)}
+table.h{width:100%;border-collapse:collapse;font-size:14px}
+table.h td,table.h th{padding:4px 6px;border-bottom:1px solid #3e342b;text-align:center}
+table.h th{color:var(--mut);font-weight:600}
+table.h td.w{text-align:left;font-weight:600;letter-spacing:.5px}
+.codebig{font-size:42px;font-weight:900;letter-spacing:10px;text-align:center;color:var(--gold);margin:2px 0 6px}
+input:not([type]),input[type=text]{background:var(--ui2);border:1px solid #5b4d40;border-radius:8px;color:var(--txt);padding:8px 10px;font:inherit;width:100%}
+input:focus{outline:2px solid var(--gold);border-color:var(--gold)}
+.err{color:#ff9c7a;min-height:1.2em;margin:6px 0 0;font-size:14px}
+button:disabled{opacity:.45;cursor:default}
+.big{font-size:22px;font-weight:800;color:var(--cream);text-align:center;margin:4px 0}
+.mutd{color:var(--mut);font-size:13px}
+.letters{display:grid;grid-template-columns:repeat(auto-fill,minmax(48px,1fr));gap:6px}
+.letters .slot{--rt:48px;width:48px;height:48px;cursor:pointer}
+.xch{display:flex;gap:6px;flex-wrap:wrap;justify-content:center;margin:10px 0}
+.xch .slot{--rt:46px;cursor:pointer;opacity:.55}
+.xch .slot.on{opacity:1;transform:translateY(-6px)} .xch .slot.on .tl{box-shadow:0 0 0 2px var(--gold)}
+.rooms{display:grid;gap:6px;margin:6px 0}
+.rooms .rm{display:flex;align-items:center;gap:8px;background:var(--ui2);border-radius:8px;padding:6px 8px}
+.rooms .rm b{letter-spacing:2px;color:var(--gold)}
+.rooms .rm .inf{flex:1;font-size:13px;color:var(--mut);min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.rooms .rm .inf.go{color:var(--cream);font-weight:700}
+.rooms .rm .btn{padding:4px 10px}
+.legend{display:flex;gap:10px;flex-wrap:wrap;margin:6px 0}
+.legend span{display:inline-flex;align-items:center;gap:5px;font-size:13px}
+.legend i{display:inline-block;width:18px;height:18px;border-radius:4px}
+
+/* ---------- Pantalla d'inici ---------- */
+#start{position:fixed;inset:0;z-index:15;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:10px;padding:16px;background:radial-gradient(ellipse at 50% 35%,#2a1a0a 0%,#0b0a09 65%);overflow:auto}
+#start.off{display:none}
+#start img.logo{width:min(70vw,40vh,340px);border-radius:16px}
+#start .menu{display:flex;flex-direction:column;gap:8px;width:min(320px,90vw)}
+#start .menu .btn{padding:12px;font-size:16px}
+#start .cr{font-size:11px;color:var(--mut);text-align:center;max-width:420px}
+#start .box{max-width:420px}
+
+@media (max-width:560px){
+  header .ttl{display:none}
+  .tools button{width:34px;height:34px;font-size:15px}
+  #ctrl .btn{padding:6px 9px;font-size:13px}
+  #ctrl .btn.pri{min-width:92px}
+  .pc{padding:1px 7px;font-size:12px} .pc b{font-size:15px}
+  #bwrap{padding:2px 4px 6px}
+}
+</style>
+</head>
+<body data-tapet="verd">
+
+<header>
+  <img src="img/icona.png" alt="">
+  <div class="ttl">Paraules<small>XORIGUER</small></div>
+  <div class="tools">
+    <button id="bZoom" data-tt="Ampliar el tauler" title="Ampliar el tauler">🔍</button>
+    <button id="bHist" data-tt="Jugades" title="Jugades">📜</button>
+    <button id="bRules" data-tt="Regles" title="Regles">❓</button>
+    <button id="bOpt" data-tt="Opcions" title="Opcions">⚙</button>
+    <button id="bMenu" data-tt="Menú" title="Menú">☰</button>
+  </div>
+</header>
+
+<div id="table">
+  <div id="deco"><img src="img/deco.png" alt=""></div>
+  <div id="players"></div>
+  <div id="bwrap"><div id="board"></div><div id="badge"></div></div>
+</div>
+
+<div id="me">
+  <div id="status"></div>
+  <div id="rack"></div>
+  <div id="ctrl">
+    <button class="btn" id="cShuffle" data-tt="Barrejar" title="Barrejar">🔀</button>
+    <button class="btn" id="cHint" data-tt="Pista" title="Pista">💡</button>
+    <button class="btn" id="cSwap"><span data-t="Canviar">Canviar</span></button>
+    <button class="btn" id="cPass"><span data-t="Passar">Passar</span></button>
+    <button class="btn" id="cRecall" data-tt="Recollir les fitxes" title="Recollir les fitxes">↩</button>
+    <button class="btn pri" id="cPlay"></button>
+  </div>
+</div>
+
+<div id="start"></div>
+<div id="modal"><div class="box" id="mbox"></div></div>
+
+<script src="motor.js"></script>
+<script src="firebase-config.js"></script>
+<script>
+'use strict';
+/* =====================================================================
+   PARAULES XORIGUER — joc de paraules creuades (català i castellà)
+   El motor (regles, diccionari, IA) és a motor.js. Aquí: interfície, solitari i online.
+   ===================================================================== */
+const M = Motor, N = M.N, BLANK = M.BLANK;
+const $ = s => document.querySelector(s), $$ = s => [...document.querySelectorAll(s)];
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+const quiet = () => {};
+const APP_VERSION = '1.0', APP_DATE = '2026-11-10';
+const AI_NAMES = ['Montse', 'Jordi', 'Pere'];
+
+/* ---------- Idiomes (interfície en català i castellà) ---------- */
+const I18N = { es: {
+  'Ampliar el tauler': 'Ampliar el tablero', 'Jugades': 'Jugadas', 'Regles': 'Reglas', 'Opcions': 'Opciones', 'Menú': 'Menú',
+  'Barrejar': 'Mezclar', 'Pista': 'Pista', 'Canviar': 'Cambiar', 'Passar': 'Pasar', 'Recollir les fitxes': 'Recoger las fichas',
+  'Jugar': 'Jugar', 'Tu': 'Tú', 'Bossa': 'Bolsa', 'fitxes': 'fichas',
+  'Continuar la partida': 'Continuar la partida', 'Partida nova': 'Partida nueva', 'Partida online': 'Partida online',
+  'Estadístiques': 'Estadísticas', 'Tornar': 'Volver', 'Començar': 'Empezar', 'Tancar': 'Cerrar', 'Continuar': 'Continuar',
+  'Diccionari': 'Diccionario', 'Jugadors': 'Jugadores', 'Nivell de la IA': 'Nivel de la IA', 'Fàcil': 'Fácil', 'Normal': 'Normal', 'Difícil': 'Difícil',
+  'Català': 'Catalán', 'Castellà': 'Castellano',
+  'Carregant el diccionari...': 'Cargando el diccionario...', "No s'ha pogut carregar el diccionari.": 'No se ha podido cargar el diccionario.',
+  'Et toca!': '¡Te toca!', 'Torn de {0}': 'Turno de {0}', '{0} pensa...': '{0} piensa...',
+  'Posa fitxes al tauler': 'Pon fichas en el tablero', 'Toca una casella per posar-hi la fitxa': 'Toca una casilla para poner la ficha',
+  "Les fitxes han d'anar en una sola fila o columna.": 'Las fichas deben ir en una sola fila o columna.',
+  'No hi pot haver forats entre les fitxes.': 'No puede haber huecos entre las fichas.',
+  'La primera paraula ha de passar pel centre ★.': 'La primera palabra debe pasar por el centro ★.',
+  'La paraula ha de tocar alguna fitxa del tauler.': 'La palabra debe tocar alguna ficha del tablero.',
+  "Les paraules han de tenir almenys 2 lletres.": 'Las palabras deben tener al menos 2 letras.',
+  'No és vàlida: {0}': 'No es válida: {0}', 'No són vàlides: {0}': 'No son válidas: {0}',
+  'Tria la lletra de l\'escarràs': 'Elige la letra del comodín',
+  'Canviar fitxes': 'Cambiar fichas', 'Tria les fitxes que vols canviar.': 'Elige las fichas que quieres cambiar.',
+  'Ja no es poden canviar fitxes: a la bossa en queden menys de 7.': 'Ya no se pueden cambiar fichas: en la bolsa quedan menos de 7.',
+  'Vols passar el torn?': '¿Quieres pasar el turno?', 'Sí, passar': 'Sí, pasar', 'No': 'No',
+  'passa': 'pasa', 'canvia {0} fitxes': 'cambia {0} fichas', 'canvia 1 fitxa': 'cambia 1 ficha',
+  'Fi de la partida': 'Fin de la partida', 'Has guanyat!': '¡Has ganado!', 'Guanya {0}': 'Gana {0}', 'Empat': 'Empate',
+  'Fitxes que queden': 'Fichas que quedan', 'Total': 'Total', 'Jugador': 'Jugador', 'Paraules': 'Palabras', 'Punts': 'Puntos',
+  'Tornar al menú': 'Volver al menú', 'Abandonar la partida': 'Abandonar la partida', 'Segur que vols abandonar la partida?': '¿Seguro que quieres abandonar la partida?',
+  'Encara no hi ha cap jugada.': 'Todavía no hay ninguna jugada.',
+  'Partides jugades': 'Partidas jugadas', 'Guanyades': 'Ganadas', 'Millor puntuació': 'Mejor puntuación', 'Millor jugada': 'Mejor jugada',
+  'Mitjana de punts': 'Media de puntos', 'Esborrar': 'Borrar', 'Esborrar les estadístiques?': '¿Borrar las estadísticas?',
+  'Aspecte': 'Aspecto', 'So': 'Sonido', 'Joc': 'Juego', 'Quant a': 'Acerca de',
+  'Idioma': 'Idioma', 'Automàtic': 'Automático', 'Tapet': 'Tapete', 'Verd': 'Verde', 'Blau': 'Azul', 'Vermell': 'Rojo', 'Fusta': 'Madera',
+  'Sons': 'Sonidos', 'Volum': 'Volumen', 'Sí': 'Sí', 'Velocitat de la IA': 'Velocidad de la IA', 'Lenta': 'Lenta', 'Ràpida': 'Rápida',
+  'Mostrar els punts mentre col·loques': 'Mostrar los puntos mientras colocas',
+  'Versió': 'Versión',
+  'Bingo! +50': '¡Bingo! +50',
+  // online
+  'El teu nom': 'Tu nombre', 'Crear sala': 'Crear sala', 'Entrar a una sala': 'Entrar en una sala', 'Codi de la sala': 'Código de la sala',
+  'Entrar': 'Entrar', 'Escriu el teu nom.': 'Escribe tu nombre.', 'Escriu el codi de 4 lletres.': 'Escribe el código de 4 letras.',
+  'Connectant...': 'Conectando...', "No s'ha pogut connectar: {0}": 'No se ha podido conectar: {0}',
+  'No existeix cap sala amb aquest codi.': 'No existe ninguna sala con este código.', 'La sala és plena.': 'La sala está llena.',
+  'La partida ja ha començat i no hi tens seient.': 'La partida ya ha empezado y no tienes asiento.',
+  'Falta configurar el servidor (adreça de Firebase).': 'Falta configurar el servidor (dirección de Firebase).',
+  'Les meves partides': 'Mis partidas', 'Treure de la llista': 'Quitar de la lista', 'et toca!': '¡te toca!', 'torn de {0}': 'turno de {0}',
+  'a la sala d\'espera': 'en la sala de espera', 'acabada': 'terminada', 'no existeix': 'no existe',
+  'Sala': 'Sala', 'Passa aquest codi als altres jugadors.': 'Pasa este código a los demás jugadores.',
+  'Seure aquí': 'Sentarse aquí', 'lliure (IA)': 'libre (IA)', 'Seient': 'Asiento', 'Sortir': 'Salir',
+  'Començar ({0})': 'Empezar ({0})', 'Esperant que l\'amfitrió comenci...': 'Esperando a que el anfitrión empiece...',
+  'Sortir de la sala': 'Salir de la sala', 'La partida continua: hi pots tornar des de "Les meves partides".': 'La partida sigue: puedes volver desde "Mis partidas".',
+  'Esborrar la sala': 'Borrar la sala', 'Segur? La partida s\'esborrarà per a tothom.': '¿Seguro? La partida se borrará para todos.',
+  'La sala s\'ha esborrat.': 'La sala se ha borrado.', "D'acord": 'De acuerdo',
+  'Algú ha jugat abans que tu. Torna-ho a mirar.': 'Alguien ha jugado antes que tú. Vuelve a mirarlo.',
+  'Cada jugador tira quan pot: la partida queda guardada a la sala.': 'Cada jugador juega cuando puede: la partida queda guardada en la sala.',
+  'amfitrió': 'anfitrión', 'IA': 'IA'
+} };
+let LANG = 'ca';
+function t(k, ...a) { let s = (LANG !== 'ca' && I18N[LANG] && I18N[LANG][k]) || k; a.forEach((v, i) => s = s.split('{' + i + '}').join(v)); return s; }
+function applyLang() {
+  document.documentElement.lang = LANG;
+  $$('[data-t]').forEach(e => e.textContent = t(e.dataset.t));
+  $$('[data-tt]').forEach(e => e.title = t(e.dataset.tt));
+}
+const RULES = {
+  ca: `<p>Cada jugador té 7 fitxes. Al teu torn, forma una paraula al tauler amb les teves fitxes, en una sola fila (d'esquerra a dreta) o columna (de dalt a baix), tocant les que ja hi ha. La primera paraula ha de passar pel centre ★.</p>
+<p>Totes les paraules noves que es formin (també les creuades) han de ser al diccionari. Valen plurals, femenins i verbs conjugats. No valen noms propis, sigles ni abreviatures. Els accents no compten.</p>
+<h3>Punts</h3><div class="legend"><span><i style="background:#4fb3a9"></i>L×2 lletra doble</span><span><i style="background:#2f6ec8"></i>L×3 lletra triple</span><span><i style="background:#c94b6a"></i>P×2 paraula doble</span><span><i style="background:#e8762b"></i>P×3 paraula triple</span></div>
+<p>Cada fitxa porta el seu valor. Les caselles de colors només compten el torn que s'hi posa una fitxa. Si fas servir les 7 fitxes alhora: <b>+50</b>. Els escarrassos (fitxes en blanc) poden ser qualsevol lletra i valen 0.</p>
+<p><b>L·L</b>, <b>NY</b> i <b>QU</b> són una sola fitxa. La Ç també és una fitxa.</p>
+<h3>Altres jugades</h3><p>En comptes de jugar pots <b>canviar</b> fitxes (si a la bossa en queden 7 o més) o <b>passar</b>.</p>
+<h3>Final</h3><p>S'acaba quan algú gasta totes les fitxes i la bossa és buida, o quan tothom passa o canvia 3 torns seguits. A cadascú se li resten els punts de les fitxes que li queden; qui ha tancat se'ls suma.</p>
+<h3>Com es juga</h3><p>Toca una fitxa del faristol i després una casella (o arrossega-la). Toca una fitxa posada per retirar-la. 🔍 amplia el tauler.</p>`,
+  es: `<p>Cada jugador tiene 7 fichas. En tu turno, forma una palabra en el tablero con tus fichas, en una sola fila (de izquierda a derecha) o columna (de arriba abajo), tocando las que ya hay. La primera palabra debe pasar por el centro ★.</p>
+<p>Todas las palabras nuevas que se formen (también las cruzadas) deben estar en el diccionario. Valen plurales, femeninos y verbos conjugados. No valen nombres propios, siglas ni abreviaturas. Las tildes no cuentan.</p>
+<h3>Puntos</h3><div class="legend"><span><i style="background:#4fb3a9"></i>L×2 letra doble</span><span><i style="background:#2f6ec8"></i>L×3 letra triple</span><span><i style="background:#c94b6a"></i>P×2 palabra doble</span><span><i style="background:#e8762b"></i>P×3 palabra triple</span></div>
+<p>Cada ficha lleva su valor. Las casillas de colores solo cuentan el turno en que se pone una ficha. Si usas las 7 fichas a la vez: <b>+50</b>. Los comodines (fichas en blanco) pueden ser cualquier letra y valen 0.</p>
+<p>En castellano CH, LL y RR se forman con dos fichas. La Ñ es una ficha. K y W solo con comodín.</p>
+<h3>Otras jugadas</h3><p>En lugar de jugar puedes <b>cambiar</b> fichas (si en la bolsa quedan 7 o más) o <b>pasar</b>.</p>
+<h3>Final</h3><p>Termina cuando alguien gasta todas las fichas y la bolsa está vacía, o cuando todos pasan o cambian 3 turnos seguidos. A cada uno se le restan los puntos de las fichas que le quedan; quien ha cerrado se los suma.</p>
+<h3>Cómo se juega</h3><p>Toca una ficha del atril y luego una casilla (o arrástrala). Toca una ficha puesta para retirarla. 🔍 amplía el tablero.</p>`
+};
+
+/* ---------- Opcions ---------- */
+const OPTS = [
+  { k: 'idioma', g: 'Aspecte', l: 'Idioma', d: 'auto', v: [['auto', 'Automàtic'], ['ca', 'Català'], ['es', 'Español']] },
+  { k: 'tapet', g: 'Aspecte', l: 'Tapet', d: 'verd', v: [['verd', 'Verd'], ['blau', 'Blau'], ['vermell', 'Vermell'], ['fusta', 'Fusta']] },
+  { k: 'so', g: 'So', l: 'Sons', d: '1', v: [['1', 'Sí'], ['0', 'No']] },
+  { k: 'vol', g: 'So', l: 'Volum', d: '70', range: true },
+  { k: 'vel', g: 'Joc', l: 'Velocitat de la IA', d: '1', v: [['1.6', 'Lenta'], ['1', 'Normal'], ['0.5', 'Ràpida']] },
+  { k: 'preview', g: 'Joc', l: 'Mostrar els punts mentre col·loques', d: '1', v: [['1', 'Sí'], ['0', 'No']] },
+];
+const OPT_TABS = ['Aspecte', 'So', 'Joc', 'Quant a'];
+const store = {
+  get(k, d) { try { const v = localStorage.getItem(k); return v == null ? d : v; } catch (e) { return d; } },
+  set(k, v) { try { localStorage.setItem(k, v); } catch (e) {} },
+  del(k) { try { localStorage.removeItem(k); } catch (e) {} },
+  json(k, d) { try { const v = JSON.parse(localStorage.getItem(k)); return v == null ? d : v; } catch (e) { return d; } }
+};
+const opt = k => store.get('par_opt_' + k, OPTS.find(o => o.k === k).d);
+function setOpt(k, v) {
+  store.set('par_opt_' + k, v);
+  if (k === 'idioma') setLang();
+  if (k === 'tapet') document.body.dataset.tapet = v;
+  if (k === 'preview') renderAll();
+}
+function setLang() {
+  const o = opt('idioma');
+  LANG = o === 'auto' ? ((navigator.language || 'ca').slice(0, 2).toLowerCase() === 'es' ? 'es' : 'ca') : o;
+  applyLang();
+  renderAll();
+  if (!$('#start').classList.contains('off') && SCREEN) SCREEN();
+}
+
+/* ---------- So (WebAudio, sense fitxers) ---------- */
+let AC = null;
+function snd(kind) {
+  if (opt('so') !== '1') return;
+  try {
+    AC = AC || new (window.AudioContext || window.webkitAudioContext)();
+    const vol = (+opt('vol') || 0) / 100, now = AC.currentTime;
+    if (kind === 'tile') {
+      const len = .06, buf = AC.createBuffer(1, Math.ceil(AC.sampleRate * len), AC.sampleRate), d = buf.getChannelData(0);
+      for (let i = 0; i < d.length; i++) d[i] = (Math.random() * 2 - 1) * Math.pow(1 - i / d.length, 7);
+      const src = AC.createBufferSource(); src.buffer = buf;
+      const f = AC.createBiquadFilter(); f.type = 'bandpass'; f.frequency.value = 1700 + Math.random() * 500; f.Q.value = 1.4;
+      const g = AC.createGain(); g.gain.value = 1.1 * vol;
+      src.connect(f).connect(g).connect(AC.destination); src.start(now);
+      const o = AC.createOscillator(), g2 = AC.createGain(); o.frequency.value = 520; g2.gain.setValueAtTime(.10 * vol, now); g2.gain.exponentialRampToValueAtTime(.0005, now + .05);
+      o.connect(g2).connect(AC.destination); o.start(now); o.stop(now + .06);
+      return;
+    }
+    const notes = { turn: [660, 880], pass: [300, 240], bad: [220, 180], win: [523, 659, 784, 1046], lose: [392, 330, 262], bingo: [784, 988, 1175, 1568], play: [587, 784] }[kind] || [440];
+    notes.forEach((fq, i) => {
+      const o = AC.createOscillator(), g = AC.createGain(), t0 = now + i * .1;
+      o.type = 'sine'; o.frequency.value = fq;
+      g.gain.setValueAtTime(0, t0); g.gain.linearRampToValueAtTime(.16 * vol, t0 + .015); g.gain.exponentialRampToValueAtTime(.001, t0 + .26);
+      o.connect(g).connect(AC.destination); o.start(t0); o.stop(t0 + .28);
+    });
+  } catch (e) {}
+}
+document.addEventListener('pointerdown', () => { if (AC && AC.state === 'suspended') AC.resume(); });
+
+/* ---------- Diccionaris ---------- */
+const DICTS = {};
+async function getDict(lang) {
+  if (DICTS[lang]) return DICTS[lang];
+  const r = await fetch('dades/' + lang + '.dawg');
+  if (!r.ok) throw new Error(t("No s'ha pogut carregar el diccionari."));
+  return DICTS[lang] = new M.Dict(await r.arrayBuffer());
+}
+
+/* ---------- Estat ----------
+   G.S: estat del motor; G.me: el meu seient; G.names; G.ai[s]: el seient el juga la IA
+   G.rack: les meves fitxes en l'ordre que les tinc; G.pend: fitxes posades aquest torn {ri, i, l, b} */
+const G = { S: null, dict: null, L: null, mode: null, me: 0, names: [], ai: [], level: 1, rack: [], pend: [], sel: -1, token: 0, busy: false, zoom: false, anim: null, hint: null };
+let SCREEN = null;   // funció que torna a pintar la pantalla d'inici actual (per canviar d'idioma)
+
+function packS(S) {
+  return { lang: S.lang, n: S.n, board: Array.from(S.board), blank: Array.from(S.blank), bag: S.bag, racks: S.racks, scores: S.scores,
+    turn: S.turn, scoreless: S.scoreless, moves: S.moves, over: S.over, last: S.last || null, final: S.final || null, closer: S.closer == null ? null : S.closer, hist: S.hist || [] };
+}
+function unpackS(o) {
+  const S = Object.assign({}, o);
+  S.board = Int8Array.from(o.board); S.blank = Uint8Array.from(o.blank);
+  S.bag = (o.bag || []).slice(); S.racks = (o.racks || []).map(r => (r || []).slice());
+  S.seed = M.rng((Math.random() * 4294967296) >>> 0); S.hist = o.hist || [];
+  return S;
+}
+const wordTxt = w => w.map(l => M.letterText(G.L, l)).join('');
+const myTurn = () => G.S && !G.S.over && G.S.turn === G.me && !G.busy;
+
+// Aplica una jugada i l'apunta a l'historial
+function doPlay(S, tiles, words, score) {
+  const p = S.turn;
+  M.applyMove(S, tiles, score);
+  S.hist.push({ p, t: 'play', w: words.map(wordTxt), s: score, b: tiles.length === 7 ? 1 : 0 });
+}
+function doSwap(S, codes) { const p = S.turn; M.applyExchange(S, codes); S.hist.push({ p, t: 'swap', n: codes.length }); }
+function doPass(S) { const p = S.turn; M.applyPass(S); S.hist.push({ p, t: 'pass' }); }
+
+// Manté l'ordre del meu faristol quan l'estat canvia
+function syncRack() {
+  const cur = (G.S && G.S.racks[G.me] || []).slice(), out = [];
+  for (const c of G.rack) { const j = cur.indexOf(c); if (j >= 0) { out.push(c); cur.splice(j, 1); } }
+  G.rack = out.concat(cur);
+  G.pend = G.pend.filter(p => p.ri < G.rack.length);
+}
+
+/* ---------- Pintar ---------- */
+function tileHtml(l, b, cls = '') {
+  const txt = l == null ? '' : M.letterText(G.L, l);
+  const pts = b || l == null ? '' : G.L.val[l];
+  return `<div class="tl ${b ? 'bl' : ''} ${cls}"><span class="lt ${txt.length > 1 ? 'dg' : ''}">${esc(txt)}</span><span class="pt">${pts || ''}</span></div>`;
+}
+const PLAB = ['', 'L×2', 'L×3', 'P×2', 'P×3'];
+function renderBoard() {
+  const S = G.S, B = $('#board');
+  if (!S) { B.innerHTML = ''; $('#badge').style.display = 'none'; return; }
+  const last = new Set(S.last && S.last.type === 'play' ? S.last.tiles.map(x => x.i) : []);
+  const pend = new Map(G.pend.map((p, k) => [p.i, k]));
+  const hint = new Set(G.hint || []);
+  let h = '';
+  for (let i = 0; i < N * N; i++) {
+    const pr = M.PREM[i];
+    let inner = '';
+    if (S.board[i] >= 0) inner = tileHtml(S.board[i], S.blank[i], (last.has(i) ? 'last ' : '') + (G.anim && G.anim.has(i) ? 'new' : ''));
+    else if (pend.has(i)) { const p = G.pend[pend.get(i)]; inner = tileHtml(p.l, p.b, 'pend' + (hint.has(i) ? ' hint' : '')).replace('<div class="tl', `<div data-pk="${pend.get(i)}" class="tl`); }
+    else inner = i === M.CEN ? '★' : PLAB[pr];
+    h += `<div class="cell ${pr ? 'p' + pr : ''} ${i === M.CEN ? 'cen' : ''}" data-i="${i}">${inner}</div>`;
+  }
+  B.innerHTML = h;
+  G.anim = null;
+  B.querySelectorAll('.tl.pend').forEach(el => bindDrag(el, { kind: 'pend', k: +el.dataset.pk }));
+  preview();
+}
+function renderRack() {
+  const R = $('#rack'), used = new Set(G.pend.map(p => p.ri));
+  R.innerHTML = G.rack.map((c, ri) => `<div class="slot ${used.has(ri) ? 'used' : ''} ${G.sel === ri ? 'sel' : ''}" data-ri="${ri}">${c === BLANK ? tileHtml(null, 1) : tileHtml(c, 0)}</div>`).join('');
+  R.querySelectorAll('.slot:not(.used) .tl').forEach(el => bindDrag(el, { kind: 'rack', ri: +el.parentNode.dataset.ri }));
+}
+function renderPlayers() {
+  const S = G.S, P = $('#players');
+  if (!S) { P.innerHTML = ''; return; }
+  let h = '';
+  for (let p = 0; p < S.n; p++) {
+    const nm = p === G.me ? (G.mode === 'online' ? G.names[p] : t('Tu')) : G.names[p];
+    const tag = G.ai[p] && G.mode === 'online' ? `<i>${t('IA')}</i>` : '';
+    h += `<div class="pc ${p === G.me ? 'me' : ''} ${!S.over && S.turn === p ? 'turn' : ''}"><span class="nm">${esc(nm)}${tag}</span><b>${S.scores[p]}</b></div>`;
+  }
+  h += `<div class="pc bag" title="${t('Bossa')}">🎒 ${S.bag.length}</div>`;
+  P.innerHTML = h;
+}
+function renderCtrl() {
+  const mine = myTurn(), S = G.S;
+  $('#cPlay').disabled = !mine || !G.pend.length;
+  $('#cSwap').disabled = !mine || !S || S.bag.length < M.RACK;
+  $('#cPass').disabled = !mine;
+  $('#cHint').disabled = !mine;
+  $('#cRecall').disabled = !G.pend.length;
+  $('#cShuffle').disabled = !G.S;
+  if (!$('#cPlay').textContent) $('#cPlay').textContent = t('Jugar');
+}
+function renderAll() {
+  if (!G.S) { $('#board').innerHTML = ''; $('#rack').innerHTML = ''; $('#players').innerHTML = ''; $('#badge').style.display = 'none'; return; }
+  renderPlayers(); renderBoard(); renderRack(); renderCtrl(); fitBoard();
+}
+function status(msg, err) { const s = $('#status'); s.textContent = msg || ''; s.classList.toggle('err', !!err); }
+function turnStatus() {
+  const S = G.S; if (!S) return status('');
+  if (S.over) return status(t('Fi de la partida'));
+  if (S.turn === G.me) status(G.pend.length ? '' : t('Et toca!'));
+  else status(t('Torn de {0}', G.names[S.turn]));
+}
+
+// Puntuació provisional mentre col·loques
+function preview() {
+  const bd = $('#badge'), btn = $('#cPlay');
+  btn.textContent = t('Jugar');
+  bd.style.display = 'none';
+  if (!G.pend.length || !G.S) return;
+  const r = M.evalPlacement(G.S, G.dict, G.pend.map(p => ({ i: p.i, l: p.l, b: p.b })));
+  if (r.ok) btn.textContent = `${t('Jugar')} (${r.score})`;
+  if (opt('preview') !== '1') return;
+  const ok = r.ok, show = ok || r.err === 'paraula';
+  if (!show) return;
+  const at = Math.max(...G.pend.map(p => p.i)), cell = $(`.cell[data-i="${at}"]`);
+  if (!cell) return;
+  const wr = $('#bwrap').getBoundingClientRect(), cr = cell.getBoundingClientRect();
+  bd.style.left = (cr.right - wr.left + $('#bwrap').scrollLeft) + 'px';
+  bd.style.top = (cr.top - wr.top + $('#bwrap').scrollTop) + 'px';
+  bd.textContent = ok ? r.score : '✗';
+  bd.classList.toggle('bad', !ok);
+  bd.style.display = 'block';
+}
+
+// Mida del tauler: quadrat que hi càpiga (o més gran si està ampliat)
+function fitBoard() {
+  const W = $('#bwrap'), B = $('#board');
+  const base = Math.max(150, Math.floor(Math.min(W.clientWidth - 12, W.clientHeight - 12) / N) * N);
+  const size = G.zoom ? Math.max(base * 1.8, N * 34) : base;
+  B.style.width = B.style.height = size + 'px';
+  B.style.setProperty('--cs', (size / N) + 'px');
+  W.classList.toggle('zoom', G.zoom);
+  $('#bZoom').classList.toggle('on', G.zoom);
+  requestAnimationFrame(preview);
+}
+addEventListener('resize', () => { if (G.S) fitBoard(); });
+if (window.ResizeObserver) { let rw = 0, rh = 0; new ResizeObserver(() => { const W = $('#bwrap'); if (G.S && !G.zoom && (W.clientWidth !== rw || W.clientHeight !== rh)) { rw = W.clientWidth; rh = W.clientHeight; fitBoard(); } }).observe($('#table')); }
+function zoomTo(i) {
+  if (!G.zoom) return;
+  const W = $('#bwrap'), c = $(`.cell[data-i="${i}"]`); if (!c) return;
+  W.scrollLeft = c.offsetLeft - W.clientWidth / 2; W.scrollTop = c.offsetTop - W.clientHeight / 2;
+}
+
+/* ---------- Col·locar fitxes (tocar o arrossegar) ---------- */
+let DRAG = null;
+function bindDrag(el, src) {
+  el.onpointerdown = e => {
+    if (e.button > 0) return;
+    DRAG = { el, src, x: e.clientX, y: e.clientY, moved: false, ghost: null };
+    try { el.setPointerCapture(e.pointerId); } catch (x) {}
+  };
+  el.onpointermove = e => {
+    const d = DRAG; if (!d || d.el !== el) return;
+    if (!d.moved && Math.hypot(e.clientX - d.x, e.clientY - d.y) > 7) {
+      if (d.src.kind === 'pend' && !myTurn()) return;
+      d.moved = true;
+      d.ghost = el.cloneNode(true); d.ghost.classList.add('ghost'); d.ghost.classList.remove('pend', 'hint');
+      d.ghost.style.setProperty('--sz', Math.max(40, el.getBoundingClientRect().width) + 'px');
+      document.body.appendChild(d.ghost);
+      $('#board').classList.add('drop');
+      el.style.opacity = '.3';
+    }
+    if (d.moved) { d.ghost.style.left = e.clientX + 'px'; d.ghost.style.top = e.clientY + 'px'; }
+  };
+  const end = (e, cancel) => {
+    const d = DRAG; if (!d || d.el !== el) return;
+    DRAG = null;
+    $('#board').classList.remove('drop');
+    if (d.ghost) d.ghost.remove();
+    el.style.opacity = '';
+    if (cancel) return;
+    if (!d.moved) return tapTile(d.src);
+    const tg = document.elementFromPoint(e.clientX, e.clientY);
+    const cell = tg && tg.closest('.cell');
+    if (cell) dropOnCell(d.src, +cell.dataset.i);
+    else if (tg && tg.closest('#rack')) dropOnRack(d.src, tg.closest('.slot'));
+  };
+  el.onpointerup = e => end(e, false);
+  el.onpointercancel = e => end(e, true);
+}
+function cellFree(i) { return G.S.board[i] < 0 && !G.pend.some(p => p.i === i); }
+function tapTile(src) {
+  if (src.kind === 'rack') { G.sel = G.sel === src.ri ? -1 : src.ri; renderRack(); if (G.sel >= 0 && myTurn()) status(t('Toca una casella per posar-hi la fitxa')); }
+  else { G.pend.splice(src.k, 1); G.hint = null; snd('tile'); afterPend(); }
+}
+function dropOnCell(src, i) {
+  if (!myTurn()) return;
+  if (src.kind === 'rack') return placeTile(src.ri, i);
+  if (!cellFree(i)) return;
+  G.pend[src.k].i = i; snd('tile'); afterPend();
+}
+function dropOnRack(src, slot) {
+  if (src.kind === 'pend') { G.pend.splice(src.k, 1); snd('tile'); return afterPend(); }
+  if (!slot) return;
+  // reordenar el faristol (sense fitxes posades, per no barrejar índexs)
+  if (G.pend.length) return;
+  const to = +slot.dataset.ri, from = src.ri;
+  if (to === from) return;
+  const [c] = G.rack.splice(from, 1); G.rack.splice(to, 0, c); G.sel = -1; renderRack();
+}
+function placeTile(ri, i) {
+  if (!myTurn() || !cellFree(i) || G.pend.some(p => p.ri === ri)) return;
+  const c = G.rack[ri];
+  G.sel = -1; G.hint = null;
+  if (c === BLANK) return askBlank(l => { G.pend.push({ ri, i, l, b: 1 }); snd('tile'); afterPend(); });
+  G.pend.push({ ri, i, l: c, b: 0 }); snd('tile'); afterPend();
+}
+function afterPend() { renderBoard(); renderRack(); renderCtrl(); turnStatus(); }
+$('#board').addEventListener('click', e => {
+  const cell = e.target.closest('.cell'); if (!cell || e.target.closest('.tl')) return;
+  if (G.sel >= 0) placeTile(G.sel, +cell.dataset.i);
+});
+function askBlank(cb) {
+  const L = G.L;
+  let h = '';
+  for (let l = 0; l < L.n; l++) h += `<div class="slot" data-l="${l}">${tileHtml(l, 1)}</div>`;
+  modal(`<h2>${t("Tria la lletra de l'escarràs")}</h2><div class="letters">${h}</div><div class="row"><button class="btn" onclick="closeModal()">${t('Tornar')}</button></div>`);
+  $$('#mbox .letters .slot').forEach(s => s.onclick = () => { closeModal(); cb(+s.dataset.l); });
+}
+
+/* ---------- Botons ---------- */
+$('#cRecall').onclick = () => { G.pend = []; G.hint = null; G.sel = -1; afterPend(); };
+$('#cShuffle').onclick = () => {
+  if (G.pend.length) { G.pend = []; G.hint = null; }
+  for (let i = G.rack.length - 1; i > 0; i--) { const j = Math.random() * (i + 1) | 0; [G.rack[i], G.rack[j]] = [G.rack[j], G.rack[i]]; }
+  G.sel = -1; snd('tile'); afterPend();
+};
+$('#cHint').onclick = () => {
+  if (!myTurn()) return;
+  const S2 = M.cloneS(G.S); S2.racks[G.me] = G.rack.slice();
+  const ch = M.aiChoose(S2, G.dict, 2);
+  if (ch.type !== 'play') { status(t('Canviar fitxes') + '?'); return; }
+  G.pend = []; const used = new Set();
+  for (const x of ch.move.tiles) {
+    const want = x.b ? BLANK : x.l;
+    const ri = G.rack.findIndex((c, k) => c === want && !used.has(k)); used.add(ri);
+    G.pend.push({ ri, i: x.i, l: x.l, b: x.b });
+  }
+  G.hint = ch.move.tiles.map(x => x.i);
+  afterPend(); zoomTo(ch.move.tiles[0].i);
+};
+const ERRS = { linia: "Les fitxes han d'anar en una sola fila o columna.", forat: 'No hi pot haver forats entre les fitxes.', centre: 'La primera paraula ha de passar pel centre ★.',
+  aillada: 'La paraula ha de tocar alguna fitxa del tauler.', curta: "Les paraules han de tenir almenys 2 lletres.", casella: 'Posa fitxes al tauler', buida: 'Posa fitxes al tauler' };
+$('#cPlay').onclick = () => {
+  if (!myTurn() || !G.pend.length) return;
+  const tiles = G.pend.map(p => ({ i: p.i, l: p.l, b: p.b }));
+  const r = M.evalPlacement(G.S, G.dict, tiles);
+  if (!r.ok) {
+    snd('bad'); $('#rack').classList.remove('shake'); void $('#rack').offsetWidth; $('#rack').classList.add('shake');
+    if (r.err === 'paraula') status(t(r.bad.length > 1 ? 'No són vàlides: {0}' : 'No és vàlida: {0}', r.bad.map(wordTxt).join(', ')), true);
+    else status(t(ERRS[r.err] || ERRS.buida), true);
+    return;
+  }
+  commit(S => doPlay(S, tiles, r.words, r.score));
+};
+$('#cPass').onclick = () => {
+  if (!myTurn()) return;
+  modal(`<h2>${t('Passar')}</h2><p>${t('Vols passar el torn?')}</p><div class="row"><button class="btn" onclick="closeModal()">${t('No')}</button><button class="btn pri" id="okPass">${t('Sí, passar')}</button></div>`);
+  $('#okPass').onclick = () => { closeModal(); commit(S => doPass(S)); };
+};
+$('#cSwap').onclick = () => {
+  if (!myTurn()) return;
+  if (G.S.bag.length < M.RACK) { status(t('Ja no es poden canviar fitxes: a la bossa en queden menys de 7.'), true); return; }
+  const sel = new Set();
+  modal(`<h2>${t('Canviar fitxes')}</h2><p>${t('Tria les fitxes que vols canviar.')}</p>
+    <div class="xch">${G.rack.map((c, ri) => `<div class="slot" data-ri="${ri}">${c === BLANK ? tileHtml(null, 1) : tileHtml(c, 0)}</div>`).join('')}</div>
+    <div class="row"><button class="btn" onclick="closeModal()">${t('Tornar')}</button><button class="btn pri" id="okSwap" disabled>${t('Canviar')}</button></div>`);
+  $$('#mbox .xch .slot').forEach(s => s.onclick = () => {
+    const ri = +s.dataset.ri; sel.has(ri) ? sel.delete(ri) : sel.add(ri); s.classList.toggle('on', sel.has(ri));
+    $('#okSwap').disabled = !sel.size; $('#okSwap').textContent = sel.size ? `${t('Canviar')} (${sel.size})` : t('Canviar');
+  });
+  $('#okSwap').onclick = () => { const codes = [...sel].map(ri => G.rack[ri]); closeModal(); commit(S => doSwap(S, codes)); };
+};
+$('#bZoom').onclick = () => { if (!G.S) return; G.zoom = !G.zoom; fitBoard(); const i = G.pend.length ? G.pend[0].i : (G.S.last && G.S.last.tiles ? G.S.last.tiles[0].i : M.CEN); zoomTo(i); };
+$('#bHist').onclick = () => modal(histHtml());
+$('#bRules').onclick = () => modal(rulesHtml());
+$('#bOpt').onclick = () => { optTab = 'Aspecte'; modal(optHtml()); };
+$('#bMenu').onclick = () => menuModal();
+
+// Executa la meva jugada (solitari o online)
+function commit(fn) {
+  G.pend = []; G.sel = -1; G.hint = null;
+  if (G.mode === 'online') return onlineCommit(fn);
+  const before = G.S.scores[G.me];
+  fn(G.S);
+  afterMove(G.me, G.S.scores[G.me] - before);
+  saveSolo();
+  loop();
+}
+function afterMove(p, gained) {
+  const h = G.S.hist[G.S.hist.length - 1];
+  if (h && h.t === 'play') { G.anim = new Set(G.S.last.tiles.map(x => x.i)); snd(h.b ? 'bingo' : (p === G.me ? 'play' : 'tile')); }
+  else snd('pass');
+  syncRack(); renderAll();
+  if (h) status(moveText(h), false);
+}
+function moveText(h) {
+  const who = h.p === G.me && G.mode !== 'online' ? t('Tu') : G.names[h.p];
+  if (h.t === 'play') return `${who}: ${h.w.join(', ')} +${h.s}${h.b ? ' · ' + t('Bingo! +50') : ''}`;
+  if (h.t === 'swap') return `${who} ${h.n === 1 ? t('canvia 1 fitxa') : t('canvia {0} fitxes', h.n)}`;
+  return `${who} ${t('passa')}`;
+}
+
+/* ---------- Finestres ---------- */
+function modal(html) { $('#mbox').innerHTML = html; $('#modal').classList.add('on'); }
+function closeModal() { $('#modal').classList.remove('on'); }
+$('#modal').addEventListener('pointerdown', e => { if (e.target.id === 'modal' && !$('#modal').dataset.lock) closeModal(); });
+function rulesHtml() { return `<h2>${t('Regles')}</h2>${RULES[LANG] || RULES.ca}<div class="row"><button class="btn pri" onclick="closeModal()">${t('Tancar')}</button></div>`; }
+function histHtml() {
+  const S = G.S, hs = S ? S.hist : [];
+  const rows = hs.slice().reverse().map(h => {
+    const who = h.p === G.me && G.mode !== 'online' ? t('Tu') : G.names[h.p];
+    const w = h.t === 'play' ? esc(h.w.join(', ')) + (h.b ? ' ★' : '') : `<span class="mutd">${h.t === 'swap' ? (h.n === 1 ? t('canvia 1 fitxa') : t('canvia {0} fitxes', h.n)) : t('passa')}</span>`;
+    return `<tr><td>${esc(who)}</td><td class="w">${w}</td><td>${h.t === 'play' ? h.s : ''}</td></tr>`;
+  }).join('');
+  return `<h2>📜 ${t('Jugades')}</h2>${rows ? `<table class="h"><tr><th>${t('Jugador')}</th><th>${t('Paraules')}</th><th>${t('Punts')}</th></tr>${rows}</table>` : `<p>${t('Encara no hi ha cap jugada.')}</p>`}
+    <div class="row"><button class="btn pri" onclick="closeModal()">${t('Tancar')}</button></div>`;
+}
+let optTab = 'Aspecte';
+function optHtml() {
+  const tabs = OPT_TABS.map(g => `<button class="${g === optTab ? 'on' : ''}" onclick="optTab='${g}';$('#mbox').innerHTML=optHtml()">${t(g)}</button>`).join('');
+  let body = '';
+  if (optTab === 'Quant a') {
+    body = `<p class="big">Paraules · Xoriguer</p><p style="text-align:center" class="mutd">${t('Versió')} ${APP_VERSION} · ${APP_DATE}</p>
+      <p class="mutd">Diccionari català: <a href="https://github.com/Softcatala/catalan-dict-tools" target="_blank" style="color:var(--gold)">Softcatalà</a> (GPL / LGPL).<br>
+      Diccionario castellano: <a href="https://github.com/LibreOffice/dictionaries/tree/master/es" target="_blank" style="color:var(--gold)">RLA-ES · LibreOffice</a> (GPL / LGPL / MPL).<br>
+      Les llistes de paraules del joc s'han generat a partir d'aquests diccionaris.</p>`;
+  } else {
+    body = OPTS.filter(o => o.g === optTab).map(o => {
+      if (o.range) return `<div class="opt"><label>${t(o.l)}</label><input type="range" min="0" max="100" value="${opt(o.k)}" oninput="setOpt('${o.k}',this.value)" onchange="snd('tile')"></div>`;
+      return `<div class="opt"><label>${t(o.l)}</label><div class="seg">${o.v.map(([v, l]) => `<button class="${opt(o.k) === v ? 'on' : ''}" onclick="setOpt('${o.k}','${v}');$('#mbox').innerHTML=optHtml()">${o.k === 'idioma' && v !== 'auto' ? l : t(l)}</button>`).join('')}</div></div>`;
+    }).join('');
+  }
+  return `<h2>⚙ ${t('Opcions')}</h2><div class="tabs">${tabs}</div>${body}<div class="row"><button class="btn pri" onclick="closeModal()">${t('Tancar')}</button></div>`;
+}
+function statsHtml() {
+  const s = store.json('par_stats', {});
+  const L = (k, v) => `<tr><td style="text-align:left">${t(k)}</td><td>${v}</td></tr>`;
+  const pl = s.played || 0;
+  return `<h2>${t('Estadístiques')}</h2><table class="h">
+    ${L('Partides jugades', pl)}${L('Guanyades', `${s.won || 0}${pl ? ` (${Math.round(100 * (s.won || 0) / pl)}%)` : ''}`)}
+    ${L('Mitjana de punts', pl ? Math.round((s.pts || 0) / pl) : '–')}${L('Millor puntuació', s.best || '–')}
+    ${L('Millor jugada', s.bestMove ? `${esc(s.bestMove.w)} (${s.bestMove.s})` : '–')}</table>
+    <div class="row"><button class="btn" onclick="if(confirm(t('Esborrar les estadístiques?'))){store.del('par_stats');$('#mbox').innerHTML=statsHtml()}">${t('Esborrar')}</button><button class="btn pri" onclick="closeModal()">${t('Tancar')}</button></div>`;
+}
+function menuModal() {
+  if (G.mode === 'online') {
+    const host = ONLINE && ONLINE.host;
+    modal(`<h2>${t('Menú')}</h2><p class="mutd">${t('La partida continua: hi pots tornar des de "Les meves partides".')}</p>
+      <div class="row">${host ? `<button class="btn" id="mDel">${t('Esborrar la sala')}</button>` : ''}
+      <button class="btn" onclick="closeModal();leaveRoom();onlineScreen()">${t('Sortir de la sala')}</button>
+      <button class="btn pri" onclick="closeModal()">${t('Continuar')}</button></div>`);
+    if (host) $('#mDel').onclick = () => { if (confirm(t("Segur? La partida s'esborrarà per a tothom."))) deleteRoom(); };
+    return;
+  }
+  modal(`<h2>${t('Menú')}</h2><div class="row">
+    ${G.S && !G.S.over ? `<button class="btn" onclick="if(confirm(t('Segur que vols abandonar la partida?'))){closeModal();store.del('par_save');stopGame();startScreen()}">${t('Abandonar la partida')}</button>` : ''}
+    <button class="btn" onclick="closeModal();stopGame();startScreen()">${t('Tornar al menú')}</button>
+    <button class="btn pri" onclick="closeModal()">${t('Continuar')}</button></div>`);
+}
+
+/* ---------- Pantalla d'inici i solitari ---------- */
+function startScreen() {
+  SCREEN = startScreen;
+  const st = $('#start'); st.classList.remove('off');
+  const sv = store.json('par_save', null);
+  st.innerHTML = `<img class="logo" src="img/logo.jpg" alt="Paraules · Xoriguer">
+  <div class="menu">
+    ${sv && sv.S && !sv.S.over ? `<button class="btn pri" onclick="resumeSolo()">▶ ${t('Continuar la partida')} <small>(${sv.S.scores.join('–')})</small></button>` : ''}
+    <button class="btn ${sv && sv.S && !sv.S.over ? '' : 'pri'}" onclick="soloScreen()">${t('Partida nova')}</button>
+    <button class="btn" onclick="onlineScreen()">🌐 ${t('Partida online')}</button>
+    <button class="btn" onclick="modal(statsHtml())">${t('Estadístiques')}</button>
+    <button class="btn" onclick="modal(rulesHtml())">${t('Regles')}</button>
+    <button class="btn" onclick="optTab='Aspecte';modal(optHtml())">${t('Opcions')}</button>
+  </div>
+  <div class="cr">Xoriguer · ${t('Versió')} ${APP_VERSION}</div>`;
+}
+const segHtml = (id, cur, vals) => `<div class="seg" id="${id}">${vals.map(([v, l]) => `<button data-v="${v}" class="${String(cur) === String(v) ? 'on' : ''}">${l}</button>`).join('')}</div>`;
+function bindSeg(id, cb) { $$(`#${id} button`).forEach(b => b.onclick = () => { $$(`#${id} button`).forEach(x => x.classList.toggle('on', x === b)); cb(b.dataset.v); }); }
+const LEVELS = () => [[0, t('Fàcil')], [1, t('Normal')], [2, t('Difícil')]];
+const DLANGS = () => [['ca', t('Català')], ['es', t('Castellà')]];
+function newGameOpts(prefix) {
+  return { lang: store.get(prefix + 'lang', LANG === 'es' ? 'es' : 'ca'), n: +store.get(prefix + 'n', 2), level: +store.get(prefix + 'level', 1) };
+}
+function soloScreen() {
+  SCREEN = soloScreen;
+  const o = newGameOpts('par_new_');
+  const st = $('#start'); st.classList.remove('off');
+  st.innerHTML = `<img class="logo" src="img/logo.jpg" alt="" style="width:min(50vw,24vh,200px)">
+  <div class="box"><h2>${t('Partida nova')}</h2>
+    <div class="opt"><label>${t('Diccionari')}</label>${segHtml('sgLang', o.lang, DLANGS())}</div>
+    <div class="opt"><label>${t('Jugadors')}</label>${segHtml('sgN', o.n, [[2, '2'], [3, '3'], [4, '4']])}</div>
+    <div class="opt"><label>${t('Nivell de la IA')}</label>${segHtml('sgLv', o.level, LEVELS())}</div>
+    <p class="err" id="soErr"></p>
+    <div class="row"><button class="btn" onclick="startScreen()">${t('Tornar')}</button><button class="btn pri" id="soGo">${t('Començar')}</button></div></div>`;
+  bindSeg('sgLang', v => store.set('par_new_lang', v));
+  bindSeg('sgN', v => store.set('par_new_n', v));
+  bindSeg('sgLv', v => store.set('par_new_level', v));
+  $('#soGo').onclick = async () => {
+    const o = newGameOpts('par_new_');
+    $('#soErr').textContent = t('Carregant el diccionari...'); $('#soGo').disabled = true;
+    try { await getDict(o.lang); } catch (e) { $('#soErr').textContent = e.message; $('#soGo').disabled = false; return; }
+    const S = M.newGame(o.lang, o.n); S.hist = [];
+    S.turn = Math.random() * o.n | 0;   // qui comença, a l'atzar
+    startSolo(S, o.level);
+  };
+}
+async function startSolo(S, level) {
+  stopGame();
+  G.mode = 'solo'; G.me = 0; G.level = level;
+  G.dict = await getDict(S.lang); G.L = M.prepLang(S.lang);
+  G.names = [t('Tu')].concat(AI_NAMES).slice(0, S.n);
+  G.ai = G.names.map((_, p) => p !== 0);
+  G.S = S; G.rack = []; G.pend = []; G.sel = -1; G.zoom = false; G.statsDone = false; syncRack();
+  $('#start').classList.add('off');
+  saveSolo(); renderAll(); turnStatus();
+  loop();
+}
+async function resumeSolo() {
+  const sv = store.json('par_save', null); if (!sv) return startScreen();
+  try { await getDict(sv.S.lang); } catch (e) { return alert(e.message); }
+  startSolo(unpackS(sv.S), sv.level);
+}
+function saveSolo() { if (G.mode === 'solo' && G.S) store.set('par_save', JSON.stringify({ S: packS(G.S), level: G.level })); }
+function stopGame() { G.token++; G.busy = false; if (G.mode === 'online') leaveRoom(); G.S = null; G.mode = null; renderAll(); status(''); }
+
+// Bucle del solitari: juga la IA fins que et toca
+async function loop() {
+  const tok = G.token;
+  while (G.S && !G.S.over && G.S.turn !== G.me) {
+    G.busy = true; renderCtrl(); renderPlayers();
+    status(t('{0} pensa...', G.names[G.S.turn]));
+    await sleep(650 * +opt('vel'));
+    if (tok !== G.token) return;
+    const p = G.S.turn, before = G.S.scores[p];
+    aiMove(G.S, G.level);
+    afterMove(p, G.S.scores[p] - before);
+    saveSolo();
+    await sleep(1100 * +opt('vel'));
+    if (tok !== G.token) return;
+  }
+  G.busy = false;
+  if (!G.S) return;
+  if (G.S.over) return gameOver();
+  renderAll();
+  snd('turn');
+  if (!G.S.hist.length || G.S.hist[G.S.hist.length - 1].p === G.me) turnStatus();
+  else status(moveText(G.S.hist[G.S.hist.length - 1]) + ' · ' + t('Et toca!'));
+}
+function aiMove(S, level) {
+  const ch = M.aiChoose(S, G.dict, level);
+  if (ch.type === 'play') { const r = M.evalPlacement(S, G.dict, ch.move.tiles); doPlay(S, ch.move.tiles, r.words, ch.move.score); }
+  else if (ch.type === 'swap') doSwap(S, ch.letters);
+  else doPass(S);
+}
+
+function gameOver() {
+  const S = G.S; G.busy = false; renderAll();
+  const order = [...Array(S.n).keys()].sort((a, b) => S.scores[b] - S.scores[a]);
+  const top = S.scores[order[0]], winners = order.filter(p => S.scores[p] === top);
+  const iWin = winners.length === 1 && winners[0] === G.me;
+  const title = winners.length > 1 ? t('Empat') : iWin ? t('Has guanyat!') : t('Guanya {0}', G.names[winners[0]]);
+  snd(iWin ? 'win' : 'lose');
+  const rows = order.map(p => `<tr><td style="text-align:left">${esc(p === G.me && G.mode !== 'online' ? t('Tu') : G.names[p])}</td>
+    <td>${S.racks[p].map(c => c === BLANK ? '·' : M.letterText(G.L, c)).join(' ') || '–'}</td><td>${S.final ? (S.final[p] > 0 ? '+' : '') + S.final[p] : ''}</td><td><b>${S.scores[p]}</b></td></tr>`).join('');
+  if (G.mode === 'solo' && !G.statsDone) {
+    G.statsDone = true;
+    const s = store.json('par_stats', {});
+    s.played = (s.played || 0) + 1; if (iWin) s.won = (s.won || 0) + 1;
+    s.pts = (s.pts || 0) + S.scores[G.me]; s.best = Math.max(s.best || 0, S.scores[G.me]);
+    for (const h of S.hist) if (h.p === G.me && h.t === 'play' && (!s.bestMove || h.s > s.bestMove.s)) s.bestMove = { w: h.w[0], s: h.s };
+    store.set('par_stats', JSON.stringify(s));
+    store.del('par_save');
+  }
+  modal(`<h2>${t('Fi de la partida')}</h2><p class="big">${esc(title)}</p>
+    <table class="h"><tr><th></th><th>${t('Fitxes que queden')}</th><th></th><th>${t('Total')}</th></tr>${rows}</table>
+    <div class="row">${G.mode === 'online' ? `<button class="btn" onclick="closeModal();leaveRoom();onlineScreen()">${t('Sortir de la sala')}</button>`
+      : `<button class="btn" onclick="closeModal();stopGame();startScreen()">${t('Tornar al menú')}</button><button class="btn pri" onclick="closeModal();stopGame();soloScreen()">${t('Partida nova')}</button>`}
+    <button class="btn" onclick="closeModal()">${t('Tancar')}</button></div>`);
+}
+
+/* ---------- Online (Firebase Realtime Database), per torns sense pressa ----------
+   paraules/CODI = {state:'lobby'|'playing', host:uid, created, lang, n, level, players:{seient:{uid,name}}, game:{v, g:'estat JSON', ts}}
+   - Cada jugador tira quan pot. La jugada es desa amb una transacció sobre game (només si v no ha canviat).
+   - Els seients sense persona els juga la IA: ho fa qualsevol jugador que tingui la partida oberta (també amb transacció).
+   - localNet: pestanyes del mateix navegador, per provar sense Firebase (index.html?prova). */
+function loadScript(src) { return new Promise((res, rej) => { const s = document.createElement('script'); s.src = src; s.onload = res; s.onerror = () => rej(new Error('No s\'ha pogut carregar ' + src)); document.head.appendChild(s); }); }
+function fbNet(db) {
+  const r = p => db.ref(p);
+  return {
+    get: p => r(p).get().then(s => s.val()),
+    set: (p, v) => r(p).set(v),
+    update: (p, v) => r(p).update(v),
+    remove: p => r(p).remove(),
+    on: (p, cb) => { const f = s => cb(s.val()); r(p).on('value', f); return () => r(p).off('value', f); },
+    tx: (p, fn) => r(p).transaction(fn).then(x => x.committed)
+  };
+}
+function localNet() {
+  const K = 'par_localdb', ch = new BroadcastChannel('par_localdb');
+  const load = () => { try { return JSON.parse(localStorage.getItem(K)) || {}; } catch (e) { return {}; } };
+  const parts = p => p.split('/').filter(Boolean);
+  const getIn = (d, p) => parts(p).reduce((o, k) => o == null ? undefined : o[k], d);
+  const setIn = (d, p, v) => { const ks = parts(p); let o = d; ks.slice(0, -1).forEach(k => { if (typeof o[k] !== 'object' || o[k] === null) o[k] = {}; o = o[k]; }); const l = ks[ks.length - 1]; if (v === null || v === undefined) delete o[l]; else o[l] = v; };
+  const clone = v => v === undefined ? null : JSON.parse(JSON.stringify(v));
+  const L = new Set(), notify = () => L.forEach(l => l());
+  ch.onmessage = notify;
+  const write = f => { const d = load(); f(d); localStorage.setItem(K, JSON.stringify(d)); ch.postMessage(1); setTimeout(notify, 0); };
+  return {
+    get: async p => clone(getIn(load(), p)),
+    set: async (p, v) => write(d => setIn(d, p, clone(v))),
+    update: async (p, o) => write(d => Object.entries(o).forEach(([k, v]) => setIn(d, p + '/' + k, clone(v)))),
+    remove: async p => write(d => setIn(d, p, null)),
+    on: (p, cb) => { let last; const l = () => { const v = JSON.stringify(getIn(load(), p) ?? null); if (v !== last) { last = v; cb(JSON.parse(v)); } }; L.add(l); setTimeout(l, 0); return () => L.delete(l); },
+    tx: async (p, fn) => { let ok = false; write(d => { const v = fn(clone(getIn(d, p))); if (v !== undefined) { setIn(d, p, v); ok = true; } }); return ok; }
+  };
+}
+const TEST_MODE = /[?&]prova\b/.test(location.search);
+let NET = null, ONLINE = null;
+async function getNet() {
+  if (NET) return NET;
+  if (TEST_MODE) return NET = localNet();
+  const url = window.PARAULES_DB_URL || '';
+  if (!url) throw new Error(t('Falta configurar el servidor (adreça de Firebase).'));
+  if (!window.firebase) {
+    await loadScript('https://www.gstatic.com/firebasejs/10.12.2/firebase-app-compat.js');
+    await loadScript('https://www.gstatic.com/firebasejs/10.12.2/firebase-database-compat.js');
+  }
+  const app = firebase.apps.length ? firebase.app() : firebase.initializeApp({ databaseURL: url });
+  return NET = fbNet(app.database());
+}
+const UID = (() => { const S = TEST_MODE ? sessionStorage : localStorage; let u = null; try { u = S.getItem('par_uid'); } catch (e) {} if (!u) { u = Math.random().toString(36).slice(2, 12); try { S.setItem('par_uid', u); } catch (e) {} } return u; })();
+const ROOMS_KEY = TEST_MODE ? 'par_rooms_prova_' + UID : 'par_rooms';
+const myRooms = () => store.json(ROOMS_KEY, []);
+const addRoom = c => { const r = myRooms().filter(x => x !== c); r.unshift(c); store.set(ROOMS_KEY, JSON.stringify(r.slice(0, 20))); };
+const delRoomFromList = c => store.set(ROOMS_KEY, JSON.stringify(myRooms().filter(x => x !== c)));
+const normPL = v => { const a = [null, null, null, null]; if (v) Object.keys(v).forEach(k => { const x = v[k]; if (x && x.uid && +k >= 0 && +k < 4) a[+k] = x; }); return a; };
+function randCode() { const A = 'ABCDEFGHJKLMNPQRSTUVWXYZ23456789'; let s = ''; for (let i = 0; i < 4; i++) s += A[Math.random() * A.length | 0]; return s; }
+const myName = () => store.get('par_name', '');
+
+function onlineScreen(err = '') {
+  SCREEN = () => onlineScreen();
+  const st = $('#start'); st.classList.remove('off');
+  const o = newGameOpts('par_on_');
+  const rooms = myRooms();
+  st.innerHTML = `<img class="logo" src="img/logo.jpg" alt="" style="width:min(44vw,20vh,180px)">
+  <div class="box">
+    <h2>🌐 ${t('Partida online')}</h2>
+    <p class="mutd">${t('Cada jugador tira quan pot: la partida queda guardada a la sala.')}</p>
+    <div class="opt"><label>${t('El teu nom')}</label><input id="onName" maxlength="14" value="${esc(myName())}" autocomplete="off"></div>
+    ${rooms.length ? `<h3>${t('Les meves partides')}</h3><div class="rooms" id="onRooms">${rooms.map(c => `<div class="rm" data-c="${c}"><b>${c}</b><span class="inf">…</span><button class="btn pri" data-go="${c}">${t('Entrar')}</button><button class="btn" data-rm="${c}" title="${t('Treure de la llista')}">✕</button></div>`).join('')}</div>` : ''}
+    <h3>${t('Crear sala')}</h3>
+    <div class="opt"><label>${t('Diccionari')}</label>${segHtml('onLang', o.lang, DLANGS())}</div>
+    <div class="opt"><label>${t('Jugadors')}</label>${segHtml('onN', o.n, [[2, '2'], [3, '3'], [4, '4']])}</div>
+    <div class="opt"><label>${t('Nivell de la IA')}</label>${segHtml('onLv', o.level, LEVELS())}</div>
+    <div class="row" style="justify-content:center;margin-top:4px"><button class="btn pri" id="onCreate">${t('Crear sala')}</button></div>
+    <h3>${t('Entrar a una sala')}</h3>
+    <div class="opt"><label>${t('Codi de la sala')}</label><input id="onCode" maxlength="4" autocomplete="off" style="text-transform:uppercase;letter-spacing:4px;font-weight:700"></div>
+    <p class="err" id="onErr">${esc(err)}</p>
+    <div class="row"><button class="btn" id="onBack">${t('Tornar')}</button><button class="btn pri" id="onJoin">${t('Entrar')}</button></div>
+  </div>`;
+  bindSeg('onLang', v => store.set('par_on_lang', v));
+  bindSeg('onN', v => store.set('par_on_n', v));
+  bindSeg('onLv', v => store.set('par_on_level', v));
+  const nameOk = () => { const n = $('#onName').value.trim(); if (!n) { $('#onErr').textContent = t('Escriu el teu nom.'); return null; } store.set('par_name', n); return n; };
+  const busy = async f => {
+    $('#onErr').textContent = t('Connectant...');
+    st.querySelectorAll('button').forEach(b => b.disabled = true);
+    try { await f(); } catch (e) { onlineScreen(t("No s'ha pogut connectar: {0}", e && e.message || e)); }
+  };
+  $('#onBack').onclick = startScreen;
+  $('#onCreate').onclick = () => { const n = nameOk(); if (n) busy(() => createRoom(n, newGameOpts('par_on_'))); };
+  $('#onJoin').onclick = () => {
+    const n = nameOk(); if (!n) return;
+    const c = $('#onCode').value.trim().toUpperCase();
+    if (!/^[A-Z2-9]{4}$/.test(c)) { $('#onErr').textContent = t('Escriu el codi de 4 lletres.'); return; }
+    busy(() => joinRoom(n, c));
+  };
+  $$('#onRooms [data-go]').forEach(b => b.onclick = () => { const n = nameOk(); if (n) busy(() => joinRoom(n, b.dataset.go)); });
+  $$('#onRooms [data-rm]').forEach(b => b.onclick = () => { delRoomFromList(b.dataset.rm); onlineScreen(); });
+  // estat de cada partida meva
+  if (rooms.length) getNet().then(net => rooms.forEach(async c => {
+    const el = $(`#onRooms .rm[data-c="${c}"] .inf`); if (!el) return;
+    try {
+      const r = await net.get(`paraules/${c}`);
+      if (!r || !r.state) { el.textContent = t('no existeix'); return; }
+      const pl = normPL(r.players), names = pl.map((x, s) => x ? x.name : AI_NAMES[s - 1] || '?');
+      const lang = r.lang === 'es' ? 'ES' : 'CA';
+      if (r.state === 'lobby') { el.textContent = `${lang} · ${t("a la sala d'espera")}`; return; }
+      const g = r.game && JSON.parse(r.game.g), me = pl.findIndex(x => x && x.uid === UID);
+      if (!g) return;
+      if (g.over) el.textContent = `${lang} · ${t('acabada')} · ${g.scores.join('–')}`;
+      else if (g.turn === me) { el.textContent = `${lang} · ${t('et toca!')} · ${g.scores.join('–')}`; el.classList.add('go'); }
+      else el.textContent = `${lang} · ${t('torn de {0}', names[g.turn])} · ${g.scores.join('–')}`;
+    } catch (e) { el.textContent = '?'; }
+  })).catch(quiet);
+}
+async function createRoom(name, o) {
+  const net = await getNet();
+  let code;
+  for (let i = 0; i < 20; i++) { code = randCode(); if (!(await net.get(`paraules/${code}/state`))) break; }
+  await net.set(`paraules/${code}`, { state: 'lobby', host: UID, created: Date.now(), lang: o.lang, n: o.n, level: o.level, players: { 0: { uid: UID, name } } });
+  addRoom(code);
+  enterRoom(net, code);
+}
+async function joinRoom(name, code) {
+  const net = await getNet();
+  const room = await net.get(`paraules/${code}`);
+  if (!room || !room.state) { delRoomFromList(code); throw new Error(t('No existeix cap sala amb aquest codi.')); }
+  const pl = normPL(room.players);
+  let seat = pl.findIndex(x => x && x.uid === UID);
+  if (seat >= 0) await net.update(`paraules/${code}/players/${seat}`, { name });
+  else {
+    if (room.state !== 'lobby') throw new Error(t('La partida ja ha començat i no hi tens seient.'));
+    for (let s = 0; s < room.n; s++) { if (!pl[s] && await claimSeat(net, code, s, name)) { seat = s; break; } }
+    if (seat < 0) throw new Error(t('La sala és plena.'));
+  }
+  addRoom(code);
+  enterRoom(net, code);
+}
+function claimSeat(net, code, s, name) { return net.tx(`paraules/${code}/players/${s}`, cur => (cur && cur.uid && cur.uid !== UID) ? undefined : { uid: UID, name }); }
+
+function enterRoom(net, code) {
+  stopGame(); closeModal();
+  const o = ONLINE = { net, code, offs: [], room: null, host: false, v: -1, aiTimer: null };
+  o.offs.push(net.on(`paraules/${code}`, async r => {
+    if (ONLINE !== o) return;
+    if (!r || !r.state) {   // sala esborrada
+      leaveRoom(); delRoomFromList(code);
+      onlineScreen(); modal(`<h2>${t('Sala')} ${code}</h2><p>${t("La sala s'ha esborrat.")}</p><div class="row"><button class="btn pri" onclick="closeModal()">${t("D'acord")}</button></div>`);
+      return;
+    }
+    o.room = r; o.host = r.host === UID;
+    if (r.state === 'lobby') return renderLobby();
+    if (r.state === 'playing' && r.game) await onGame(r);
+  }));
+}
+function leaveRoom() {
+  const o = ONLINE; if (!o) return;
+  ONLINE = null; o.offs.forEach(f => f()); clearTimeout(o.aiTimer);
+  if (G.mode === 'online') { G.token++; G.S = null; G.mode = null; G.busy = false; renderAll(); status(''); }
+}
+async function deleteRoom() {
+  const o = ONLINE; if (!o) return;
+  closeModal(); const { net, code } = o;
+  leaveRoom(); delRoomFromList(code);
+  await net.remove(`paraules/${code}`).catch(quiet);
+  onlineScreen();
+}
+function renderLobby() {
+  const o = ONLINE, r = o.room, pl = normPL(r.players);
+  SCREEN = renderLobby;
+  const st = $('#start'); st.classList.remove('off');
+  const me = pl.findIndex(x => x && x.uid === UID);
+  const rows = [...Array(r.n).keys()].map(s => {
+    const p = pl[s];
+    const who = p ? esc(p.name) + (p.uid === r.host ? ` <span class="mutd">(${t('amfitrió')})</span>` : '') : `<span class="mutd">${t('lliure (IA)')}</span>`;
+    return `<tr><td>${s + 1}</td><td style="text-align:left">${who}</td><td>${!p && me >= 0 ? `<button class="btn" style="padding:4px 10px" data-seat="${s}">${t('Seure aquí')}</button>` : ''}</td></tr>`;
+  }).join('');
+  const humans = pl.filter(Boolean).length;
+  st.innerHTML = `<img class="logo" src="img/logo.jpg" alt="" style="width:min(40vw,18vh,160px)">
+  <div class="box"><h2>${t('Sala')}</h2><div class="codebig">${o.code}</div>
+    <p class="mutd" style="text-align:center">${t('Passa aquest codi als altres jugadors.')}<br>${r.lang === 'es' ? t('Castellà') : t('Català')} · ${t('Nivell de la IA')}: ${LEVELS()[r.level][1]}</p>
+    <table class="h"><tr><th>${t('Seient')}</th><th>${t('Jugador')}</th><th></th></tr>${rows}</table>
+    ${o.host ? '' : `<p class="mutd" style="text-align:center">${t("Esperant que l'amfitrió comenci...")}</p>`}
+    <div class="row"><button class="btn" id="lbLeave">${t('Sortir')}</button>${o.host ? `<button class="btn" id="lbDel">${t('Esborrar la sala')}</button><button class="btn pri" id="lbStart">${t('Començar ({0})', humans + '/' + r.n)}</button>` : ''}</div></div>`;
+  $$('[data-seat]').forEach(b => b.onclick = async () => {
+    const s = +b.dataset.seat;
+    if (await claimSeat(o.net, o.code, s, myName())) await o.net.remove(`paraules/${o.code}/players/${me}`);
+  });
+  $('#lbLeave').onclick = () => { leaveRoom(); onlineScreen(); };
+  if (o.host) {
+    $('#lbDel').onclick = () => { if (confirm(t("Segur? La partida s'esborrarà per a tothom."))) deleteRoom(); };
+    $('#lbStart').onclick = async () => {
+      $('#lbStart').disabled = true;
+      const S = M.newGame(r.lang, r.n); S.hist = [];
+      S.turn = Math.random() * r.n | 0;
+      await o.net.update(`paraules/${o.code}`, { state: 'playing', game: { v: 1, g: JSON.stringify(packS(S)), ts: Date.now() } });
+    };
+  }
+}
+async function onGame(r) {
+  const o = ONLINE, gm = r.game;
+  if (gm.v === o.v) return;
+  const prevV = o.v; o.v = gm.v;
+  const pl = normPL(r.players);
+  const me = pl.findIndex(x => x && x.uid === UID);
+  if (G.mode !== 'online') {
+    try { G.dict = await getDict(r.lang); } catch (e) { leaveRoom(); onlineScreen(e.message); return; }
+    if (ONLINE !== o) return;
+    G.mode = 'online'; G.L = M.prepLang(r.lang); G.rack = []; G.pend = []; G.sel = -1; G.zoom = false; G.statsDone = false;
+    $('#start').classList.add('off'); closeModal();
+  }
+  G.me = me; G.level = r.level;
+  G.names = [...Array(r.n).keys()].map(s => pl[s] ? pl[s].name : AI_NAMES[s - 1] || AI_NAMES[0]);
+  G.ai = G.names.map((_, s) => !pl[s]);
+  const S = unpackS(JSON.parse(gm.g));
+  const changed = prevV >= 0;
+  G.S = S;
+  if (S.turn !== me || changed) G.pend = G.pend.filter(() => S.turn === me && !changed);
+  G.busy = false;
+  if (changed && S.last && S.last.type === 'play') G.anim = new Set(S.last.tiles.map(x => x.i));
+  syncRack(); renderAll();
+  const h = S.hist[S.hist.length - 1];
+  if (S.over) { status(t('Fi de la partida')); return gameOver(); }
+  if (changed && h) { status(moveText(h) + (S.turn === me ? ' · ' + t('Et toca!') : '')); snd(S.turn === me ? 'turn' : (h.t === 'play' ? 'tile' : 'pass')); }
+  else turnStatus();
+  // torns de la IA: els fa qualsevol que tingui la partida oberta
+  clearTimeout(o.aiTimer);
+  if (G.ai[S.turn]) o.aiTimer = setTimeout(() => onlineAI(o, gm.v), 900 * +opt('vel') + Math.random() * 600);
+}
+async function onlineAI(o, v) {
+  if (ONLINE !== o || o.v !== v || !G.S || G.S.over || !G.ai[G.S.turn]) return;
+  status(t('{0} pensa...', G.names[G.S.turn]));
+  const S = unpackS(packS(G.S));
+  aiMove(S, G.level);
+  await o.net.tx(`paraules/${o.code}/game`, cur => (cur && cur.v === v) ? { v: v + 1, g: JSON.stringify(packS(S)), ts: Date.now() } : undefined).catch(quiet);
+}
+async function onlineCommit(fn) {
+  const o = ONLINE; if (!o || !G.S) return;
+  G.busy = true; renderCtrl();
+  const v = o.v, S = unpackS(packS(G.S));
+  S.racks[G.me] = G.rack.slice();   // mateixes fitxes, en el meu ordre
+  fn(S);
+  let ok = false;
+  try { ok = await o.net.tx(`paraules/${o.code}/game`, cur => (cur && cur.v === v) ? { v: v + 1, g: JSON.stringify(packS(S)), ts: Date.now() } : undefined); } catch (e) {}
+  if (!ok && ONLINE === o) { G.busy = false; renderAll(); status(t('Algú ha jugat abans que tu. Torna-ho a mirar.'), true); }
+}
+
+/* ---------- Inici ---------- */
+document.body.dataset.tapet = opt('tapet');
+setLang();
+startScreen();
+if ('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('sw.js').catch(quiet);
+</script>
+</body>
+</html>
