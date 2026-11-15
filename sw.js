@@ -1,7 +1,7 @@
 // Paraules · Xoriguer · funcionament sense connexió (el solitari funciona sense internet)
 // IMPORTANT: totes les apps Xoriguer comparteixen l'origen xorigu3r.github.io.
 // Aquest fitxer NOMÉS toca les memòries cau que comencen per "paraules-".
-const VERSION = "paraules-v1.2";
+const VERSION = "paraules-v1.2-icones";
 const APP = [ "marca/marca.css", "marca/Montserrat-ExtraBold.ttf",
   "./", "index.html", "motor.js", "firebase-config.js", "manifest.webmanifest",
   "img/logo.jpg", "img/icona.png", "img/icona-512.png", "img/apple-touch-icon.png", "img/deco.png", "img/fusta.jpg",
