@@ -823,6 +823,12 @@ function histHtml() {
     <div class="row"><button class="btn pri" onclick="closeModal()">${t('Tancar')}</button></div>`;
 }
 let optTab = 'Aspecte';
+// ---------- «Busca actualitzacions» a «Quant a»: només dins del programa de Windows (xoriguer-actualitza-preload.js)
+// o de l'app d'Android (connector XoriguerAvis). A la web no cal: s'actualitza sola.
+const XACT = { ca: 'Busca actualitzacions', es: 'Buscar actualizaciones', fr: 'Rechercher des mises à jour', en: 'Check for updates' };
+function xactPot() { const C = window.Capacitor; return !!(window.xoriguerEscriptori || (C && C.isNativePlatform && C.isNativePlatform() && C.Plugins && C.Plugins.XoriguerAvis)); }
+function xactBoto() { return xactPot() ? `<p style="text-align:center"><button class="btn" onclick="xactBusca()">🔄 ${XACT[LANG] || XACT.ca}</button></p>` : ''; }
+function xactBusca() { try { if (window.xoriguerEscriptori) window.xoriguerEscriptori.busca(); else window.Capacitor.Plugins.XoriguerAvis.comprova(); } catch (e) { /* res */ } }
 function optHtml() {
   const tabs = OPT_TABS.map(g => `<button class="${g === optTab ? 'on' : ''}" onclick="optTab='${g}';$('#mbox').innerHTML=optHtml()">${t(g)}</button>`).join('');
   let body = '';
@@ -830,7 +836,7 @@ function optHtml() {
     body = `<p class="big">Paraules · Xoriguer</p><p style="text-align:center" class="mutd">${t('Versió')} ${APP_VERSION} · ${APP_DATE}</p>
       <p class="mutd">Diccionari català: <a href="https://github.com/Softcatala/catalan-dict-tools" target="_blank" style="color:var(--gold)">Softcatalà</a> (GPL / LGPL).<br>
       Diccionario castellano: <a href="https://github.com/LibreOffice/dictionaries/tree/master/es" target="_blank" style="color:var(--gold)">RLA-ES · LibreOffice</a> (GPL / LGPL / MPL).<br>
-      Les llistes de paraules del joc s'han generat a partir d'aquests diccionaris.</p>`;
+      Les llistes de paraules del joc s'han generat a partir d'aquests diccionaris.</p>${xactBoto()}`;
   } else {
     body = OPTS.filter(o => o.g === optTab).map(o => {
       if (o.range) return `<div class="opt"><label>${t(o.l)}</label><input type="range" min="0" max="100" value="${opt(o.k)}" oninput="setOpt('${o.k}',this.value)" onchange="snd('tile')"></div>`;
